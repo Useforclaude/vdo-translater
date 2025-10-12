@@ -1,0 +1,196 @@
+# ========================================
+# Paperspace Video Transcription - Quick Commands
+# Copy-paste these directly in Paperspace terminal
+# ========================================
+
+# ========================================
+# STEP 1: One-time Setup (First time only)
+# ========================================
+
+# Navigate to project
+cd /notebooks/video-translater
+
+# Install gdown (if not installed)
+pip install gdown
+
+
+# ========================================
+# STEP 2: Download Videos (Fuzzy Matching!)
+# ========================================
+
+# Download ALL videos at once
+bash scripts/download_videos.sh
+
+# Or download specific videos (fuzzy matching works!)
+bash scripts/download_videos.sh ep01        # Downloads ep01.mp4
+bash scripts/download_videos.sh 01          # Same as above (fuzzy!)
+bash scripts/download_videos.sh part1       # Downloads ep-04-part-1.mp4
+bash scripts/download_videos.sh part2       # Downloads ep-04-part-2.mp4
+bash scripts/download_videos.sh ep05        # Downloads SS-1-5-ep05.mp4
+
+# List available videos to download
+bash scripts/download_videos.sh list
+
+
+# ========================================
+# STEP 3: Transcribe Videos (Auto tmux + Checkpoint!)
+# ========================================
+
+# Transcribe EP-01 (fuzzy matching works!)
+bash scripts/paperspace_transcribe.sh ep01
+bash scripts/paperspace_transcribe.sh 01        # Same as above
+
+# Transcribe EP-02
+bash scripts/paperspace_transcribe.sh ep02
+bash scripts/paperspace_transcribe.sh 02        # Same
+
+# Transcribe EP-03
+bash scripts/paperspace_transcribe.sh ep03
+
+# Transcribe EP-04 Part 1
+bash scripts/paperspace_transcribe.sh part1
+bash scripts/paperspace_transcribe.sh ep04-part1
+
+# Transcribe EP-04 Part 2
+bash scripts/paperspace_transcribe.sh part2
+
+# Transcribe EP-05
+bash scripts/paperspace_transcribe.sh ep05
+bash scripts/paperspace_transcribe.sh 05
+
+# → Session auto-creates and attaches
+# → To detach: Press Ctrl+B then D
+# → Transcription continues in background!
+
+
+# ========================================
+# STEP 4: Monitor Progress (Optional)
+# ========================================
+
+# Watch progress (auto-refresh)
+.venv/bin/python scripts/whisper_status.py --watch
+
+# Check once
+.venv/bin/python scripts/whisper_status.py
+
+
+# ========================================
+# tmux Session Management
+# ========================================
+
+# List all running sessions
+tmux ls
+
+# Attach to specific session
+tmux attach -t whisper-ep01
+tmux attach -t whisper-ep02
+
+# Detach from session (inside tmux)
+# Press: Ctrl+B then D
+
+# Kill session (if needed)
+tmux kill-session -t whisper-ep01
+
+
+# ========================================
+# File Locations
+# ========================================
+
+# Check downloaded videos
+ls -lh /storage/videos/
+
+# Check transcripts (output)
+ls -lh workflow/01_transcripts/
+
+# Check checkpoints
+ls -lh /storage/whisper_checkpoints/
+
+
+# ========================================
+# Quick Example: Download + Transcribe EP-01
+# ========================================
+
+cd /notebooks/video-translater
+bash scripts/download_videos.sh 01
+bash scripts/paperspace_transcribe.sh 01
+# → Detach: Ctrl+B then D
+# → Done! Close terminal, work continues
+
+
+# ========================================
+# Resume After Disconnect
+# ========================================
+
+# Reconnect to Paperspace
+ssh paperspace@xxx.xxx.xxx.xxx
+
+# Reattach to your session
+cd /notebooks/video-translater
+tmux ls                          # See running sessions
+tmux attach -t whisper-ep01      # Reattach
+
+
+# ========================================
+# Direct gdown Commands (Alternative)
+# ========================================
+
+# If you prefer direct gdown instead of script:
+
+# EP-01
+gdown 1G5IZEQhYAZLdVB6RIXjbofmWyG-BxDIL -O /storage/videos/ep01.mp4
+
+# EP-02
+gdown 1gQB_nh0WV5Ec_LgUQkKy1a3cRQfFf31D -O /storage/videos/ep02.mp4
+
+# EP-03
+gdown 1N59eoYoMuu2wC7_sM-gihHiSxILfDv3j -O /storage/videos/Ep03.mp4
+
+# EP-04 Part 1
+gdown 1Lx0Me6TshvxsK_Uck7RddawnEB4pKyjT -O /storage/videos/ep-04-part-1.mp4
+
+# EP-04 Part 2
+gdown 10Q4UgtQlDQw1QzJfdgD6KVQjqnxTXyHt -O /storage/videos/ep-04-part-2.mp4
+
+# EP-05
+gdown 1PZUMnOfpOqwUEE9b07H0blEyM-1HezGu -O /storage/videos/SS-1-5-ep05.mp4
+
+
+# ========================================
+# Direct Whisper Command (Alternative)
+# ========================================
+
+# If you prefer manual transcription (without script):
+cd /notebooks/video-translater
+
+# Start tmux manually
+tmux new -s whisper-ep01
+
+# Run transcription
+.venv/bin/python scripts/whisper_transcribe.py \
+  /storage/videos/ep01.mp4 \
+  --checkpoint-dir /storage/whisper_checkpoints \
+  --checkpoint-interval 10 \
+  --resume \
+  --device auto
+
+# Detach: Ctrl+B then D
+
+
+# ========================================
+# Cleanup Commands
+# ========================================
+
+# Delete downloaded video (free space)
+rm /storage/videos/ep01.mp4
+
+# Delete checkpoints (after completion)
+rm -rf /storage/whisper_checkpoints/ep01*
+
+# Check storage space
+df -h /storage
+du -sh /storage/videos/
+
+
+# ========================================
+# END OF COMMANDS
+# ========================================
