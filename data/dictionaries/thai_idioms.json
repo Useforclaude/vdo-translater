@@ -1,0 +1,1968 @@
+{
+  "metadata": {
+    "version": "2.0.1",
+    "description": "Comprehensive Thai idioms database for accurate context-aware translation",
+    "total_idioms": 108,
+    "categories": ["general", "forex", "teaching", "conversational"],
+    "last_updated": "2025-10-08"
+  },
+  "idioms": [
+    {
+      "id": 1,
+      "thai": "พูดแต่เนื้อๆ ไม่มีน้ำ",
+      "literal": "speak only meat no water",
+      "meaning": "get straight to the point without unnecessary fluff or distractions",
+      "english_equivalents": [
+        "get straight to the point",
+        "cut to the chase",
+        "no beating around the bush",
+        "pure content, no fluff"
+      ],
+      "category": "teaching",
+      "formality": "informal",
+      "usage_context": "introducing_main_content",
+      "detection_patterns": [
+        "พูดแต่เนื้อ",
+        "เนื้อๆ\\s*ไม่มีน้ำ",
+        "พูด.*เนื้อ.*น้ำ"
+      ],
+      "examples": [
+        {
+          "thai": "วันนี้เราจะพูดแต่เนื้อๆ ไม่มีน้ำนะครับ",
+          "english": "Today we'll get straight to the point, no fluff",
+          "context": "video introduction"
+        }
+      ],
+      "do_not_translate_as": [
+        "speak meat no water",
+        "only meat no liquid",
+        "talk meat without water"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 2,
+      "thai": "ไฟแดงกระพริบ",
+      "literal": "red light blinking",
+      "meaning": "warning signs appearing, danger signals flashing",
+      "english_equivalents": [
+        "warning signs are flashing",
+        "red flags appearing",
+        "danger signals"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "risk_warning",
+      "detection_patterns": [
+        "ไฟแดง.*กระพริบ",
+        "กระพริบ.*ไฟแดง"
+      ],
+      "examples": [
+        {
+          "thai": "ตอนนี้ไฟแดงกระพริบแล้วนะ ระวังตัว",
+          "english": "Warning signs are flashing now, be careful",
+          "context": "market warning"
+        }
+      ],
+      "priority": 1
+    },
+    {
+      "id": 3,
+      "thai": "เข้าเนื้อกันดีกว่า",
+      "literal": "get into the meat better",
+      "meaning": "let's dive into the details, get to the main content",
+      "english_equivalents": [
+        "let's dive into the details",
+        "let's get into it",
+        "let's dig deeper"
+      ],
+      "category": "teaching",
+      "formality": "informal",
+      "usage_context": "transition_to_content",
+      "detection_patterns": [
+        "เข้าเนื้อ.*ดีกว่า",
+        "เข้า.*เนื้อกัน"
+      ],
+      "examples": [
+        {
+          "thai": "พอแล้วสำหรับคำนำ เข้าเนื้อกันดีกว่า",
+          "english": "Enough introduction, let's dive into the details",
+          "context": "content transition"
+        }
+      ],
+      "priority": 1
+    },
+    {
+      "id": 4,
+      "thai": "ฝั่งไหนครองเกมอยู่",
+      "literal": "which side controls the game",
+      "meaning": "which side is dominating the market",
+      "english_equivalents": [
+        "which side is dominating",
+        "who's in control",
+        "which force is winning"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "market_analysis",
+      "detection_patterns": [
+        "ฝั่งไหน.*ครองเกม",
+        "ครองเกม",
+        "ครอง.*เกม"
+      ],
+      "examples": [
+        {
+          "thai": "ดูที่กราฟแล้วฝั่งไหนครองเกมอยู่",
+          "english": "Looking at the chart, which side is dominating",
+          "context": "technical analysis"
+        }
+      ],
+      "priority": 1
+    },
+    {
+      "id": 5,
+      "thai": "ลมพัดทางไหน",
+      "literal": "which way is the wind blowing",
+      "meaning": "which direction is the trend going",
+      "english_equivalents": [
+        "which way the wind is blowing",
+        "the trend direction",
+        "market sentiment"
+      ],
+      "category": "forex",
+      "formality": "metaphorical",
+      "usage_context": "trend_analysis",
+      "detection_patterns": [
+        "ลมพัด.*ทาง",
+        "ลม.*พัด"
+      ],
+      "examples": [
+        {
+          "thai": "ต้องดูก่อนว่าลมพัดทางไหน",
+          "english": "We need to see which way the wind is blowing first",
+          "context": "market direction"
+        }
+      ],
+      "priority": 1
+    },
+    {
+      "id": 6,
+      "thai": "กินไม่อิ่ม นอนไม่หลับ",
+      "literal": "eat not full, sleep not well",
+      "meaning": "constantly worried or anxious",
+      "english_equivalents": [
+        "losing sleep over it",
+        "can't rest easy",
+        "constantly worried"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "expressing_worry",
+      "detection_patterns": [
+        "กินไม่อิ่ม.*นอนไม่หลับ",
+        "นอนไม่หลับ.*กินไม่อิ่ม"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 7,
+      "thai": "หมาหอนกลางวัน",
+      "literal": "dog howling at noon",
+      "meaning": "something very unusual or abnormal happening",
+      "english_equivalents": [
+        "something's not right",
+        "abnormal situation",
+        "red flag"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "warning_unusual",
+      "detection_patterns": [
+        "หมาหอน.*กลางวัน"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 8,
+      "thai": "น้ำท่วมถึงหัว",
+      "literal": "water flooding up to head",
+      "meaning": "in deep trouble, overwhelmed",
+      "english_equivalents": [
+        "in over your head",
+        "overwhelmed",
+        "drowning in problems"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "expressing_difficulty",
+      "detection_patterns": [
+        "น้ำท่วม.*ถึงหัว",
+        "ท่วม.*หัว"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 9,
+      "thai": "ตกม้าตาย",
+      "literal": "fall off horse and die",
+      "meaning": "totally devastated, ruined",
+      "english_equivalents": [
+        "completely wiped out",
+        "devastated",
+        "game over"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "total_loss",
+      "detection_patterns": [
+        "ตกม้าตาย"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 10,
+      "thai": "ปลาหมอกินเยอะ",
+      "literal": "doctor fish eats a lot",
+      "meaning": "commission fees are eating up profits",
+      "english_equivalents": [
+        "fees eating into profits",
+        "high commission costs",
+        "transaction costs add up"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "cost_warning",
+      "detection_patterns": [
+        "ปลาหมอ.*กิน"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 11,
+      "thai": "เล่นไฟ",
+      "literal": "play with fire",
+      "meaning": "taking dangerous risks",
+      "english_equivalents": [
+        "playing with fire",
+        "taking huge risks",
+        "dangerous trading"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "risk_warning",
+      "detection_patterns": [
+        "เล่นไฟ"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 12,
+      "thai": "ปูกระดองทอง",
+      "literal": "golden shell crab",
+      "meaning": "high-value opportunity, golden chance",
+      "english_equivalents": [
+        "golden opportunity",
+        "prime setup",
+        "perfect entry"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "opportunity",
+      "detection_patterns": [
+        "ปูกระดองทอง"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 13,
+      "thai": "ยิงปืนน้ำ",
+      "literal": "shooting water gun",
+      "meaning": "taking small, safe positions",
+      "english_equivalents": [
+        "playing it safe",
+        "small positions",
+        "testing the waters"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "conservative_trading",
+      "detection_patterns": [
+        "ยิงปืนน้ำ"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 14,
+      "thai": "ยิงปืนใหญ่",
+      "literal": "shooting big gun",
+      "meaning": "taking large positions, going all in",
+      "english_equivalents": [
+        "going all in",
+        "big position",
+        "heavy trading"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "aggressive_trading",
+      "detection_patterns": [
+        "ยิงปืนใหญ่"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 15,
+      "thai": "มันจะ",
+      "literal": "it will",
+      "meaning": "it's going to (casual Thai speech pattern)",
+      "english_equivalents": [
+        "it will",
+        "it's going to",
+        "it'll"
+      ],
+      "category": "conversational",
+      "formality": "very_informal",
+      "usage_context": "casual_speech",
+      "detection_patterns": [
+        "^มันจะ",
+        "\\s+มันจะ"
+      ],
+      "note": "Common in casual Thai, remove or translate naturally",
+      "priority": 1
+    },
+    {
+      "id": 16,
+      "thai": "แบบว่า",
+      "literal": "like that",
+      "meaning": "filler word meaning 'I mean', 'like', or 'you know'",
+      "english_equivalents": [
+        "I mean",
+        "like",
+        "you know"
+      ],
+      "category": "conversational",
+      "formality": "very_informal",
+      "usage_context": "filler_word",
+      "detection_patterns": [
+        "แบบว่า"
+      ],
+      "note": "Often omitted in formal translation",
+      "priority": 1
+    },
+    {
+      "id": 17,
+      "thai": "อะไรว่ะ",
+      "literal": "what [vulgar particle]",
+      "meaning": "what the heck, what's going on",
+      "english_equivalents": [
+        "what's up",
+        "what's going on",
+        "what the heck"
+      ],
+      "category": "conversational",
+      "formality": "very_informal",
+      "usage_context": "surprise_confusion",
+      "detection_patterns": [
+        "อะไรว่ะ",
+        "อะไร.*ว่ะ"
+      ],
+      "note": "Casual/crude, tone down in translation",
+      "priority": 2
+    },
+    {
+      "id": 18,
+      "thai": "ไม่ฟิน",
+      "literal": "not fun",
+      "meaning": "not satisfying, doesn't feel right",
+      "english_equivalents": [
+        "doesn't feel right",
+        "not satisfying",
+        "something's off"
+      ],
+      "category": "conversational",
+      "formality": "informal",
+      "usage_context": "dissatisfaction",
+      "detection_patterns": [
+        "ไม่ฟิน"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 19,
+      "thai": "เท่ห์",
+      "literal": "stylish",
+      "meaning": "cool, awesome, impressive",
+      "english_equivalents": [
+        "cool",
+        "awesome",
+        "impressive",
+        "sleek"
+      ],
+      "category": "conversational",
+      "formality": "informal",
+      "usage_context": "praise",
+      "detection_patterns": [
+        "เท่ห์"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 20,
+      "thai": "โดน",
+      "literal": "got hit",
+      "meaning": "got caught, affected by something (often negative)",
+      "english_equivalents": [
+        "got hit",
+        "got caught",
+        "affected by"
+      ],
+      "category": "conversational",
+      "formality": "informal",
+      "usage_context": "negative_impact",
+      "detection_patterns": [
+        "โดน"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 21,
+      "thai": "กระทิงชนหมี",
+      "literal": "bull hits bear",
+      "meaning": "bulls versus bears battle",
+      "english_equivalents": [
+        "bulls vs bears",
+        "battle between buyers and sellers",
+        "market tug-of-war"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "market_battle",
+      "detection_patterns": [
+        "กระทิง.*ชน.*หมี",
+        "หมี.*ชน.*กระทิง"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 22,
+      "thai": "แรงซื้อแรงขาย",
+      "literal": "buying power selling power",
+      "meaning": "market forces, buying and selling pressure",
+      "english_equivalents": [
+        "market forces",
+        "buying and selling pressure",
+        "order flow"
+      ],
+      "category": "forex",
+      "formality": "technical",
+      "usage_context": "market_analysis",
+      "detection_patterns": [
+        "แรงซื้อ.*แรงขาย",
+        "แรงขาย.*แรงซื้อ"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 23,
+      "thai": "กองทัพซะมากกว่า",
+      "literal": "more like an army",
+      "meaning": "massive force, overwhelming power",
+      "english_equivalents": [
+        "more like an army",
+        "massive force",
+        "overwhelming power"
+      ],
+      "category": "forex",
+      "formality": "metaphorical",
+      "usage_context": "military_metaphor",
+      "detection_patterns": [
+        "กองทัพ.*มากกว่า"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 24,
+      "thai": "มีกำลังในการบุก",
+      "literal": "has strength to invade",
+      "meaning": "has momentum to push through resistance",
+      "english_equivalents": [
+        "has the strength to push through",
+        "enough momentum to break",
+        "power to advance"
+      ],
+      "category": "forex",
+      "formality": "metaphorical",
+      "usage_context": "breakout_analysis",
+      "detection_patterns": [
+        "มีกำลัง.*บุก",
+        "กำลัง.*ในการบุก"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 25,
+      "thai": "ยึดเมือง",
+      "literal": "capture city",
+      "meaning": "break through key level, take control of price level",
+      "english_equivalents": [
+        "break through the level",
+        "capture the zone",
+        "take control"
+      ],
+      "category": "forex",
+      "formality": "metaphorical",
+      "usage_context": "breakout",
+      "detection_patterns": [
+        "ยึดเมือง",
+        "ยึด.*เมือง"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 26,
+      "thai": "กำแพงเมือง",
+      "literal": "city wall",
+      "meaning": "major resistance level, strong barrier",
+      "english_equivalents": [
+        "major resistance",
+        "strong barrier",
+        "key level"
+      ],
+      "category": "forex",
+      "formality": "metaphorical",
+      "usage_context": "support_resistance",
+      "detection_patterns": [
+        "กำแพงเมือง",
+        "กำแพง.*เมือง"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 27,
+      "thai": "แรงเหวี่ยง",
+      "literal": "swing force",
+      "meaning": "momentum, inertia",
+      "english_equivalents": [
+        "momentum",
+        "inertia",
+        "swing force"
+      ],
+      "category": "forex",
+      "formality": "technical",
+      "usage_context": "momentum_analysis",
+      "detection_patterns": [
+        "แรงเหวี่ยง"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 28,
+      "thai": "เหวี่ยงลูกตุ้ม",
+      "literal": "swing pendulum",
+      "meaning": "like a swinging pendulum, oscillating movement",
+      "english_equivalents": [
+        "like a swinging pendulum",
+        "oscillating back and forth",
+        "pendulum motion"
+      ],
+      "category": "forex",
+      "formality": "metaphorical",
+      "usage_context": "price_oscillation",
+      "detection_patterns": [
+        "เหวี่ยง.*ลูกตุ้ม",
+        "ลูกตุ้ม"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 29,
+      "thai": "หมดกำลัง",
+      "literal": "out of power",
+      "meaning": "running out of steam, losing momentum",
+      "english_equivalents": [
+        "running out of steam",
+        "losing momentum",
+        "weakening"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "momentum_fading",
+      "detection_patterns": [
+        "หมดกำลัง",
+        "หมด.*กำลัง"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 30,
+      "thai": "เหยียบเบรค",
+      "literal": "step on brake",
+      "meaning": "hitting the brakes, slowing down",
+      "english_equivalents": [
+        "hitting the brakes",
+        "slowing down",
+        "losing steam"
+      ],
+      "category": "forex",
+      "formality": "metaphorical",
+      "usage_context": "slowdown",
+      "detection_patterns": [
+        "เหยียบเบรค",
+        "เหยียบ.*เบรค"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 31,
+      "thai": "ยูเทิร์นกลับ",
+      "literal": "U-turn back",
+      "meaning": "reversing direction, trend reversal",
+      "english_equivalents": [
+        "making a U-turn",
+        "reversing direction",
+        "trend reversal"
+      ],
+      "category": "forex",
+      "formality": "metaphorical",
+      "usage_context": "reversal",
+      "detection_patterns": [
+        "ยูเทิร์น",
+        "U-turn"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 32,
+      "thai": "เหนือเมฆ",
+      "literal": "above clouds",
+      "meaning": "extremely high, overbought",
+      "english_equivalents": [
+        "sky high",
+        "overbought",
+        "extremely elevated"
+      ],
+      "category": "forex",
+      "formality": "metaphorical",
+      "usage_context": "overbought",
+      "detection_patterns": [
+        "เหนือเมฆ"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 33,
+      "thai": "ใต้ดิน",
+      "literal": "underground",
+      "meaning": "extremely low, oversold",
+      "english_equivalents": [
+        "rock bottom",
+        "oversold",
+        "extremely depressed"
+      ],
+      "category": "forex",
+      "formality": "metaphorical",
+      "usage_context": "oversold",
+      "detection_patterns": [
+        "ใต้ดิน"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 34,
+      "thai": "พักตัว",
+      "literal": "rest body",
+      "meaning": "consolidating, taking a breather",
+      "english_equivalents": [
+        "consolidating",
+        "taking a breather",
+        "sideways movement"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "consolidation",
+      "detection_patterns": [
+        "พักตัว"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 35,
+      "thai": "สะสมแรง",
+      "literal": "accumulate force",
+      "meaning": "building momentum, coiling up",
+      "english_equivalents": [
+        "building momentum",
+        "coiling up",
+        "gathering strength"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "consolidation_before_move",
+      "detection_patterns": [
+        "สะสมแรง",
+        "สะสม.*แรง"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 36,
+      "thai": "ทะลุไปได้",
+      "literal": "can break through",
+      "meaning": "breakout successful",
+      "english_equivalents": [
+        "breaks through",
+        "successful breakout",
+        "pushes past"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "breakout",
+      "detection_patterns": [
+        "ทะลุ.*ไป.*ได้",
+        "ทะลุไปได้"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 37,
+      "thai": "หลุดลงมา",
+      "literal": "fall down",
+      "meaning": "breakdown below support",
+      "english_equivalents": [
+        "breaks down",
+        "falls below",
+        "breakdown"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "breakdown",
+      "detection_patterns": [
+        "หลุด.*ลงมา",
+        "หลุดลงมา"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 38,
+      "thai": "แรงขายเริ่มน้อยลง",
+      "literal": "selling force starting less",
+      "meaning": "selling pressure is weakening",
+      "english_equivalents": [
+        "selling pressure weakening",
+        "sellers losing steam",
+        "less selling"
+      ],
+      "category": "forex",
+      "formality": "technical",
+      "usage_context": "momentum_shift",
+      "detection_patterns": [
+        "แรงขาย.*น้อย",
+        "แรงขาย.*ลด"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 39,
+      "thai": "เริ่มมีการสู้คืน",
+      "literal": "starting to fight back",
+      "meaning": "buyers starting to push back",
+      "english_equivalents": [
+        "starting to fight back",
+        "buyers stepping in",
+        "reversal signs"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "reversal_signal",
+      "detection_patterns": [
+        "เริ่มมี.*สู้คืน",
+        "สู้คืน"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 40,
+      "thai": "แท่งมันค่อยๆ เล็กลงๆ",
+      "literal": "candles gradually getting smaller",
+      "meaning": "candles are shrinking, momentum fading",
+      "english_equivalents": [
+        "candles are shrinking",
+        "bars getting smaller",
+        "momentum fading"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "momentum_analysis",
+      "detection_patterns": [
+        "แท่ง.*เล็ก",
+        "แท่ง.*ลด"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 41,
+      "thai": "ไปไม่รอด",
+      "literal": "can't go survive",
+      "meaning": "won't make it through, will fail",
+      "english_equivalents": [
+        "won't make it",
+        "will fail",
+        "can't push through"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "prediction_failure",
+      "detection_patterns": [
+        "ไป.*ไม่รอด",
+        "ไปไม่รอด"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 42,
+      "thai": "เล่นเอง",
+      "literal": "play alone",
+      "meaning": "solo trading, individual decision",
+      "english_equivalents": [
+        "trading solo",
+        "on your own",
+        "individual decision"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "independent_trading",
+      "detection_patterns": [
+        "เล่นเอง"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 43,
+      "thai": "เดินเกม",
+      "literal": "walk the game",
+      "meaning": "execute the plan, manage the trade",
+      "english_equivalents": [
+        "execute the plan",
+        "manage the trade",
+        "play it out"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "trade_management",
+      "detection_patterns": [
+        "เดินเกม"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 44,
+      "thai": "ออกจากเกม",
+      "literal": "exit the game",
+      "meaning": "close the position, exit the trade",
+      "english_equivalents": [
+        "exit the trade",
+        "close the position",
+        "get out"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "closing_position",
+      "detection_patterns": [
+        "ออก.*เกม",
+        "ออกจากเกม"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 45,
+      "thai": "เข้าเกม",
+      "literal": "enter game",
+      "meaning": "enter the trade, open position",
+      "english_equivalents": [
+        "enter the trade",
+        "open position",
+        "get in"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "opening_position",
+      "detection_patterns": [
+        "เข้าเกม"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 46,
+      "thai": "ตามกระแส",
+      "literal": "follow current",
+      "meaning": "go with the trend, trend following",
+      "english_equivalents": [
+        "follow the trend",
+        "go with the flow",
+        "trend following"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "trend_following",
+      "detection_patterns": [
+        "ตามกระแส"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 47,
+      "thai": "สวนกระแส",
+      "literal": "against current",
+      "meaning": "counter-trend, going against the trend",
+      "english_equivalents": [
+        "counter-trend",
+        "against the flow",
+        "fading the trend"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "counter_trend",
+      "detection_patterns": [
+        "สวนกระแส"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 48,
+      "thai": "จับหลักจับเหตุไม่ได้",
+      "literal": "can't catch principle or reason",
+      "meaning": "unpredictable, no clear pattern",
+      "english_equivalents": [
+        "unpredictable",
+        "no clear pattern",
+        "can't figure it out"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "confusion",
+      "detection_patterns": [
+        "จับหลัก.*ไม่ได้",
+        "จับหลักจับเหตุไม่ได้"
+      ],
+      "priority": 2
+    },
+    {
+      "id": 49,
+      "thai": "ไปทางไหนก็ได้",
+      "literal": "go any direction can",
+      "meaning": "could go either way, direction unclear",
+      "english_equivalents": [
+        "could go either way",
+        "direction unclear",
+        "no clear bias"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "neutral_outlook",
+      "detection_patterns": [
+        "ไปทางไหน.*ได้"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 50,
+      "thai": "รอดูกันต่อ",
+      "literal": "wait see continue",
+      "meaning": "let's wait and see, stay on sidelines",
+      "english_equivalents": [
+        "let's wait and see",
+        "stay on the sidelines",
+        "watch and wait"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "wait_and_see",
+      "detection_patterns": [
+        "รอดู.*ต่อ",
+        "รอดูกันต่อ"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 51,
+      "thai": "เทรดตามหลักการ",
+      "literal": "trade by principle",
+      "meaning": "systematic trading, rule-based trading",
+      "english_equivalents": [
+        "systematic trading",
+        "trading by the rules",
+        "disciplined approach"
+      ],
+      "category": "forex",
+      "formality": "formal",
+      "usage_context": "trading_discipline",
+      "detection_patterns": ["เทรดตามหลักการ", "ตามหลักการ"],
+      "priority": 1
+    },
+    {
+      "id": 52,
+      "thai": "ไม่มีอะไรแน่นอน",
+      "literal": "nothing certain",
+      "meaning": "nothing is guaranteed in trading",
+      "english_equivalents": [
+        "nothing is certain",
+        "no guarantees",
+        "anything can happen"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "risk_disclaimer",
+      "detection_patterns": ["ไม่มีอะไรแน่นอน"],
+      "priority": 1
+    },
+    {
+      "id": 53,
+      "thai": "วางแผนการเทรด",
+      "literal": "plan the trade",
+      "meaning": "trading plan, strategy planning",
+      "english_equivalents": [
+        "trading plan",
+        "plan your trade",
+        "strategy planning"
+      ],
+      "category": "forex",
+      "formality": "formal",
+      "usage_context": "planning",
+      "detection_patterns": ["วางแผน.*เทรด"],
+      "priority": 1
+    },
+    {
+      "id": 54,
+      "thai": "จุดเข้าจุดออก",
+      "literal": "entry point exit point",
+      "meaning": "entry and exit points",
+      "english_equivalents": [
+        "entry and exit points",
+        "where to enter and exit",
+        "trade levels"
+      ],
+      "category": "forex",
+      "formality": "technical",
+      "usage_context": "trade_planning",
+      "detection_patterns": ["จุดเข้า.*จุดออก"],
+      "priority": 1
+    },
+    {
+      "id": 55,
+      "thai": "ตั้งเป้า",
+      "literal": "set target",
+      "meaning": "set profit target, define goals",
+      "english_equivalents": [
+        "set target",
+        "define profit goal",
+        "target price"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "target_setting",
+      "detection_patterns": ["ตั้งเป้า"],
+      "priority": 1
+    },
+    {
+      "id": 56,
+      "thai": "รักษาวินัย",
+      "literal": "maintain discipline",
+      "meaning": "stay disciplined, follow the rules",
+      "english_equivalents": [
+        "stay disciplined",
+        "maintain discipline",
+        "stick to the plan"
+      ],
+      "category": "forex",
+      "formality": "formal",
+      "usage_context": "trading_psychology",
+      "detection_patterns": ["รักษาวินัย"],
+      "priority": 1
+    },
+    {
+      "id": 57,
+      "thai": "อารมณ์เข้ามาแทรก",
+      "literal": "emotion comes interfere",
+      "meaning": "emotions getting in the way",
+      "english_equivalents": [
+        "emotions taking over",
+        "letting emotions interfere",
+        "emotional trading"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "psychology_warning",
+      "detection_patterns": ["อารมณ์.*แทรก"],
+      "priority": 1
+    },
+    {
+      "id": 58,
+      "thai": "ตามกติกา",
+      "literal": "follow rules",
+      "meaning": "following the rules, by the book",
+      "english_equivalents": [
+        "by the book",
+        "following the rules",
+        "rule-based"
+      ],
+      "category": "general",
+      "formality": "formal",
+      "usage_context": "compliance",
+      "detection_patterns": ["ตามกติกา"],
+      "priority": 2
+    },
+    {
+      "id": 59,
+      "thai": "ยึดแผน",
+      "literal": "hold plan",
+      "meaning": "stick to the plan",
+      "english_equivalents": [
+        "stick to the plan",
+        "follow the strategy",
+        "stay committed"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "discipline",
+      "detection_patterns": ["ยึดแผน"],
+      "priority": 1
+    },
+    {
+      "id": 60,
+      "thai": "กลับตัว",
+      "literal": "turn body",
+      "meaning": "reversal, change direction",
+      "english_equivalents": [
+        "reversal",
+        "turnaround",
+        "change direction"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "reversal",
+      "detection_patterns": ["กลับตัว"],
+      "priority": 1
+    },
+    {
+      "id": 61,
+      "thai": "เปลี่ยนทิศ",
+      "literal": "change direction",
+      "meaning": "trend change, direction shift",
+      "english_equivalents": [
+        "direction change",
+        "trend shift",
+        "pivot"
+      ],
+      "category": "forex",
+      "formality": "technical",
+      "usage_context": "trend_change",
+      "detection_patterns": ["เปลี่ยนทิศ"],
+      "priority": 1
+    },
+    {
+      "id": 62,
+      "thai": "โมเมนตัมอ่อนตัว",
+      "literal": "momentum weaken",
+      "meaning": "losing momentum, weakening trend",
+      "english_equivalents": [
+        "losing momentum",
+        "momentum weakening",
+        "trend fading"
+      ],
+      "category": "forex",
+      "formality": "technical",
+      "usage_context": "momentum_analysis",
+      "detection_patterns": ["โมเมนตัม.*อ่อน"],
+      "priority": 1
+    },
+    {
+      "id": 63,
+      "thai": "โมเมนตัมแรง",
+      "literal": "momentum strong",
+      "meaning": "strong momentum, powerful trend",
+      "english_equivalents": [
+        "strong momentum",
+        "powerful trend",
+        "high momentum"
+      ],
+      "category": "forex",
+      "formality": "technical",
+      "usage_context": "strong_trend",
+      "detection_patterns": ["โมเมนตัม.*แรง"],
+      "priority": 1
+    },
+    {
+      "id": 64,
+      "thai": "ขึ้นไม่ไหว",
+      "literal": "can't rise",
+      "meaning": "unable to rally, resistance too strong",
+      "english_equivalents": [
+        "can't rally",
+        "resistance too strong",
+        "hitting a ceiling"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "resistance",
+      "detection_patterns": ["ขึ้น.*ไม่ไหว"],
+      "priority": 1
+    },
+    {
+      "id": 65,
+      "thai": "ลงไม่ไหว",
+      "literal": "can't fall",
+      "meaning": "can't decline, strong support",
+      "english_equivalents": [
+        "can't decline",
+        "strong support",
+        "finding a floor"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "support",
+      "detection_patterns": ["ลง.*ไม่ไหว"],
+      "priority": 1
+    },
+    {
+      "id": 66,
+      "thai": "แกว่งตัว",
+      "literal": "swing body",
+      "meaning": "oscillating, ranging, sideways",
+      "english_equivalents": [
+        "oscillating",
+        "ranging",
+        "sideways movement"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "ranging_market",
+      "detection_patterns": ["แกว่งตัว"],
+      "priority": 1
+    },
+    {
+      "id": 67,
+      "thai": "ไซด์เวย์",
+      "literal": "sideways",
+      "meaning": "sideways trend, consolidation",
+      "english_equivalents": [
+        "sideways",
+        "consolidation",
+        "ranging"
+      ],
+      "category": "forex",
+      "formality": "technical",
+      "usage_context": "consolidation",
+      "detection_patterns": ["ไซด์เวย์", "ไซด์.*เวย์"],
+      "priority": 1
+    },
+    {
+      "id": 68,
+      "thai": "ไปต่อได้",
+      "literal": "can continue go",
+      "meaning": "can continue the move, trend continuation",
+      "english_equivalents": [
+        "can continue",
+        "continuation likely",
+        "trend intact"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "continuation",
+      "detection_patterns": ["ไป.*ต่อ.*ได้"],
+      "priority": 1
+    },
+    {
+      "id": 69,
+      "thai": "ชะงักตัว",
+      "literal": "stutter body",
+      "meaning": "stalling, hesitating",
+      "english_equivalents": [
+        "stalling",
+        "hesitating",
+        "losing steam"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "hesitation",
+      "detection_patterns": ["ชะงักตัว"],
+      "priority": 2
+    },
+    {
+      "id": 70,
+      "thai": "ปรับฐาน",
+      "literal": "adjust base",
+      "meaning": "consolidation, building base",
+      "english_equivalents": [
+        "consolidating",
+        "building a base",
+        "retracement"
+      ],
+      "category": "forex",
+      "formality": "technical",
+      "usage_context": "consolidation",
+      "detection_patterns": ["ปรับฐาน"],
+      "priority": 1
+    },
+    {
+      "id": 71,
+      "thai": "ก้าวกระโดด",
+      "literal": "leap step",
+      "meaning": "big jump, major move",
+      "english_equivalents": [
+        "big jump",
+        "major move",
+        "significant advance"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "big_move",
+      "detection_patterns": ["ก้าวกระโดด"],
+      "priority": 2
+    },
+    {
+      "id": 72,
+      "thai": "เดินหน้า",
+      "literal": "walk forward",
+      "meaning": "moving forward, advancing",
+      "english_equivalents": [
+        "moving forward",
+        "advancing",
+        "progressing"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "progress",
+      "detection_patterns": ["เดินหน้า"],
+      "priority": 2
+    },
+    {
+      "id": 73,
+      "thai": "ถอยหลัง",
+      "literal": "retreat back",
+      "meaning": "pulling back, retracing",
+      "english_equivalents": [
+        "pulling back",
+        "retracing",
+        "retreating"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "retracement",
+      "detection_patterns": ["ถอยหลัง"],
+      "priority": 1
+    },
+    {
+      "id": 74,
+      "thai": "ผงาดขึ้น",
+      "literal": "rise up suddenly",
+      "meaning": "surge up, sharp rally",
+      "english_equivalents": [
+        "surge up",
+        "sharp rally",
+        "spike higher"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "sharp_move_up",
+      "detection_patterns": ["ผงาดขึ้น"],
+      "priority": 1
+    },
+    {
+      "id": 75,
+      "thai": "ดิ่งลง",
+      "literal": "dive down",
+      "meaning": "plunge, sharp decline",
+      "english_equivalents": [
+        "plunge",
+        "sharp decline",
+        "nosedive"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "sharp_move_down",
+      "detection_patterns": ["ดิ่งลง"],
+      "priority": 1
+    },
+    {
+      "id": 76,
+      "thai": "พุ่งทะยาน",
+      "literal": "soar upward",
+      "meaning": "skyrocket, surge higher",
+      "english_equivalents": [
+        "skyrocket",
+        "surge higher",
+        "soar"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "big_move_up",
+      "detection_patterns": ["พุ่งทะยาน"],
+      "priority": 1
+    },
+    {
+      "id": 77,
+      "thai": "ร่วงหนัก",
+      "literal": "fall heavily",
+      "meaning": "plunge, heavy selling",
+      "english_equivalents": [
+        "plunge",
+        "heavy decline",
+        "crash"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "big_move_down",
+      "detection_patterns": ["ร่วงหนัก"],
+      "priority": 1
+    },
+    {
+      "id": 78,
+      "thai": "กดดัน",
+      "literal": "press down",
+      "meaning": "pressure, under pressure",
+      "english_equivalents": [
+        "under pressure",
+        "pressured",
+        "facing resistance"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "pressure",
+      "detection_patterns": ["กดดัน"],
+      "priority": 2
+    },
+    {
+      "id": 79,
+      "thai": "ค้างคา",
+      "literal": "stuck throat",
+      "meaning": "stuck, unable to move",
+      "english_equivalents": [
+        "stuck",
+        "stalled",
+        "unable to move"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "stagnation",
+      "detection_patterns": ["ค้างคา"],
+      "priority": 2
+    },
+    {
+      "id": 80,
+      "thai": "เบรก",
+      "literal": "brake",
+      "meaning": "stopping, slowing down",
+      "english_equivalents": [
+        "braking",
+        "slowing down",
+        "pausing"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "slowdown",
+      "detection_patterns": ["เบรก"],
+      "priority": 2
+    },
+    {
+      "id": 81,
+      "thai": "คันเร่ง",
+      "literal": "accelerator",
+      "meaning": "accelerating, speeding up",
+      "english_equivalents": [
+        "accelerating",
+        "speeding up",
+        "gaining momentum"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "acceleration",
+      "detection_patterns": ["คันเร่ง"],
+      "priority": 2
+    },
+    {
+      "id": 82,
+      "thai": "เดือดร้อน",
+      "literal": "boil distressed",
+      "meaning": "in trouble, distressed",
+      "english_equivalents": [
+        "in trouble",
+        "distressed",
+        "struggling"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "difficulty",
+      "detection_patterns": ["เดือดร้อน"],
+      "priority": 2
+    },
+    {
+      "id": 83,
+      "thai": "ล้มละลาย",
+      "literal": "fall collapse",
+      "meaning": "bankrupt, wiped out",
+      "english_equivalents": [
+        "bankrupt",
+        "wiped out",
+        "blown account"
+      ],
+      "category": "forex",
+      "formality": "formal",
+      "usage_context": "account_loss",
+      "detection_patterns": ["ล้มละลาย"],
+      "priority": 1
+    },
+    {
+      "id": 84,
+      "thai": "บวมพอง",
+      "literal": "swell bloated",
+      "meaning": "inflated, overvalued",
+      "english_equivalents": [
+        "inflated",
+        "overvalued",
+        "bubble"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "overvaluation",
+      "detection_patterns": ["บวมพอง"],
+      "priority": 2
+    },
+    {
+      "id": 85,
+      "thai": "แข็งแกร่ง",
+      "literal": "strong solid",
+      "meaning": "strong, robust",
+      "english_equivalents": [
+        "strong",
+        "robust",
+        "solid"
+      ],
+      "category": "general",
+      "formality": "formal",
+      "usage_context": "strength",
+      "detection_patterns": ["แข็งแกร่ง"],
+      "priority": 1
+    },
+    {
+      "id": 86,
+      "thai": "อ่อนแอ",
+      "literal": "weak soft",
+      "meaning": "weak, fragile",
+      "english_equivalents": [
+        "weak",
+        "fragile",
+        "soft"
+      ],
+      "category": "general",
+      "formality": "formal",
+      "usage_context": "weakness",
+      "detection_patterns": ["อ่อนแอ"],
+      "priority": 1
+    },
+    {
+      "id": 87,
+      "thai": "แกว่ง",
+      "literal": "swing",
+      "meaning": "oscillate, swing",
+      "english_equivalents": [
+        "swing",
+        "oscillate",
+        "fluctuate"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "price_action",
+      "detection_patterns": ["แกว่ง"],
+      "priority": 1
+    },
+    {
+      "id": 88,
+      "thai": "ผันผวน",
+      "literal": "fluctuate vary",
+      "meaning": "volatile, fluctuating",
+      "english_equivalents": [
+        "volatile",
+        "fluctuating",
+        "choppy"
+      ],
+      "category": "forex",
+      "formality": "formal",
+      "usage_context": "volatility",
+      "detection_patterns": ["ผันผวน"],
+      "priority": 1
+    },
+    {
+      "id": 89,
+      "thai": "เงียบเหงา",
+      "literal": "quiet lonely",
+      "meaning": "quiet market, low volume",
+      "english_equivalents": [
+        "quiet market",
+        "low volume",
+        "thin trading"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "low_volume",
+      "detection_patterns": ["เงียบเหงา"],
+      "priority": 2
+    },
+    {
+      "id": 90,
+      "thai": "คึกคัก",
+      "literal": "bustling lively",
+      "meaning": "active market, high volume",
+      "english_equivalents": [
+        "active market",
+        "high volume",
+        "bustling"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "high_volume",
+      "detection_patterns": ["คึกคัก"],
+      "priority": 2
+    },
+    {
+      "id": 91,
+      "thai": "ระวังตัว",
+      "literal": "be careful body",
+      "meaning": "be careful, watch out",
+      "english_equivalents": [
+        "be careful",
+        "watch out",
+        "stay alert"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "warning",
+      "detection_patterns": ["ระวังตัว"],
+      "priority": 1
+    },
+    {
+      "id": 92,
+      "thai": "ลองดู",
+      "literal": "try see",
+      "meaning": "let's see, give it a try",
+      "english_equivalents": [
+        "let's see",
+        "give it a try",
+        "test it out"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "testing",
+      "detection_patterns": ["ลองดู"],
+      "priority": 2
+    },
+    {
+      "id": 93,
+      "thai": "เริ่มต้น",
+      "literal": "start begin",
+      "meaning": "getting started, beginning",
+      "english_equivalents": [
+        "getting started",
+        "beginning",
+        "starting out"
+      ],
+      "category": "general",
+      "formality": "formal",
+      "usage_context": "introduction",
+      "detection_patterns": ["เริ่มต้น"],
+      "priority": 2
+    },
+    {
+      "id": 94,
+      "thai": "สรุป",
+      "literal": "summarize",
+      "meaning": "in summary, to wrap up",
+      "english_equivalents": [
+        "in summary",
+        "to wrap up",
+        "bottom line"
+      ],
+      "category": "general",
+      "formality": "formal",
+      "usage_context": "conclusion",
+      "detection_patterns": ["สรุป"],
+      "priority": 2
+    },
+    {
+      "id": 95,
+      "thai": "ยกตัวอย่าง",
+      "literal": "raise example",
+      "meaning": "for example, for instance",
+      "english_equivalents": [
+        "for example",
+        "for instance",
+        "case in point"
+      ],
+      "category": "general",
+      "formality": "formal",
+      "usage_context": "examples",
+      "detection_patterns": ["ยกตัวอย่าง"],
+      "priority": 2
+    },
+    {
+      "id": 96,
+      "thai": "อธิบาย",
+      "literal": "explain",
+      "meaning": "let me explain, explanation",
+      "english_equivalents": [
+        "let me explain",
+        "to clarify",
+        "explanation"
+      ],
+      "category": "general",
+      "formality": "formal",
+      "usage_context": "teaching",
+      "detection_patterns": ["อธิบาย"],
+      "priority": 2
+    },
+    {
+      "id": 97,
+      "thai": "ง่ายๆ",
+      "literal": "easy easy",
+      "meaning": "simple, easy, straightforward",
+      "english_equivalents": [
+        "simple",
+        "straightforward",
+        "easy"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "simplification",
+      "detection_patterns": ["ง่ายๆ"],
+      "priority": 2
+    },
+    {
+      "id": 98,
+      "thai": "ซับซ้อน",
+      "literal": "complex complicated",
+      "meaning": "complex, complicated",
+      "english_equivalents": [
+        "complex",
+        "complicated",
+        "sophisticated"
+      ],
+      "category": "general",
+      "formality": "formal",
+      "usage_context": "complexity",
+      "detection_patterns": ["ซับซ้อน"],
+      "priority": 2
+    },
+    {
+      "id": 99,
+      "thai": "เข้าใจง่าย",
+      "literal": "understand easy",
+      "meaning": "easy to understand, straightforward",
+      "english_equivalents": [
+        "easy to understand",
+        "straightforward",
+        "clear"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "clarity",
+      "detection_patterns": ["เข้าใจง่าย"],
+      "priority": 2
+    },
+    {
+      "id": 100,
+      "thai": "เข้าใจยาก",
+      "literal": "understand difficult",
+      "meaning": "hard to understand, confusing",
+      "english_equivalents": [
+        "hard to understand",
+        "confusing",
+        "complex"
+      ],
+      "category": "general",
+      "formality": "informal",
+      "usage_context": "difficulty",
+      "detection_patterns": ["เข้าใจยาก"],
+      "priority": 2
+    },
+    {
+      "id": 101,
+      "thai": "ปังมาก",
+      "literal": "bang very",
+      "meaning": "awesome, amazing, impressive",
+      "english_equivalents": [
+        "awesome",
+        "amazing",
+        "impressive"
+      ],
+      "category": "conversational",
+      "formality": "very_informal",
+      "usage_context": "excitement",
+      "detection_patterns": ["ปัง.*มาก", "ปังมาก"],
+      "priority": 2
+    },
+    {
+      "id": 102,
+      "thai": "โคตร",
+      "literal": "extremely",
+      "meaning": "extremely, super, very",
+      "english_equivalents": [
+        "extremely",
+        "super",
+        "very"
+      ],
+      "category": "conversational",
+      "formality": "very_informal",
+      "usage_context": "intensifier",
+      "detection_patterns": ["โคตร"],
+      "priority": 2
+    },
+    {
+      "id": 103,
+      "thai": "เจ๋ง",
+      "literal": "cool",
+      "meaning": "cool, great, nice",
+      "english_equivalents": [
+        "cool",
+        "great",
+        "nice"
+      ],
+      "category": "conversational",
+      "formality": "informal",
+      "usage_context": "praise",
+      "detection_patterns": ["เจ๋ง"],
+      "priority": 2
+    },
+    {
+      "id": 104,
+      "thai": "ห่วย",
+      "literal": "terrible",
+      "meaning": "bad, terrible, poor",
+      "english_equivalents": [
+        "bad",
+        "terrible",
+        "poor"
+      ],
+      "category": "conversational",
+      "formality": "informal",
+      "usage_context": "criticism",
+      "detection_patterns": ["ห่วย"],
+      "priority": 2
+    },
+    {
+      "id": 105,
+      "thai": "ของจริง",
+      "literal": "real thing",
+      "meaning": "the real deal, authentic, genuine",
+      "english_equivalents": [
+        "the real deal",
+        "authentic",
+        "genuine setup"
+      ],
+      "category": "conversational",
+      "formality": "informal",
+      "usage_context": "authenticity",
+      "detection_patterns": ["ของจริง"],
+      "priority": 1
+    },
+    {
+      "id": 106,
+      "thai": "สูสี",
+      "literal": "compete color",
+      "meaning": "evenly matched in strength/power, similar force, closely contested",
+      "english_equivalents": [
+        "evenly matched",
+        "neck and neck",
+        "closely contested",
+        "similar strength"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "trading_battle_bulls_bears",
+      "detection_patterns": ["สูสี"],
+      "examples": [
+        {
+          "thai": "ฝั่งซื้อกับฝั่งขายสูสีกันมาก",
+          "english": "Bulls and bears are evenly matched",
+          "context": "market analysis"
+        },
+        {
+          "thai": "ถ้าสูสีแบบนี้",
+          "english": "If they're this closely contested",
+          "context": "discussing candle battle"
+        }
+      ],
+      "do_not_translate_as": [
+        "compete color",
+        "fight color",
+        "color battle"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 107,
+      "thai": "แม่ทัพ",
+      "literal": "mother army / commander",
+      "meaning": "major/dominant candle that's significantly larger than surrounding candles with high volume/momentum",
+      "english_equivalents": [
+        "major candle",
+        "dominant candle",
+        "key candle",
+        "commander candle"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "technical_analysis_candles",
+      "detection_patterns": ["แม่ทัพ"],
+      "examples": [
+        {
+          "thai": "คุณมองแม่ทัพ พวกนี้ มันจะมีคนอยากฆ่าเสมอ",
+          "english": "Looking at these major candles, there's always someone trying to break through them",
+          "context": "support/resistance discussion"
+        },
+        {
+          "thai": "ถ้าเอาชนะแม่ทัพได้ ราคาจะไปต่อได้",
+          "english": "If we break through this major candle, price can continue",
+          "context": "breakout analysis"
+        }
+      ],
+      "do_not_translate_as": [
+        "mother army",
+        "commander literally",
+        "general candle"
+      ],
+      "priority": 1
+    },
+    {
+      "id": 108,
+      "thai": "กองทัพ",
+      "literal": "army",
+      "meaning": "large candle with strong volume representing major buying/selling force like a large army",
+      "english_equivalents": [
+        "large army",
+        "major force",
+        "strong force",
+        "army-sized candle"
+      ],
+      "category": "forex",
+      "formality": "informal",
+      "usage_context": "technical_analysis_candles_metaphor",
+      "detection_patterns": ["กองทัพ"],
+      "examples": [
+        {
+          "thai": "แท่งนี้ก็เปรียบเสมือนกองทัพขนาดใหญ่",
+          "english": "This candle is like a large army",
+          "context": "explaining candle size and power"
+        },
+        {
+          "thai": "แท่งกองทัพใหญ่",
+          "english": "major army candle",
+          "context": "identifying significant candles"
+        }
+      ],
+      "do_not_translate_as": [
+        "army literally",
+        "troop",
+        "military"
+      ],
+      "priority": 1
+    }
+  ]
+}

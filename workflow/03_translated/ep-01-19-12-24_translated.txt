@@ -1,0 +1,1120 @@
+╔══════════════════════════════════════════════════════════════╗
+║         THAI TO ENGLISH TRANSLATION - COMPLETED              ║
+╚══════════════════════════════════════════════════════════════╝
+
+Source: ep-01-19-12-24_transcript.json
+Translated by: Claude Code (Sonnet 4.5)
+Date: 2025-10-03
+Segments: 277
+Quality: Context-aware, tone-matched
+
+════════════════════════════════════════════════════════════════
+
+[001]
+THAI: สวัสดีครับ ก็มาเจอกันในคอร์ส Forex Pre-Action นะครับ
+EN: Hello everyone, welcome to the Forex Pre-Action course.
+
+[002]
+THAI: อ่านแท่งเทียนให้เหมือนกับอ่านหนี้ยาย อ่านเป็นเรื่องเป็นราวนะครับ ความหมาย
+EN: We'll read candlesticks like reading a story - understanding the meaning behind the price action.
+
+[003]
+THAI: ก็เดี๋ยวเรามาเริ่มกันเลยดีกว่า จะได้มีแต่เนื้อ ไม่ค่อยมีน้ำนะครับ
+EN: Let's just get started right away - we'll cut straight to the point, no fluff.
+
+[004]
+THAI: แต่ว่าเกิดนิดนึงสำหรับท่านที่พอมีความเข้าใจถึงหลักเบื้องต้นของแท่งเทียนแล้วว่า
+EN: But for those who already have a basic understanding of candlesticks,
+
+[005]
+THAI: หมายถึงอะไร อ่านค่ายังไง ก็ข้ามไปที่บทถัดไปได้เลยนะครับ
+EN: what they mean and how to read them, you can skip ahead to the next lesson.
+
+[006]
+THAI: อันนี้ขอให้เป็นเบื้องต้นสำหรับท่านใหม่ ใหม่จริง ๆ คือยังไม่เข้าใจว่ากราฟแท่งเทียน
+EN: This is for complete beginners who don't yet understand candlestick charts,
+
+[007]
+THAI: มีลักษณะยังไง หมายถึงอะไร ดูแบบไหน ประมาณนี้นะครับ
+EN: what they look like, what they mean, and how to read them.
+
+[008]
+THAI: สำหรับนี้จะซื้อว่าเป็น Basics ที่สุดเลยในบทนี้
+EN: This lesson will be the absolute basics.
+
+[009]
+THAI: เริ่มต้นเลยก็จะเป็นเรื่องของชาร์จนะครับ
+EN: Let's start with charts.
+
+[010]
+THAI: Prize Action เราก็จะดูแบบ เหมือนชาร์จที่ 2 เนี่ย
+EN: With Price Action, we look at charts like this second one here.
+
+[011]
+THAI: คือกราฟเปล่าแบบเนี่ยนะครับ คำว่าเปล่าเนี่ย
+EN: What I mean by "naked" chart is,
+
+[012]
+THAI: จริงๆมันก็จะมีการใช้เครื่องมือ
+EN: we'll still use some tools,
+
+[013]
+THAI: นู่นนี่นานบางก็คือพวกเส้น ลากเส้นนิดประกอบนิดหน่อย
+EN: like drawing lines here and there to help with the analysis.
+
+[014]
+THAI: นะครับ แต่เราจะไม่ได้ใช้แบบ
+EN: But we won't be using
+
+[015]
+THAI: แบบนี้
+EN: lots of stuff like this.
+
+[016]
+THAI: Indictor ที่เยอะๆนะครับ ทานที่เขามีระบบ
+EN: We won't use tons of indicators. Some traders who have their own system
+
+[017]
+THAI: บางคนที่เขามีระบบเขาอยู่แล้วเนี่ย เขาก็จะถนัดแบบนี้นะครับ
+EN: are comfortable with this approach.
+
+[018]
+THAI: คือดูว่าตรงไหนมันตัดอะไรกันยังไง หน้าจุดไหนที่
+EN: They look at where indicators cross, which points
+
+[019]
+THAI: เป็นจุดที่น่าสนใจ จะ Sale หรือจะ Buy อะไรประมาณนี้นะครับ
+EN: are interesting for selling or buying.
+
+[020]
+THAI: แต่ในสายของ Price Action แล้วเนี่ย เขาจะชอบการวิเคราะห์แบบ
+EN: But for Price Action traders, they prefer analysis that's
+
+[021]
+THAI: แบบนี้นะครับ โล่งโล่ง
+EN: clean like this - nice and clear.
+
+[022]
+THAI: Priority Action ก็จะประกอบด้วยสามส่วนนะครับ
+EN: Price Action consists of three main components.
+
+[023]
+THAI: เป็นอย่างน้อยนะครับ อาจจะมีมากกว่านี้แล้วแต่เทคนิคพิเศษของแต่ละคน
+EN: At minimum - there could be more depending on each trader's specific techniques.
+
+[024]
+THAI: แต่อย่างน้อยเนี่ย ไม่มีใครที่ใช้ Priority Action แล้วไม่ใช้สามอย่างนี้นะครับ
+EN: But at minimum, anyone using Price Action will use these three things.
+
+[025]
+THAI: คือ Candlestick หรือแท่งเทียน ตัวถัดมาก็คือแนวรับแนวต้านนะครับ
+EN: First is Candlestick analysis. Next is Support and Resistance levels.
+
+[026]
+THAI: Resistance กับ Support แล้วก็ตัวสุดท้ายคือ Dow Theory
+EN: Resistance and Support, and the last one is Dow Theory.
+
+[027]
+THAI: อันนี้ก็สำคัญเลย เรื่อง Dow Theory เรื่อง Trend เรื่องแนวโน้มนะครับ
+EN: This is really important - Dow Theory, trends, and market direction.
+
+[028]
+THAI: อันนี้ค่อนข้างนี้เรามารู้จักแท่งเทียนกัน
+EN: Now let's get to know candlesticks.
+
+[029]
+THAI: สําหรับท่านที่ไม่รู้หรือท่านที่ยังใหม่อยู่นะครับ
+EN: For those who don't know or are still new to this.
+
+[030]
+THAI: แท่งเทียนจริงๆ แล้วเวลาเราเซ็ตค่า
+EN: Actually, when we configure candlesticks in our platform,
+
+[031]
+THAI: เราจะเซ็ตให้มันเป็นสีอะไรก็ได้นะครับ ในตัวโปรแกรมนี่
+EN: we can set them to any color we want.
+
+[032]
+THAI: ในที่นี้ ขอให้ อ่า ผมเปรียบเทียบเป็นสีเขียว หมายถึงแท่งเทียนขาขึ้น
+EN: Here, I'll use green to represent bullish candles - upward movement.
+
+[033]
+THAI: คําว่า ขาขึ้น คือราคามันวิ่งขึ้นไปเรื่อย ๆ อ่ะนะครับ ซื้อต่ําขายสูงอ่ะ
+EN: "Bullish" means the price keeps moving up - buy low, sell high.
+
+[034]
+THAI: ประมาณเนี้ยนะครับ ส่วนแท่งแดงคือราคาลง ขาลง เอาไว้สําหรับเซลล์
+EN: Red candles mean the price is dropping - bearish movement, for selling.
+
+[035]
+THAI: จากรูปเนี้ยจะเห็นว่าเนี้ยคือราคาเปิดมันจะอยู่ตรงนี้ราคาปิดก็คือขึ้นแทนมาปุ๊บราคาก็วิ่งจากตรงนี้วิ่งขึ้นไปเรื่อยเรื่อยเรื่อย
+EN: From this image, you can see the opening price is here, and when the candle closes, the price has moved from here up continuously.
+
+[036]
+THAI: เรื่อยอ่าเราอาจจะลงก่อนก็ได้ลงมาจุดนี้เพื่อทําจุดตําสุดแล้วก็วิ่งขึ้นไปทําจุดสูงสุดแล้วก็ปิดคือมันปิด
+EN: It might drop first to make a low point, then move up to make a high point, and then close.
+
+[037]
+THAI: สรุปง่ายๆเลยแท่งเทียนขาขึ้น แท่งสีเขียว คือราคาปิดสูงกว่าราคาเปิด
+EN: Simply put - a bullish green candle means the close price is higher than the open price.
+
+[038]
+THAI: ส่วนแท่งสีแดง ราคาเปิดต่ำกว่าเปิดนั่นเองคือราคารสลดลง
+EN: For red candles, the close is lower than the open - meaning the price dropped.
+
+[039]
+THAI: คือราคากำลังลดลงเรื่อยๆ ถอยลงเรื่อยๆ สีเขียวคือราคาเพิ่มขึ้นเรื่อยๆ
+EN: The price keeps dropping, pulling back. Green means the price keeps rising.
+
+[040]
+THAI: เพิ่มขึ้นเรื่อยๆนะครับ ถ้าอย่างใกล้ๆ อย่างนี้ ถ้าบางทีท่านเห็นเป็นแท่งแบบเนี้ย
+EN: Keeps going up. Now, if you see candles like this,
+
+[041]
+THAI: ไม่มีไส้เทียนโผล่ออกมาเนี่ย ไม่มีหางเนี่ย มันก็ยังมีในองค์ประกอบสี่ส่วนเหมือนเดิมอยู่นะครับ
+EN: with no wicks sticking out, no tails - it still has the same four price components.
+
+[042]
+THAI: เพียงแต่ราคาเปิดจะมีซ้อนอีกราคาหนึ่งก็นั้น คือราคาเปิดเป็นราคาต่ำสุดของแท่งนี้ด้วย
+EN: It's just that the open price overlaps with another price - the open IS the low of this candle.
+
+[043]
+THAI: ส่วนราคาปิดก็ยังเป็นราคาสูงสุดของตัวแท่งนี้ด้วย
+EN: And the close price IS also the high of this candle.
+
+[044]
+THAI: กลับกันนะครับอันนี้ก็เหมือนกัน
+EN: Vice versa - same thing for this one.
+
+[045]
+THAI: ราคาสูงสุดก็คือราคาเปิดของแท่งนี้
+EN: The high price is the open price of this candle.
+
+[046]
+THAI: แล้วก็ถูกขายดันลงมาลงมาลงมาเรื่อย ๆ จนมาปิดตรงนี้
+EN: Then it got pushed down by selling pressure until it closed here.
+
+[047]
+THAI: ซึ่งตรงนี้ก็กลายเป็นจุดต่ำสุดของราคาปิด
+EN: This becomes the low point where it closed.
+
+[048]
+THAI: ที่คือมันปิดที่เดียวกันกับราคานั้นน่ะ
+EN: It closed at the same level as that price.
+
+[049]
+THAI: เพราะฉะนั้นมันยังไง ไม่ว่าแท่งจะมีหาง มีไส้ หรือไม่มีไส้เนี่ย
+EN: So no matter if the candle has a tail, has wicks, or no wicks,
+
+[050]
+THAI: ก็ต้องประกอบได้สี่ราคานี้เสมอ นะครับ
+EN: it must always have these four prices.
+
+[051]
+THAI: อ่าๆ ส่วนนี้จะเป็นรูปแบบ อื่นๆ ที่เพิ่มขึ้นมา
+EN: Now these are some other variations you might see.
+
+[052]
+THAI: อันนี้เราไปแล้วนะครับ เรียนรูปไปแล้ว
+EN: We've already covered this shape.
+
+[053]
+THAI: อย่างอันนี้ นี่ก็ต้องมีสี่ราคาอยู่ดีนะครับ
+EN: Like this one - it still has four prices.
+
+[054]
+THAI: เปิดตรงนี้ แล้ววิ่งขึ้นไป หรือวิ่งลงก็ได้แล้ว แต่สุดท้ายแล้วเวลาปิดแทง
+EN: Opens here, then moves up or down, but when the candle closes,
+
+[055]
+THAI: แล้วกลับมาปิดที่เดิมกับที่เปิด ก็เลยเป็นขีดเดียวอย่างเงี้ย
+EN: it comes back and closes at the same level as the open - that's why it looks like just a single line.
+
+[056]
+THAI: แต่ซ้อนกันอยู่สองราคา ก็คือราคาเปิดกับราคาปิดนะครับ
+EN: But there are actually two prices overlapping - the open and close prices.
+
+[057]
+THAI: วิ่งในต่ำสุดเท่านี้ และเปิดกะปิดอยู่ด้วยกันตรงนี้
+EN: It reached this low point, and the open and close are together here.
+
+[058]
+THAI: นั่นก็เลยซ้อนราคากันอยู่นะครับ
+EN: That's why the prices are overlapping.
+
+[059]
+THAI: การเคลื่อนไหวของราคาเนี่ย นี่แบบง่ายๆนะครับ
+EN: Here's a simple explanation of price movement.
+
+[060]
+THAI: เปิดตรงนี้แล้วมีไซด์อยู่ข้างล่างแสดงว่าราคาต้องเคยลงมาต่ำกว่าที่เปิดอยู่
+EN: If it opens here and has a wick below, that means the price must have gone lower than the open.
+
+[061]
+THAI: ก็คือมันอาจจะเปิดมาแล้วก็ลง แล้วก็วิ่งขึ้นไป
+EN: So it might have opened, dropped down, then moved back up.
+
+[062]
+THAI: จนได้จุดสูงสุดตรงนี้แล้วก็ตกกลับมาปิดนิดนึงหรือหรืออาจจะเปิดมาปุ๊บขึ้นอย่างเดียวเลยจนเป็นจุดสูงสุดเลยแล้วก็ดีงลงมาจนไปต่ำสุดแล้วก็ขึ้นไปปิดใหม่ขึ้นมาปิดแถวๆนี้ไม่สูงกว่านี้ก็เลยได้แค่นี้
+EN: Until it reaches this high point then falls back to close a bit, or it could open and go straight up to make the high, then drop all the way to the low, and climb back up to close around here - not higher than this, so it stays at this level.
+
+[063]
+THAI: ซึ่งลักษณะสองแท่งนี้เหมือนกันแต่การวิ่งของราคาไม่เหมือนกันเห็นไหมครับ
+EN: These two candles look the same, but the actual price movement was different - see that?
+
+[064]
+THAI: เพราะฉะนั้นสรุปง่ายว่าแท่งเทียนหนึ่งแท่งเนี่ย มันจะวิ่งยังไงก็ได้
+EN: So the simple conclusion is - a candle can move in any way.
+
+[065]
+THAI: เพียงแต่คุณต้องรู้ว่ามันต้องมีสีราคานี้เสมอก่อให้เกิดไปรูปแท่งเทียน นะครับ
+EN: You just need to know that it must always have these four prices to form a candlestick.
+
+[066]
+THAI: น่าจะพอเข้าใจนะ อันนี้ ไม่ว่ามันจะเป็นแท่งยังไงเนี่ย อย่างแท่งเนี้ย
+EN: You should understand now - no matter what kind of candle it is, like this one,
+
+[067]
+THAI: เปิดตรงนี้ แล้ววิ่งยังไงก็ไม่รู้นะครับ มันก็ลงมาอยู่ตรงนี้แล้วมันก็ย้อนขึ้นไป
+EN: opens here, moves around somehow - drops to here then bounces back up,
+
+[068]
+THAI: หรือมันอาจจะขึ้นก่อนก็ได้นะ มาถึงจุดตรงนี้ แล้วก็ปิดตรงนี้
+EN: or it could go up first, reach this point, and close here.
+
+[069]
+THAI: พอปิดตรงนี้ปุ๊บหมดเวลามันขึ้นแท่งใหม่ ราคามันก็ต้องติดกันอย่างนี้
+EN: When it closes here, time's up and a new candle starts - the prices must connect like this.
+
+[070]
+THAI: จะสมมุติให้ดูอีกนิดนึงแล้วกัน นี่สำหรับท่านใหม่ๆเลยนะครับ ท่านอาจจะได้เห็นภาพง่ายขึ้น
+EN: Let me show you another example - this is really for beginners so you can visualize it better.
+
+[071]
+THAI: ก็สมมุติว่าเปิดราคาเปิดมานะครับ ราคาเปิดมา เปิดที่ตรงนี้
+EN: Let's say the opening price comes in - opens right here.
+
+[072]
+THAI: แล้วราคาวิ่งอย่างไรก็ไม่รู้ อาจจะวิ่งอย่างนี้กันใน 1 ชั่วโมง วิ่งไปอย่างนี้เรื่อยๆก็ได้
+EN: Then the price moves around - maybe like this during the hour, keeps moving like this.
+
+[073]
+THAI: แล้วลงมาตรงนี้ แล้วก็ค่อยๆขึ้นไปขึ้นไป อ่ะลงมาอีกขึ้นไปขึ้นไป โจรขึ้นมาถึงตรงนี้
+EN: Drops to here, slowly climbs up, drops again, climbs back up, finally reaches here.
+
+[074]
+THAI: แล้วก็อาจจะวิ่งยึกยักยุกยักอยู่แถวนี้ก็ได้ หรืออาจจะแล้วก็ตกลงมาก็ได้ แต่พอเวลาใกล้จะหมดแท่ง
+EN: Then it might zigzag around this area, or it could fall - but when the candle's about to close,
+
+[075]
+THAI: คง สัก อัน นี้ ขึ้นมา ถึง ตรง นี้ ตรง นี้ ก็จะ ได้ องค์ ประกอบ
+EN: say it climbs up to here - here we'll get the components.
+
+[076]
+THAI: 4 อย่าง คือ อะไร ครับ ราคา สูง สุด นี่ คือ ราคา สูง สุด ราคา
+EN: Four components - what are they? The high price - this is the highest price.
+
+[077]
+THAI: เปิด ราคา เปิด อยู่ ตรง นี้ ราคา ต่ำ สุด ที่ เคย มา ได้ อยู่
+EN: The open price is here, the lowest price it reached is
+
+[078]
+THAI: ตรง นี้ เพราะ ว่า เป็น แท ง ออก มา ปุ๊บ มัน ก็ จะ ได้ เป็น แท ง
+EN: here. When the candle forms, it becomes a candle
+
+[079]
+THAI: แส่งแบบนี้ เห็นมั้ยครับ เปิด ปิด ส่วนที่เกินมา ก็คือใส่เทียน
+EN: shaped like this - see? Open, close, and the parts sticking out are the wicks.
+
+[080]
+THAI: แบบนี้ เท่านั้นเอง เพราะฉะนั้น ไม่จําเป็นว่าต้องวิ่งแบบนี้
+EN: That's all there is to it. So it doesn't have to move in any specific pattern.
+
+[081]
+THAI: มันจะวิ่งแบบไหนก็ แล้วแต่ เป็นไปได้หมด ทุกรูปแบบ
+EN: It can move however it wants - any pattern is possible.
+
+[082]
+THAI: แต่สุดท้ายแล้ว จะต้องทําสี่จุดราคาเสมอ
+EN: But in the end, it must always create these four price points.
+
+[083]
+THAI: เปิดกับปิดเราจะรู้แน่ๆ เราว่าเปิดอยู่ตรงไหนและปิดอยู่ตรงไหน
+EN: We'll always know exactly where the open is and where the close is,
+
+[084]
+THAI: และจุดสูงสุดที่เคยไปได้กับจุดต่ำสุดที่เคยไปได้
+EN: and the highest point it reached and the lowest point it reached.
+
+[085]
+THAI: ก็รวมกันมาเป็นหนึ่งแท่งนะครับ
+EN: These all combine to form one candle.
+
+[086]
+THAI: นี่คือแท่งเทียนสำหรับท่านที่เพิ่งเข้ามาเทรดใหม่ๆ
+EN: This is candlesticks for those who are new to trading,
+
+[087]
+THAI: จะได้รู้ว่าแท่งเทียนหมายถึงยังไง ทำไมมีรูปร่างแบบนี้แบบไหนนะครับ
+EN: so you understand what candlesticks mean and why they have these different shapes.
+
+[088]
+THAI: กับกันถ้ามันวิ่งเป็นอีกแบบคือสรุปง่ายๆว่าถ้าราคาเปิดต่ำกับเปิดเป็นแท่งสีแดง แท่งขาลง
+EN: To summarize simply - if the close is lower than the open, it's a red candle, a bearish candle.
+
+[089]
+THAI: ถ้าราคาปิดสูงกับราคาเปิดเป็นแท่งสีเขียว แท่งขาขึ้น
+EN: If the close is higher than the open, it's a green candle, a bullish candle.
+
+[090]
+THAI: เอาง่ายๆแค่นี้ส่วนรูปร่างของแท่งเทียนจะเป็นทรงแบบไหน ก็แล้วแต่การวิ่งของเขาในช่วงระยะเวลาของตัวแท่งนั้นเองนะครับ
+EN: It's that simple. The shape of the candle depends on how the price moved during that candle's timeframe.
+
+[091]
+THAI: อะ อย่างขนาดนี้ก็มาถึงเรื่องขนาดของแท่งเทียน
+EN: Now we come to candle size.
+
+[092]
+THAI: นี่คือแท่งขนาดใหญ่ นี่คือแท่งเล็ก Body เล็ก
+EN: This is a large candle, this is a small candle - small body.
+
+[093]
+THAI: มีความสำคัญยังไงทำไมต้องรู้ว่าแท่งใหญ่แท่งเล็ก
+EN: Why does it matter? Why do we need to know about large and small candles?
+
+[094]
+THAI: ก็หมายถึงว่าแท่งไหนมีกำลังที่มากกว่า
+EN: It tells us which one has more strength.
+
+[095]
+THAI: อย่างแท่งนี้ถ้าเป็นแท่งแดงคือแท่งขาลงเนี่ย
+EN: Like this candle - if it's a red bearish candle,
+
+[096]
+THAI: พูดถึงแรงขายเนี่ย ระหว่างแท่งนี้กับแท่งนี้
+EN: talking about selling pressure - between this candle and this candle,
+
+[097]
+THAI: ก็เป็นตัวบ่งบอกถึงพลังในทิศทางหรือพลังของฝั่งใดที่กำลังควบคุมอีกฝั่งนึงมากกว่ากัน
+EN: it shows the strength in a direction or which side has more control over the other side.
+
+[098]
+THAI: อย่างกรณีอย่างนี้
+EN: In a case like this,
+
+[099]
+THAI: เป็นสีแดง
+EN: it's red -
+
+[100]
+THAI: นี้ก็ต้องรู้อยู่แล้วว่าฝั่งผู้ขายมีกำลังเยอะกว่าฝั่งผู้ซื้อ
+EN: we already know that sellers have more strength than buyers.
+
+[101]
+THAI: อ่านแท่งเทียนให้เหมือนกับอ่านหนี้ยาย อ่านเป็นเรื่องเป็นราวนะครับ ความหมาย
+EN: Read candlesticks like reading a story - understand the meaning behind them.
+
+[102]
+THAI: ก็เดี๋ยวเรามาเริ่มกันเลยดีกว่า จะได้มีแต่เนื้อ ไม่ค่อยมีน้ำนะครับ
+EN: Let's just get started - we'll cut straight to the point, no fluff.
+
+[103]
+THAI: แต่ว่าเกิดนิดนึงสำหรับท่านที่พอมีความเข้าใจถึงหลักเบื้องต้นของแท่งเทียนแล้วว่า
+EN: But just a quick note - for those who already understand the basics of candlesticks,
+
+[104]
+THAI: หมายถึงอะไร อ่านค่ายังไง ก็ข้ามไปที่บทถัดไปได้เลยนะครับ
+EN: what they mean and how to read them - you can skip to the next lesson.
+
+[105]
+THAI: อันนี้ขอให้เป็นเบื้องต้นสำหรับท่านใหม่ ใหม่จริง ๆ คือยังไม่เข้าใจว่ากราฟแท่งเทียน
+EN: This is really basic stuff for absolute beginners - those who don't yet understand candlestick charts,
+
+[106]
+THAI: มีลักษณะยังไง หมายถึงอะไร ดูแบบไหน ประมาณนี้นะครับ
+EN: what they look like, what they mean, how to read them - that kind of thing.
+
+[107]
+THAI: สำหรับนี้จะซื้อว่าเป็น Basics ที่สุดเลยในบทนี้
+EN: This will be the most basic content in this lesson.
+
+[108]
+THAI: เริ่มต้นเลยก็จะเป็นเรื่องของชาร์จนะครับ
+EN: Let's start with charts.
+
+[109]
+THAI: Prize Action เราก็จะดูแบบ เหมือนชาร์จที่ 2 เนี่ย
+EN: With Price Action, we look at charts like this second one here.
+
+[110]
+THAI: คือกราฟเปล่าแบบเนี่ยนะครับ คำว่าเปล่าเนี่ย
+EN: It's a clean chart like this - when I say "clean",
+
+[111]
+THAI: จริงๆมันก็จะมีการใช้เครื่องมือ
+EN: we actually do use some tools,
+
+[112]
+THAI: นู่นนี่นานบางก็คือพวกเส้น ลากเส้นนิดประกอบนิดหน่อย
+EN: here and there - like drawing lines to help with analysis.
+
+[113]
+THAI: นะครับ แต่เราจะไม่ได้ใช้แบบ
+EN: But we won't use
+
+[114]
+THAI: แบบนี้
+EN: this kind of setup -
+
+[115]
+THAI: Indictor ที่เยอะๆนะครับ ทานที่เขามีระบบ
+EN: tons of indicators. Some traders who have their own systems
+
+[116]
+THAI: บางคนที่เขามีระบบเขาอยู่แล้วเนี่ย เขาก็จะถนัดแบบนี้นะครับ
+EN: already developed - they're comfortable with this approach.
+
+[117]
+THAI: คือดูว่าตรงไหนมันตัดอะไรกันยังไง หน้าจุดไหนที่
+EN: They look at where things cross, which points are
+
+[118]
+THAI: เป็นจุดที่น่าสนใจ จะ Sale หรือจะ Buy อะไรประมาณนี้นะครับ
+EN: interesting spots to sell or buy - something like that.
+
+[119]
+THAI: แต่ในสายของ Price Action แล้วเนี่ย เขาจะชอบการวิเคราะห์แบบ
+EN: But for Price Action traders, they prefer analysis that's
+
+[120]
+THAI: แบบนี้นะครับ โล่งโล่ง
+EN: clean like this - nice and clear.
+
+[121]
+THAI: Priority Action ก็จะประกอบด้วยสามส่วนนะครับ
+EN: Price Action consists of three main components.
+
+[122]
+THAI: เป็นอย่างน้อยนะครับ อาจจะมีมากกว่านี้แล้วแต่เทคนิคพิเศษของแต่ละคน
+EN: At minimum - there could be more depending on each trader's specific techniques.
+
+[123]
+THAI: แต่อย่างน้อยเนี่ย ไม่มีใครที่ใช้ Priority Action แล้วไม่ใช้สามอย่างนี้นะครับ
+EN: But at minimum, anyone using Price Action will use these three things.
+
+[124]
+THAI: คือ Candlestick หรือแท่งเทียน ตัวถัดมาก็คือแนวรับแนวต้านนะครับ
+EN: First is Candlestick analysis. Next is Support and Resistance levels.
+
+[125]
+THAI: Resistance กับ Support แล้วก็ตัวสุดท้ายคือ Dow Theory
+EN: Resistance and Support, and the last one is Dow Theory.
+
+[126]
+THAI: อันนี้ก็สำคัญเลย เรื่อง Dow Theory เรื่อง Trend เรื่องแนวโน้มนะครับ
+EN: This is really important - Dow Theory, trends, and market direction.
+
+[127]
+THAI: อันนี้ค่อนข้างนี้เรามารู้จักแท่งเทียนกัน
+EN: Now let's get to know candlesticks.
+
+[128]
+THAI: สําหรับท่านที่ไม่รู้หรือท่านที่ยังใหม่อยู่นะครับ
+EN: For those who don't know or are still new to this.
+
+[129]
+THAI: แท่งเทียนจริงๆ แล้วเวลาเราเซ็ตค่า
+EN: Candlesticks - when we set them up,
+
+[130]
+THAI: เราจะเซ็ตให้มันเป็นสีอะไรก็ได้นะครับ ในตัวโปรแกรมนี่
+EN: we can set them to any color we want in the program.
+
+[131]
+THAI: ในที่นี้ ขอให้ อ่า ผมเปรียบเทียบเป็นสีเขียว หมายถึงแท่งเทียนขาขึ้น
+EN: Here, I'll use green to represent bullish candlesticks.
+
+[132]
+THAI: คําว่า ขาขึ้น คือราคามันวิ่งขึ้นไปเรื่อย ๆ อ่ะนะครับ ซื้อต่ําขายสูงอ่ะ
+EN: "Bullish" means the price keeps moving up - buy low, sell high.
+
+[133]
+THAI: ประมาณเนี้ยนะครับ ส่วนแท่งแดงคือราคาลง ขาลง เอาไว้สําหรับเซลล์
+EN: Something like that. Red candles mean price going down - bearish, for selling.
+
+[134]
+THAI: จากรูปเนี้ยจะเห็นว่าเนี้ยคือราคาเปิดมันจะอยู่ตรงนี้ราคาปิดก็คือขึ้นแทนมาปุ๊บราคาก็วิ่งจากตรงนี้วิ่งขึ้นไปเรื่อยเรื่อยเรื่อย
+EN: From this diagram, you'll see the open price is here, the close price is when the candle forms - price runs from here and keeps going up.
+
+[135]
+THAI: เรื่อยอ่าเราอาจจะลงก่อนก็ได้ลงมาจุดนี้เพื่อทําจุดตําสุดแล้วก็วิ่งขึ้นไปทําจุดสูงสุดแล้วก็ปิดคือมันปิด
+EN: It might drop first, come down to this point to make the low, then run up to make the high, and then close.
+
+[136]
+THAI: สรุปง่ายๆเลยแท่งเทียนขาขึ้น แท่งสีเขียว คือราคาปิดสูงกว่าราคาเปิด
+EN: Simple summary - bullish candle, green candle, means close price is higher than open price.
+
+[137]
+THAI: ส่วนแท่งสีแดง ราคาเปิดต่ำกว่าเปิดนั่นเองคือราคารสลดลง
+EN: Red candles - open is higher than close, meaning price is falling.
+
+[138]
+THAI: คือราคากำลังลดลงเรื่อยๆ ถอยลงเรื่อยๆ สีเขียวคือราคาเพิ่มขึ้นเรื่อยๆ
+EN: Price is decreasing, pulling back. Green means price is increasing.
+
+[139]
+THAI: เพิ่มขึ้นเรื่อยๆนะครับ ถ้าอย่างใกล้ๆ อย่างนี้ ถ้าบางทีท่านเห็นเป็นแท่งแบบเนี้ย
+EN: Keeps increasing. Now, if you see a candle like this,
+
+[140]
+THAI: ไม่มีไส้เทียนโผล่ออกมาเนี่ย ไม่มีหางเนี่ย มันก็ยังมีในองค์ประกอบสี่ส่วนเหมือนเดิมอยู่นะครับ
+EN: with no wicks sticking out, no tails - it still has the same four components.
+
+[141]
+THAI: เพียงแต่ราคาเปิดจะมีซ้อนอีกราคาหนึ่งก็นั้น คือราคาเปิดเป็นราคาต่ำสุดของแท่งนี้ด้วย
+EN: It's just that the open price overlaps with another price - the open IS the low of this candle.
+
+[142]
+THAI: ส่วนราคาปิดก็ยังเป็นราคาสูงสุดของตัวแท่งนี้ด้วย
+EN: And the close price IS the high of this candle.
+
+[143]
+THAI: กลับกันนะครับอันนี้ก็เหมือนกัน
+EN: Vice versa for this one - same thing.
+
+[144]
+THAI: ราคาสูงสุดก็คือราคาเปิดของแท่งนี้
+EN: The high is the open price of this candle.
+
+[145]
+THAI: แล้วก็ถูกขายดันลงมาลงมาลงมาเรื่อย ๆ จนมาปิดตรงนี้
+EN: Then it gets pushed down by selling pressure until it closes here.
+
+[146]
+THAI: ซึ่งตรงนี้ก็กลายเป็นจุดต่ำสุดของราคาปิด
+EN: This becomes the low of the candle where it closed.
+
+[147]
+THAI: ที่คือมันปิดที่เดียวกันกับราคานั้นน่ะ
+EN: It closes at the same level as that price.
+
+[148]
+THAI: เพราะฉะนั้นมันยังไง ไม่ว่าแท่งจะมีหาง มีไส้ หรือไม่มีไส้เนี่ย
+EN: So no matter what - whether the candle has tails, wicks, or no wicks,
+
+[149]
+THAI: ก็ต้องประกอบได้สี่ราคานี้เสมอ นะครับ
+EN: it always consists of these four prices.
+
+[150]
+THAI: อ่าๆ ส่วนนี้จะเป็นรูปแบบ อื่นๆ ที่เพิ่มขึ้นมา
+EN: Now, this section shows other patterns that can form.
+
+[151]
+THAI: อันนี้เราไปแล้วนะครับ เรียนรูปไปแล้ว
+EN: We've covered this one already - we learned this pattern.
+
+[152]
+THAI: อย่างอันนี้ นี่ก็ต้องมีสี่ราคาอยู่ดีนะครับ
+EN: Like this one - it still has to have four prices.
+
+[153]
+THAI: เปิดตรงนี้ แล้ววิ่งขึ้นไป หรือวิ่งลงก็ได้แล้ว แต่สุดท้ายแล้วเวลาปิดแทง
+EN: Opens here, then runs up - or down - but ultimately when the candle closes,
+
+[154]
+THAI: แล้วกลับมาปิดที่เดิมกับที่เปิด ก็เลยเป็นขีดเดียวอย่างเงี้ย
+EN: it comes back to close at the same level as the open - that's why it's just one line like this.
+
+[155]
+THAI: แต่ซ้อนกันอยู่สองราคา ก็คือราคาเปิดกับราคาปิดนะครับ
+EN: But there are two prices overlapping - the open and close price.
+
+[156]
+THAI: วิ่งในต่ำสุดเท่านี้ และเปิดกะปิดอยู่ด้วยกันตรงนี้
+EN: It runs to this low, with open and close together at this level.
+
+[157]
+THAI: นั่นก็เลยซ้อนราคากันอยู่นะครับ
+EN: That's why the prices overlap.
+
+[158]
+THAI: การเคลื่อนไหวของราคาเนี่ย นี่แบบง่ายๆนะครับ
+EN: Price movement - this is the simple version.
+
+[159]
+THAI: เปิดตรงนี้แล้วมีไซด์อยู่ข้างล่างแสดงว่าราคาต้องเคยลงมาต่ำกว่าที่เปิดอยู่
+EN: Opens here, and if there's a wick below, that means price had to go lower than the open.
+
+[160]
+THAI: ก็คือมันอาจจะเปิดมาแล้วก็ลง แล้วก็วิ่งขึ้นไป
+EN: It might open, drop down, then run back up.
+
+[161]
+THAI: จนได้จุดสูงสุดตรงนี้แล้วก็ตกกลับมาปิดนิดนึงหรือหรืออาจจะเปิดมาปุ๊บขึ้นอย่างเดียวเลยจนเป็นจุดสูงสุดเลยแล้วก็ดีงลงมาจนไปต่ำสุดแล้วก็ขึ้นไปปิดใหม่ขึ้นมาปิดแถวๆนี้ไม่สูงกว่านี้ก็เลยได้แค่นี้
+EN: Reaches the high here then falls back to close - or it might open and shoot straight up to the high, then drop all the way to the low, then back up to close around here, not higher than this point.
+
+[162]
+THAI: ซึ่งลักษณะสองแท่งนี้เหมือนกันแต่การวิ่งของราคาไม่เหมือนกันเห็นไหมครับ
+EN: These two candles look the same but their price movements are different, see?
+
+[163]
+THAI: เพราะฉะนั้นสรุปง่ายว่าแท่งเทียนหนึ่งแท่งเนี่ย มันจะวิ่งยังไงก็ได้
+EN: So in simple terms, one candlestick - it can move however it wants.
+
+[164]
+THAI: เพียงแต่คุณต้องรู้ว่ามันต้องมีสีราคานี้เสมอก่อให้เกิดไปรูปแท่งเทียน นะครับ
+EN: You just need to know it always has these four prices to form the candlestick.
+
+[165]
+THAI: น่าจะพอเข้าใจนะ อันนี้ ไม่ว่ามันจะเป็นแท่งยังไงเนี่ย อย่างแท่งเนี้ย
+EN: You should understand by now - no matter what kind of candle, like this one,
+
+[166]
+THAI: เปิดตรงนี้ แล้ววิ่งยังไงก็ไม่รู้นะครับ มันก็ลงมาอยู่ตรงนี้แล้วมันก็ย้อนขึ้นไป
+EN: opens here, moves somehow - it drops to this point then reverses up.
+
+[167]
+THAI: หรือมันอาจจะขึ้นก่อนก็ได้นะ มาถึงจุดตรงนี้ แล้วก็ปิดตรงนี้
+EN: Or it might go up first, reach this point, then close here.
+
+[168]
+THAI: พอปิดตรงนี้ปุ๊บหมดเวลามันขึ้นแท่งใหม่ ราคามันก็ต้องติดกันอย่างนี้
+EN: When it closes here, time's up - a new candle forms, and prices connect like this.
+
+[169]
+THAI: จะสมมุติให้ดูอีกนิดนึงแล้วกัน นี่สำหรับท่านใหม่ๆเลยนะครับ ท่านอาจจะได้เห็นภาพง่ายขึ้น
+EN: Let me show you another example - this is for complete beginners, you'll see it more clearly.
+
+[170]
+THAI: ก็สมมุติว่าเปิดราคาเปิดมานะครับ ราคาเปิดมา เปิดที่ตรงนี้
+EN: Let's say the open price comes in - open price, opens right here.
+
+[171]
+THAI: แล้วราคาวิ่งอย่างไรก็ไม่รู้ อาจจะวิ่งอย่างนี้กันใน 1 ชั่วโมง วิ่งไปอย่างนี้เรื่อยๆก็ได้
+EN: Then price moves - who knows how - maybe it moves like this for 1 hour, keeps going like this.
+
+[172]
+THAI: แล้วลงมาตรงนี้ แล้วก็ค่อยๆขึ้นไปขึ้นไป อ่ะลงมาอีกขึ้นไปขึ้นไป โจรขึ้นมาถึงตรงนี้
+EN: Then down to here, then gradually up and up, drops again then up and up, climbs to this point.
+
+[173]
+THAI: แล้วก็อาจจะวิ่งยึกยักยุกยักอยู่แถวนี้ก็ได้ หรืออาจจะแล้วก็ตกลงมาก็ได้ แต่พอเวลาใกล้จะหมดแท่ง
+EN: Then might bounce around this area, or maybe drop back down - but when the candle's about to close,
+
+[174]
+THAI: คง สัก อัน นี้ ขึ้นมา ถึง ตรง นี้ ตรง นี้ ก็จะ ได้ องค์ ประกอบ
+EN: say it comes up to here - at this point you'll have the four
+
+[175]
+THAI: 4 อย่าง คือ อะไร ครับ ราคา สูง สุด นี่ คือ ราคา สูง สุด ราคา
+EN: components - what are they? The high price - this is the high. The
+
+[176]
+THAI: เปิด ราคา เปิด อยู่ ตรง นี้ ราคา ต่ำ สุด ที่ เคย มา ได้ อยู่
+EN: open - the open price is here. The low price that it reached is
+
+[177]
+THAI: ตรง นี้ เพราะ ว่า เป็น แท ง ออก มา ปุ๊บ มัน ก็ จะ ได้ เป็น แท ง
+EN: here. When the candle forms, it becomes a candle
+
+[178]
+THAI: แส่งแบบนี้ เห็นมั้ยครับ เปิด ปิด ส่วนที่เกินมา ก็คือใส่เทียน
+EN: like this, see? Open, close, the part sticking out is the wick.
+
+[179]
+THAI: แบบนี้ เท่านั้นเอง เพราะฉะนั้น ไม่จําเป็นว่าต้องวิ่งแบบนี้
+EN: That's all. So it doesn't have to move this exact way.
+
+[180]
+THAI: มันจะวิ่งแบบไหนก็ แล้วแต่ เป็นไปได้หมด ทุกรูปแบบ
+EN: It can move however - anything's possible, any pattern.
+
+[181]
+THAI: แต่สุดท้ายแล้ว จะต้องทําสี่จุดราคาเสมอ
+EN: But ultimately, it always creates those four price points.
+
+[182]
+THAI: เปิดกับปิดเราจะรู้แน่ๆ เราว่าเปิดอยู่ตรงไหนและปิดอยู่ตรงไหน
+EN: We'll definitely know where the open and close are.
+
+[183]
+THAI: และจุดสูงสุดที่เคยไปได้กับจุดต่ำสุดที่เคยไปได้
+EN: And the highest point it reached and the lowest point it reached.
+
+[184]
+THAI: ก็รวมกันมาเป็นหนึ่งแท่งนะครับ
+EN: These combine to form one candle.
+
+[185]
+THAI: นี่คือแท่งเทียนสำหรับท่านที่เพิ่งเข้ามาเทรดใหม่ๆ
+EN: This is candlesticks for those who are new to trading.
+
+[186]
+THAI: จะได้รู้ว่าแท่งเทียนหมายถึงยังไง ทำไมมีรูปร่างแบบนี้แบบไหนนะครับ
+EN: Now you know what candlesticks mean, why they have these different shapes.
+
+[187]
+THAI: กับกันถ้ามันวิ่งเป็นอีกแบบคือสรุปง่ายๆว่าถ้าราคาเปิดต่ำกับเปิดเป็นแท่งสีแดง แท่งขาลง
+EN: Simple summary - if close is lower than open, it's a red candle, bearish candle.
+
+[188]
+THAI: ถ้าราคาปิดสูงกับราคาเปิดเป็นแท่งสีเขียว แท่งขาขึ้น
+EN: If close is higher than open, it's a green candle, bullish candle.
+
+[189]
+THAI: เอาง่ายๆแค่นี้ส่วนรูปร่างของแท่งเทียนจะเป็นทรงแบบไหน ก็แล้วแต่การวิ่งของเขาในช่วงระยะเวลาของตัวแท่งนั้นเองนะครับ
+EN: That's it - simple. The shape of the candle depends on how price moved during that candle's timeframe.
+
+[190]
+THAI: อะ อย่างขนาดนี้ก็มาถึงเรื่องขนาดของแท่งเทียน
+EN: Now we get to candle size.
+
+[191]
+THAI: นี่คือแท่งขนาดใหญ่ นี่คือแท่งเล็ก Body เล็ก
+EN: This is a large candle, this is a small candle - small body.
+
+[192]
+THAI: มีความสำคัญยังไงทำไมต้องรู้ว่าแท่งใหญ่แท่งเล็ก
+EN: Why is it important? Why do we need to know large vs small candles?
+
+[193]
+THAI: ก็หมายถึงว่าแท่งไหนมีกำลังที่มากกว่า
+EN: It tells us which candle has more strength.
+
+[194]
+THAI: อย่างแท่งนี้ถ้าเป็นแท่งแดงคือแท่งขาลงเนี่ย
+EN: Like this candle - if it's red, a bearish candle,
+
+[195]
+THAI: พูดถึงแรงขายเนี่ย ระหว่างแท่งนี้กับแท่งนี้
+EN: we're talking about selling pressure - between this candle and this one.
+
+[196]
+THAI: ก็เป็นตัวบ่งบอกถึงพลังในทิศทางหรือพลังของฝั่งใดที่กำลังควบคุมอีกฝั่งนึงมากกว่ากัน
+EN: It indicates the momentum in that direction, or which side has more control over the other.
+
+[197]
+THAI: อย่างกรณีอย่างนี้
+EN: In a case like this,
+
+[198]
+THAI: เป็นสีแดง
+EN: it's red -
+
+[199]
+THAI: นี้ก็ต้องรู้อยู่แล้วว่าฝั่งผู้ขายมีกำลังเยอะกว่าฝั่งผู้ซื้อ
+EN: we already know sellers have more strength than buyers.
+
+[200]
+THAI: มันถึงเป็นแดง
+EN: That's why it's red.
+
+[201]
+THAI: แต่มีกำลังในการผลักดันไม่มากเท่ากับแท่งใหญ่
+EN: But it doesn't have as much pushing power as a large candle.
+
+[202]
+THAI: ที่สามารถผลักลงมาได้ขนาดนี้นะครับ เป็นการใช้มองของพลังงาน
+EN: That can push it down this much - this is how we look at momentum.
+
+[203]
+THAI: ซึ่งเราจะพูดถึงรายละเอียดที่ลึกกว่านี้ ในบทถัดไปนะครับ
+EN: We'll go into more detail about this in the next lesson.
+
+[204]
+THAI: ในเรื่องของมอเมนตัม ราคานะครับผม
+EN: About price momentum.
+
+[205]
+THAI: อันนั้นสำคัญที่จะใช้อ่านกราฟให้แบบ อ่านเป็นนิทานได้เลย
+EN: That's important for reading charts - reading them like a story.
+
+[206]
+THAI: เป็นแผนที่ เป็นเรื่องเป็นราวนะครับ อ่า แล้วแท่งไหนล่ะ
+EN: Like a map, like a narrative. Now, which candles
+
+[207]
+THAI: ที่เรียกว่าใหญ่อันนี้เรารู้นะและนี่เราเห็นแท่งเทียนมันใหญ่ ๆ เล็ก
+EN: are considered large? We know this one - we can see candles large and small.
+
+[208]
+THAI: แต่พอนี้แท่งเทียนเวลามันมีจริง ๆ เนี่ยมันมาเป็นชุดแบบเนี่ย
+EN: But when candles actually appear in real trading, they come in groups like this.
+
+[209]
+THAI: อันไหนที่เรียกว่าใหญ่ อันไหนที่เรียกว่าเล็ก
+EN: Which ones are called large? Which are called small?
+
+[210]
+THAI: ที่จะพิจารณานะครับก็คือต้องพิจารณาของบริบท
+EN: To determine this, you need to look at context.
+
+[211]
+THAI: ทั้งหมดในกลุ่มแทงเทียนนั้นๆ
+EN: The whole group of candles in that area.
+
+[212]
+THAI: ถ้าในกลุ่มนั้นมีแทงอย่างนี้
+EN: If in that group you have candles like this,
+
+[213]
+THAI: เล็กๆๆๆๆๆๆ แล้วโผล่มาแบบนี้
+EN: small, small, small, small - then this one pops up,
+
+[214]
+THAI: อันนี้เรียกใหญ่
+EN: this one's called large.
+
+[215]
+THAI: แต่ถ้าในกลุ่มของพวกมันที่ปนๆกันอยู่
+EN: But if in their group they're all mixed together,
+
+[216]
+THAI: ปุ๊บๆๆๆๆๆๆ
+EN: boom boom boom boom -
+
+[217]
+THAI: มันไม่เรียกใหญ่
+EN: it's not called large.
+
+[218]
+THAI: มันเท่าๆกัน นี่เรียกว่า
+EN: They're about the same - this is called
+
+[219]
+THAI: ก็พวกเดียวกันนี้แหละ
+EN: the same group.
+
+[220]
+THAI: นี่ใหญ่ นี่ไม่เรียกว่าใหญ่
+EN: This is large. This isn't called large -
+
+[221]
+THAI: แบบมีนัยสำคัญ
+EN: significantly large.
+
+[222]
+THAI: ไอ้เนี่ยเรียกใหญ่
+EN: This one's called large.
+
+[223]
+THAI: เห็นไหมครับ
+EN: See?
+
+[224]
+THAI: แต่สมมุติว่าในกลุ่มแบบเนี้ย
+EN: But let's say in a group like this,
+
+[225]
+THAI: เจอแทงเนี้ย อันนี้ยังไม่เรียกว่าใหญ่นะครับ
+EN: you see this candle - this still isn't called large.
+
+[226]
+THAI: มันใกล้เคียงกัน ขนาดใกล้เคียงกันสู่สี
+EN: They're similar - similar sizes.
+
+[227]
+THAI: เนี่ยเล็กๆๆๆๆ เจอแทงเนี้ยเรียกว่าใหญ่
+EN: These are small, small, small - see this one? That's large.
+
+[228]
+THAI: โอเคอยู่
+EN: Got it?
+
+[229]
+THAI: นึกออกไหมครับ
+EN: Can you visualize it?
+
+[230]
+THAI: ยังกลุ่มไหนอีก
+EN: What about other groups?
+
+[231]
+THAI: เมื่อกี้เจอแท่งแบบนี้ เรียกว่าใหญ่
+EN: Earlier we saw a candle like this - called large.
+
+[232]
+THAI: สมมุติเจอทั้งสองแถวๆอย่างนี้
+EN: Let's say you see both of them around the same area like this.
+
+[233]
+THAI: นี่นี่นี่นี่นี่นี่ สี่แท่งนี้ ห้าแท่ง หกแท่งนี้
+EN: This, this, this, this, this, this - these four candles, five candles, six candles -
+
+[234]
+THAI: ถือว่าใกล้เคียง ยังไม่เรียกว่าใหญ่
+EN: they're considered similar, not called large yet.
+
+[235]
+THAI: เป็นกลุ่มเดียวกันอยู่นะครับ
+EN: They're in the same group.
+
+[236]
+THAI: ไอ้ที่ใหญ่เนี่ยคือตัวนี้ ตรงนี้เรียกว่าใหญ่
+EN: The large one is this one - this is called large.
+
+[237]
+THAI: อันนี้อาจจะเรียกว่าใหญ่ด้วยก็ได้
+EN: This one could also be called large.
+
+[238]
+THAI: เพราะมันค่อนข้างที่จะโดดเด่นออกมา
+EN: Because it stands out a bit.
+
+[239]
+THAI: แต่อย่าว่าถึงถือที่พลังงานอย่างถือว่าใกล้เคียงถ้านับไส้ด้วยนะครับ
+EN: But in terms of momentum, they're still similar if you count the wicks.
+
+[240]
+THAI: ถือว่าใกล้เคียงอยู่ นี่ก็ถือว่ายังไม่โดดเด่น
+EN: Still considered similar - this one doesn't stand out yet.
+
+[241]
+THAI: ถือว่าตัวนี้ใหญ่จริงจริง นะครับ
+EN: This one is truly large.
+
+[242]
+THAI: ส่วนนี้ก็พวกให้กับตัว เดี๋ยวค่อยมาเรียนรู้กันแล้วกันนะครับ
+EN: This part we'll learn together later.
+
+[243]
+THAI: ให้ดูก่อนว่าจากที่ตอนแรกแท่งเทียมแบบนี้แบบเล็กๆ ที่เห็นเนี่ย ทรงมัน
+EN: Let's look first - from the beginning, these small candles we saw, their shape -
+
+[244]
+THAI: มันก็ยังมีทรงแบบนี้อีก มีแต่ไส้ และก็เหลือ Body หรือรำตัวของตัวแท่งเทียมเล็กๆ นะครับ
+EN: there's also this shape - all wick with a small body left.
+
+[245]
+THAI: อันนี้ก็เป็นประเภทกลับตัว อันนี้เห็นเป็นแท่งเดียวๆ อันนี้จะมีเห็นเป็นชุดๆ หน่อย
+EN: These are reversal types - this one's a single candle, this one comes in sets.
+
+[246]
+THAI: คือตัวนี้ อยู่ตรงนี้ อยู่นี้ นี่เป็นชุด นี่คู่นี้แสดงถึงการกลับตัว เขาจะมีชื่อของเขาอยู่
+EN: Like this one, here, and here - this is a set. This pair indicates reversal, they have their own names.
+
+[247]
+THAI: อย่างเงี้ย Engruffing อันนี้ Railroad รางคู่ ของฝรั่งนะครับ ก็จะเรียกแล้วแต่
+EN: Like Engulfing, this one's Railroad or double track - Western names, depends what you call them.
+
+[248]
+THAI: นี่ Pinbar A Doji อันนี้รางอยู่ข้างบน อันนี้ Engruffing จากข้างบน
+EN: Here's Pinbar, a Doji, this one's railroad from above, this is Engulfing from above.
+
+[249]
+THAI: ความหมายมันก็คือราคาวิ่งมา อันนี้ Bullish Candle Sticks แสดงว่าจะกลับตัวเป็นขาขึ้น
+EN: The meaning is price moves - this is Bullish Candlesticks, means it's reversing to bullish.
+
+[250]
+THAI: กำลังจะกลับตัวเป็นขาขึ้น นึกออกไหมครับ
+EN: About to reverse to bullish. Can you picture it?
+
+[251]
+THAI: ประมาณว่า จะไปเร็วๆนะครับ เพราะมันยังไม่ถึงจุดสำคัญที่เราต้องเรียนรู้กัน
+EN: I'll go through this quickly because we haven't reached the key points we need to learn yet.
+
+[252]
+THAI: ประมาณราคามันวิ่งมาอย่างนี้ มันอยู่เทนลง ลงมาเรื่อยๆเลย
+EN: Like price moves this way - it's in a downtrend, keeps dropping.
+
+[253]
+THAI: พอเจอแท่งนี้เข้าไปปฟ มีโอกาส ใช้คำว่ามีโอกาสที่จะขึ้น
+EN: When you see this candle - boom - there's a chance, I say there's a chance it will rise.
+
+[254]
+THAI: ชุดอื่นก็เหมือนกัน มีโอกาสขึ้น
+EN: Other sets are the same - chance of rising.
+
+[255]
+THAI: ถ้าเจอแท่งกลับตัว ส่วนอันนี้ Bullish Candle Sticks
+EN: If you see reversal candles. This one's Bullish Candlesticks -
+
+[256]
+THAI: ก็แสดงว่า เป็นขาขึ้นมาเรื่อยๆเลย เพราะเจอตัวนี้เบรกเข้าไป มีโอกาสกลับเป็นขาลง
+EN: means it's been going up, then sees this one break in - chance of reversing to bearish.
+
+[257]
+THAI: ทุกอัน คล้ายๆ แต่เราจะไม่จำแบบนี้นะครับ
+EN: All of them are similar, but we won't memorize them like this.
+
+[258]
+THAI: เราจะไม่จำแพทเติร์น คือจำว่าเจออันนี้ แล้วมันต้องเป็นแบบนี้
+EN: We won't memorize patterns - like "see this one, it must do that."
+
+[259]
+THAI: ค่อนข้างที่จะเฟลบ่อย ถ้าเจออย่างนี้
+EN: It fails quite often if you approach it this way.
+
+[260]
+THAI: คือหมายถึงว่ามันไม่ตรง มันอาจจะไม่ขึ้นหรือลงตามทฤษฎี
+EN: Meaning it doesn't work - it might not go up or down according to theory.
+
+[261]
+THAI: หรือว่าเขากล่าวไว้ นะครับ
+EN: Or as they say.
+
+[262]
+THAI: เพราะอะไรเดี๋ยวเรามาดูกัน นะครับ
+EN: Why? Let's take a look.
+
+[263]
+THAI: นี่ไง มาถึงรูปแบบแท่งเทียนต่าง ๆ แล้ว
+EN: Here we go - various candlestick patterns.
+
+[264]
+THAI: ก็จะมีแบบเยอะมากเลยนะครับอันนี้แบบนี้เป็นแท่งเดี่ยวนะดูเป็นแท่งเดี่ยวก่อนเนี่ยเดียวเดียวเดียวที่หมายถึงจะกลับตัวนะครับเดียวเดียวพอมาถึงมาดูที่ตัวอย่าง позitivumเนี่ยเห็นไหมครับ
+EN: There are tons of them - this type is a single candle. Look at single candles first - just one that supposedly signals reversal. Now let's look at examples, see?
+
+[265]
+THAI: นี่ โดจิ เหมือนประมาณทางแถว ๆ นี้
+EN: Here, Doji - something like this around here.
+
+[266]
+THAI: ซึ่งพวกนี้หมายถึงกลับตัวนะครับเนี่ย
+EN: These are supposed to mean reversal.
+
+[267]
+THAI: แต่มันเจอปุ๊บกลับไหม
+EN: But when you see them, do they reverse?
+
+[268]
+THAI: อ่า ไปได้นิดหน่อย
+EN: Maybe a little bit.
+
+[269]
+THAI: อ่า ใน Pin Bar
+EN: In Pin Bar,
+
+[270]
+THAI: Shooting Star
+EN: Shooting Star -
+
+[271]
+THAI: เนี่ย ๆ เนี่ย แท่งลงเนี่ย อย่างนี้
+EN: this one, this bearish candle like this -
+
+[272]
+THAI: ควรจะลง มันก็ไม่ลงนะ มันก็ไปต่อ
+EN: should go down. But it doesn't drop, it keeps going up.
+
+[273]
+THAI: ถ้าสมมุติเราไปเซลล์เอาแถว ๆ อย่างนี้
+EN: If we try to sell around here,
+
+[274]
+THAI: เจอแท่งนี้เซลล์ปั๊บ
+EN: see this candle and sell -
+
+[275]
+THAI: เหมือนจะได้นะ เหมือนจะลงมานิดนึงสุดท้ายมันขึ้นมาเนี่ย
+EN: looks like it'll work, like it drops a bit, but then it goes back up.
+
+[276]
+THAI: เห็นไหม อ้าว ก็แปลว่า ไม่แม่นสิ ไม่ถูก
+EN: See? Well, that means it's not accurate, not right.
+
+[277]
+THAI: เจอตรงนี้ อ่ะเนี่ย เจอตรงนี้อีกเนี่ย
+EN: See it here, and here again.
+

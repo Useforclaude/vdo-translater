@@ -1,0 +1,1932 @@
+[0]
+Hello everyone.
+
+[1]
+In this lesson, we'll be talking about
+
+[2]
+waves, Wave Analysis.
+
+[3]
+After we've analyzed candlesticks quite a bit,
+
+[4]
+let's try looking at them as waves.
+
+[5]
+Candlesticks - multiple candlesticks combined together form a wave.
+
+[6]
+First, let's get familiar with this.
+
+[7]
+We'll see that we have
+
+[8]
+I'll draw three lines, three lines.
+
+[9]
+What are these? Let's take a closer look.
+
+[10]
+These three lines represent waves. They're candlesticks.
+
+[11]
+Candlesticks. Now I'll draw it for you like this.
+
+[12]
+Alright.
+
+[13]
+It's about momentum. We're going to look at the psychology of candlesticks.
+
+[14]
+Of waves, which are candlesticks.
+
+[15]
+Candlesticks - multiple candlesticks combined together.
+
+[16]
+We'll call this a rise. It's rising in a line, almost.
+
+[17]
+I'll only explain one side, which is when it hits resistance.
+
+[18]
+The reverse case, the explanation also applies to when it comes down and hits support, same thing.
+
+[19]
+Important resistance, important support.
+
+[20]
+Okay.
+
+[21]
+Now let's look at this wave.
+
+[22]
+The way price climbs might come in this pattern.
+
+[23]
+Like this.
+
+[24]
+And like this.
+
+[25]
+This is one pattern.
+
+[26]
+Now we'll see waves, or the pattern of groups of candlesticks combined to form a wave.
+
+[27]
+Three patterns running up to resistance.
+
+[28]
+Now what does this tell us?
+
+[29]
+Normally if we don't look at waves, we just look at candlesticks, we'll already know that this one
+
+[30]
+has momentum rising, and the momentum is gradually decreasing, see?
+
+[31]
+This one, from weak momentum, if we read the candlesticks,
+
+[32]
+we might not read the whole bar. We might just read this part, saying
+
+[33]
+compared to this one, this one's momentum is decreasing. This one's momentum is increasing.
+
+[34]
+This one's momentum is relatively steady. But if we look at it combined as a wave
+
+[35]
+we can see it faster, easier, or get a bigger picture. We'll see it already just by looking at the rise. It already tells us.
+
+[36]
+When it comes to the momentum when hitting
+
+[37]
+important resistance, which rise pattern do you think
+
+[38]
+has the best chance of breaking through resistance?
+
+[39]
+If there are only these three patterns, only three patterns like this,
+
+[40]
+the one with the highest chance is this one.
+
+[41]
+You'll see its momentum is very low at first, then gradually increases.
+
+[42]
+It glides along like this, glides along the floor, then shoots up with increasing steepness, like in stocks they'd say the market maker is accumulating, preparing the position.
+
+[43]
+So this one will be number 1, meaning the momentum is quite strong going up.
+
+[44]
+This one's called exponential, curved like this, curving upward.
+
+[45]
+The opposite going down would be like this obviously.
+
+[46]
+Because it's relatively steady, it's linear, it's a straight line.
+
+[47]
+When it keeps climbing, there's a chance it'll test the resistance and break through.
+
+[48]
+This one has less momentum than the others.
+
+[49]
+Whether you look at waves or candlesticks,
+
+[50]
+you'll already see that the wave with this steepness
+
+[51]
+curves outward.
+
+[52]
+The fact that it curves away from resistance already shows it doesn't have enough momentum to break through.
+
+[53]
+There's a higher chance it'll consolidate compared to these two waves.
+
+[54]
+There are 2 possibilities for this rise pattern.
+
+[55]
+It breaks through in one go.
+
+[56]
+It can make a candlestick break through resistance.
+
+[57]
+Or it might consolidate down a bit, consolidate lightly, then go back up.
+
+[58]
+This one's the same, but because its momentum is steady,
+
+[59]
+there's nothing breaking it, but when it hits resistance,
+
+[60]
+there might be a slight consolidation to accumulate momentum, then continue.
+
+[61]
+In this case there's a chance of both - going straight through or consolidating. But this one,
+
+[62]
+does it have a chance to go straight through? Yes, it does.
+
+[63]
+But the percentage is lower than this one.
+
+[64]
+Because it's like driving a car, gradually pressing the accelerator more and more,
+
+[65]
+shifting up gears higher and higher,
+
+[66]
+increasing speed,
+
+[67]
+you can break through the wall, punch through the wall.
+
+[68]
+This one is like driving steadily at 80.
+
+[69]
+It just keeps going. If it encounters resistance, it'll need to pause a bit, then go.
+
+[70]
+This one comes gradually, driving comfortably, slowly increasing,
+
+[71]
+40, 60, 70, 80, 90, to over 100, 200, it has a chance to break straight through.
+
+[72]
+Or it builds up then hits an obstacle, it might pause a bit to see what it is.
+
+[73]
+Coming in fast, then encountering resistance, might hesitate a bit.
+
+[74]
+But with that speed,  even if you hit the brakes,
+
+[75]
+Try to imagine, you're driving, hit the brakes.
+
+[76]
+Driving fast, engine's roaring, hitting the barrier, speeding all the way,
+
+[77]
+and touch the brakes, it won't stop. It'll just slow down a tiny bit.
+
+[78]
+The reaction is just a small pullback then it has to keep going
+
+[79]
+following the momentum that's already there. Get it?
+
+[80]
+This one, it accelerated from far away then gradually hits the brakes.
+
+[81]
+Reducing speed gradually.
+
+[82]
+Then hits an obstacle, a barrier, hits resistance,
+
+[83]
+or hits a wall,
+
+[84]
+it's hard to get through.
+
+[85]
+Like you need to walk up and see what it is first.
+
+[86]
+Can't turn back because it still has some speed left or some momentum, but it's not that strong.
+
+[87]
+To turn it around, if it only comes back this much and steps on the gas again, it's difficult. It might need to reverse much further back,
+
+[88]
+then start building momentum from scratch again to charge through.
+
+[89]
+When it sets up far away, sort of like that.
+
+[90]
+In more technical or formal terms, price has come up a long way.
+
+[91]
+Those who bought are selling along the way near resistance, afraid it won't break through.
+
+[92]
+So there's a decrease in momentum.
+
+[93]
+But here there's a strong price drive going up. In stocks they'd say they accumulated a lot, they want it through in one go.
+
+[94]
+Similar concept. This one, price has stability.
+
+[95]
+It travels like this, this pattern is linear, it goes up and consolidates a bit then continues up.
+
+[96]
+Here we need to be careful. From looking at waves, looking at momentum going up,
+
+[97]
+we come look at the candlesticks here.
+
+[98]
+Here the chance we'll see selling pressure candlesticks,
+
+[99]
+or reversal candlesticks, whether we see one clear candlestick
+
+[100]
+or multiple candlesticks, and we combine them into one
+
+
+[101]
+selling pressure pattern. Combining candlesticks into this pattern is less likely than this one.
+
+[102]
+Because it's such large candlesticks. The precision as it builds up, combining large candlesticks to become this pattern,
+
+[103]
+it's almost impossible. But small candlesticks combined into this, it's more likely.
+
+[104]
+So this becomes number one in terms of momentum.
+
+[105]
+This is number 2, and number 3. The reverse applies for support.
+
+[106]
+Price running down, touching support, testing support,
+
+[107]
+it's under the same conditions.
+
+[108]
+When reading waves in Price Action, when we look at the momentum of price movement,
+
+[109]
+besides reading candlesticks, we read waves together.
+
+[110]
+Now waves, besides
+
+[111]
+what I'll call the shapes,
+
+[112]
+straight line, saturation curve,
+
+[113]
+curved at the end like this,
+
+[114]
+and exponential curve, curved at the beginning then shooting up,
+
+[115]
+like this. This one is a straight line, linear.
+
+[116]
+There's another way to analyze
+
+[117]
+waves
+
+[118]
+in another way. We've analyzed by shape, now
+
+[119]
+we analyze in another way. Let's continue
+
+[120]
+analyzing. This is another wave analysis method
+
+[121]
+following from earlier. Earlier we had three patterns like this.
+
+[122]
+Instead of focusing on the wave shape like this,
+
+[123]
+I'll draw them all as straight lines, no curves, all straight lines.
+
+[124]
+But this analyzes the momentum of price, the force in pushing it up or down,
+
+[125]
+either way, depending on what the trend is.
+
+[126]
+There'll be three types. Simply put, it's looking at the angle.
+
+[127]
+We measure this one as horizontal,
+
+[128]
+as the vertical axis. If we think of it as a straight axis,
+
+[129]
+if it's straight like this, it's 90 degrees.
+
+[130]
+This one I'll say is about 75 degrees, something like that.
+
+[131]
+This one might be around 60, this one maybe 45, like this.
+
+[132]
+Look at the degrees, the angle here.
+
+[133]
+The angle here tells us about the wave's momentum,
+
+[134]
+whether it's strong or weak as it travels.
+
+[135]
+It'll leave traces for us. In this case, going up like this, the price chart rises
+
+[136]
+as an uptrend. Look at this picture. Going up like this, does it have a chance to fall when it reaches here? This is resistance.
+
+[137]
+Simply put, it can consolidate, and it might have a chance to break through resistance.
+
+[138]
+So it consolidates down this much.
+
+[139]
+Now does this pattern have a higher chance of falling than the first one?
+
+[140]
+Yes, a higher chance of consolidating. Because see how it's tilted,
+
+[141]
+using the word "steepness." Low steepness, high steepness, right? High steepness is like climbing a mountain. This one has lower steepness, climbing less.
+
+[142]
+It's like price can keep going, but this pattern still has a chance to continue.
+
+[143]
+If considered relatively stable,
+
+[144]
+it might consolidate. Instead of consolidating as much as the previous one, it might consolidate more.
+
+[145]
+It might go slowly.
+
+[146]
+But this pattern is interesting. The steepness compared to the previous 2
+
+[147]
+is low. What do we call it?
+
+[148]
+This angle, we look at the angle.
+
+[149]
+This one is much lower than the others. It's flat.
+
+[150]
+Does it have a chance to continue? Yes, it has a chance.
+
+[151]
+It doesn't mean it can't go. We need to understand this as a principle to know.
+
+[152]
+We have to use many things together. We don't use just one thing
+
+[153]
+and it'll be exactly right, spot on. It's not like that.
+
+[154]
+We have to take principle or theory A plus B plus C and combine them to analyze.
+
+[155]
+In this case, it's the same - it has a much higher chance of falling. It has a higher chance of going down,
+
+[156]
+and might even have a chance of changing trend. Like it's losing momentum if we combine the factors.
+
+[157]
+It's like right now when it's rising, there's pressure pushing down.
+
+[158]
+Pushing, pushing down, those forces can't fight this one at all.
+
+[159]
+It pushed up to this steepness. But this one, it's like pressure along the way.
+
+[160]
+See? This line, what do we call it, the steepness of the chart.
+
+[161]
+It shows this side has decent momentum, but if it's this pattern, it's pushing, pushing, pushing down.
+
+[162]
+Meaning there's downward pressure here more than these two patterns, so price can't actually support itself and push up with steepness. So it gradually
+
+[163]
+tilts out, less steep. This one has strong pressure pushing strongly, this one pushes less. So it's like fighting and can't hold, so it gradually tilts down. The price axis gradually tilts down, so it has a chance, psychologically speaking, that it
+
+[164]
+can't continue. We combine it with something like this.
+
+[165]
+For example, we might look, we analyze it rising first.
+
+[166]
+We can combine it with candlesticks too, depends on you.
+
+[167]
+Rising candlesticks in this pattern, sometimes what we see, it's often a candlestick that
+
+[168]
+has momentum that's steep like this going up.
+
+[169]
+This one's similar.
+
+[170]
+There'll be a mix of small and large candlesticks here and there.
+
+[171]
+But we'll see it's unlikely to be a candlestick pattern like this.
+
+[172]
+Down. So let's analyze together.
+
+[173]
+This is another principle to use and look at.
+
+[174]
+This part is another pattern, it's a psychological pattern
+
+[175]
+that's quite effective.
+
+[176]
+Meaning, this is a downtrend, downtrend. Going down, down, down.
+
+[177]
+When it's done going down, it goes up. It goes up like normal, going up.
+
+[178]
+But when you look at it going down, the difference starts here.
+
+[179]
+It goes up, up more than it went down.
+
+[180]
+It has upward momentum, buying pressure coming in.
+
+[181]
+But when it reaches this point, it's in the resistance zone, so it has to test and consolidate down.
+
+[182]
+Now when it consolidates, it's consolidating gradually down over time.
+
+[183]
+When it's going up, see? This range
+
+[184]
+is narrow, meaning it takes less time. If these candlesticks are
+
+[185]
+day candlesticks, what's this, this might be just about 4 days.
+
+[186]
+Rising 4 days to reach this height. But when falling, it might
+
+[187]
+take about 2 weeks. It takes about 2 weeks to gradually fall as day candlesticks, 2 weeks.
+
+[188]
+But when it comes near support, there's buying pressure supporting it.
+
+[189]
+The green side comes in to defend, coming up like this candlestick.
+
+[190]
+Saying "like this candlestick" means two cases - we see it as one candlestick
+
+[191]
+or it's some pattern, but when we
+
+[192]
+use the technique of combining candlesticks, it becomes a strong upward push
+
+[193]
+like this. So it has a chance to shoot up like this.
+
+[194]
+If we call it, it's down slow, up fast.
+
+[195]
+This pattern, like this. Up fast, down slow.
+
+[196]
+You ask, up fast down slow, so why does it have to go up?
+
+[197]
+Why doesn't it go down? If following psychology, here it's driving up with strong upward momentum.
+
+[198]
+But when falling it won't easily fall. If it easily fell it would fall like this. But it won't. It's stubborn. Going back to reading charts like watching movies,
+
+[199]
+the other side pushes down, it defends.
+
+[200]
+It defends, defends, defends, fights to the very end. They attack but can't reach the final line.
+
+
+[201]
+Defending, defending, defending, using a lot of time to defend.
+
+[202]
+Until there's momentum coming in, there's supporting momentum coming in.
+
+[203]
+This side might be tired, because they've been fighting for many days.
+
+[204]
+Right? Fighting for a long time, for a month or many days.
+
+[205]
+Fighting for a moment, pushes up, then gets pushed back down.
+
+[206]
+Because here is the defense line of the other side. They're in here, they push back.
+
+[207]
+But they can't push it all the way back like this.
+
+[208]
+They can't win at all. It gradually pulls back. This side, okay,
+
+[209]
+might get pushed back into their own zone more and more.
+
+[210]
+But in the end when it reaches here, there are signs of momentum coming in.
+
+[211]
+They have a chance to push up because the soldiers on this side, don't forget they've been pushing for this long.
+
+[212]
+What's important is that momentum comes in here. Don't forget, it's not just because of seeing this much pattern...
+
+[213]
+But mostly if we see a pattern like this, there's about a 70-80% chance it'll be like this already.
+
+[214]
+Using the word "chance of occurring" is already high.  Now let's look at the next case.
+
+[215]
+Here's resistance. Price rises like this, then falls.
+
+[216]
+Then price rises again like this.
+
+[217]
+I'll speak broadly first, haven't gone into specific entry points yet. But I mean when we analyze waves, this one going up like this.
+
+[218]
+Going up, up, up, up, then it falls and consolidates. Going up again,
+
+[219]
+roughly like this.
+
+[220]
+Before,
+
+[221]
+if we
+
+[222]
+think we see this pattern looks good, say we see this wave looks good, so we went long here.
+
+[223]
+Long going up, hits resistance, doesn't break through, comes down. Comes down then goes back up.
+
+[224]
+Still holding. Holding this order, entered on this wave, because we saw the pattern looks good, has momentum, should break through, so we went long.
+
+[225]
+It came down then goes back up. But this time round two when it goes up, it has this shape.
+
+[226]
+From having gone long, it becomes a point for us to consider when it hits resistance.
+
+[227]
+It might not make it this round, it might fall more than here.
+
+[228]
+So what do we do? We should take profit.
+
+[229]
+Sell out.
+
+[230]
+This is the consideration in this case where we went long or if we come to go long here, we can go long.
+
+[231]
+Now in the case where we didn't go long, we didn't go long so what do we do? Just sit and watch.
+
+[232]
+This rises strong, hits resistance, don't dare do anything. It comes with strength. Simply put, don't dare go long this round. Want to try to catch a sell
+
+[233]
+here, don't dare sell. It comes with strength, see?
+
+[234]
+Momentum comes strong.
+
+[235]
+Then it consolidates.
+
+[236]
+But when we see the second pattern,
+
+[237]
+and if we combine candlesticks or there are signals,
+
+[238]
+signals coming out in the next candlestick,
+
+[239]
+small ones,
+
+[240]
+this candlestick combined has to definitely be selling pressure.
+
+[241]
+We can
+
+[242]
+sell.
+
+[243]
+Sell down, profit going short from resistance with this wave pattern.
+
+[244]
+Compared to selling this wave, it's riskier.
+
+[245]
+I drew it so we see it going down, but actually it might only fall this much then continue. If we sold, we'd be stopped out.
+
+[246]
+In this case it's safer if we see this wave pattern.
+
+[247]
+This escapes resistance. Two angles, see?
+
+[248]
+This one's angle is lower. This one shows lots of momentum.
+
+[249]
+This one's angle is lower, so it can't
+
+[250]
+keep rising straight like this. There's resistance pressure from the other side pushing down,
+
+[251]
+if this is buying pressure, selling pressure is also there in this zone, this space.
+
+[252]
+Making price have to spread out sideways, creating a lower angle, reduced angle.
+
+[253]
+Then when we look comparing it with the candlesticks we've learned,
+
+[254]
+see how the bodies get shorter, shorter, shorter, momentum decreases.
+
+[255]
+At this point.
+
+[256]
+So using the word "probability" that price will consolidate down,
+
+[257]
+here there's a higher possibility,
+
+[258]
+over half. So we can try to decide to open an order
+
+[259]
+to sell. And stop loss we place above.
+
+[260]
+Something like that. The reason I explain is so you know why.
+
+[261]
+Know it to enter orders and exit at appropriate points.
+
+[262]
+Not exit points but entry points, entry points where we dare to risk entering,
+
+[263]
+with more safety.
+
+[264]
+Not anyone. This one is to know. If it's downtrend
+
+[265]
+downtrend, look for timing when price bounces up strongly, then
+
+[266]
+comes back down testing, taking more time than going up.
+
+[267]
+There's a chance it'll continue up.
+
+[268]
+The reverse when it's going up testing resistance,
+
+[269]
+then gets pushed down strongly,
+
+[270]
+then will go up to test again,
+
+[271]
+but looks like it doesn't have momentum like this.
+
+[272]
+There's a chance it won't break through
+
+[273]
+and will fall like this.
+
+[274]
+So it's one pattern to watch.
+
+[275]
+We can look at the opposite first.
+
+[276]
+Let's look.
+
+[277]
+Look at this one.
+
+[278]
+Look at this one.
+
+[279]
+Like EU I've drawn already.
+
+[280]
+You'll see this zone,
+
+[281]
+these two lines, it'll be a zone of
+
+[282]
+what? Of resistance.
+
+[283]
+And look when price drives up, see? Here when it goes up, very steep.
+
+[284]
+Look at the angle. Steep. And here gradually tilts out.
+
+[285]
+And this one tilts out even more, see? In the end what happens?
+
+[286]
+This is all indicator of selling pressure at resistance.
+
+[287]
+But the selling pressure when it goes up here, it goes up straight. It goes up strong. If you look at the pattern of the rise, see that here it's an exponential pattern.
+
+[288]
+If you're confused, let me outline the shape for you. It's roughly like this. It runs up like this, this wave, see?
+
+[289]
+Shows momentum. It shoots strong, right? But even with that much momentum it still doesn't break through.
+
+[290]
+But with that much force, that much momentum, the candlesticks here,
+
+[291]
+the candlesticks didn't get shorter either. If we look at candlesticks together, see they have upward momentum.
+
+[292]
+If you look at the wave pattern, it curves up as exponential, meaning accelerating with force going up.
+
+[293]
+You ask, will it actually break through? It did break through for a bit, which is here.
+
+[294]
+If you say they wanted it through, they got it through already.
+
+[295]
+But it could only continue this much.
+
+[296]
+They might've unloaded their positions here already. See? Then it drops in red candlesticks consecutively, no green at all.
+
+[297]
+So it falls. But it's not falling much because momentum is still hanging. Get it?
+
+[298]
+The original resistance line, this one broke through with
+
+[299]
+momentum, so it broke through, see? It penetrated but after penetrating
+
+[300]
+some people went long following it, thinking it broke so it'll continue.
+
+
+[301]
+It consolidates down. Now let's talk about how to
+
+[302]
+enter the structure, the way I advertised.
+
+[303]
+For those who came to learn, I teach kids, it's easy to remember.
+
+[304]
+And they can trade their way. We're bigger, we're adults.
+
+[305]
+How do we trade? Well, let's gradually look at that part.
+
+[306]
+This wave tilts, so it only went up this much then it fell. Now let's look at the third round, see?  Round three tilts even more than before.
+
+[307]
+Even less than before. This is falling to support level, same thing. See?
+
+[308]
+This angle with this angle, this angle is less, see? Shows when going up, at this zone it went up fairly steeply, then it fell.
+
+[309]
+Fell back and came up multiple candlesticks, fell three candlesticks. But this one, see, there's fighting in price. This one if we talk about it we'll repeat the candlestick stuff. We're looking at waves.
+
+[310]
+Going up, it went up then tilted, it lost
+
+[311]
+energy to keep rising. It was shown that the opposite side
+
+[312]
+is pushing down here. If it didn't, it would've pushed
+
+[313]
+straight up. But it got stuck, had to spread sideways like this. With that angle,
+
+[314]
+that's definitely support. Because it creates steepness at three levels coming down.
+
+[315]
+The first one is like this, fairly steep, which is the second,
+
+[316]
+it starts tilting out, and the third one, tilts out even more.
+
+[317]
+It's like it's about to topple over.
+
+[318]
+But here is the dam gate holding back water, water pressure about to burst from this side.
+
+[319]
+It gradually tilts, tilts out, then it falls.
+
+[320]
+When it falls what happens? The wave bursts through.
+
+[321]
+Can't hold the water in the dam, it pours down.
+
+[322]
+Sort of like that pattern.
+
+[323]
+So we see the picture as we see it.
+
+[324]
+But when it pours down, see what happens?
+
+[325]
+What happens? Look at the wave pattern.
+
+[326]
+Too many lines, getting confused.
+
+[327]
+Let me clear it and redo it.
+
+[328]
+Let's just leave this much.
+
+[329]
+Like this. Look at the falling wave pattern, how does it fall?
+
+[330]
+It falls as saturation.
+
+[331]
+Drops down strongly then curves outward.
+
+[332]
+When it's about to hit support.
+
+[333]
+Support, see? Support is here.
+
+[334]
+The support zone. Then what happens? The pattern is this weak wave like this, see?
+
+[335]
+The momentum of the candlesticks corresponds with the wave pattern.
+
+[336]
+If it shot up strongly like this, just shot up,
+
+[337]
+shooting up, remember the pattern we talked about earlier?
+
+[338]
+It fell then rose quickly, then fell slower than before.
+
+[339]
+It took more time than rising. And here it's the same. Look, it fell then rose sharply. Rose sharply, see? But when it falls again what happens?
+
+[340]
+It went up like this, came down like this, came down like this, then fell another round, it fell like this.
+
+[341]
+See? Like this. If we mark the tops we'll get this steepness. So
+
+[342]
+it creates a break, penetrating through like this. Simply put, it rose quickly
+
+[343]
+but when falling doesn't want to fall. This zone doesn't want to fall.
+
+[344]
+If we go back to candlesticks, you should already know the reason.
+
+[345]
+With this momentum here, this candlestick that's the major candle controlling,
+
+[346]
+they're controlling here. It can't fall, so
+
+[347]
+candlesticks try to go down, go down, go down. In the end
+
+[348]
+they get pushed back up because the bulls are piling up here, push out, successfully.
+
+[349]
+Get it? It's easy if you understand waves and patterns to watch. It makes it easier for us to analyze.
+
+[350]
+From not having to sit and look at candlesticks one by one
+
+[351]
+like when we learned candlesticks.
+
+[352]
+Whether candlesticks rise a lot, rise a little, have strength to fight or not,
+
+[353]
+lots of soldiers or not, and so on.
+
+[354]
+If we look at it as waves we'll see the picture faster.
+
+[355]
+And analyze accordingly,
+
+[356]
+that the momentum is retreating, is decreasing. When it drops,
+
+[357]
+it dropped down strongly, then it broke through support downward, then gradually
+
+[358]
+consolidates, curves out, touches support, shoots up. But when falling it's like it doesn't want to fall.
+
+[359]
+Like this. There's a chance it'll continue. See? It continues. It consolidates.
+
+[360]
+Then keeps going following its pattern.
+
+[361]
+If we look at a new set, it'll be the same again.
+
+[362]
+It shows price rising. This one rises straight like this, see?
+
+[363]
+This one rises the same, then curves, see? Here this zone, these two lines are still the
+
+[364]
+zone of what?
+
+[365]
+Resistance. This one rises straight, this one rises straight.
+
+[366]
+In the third round, curves out. Shows losing
+
+[367]
+and if we look at waves, see, if we just looked at candlesticks, we might not see short candlesticks
+
+[368]
+like this. We might not see this pattern.
+
+[369]
+But we see it happening. Normally it's not this pattern.
+
+[370]
+But it consolidates up, consolidates up, and looking overall it becomes this pattern anyway.
+
+[371]
+See how it can happen? This pattern can happen from any specific candlestick pattern,
+
+[372]
+or it's the wave pattern that when you look overall
+
+[373]
+is the saturation wave pattern that curves like this.
+
+[374]
+Shows price is losing momentum. Then in the end what happens?
+
+[375]
+In the end it comes down. It doesn't continue. See? It fell then went sideways.
+
+[376]
+This is EU's habit already. Besides analyzing waves, analyzing candlesticks and all,
+
+[377]
+we have to look at another thing that's essential - don't forget to look at the currency pair's characteristics.
+
+[378]
+Each pair has characteristics that
+
+[379]
+have unique traits, you have to go study it yourself.
+
+[380]
+But these principles or theories can be used with all currency pairs,
+
+[381]
+all timeframes already.
+
+[382]
+For it to be more precise it should be timeframes
+
+[383]
+that are smaller or
+
+[384]
+hourly or whatever,
+
+[385]
+smaller,
+
+[386]
+smaller meaning from 1 hour and up.
+
+[387]
+H1 and up. If it's small like 1 minute or 5 minutes, these might be too small and might be
+
+[388]
+confusing to analyze. Look like this. See?
+
+[389]
+It lost momentum so it fell. Don't see it going up at all, it just kept falling, see?
+
+[390]
+It went through here. Now let's look at another pattern, which is
+
+[391]
+triangles. Those who trade should already know triangles well.
+
+[392]
+If looking at this picture, is there a triangle? Let me draw a new one instead.
+
+[393]
+Okay, next case. It'll be about sideways.
+
+[394]
+Sideways means the chart isn't going up or down, it might be in a box.
+
+[395]
+The green line is resistance.
+
+[396]
+The green line is support.
+
+[397]
+The pattern of sideways, normally speaking,
+
+[398]
+what's abnormal, I don't know what's abnormal. Let's talk about what's normal.
+
+[399]
+It'll be just these three patterns.
+
+[400]
+Meaning hitting resistance and running in a box.
+
+
+[401]
+Running in a box. Let me zoom in a bit to make this picture better.
+
+[402]
+So it's running in a box, roughly
+
+[403]
+like type one. It'll be in a box like this.
+
+[404]
+Type two, it's in a box the same,
+
+[405]
+but it doesn't go all the way. Type one goes all the way.
+
+[406]
+Type one when it swings, it creates support and resistance, right?
+
+[407]
+Now it can still run to support and resistance in between. That's type one.
+
+[408]
+There's space created. There's a gap created. It doesn't reach. This one reaches. Type 1. Type 2 doesn't reach.
+
+[409]
+If you look carefully at this pattern, it's somewhat familiar, you might've seen it but might not have noticed.
+
+[410]
+It's called a triangle. Type 3, it makes lows, makes highs,
+
+[411]
+but when coming down doesn't reach, doesn't reach
+
+[412]
+the original support it made.
+
+[413]
+But it comes back, transforming into a triangle.
+
+[414]
+It pushes up again, hey reaches here.
+
+[415]
+If we just look at this it's like it'll be a triangle, but it's not.
+
+[416]
+So here we can't decide yet.
+
+[417]
+But when it comes down again, it comes down to this support or lower than this,
+
+[418]
+it's not a trend anymore because if it's a trend it can't make a lower low than the previous low from what we've learned in Dow Theory.
+
+[419]
+Then it swings back up like this.
+
+[420]
+If it broke through, it might be a new downtrend,
+
+[421]
+meaning it made a lower high than the previous high. But it didn't go lower. It pushed back up like this.
+
+[422]
+This one's called sideways. This one's called a widening triangle, like this.
+
+[423]
+If it's sideways, there are about three patterns like this. Let's go look at real charts.
+
+[424]
+To know first that this is sideways. Now how do we analyze sideways?
+
+[425]
+Or the principles of trading sideways, how do we trade it?
+
+[426]
+This is an interesting sideways. I use the word "interesting."
+
+[427]
+Actually all three types work. Like type 1, the normal way of trading would be
+
+[428]
+to trade highs and lows. Actually for sideways, if it were me I wouldn't really trade it.
+
+[429]
+But this is just the principles. In case some people like it.
+
+[430]
+You ask is it difficult? It's not too difficult, not too easy either.
+
+[431]
+Not difficult is if you know it's a sideways box like this, just catch sells,
+
+[432]
+catch buys, that's it.
+
+[433]
+But what's difficult
+
+[434]
+is knowing whether it'll be in a box or not, whether it'll be sideways like this?
+
+[435]
+Does it have a chance to break out? It might be like this, comes here, falls here. Say you bought, then thinking you'll sell here, take profit here, it might go up
+
+[436]
+then fall like this. Right? So sideways is something where if I'm not confident I won't trade.
+
+[437]
+Same thing, say this pattern happens. You sell, about to sell here,
+
+[438]
+it might only fall this much then run as a trend. Could happen.
+
+[439]
+So it's difficult. It's difficult in not knowing.
+
+[440]
+It's easy, like easy is if you know, then it's easy.
+
+[441]
+So what now? Nothing. For me I won't trade it.
+
+[442]
+But I'm telling you the principle of trading is that once we can identify the position where it's making sideways highs and lows,
+
+[443]
+swing highs swing lows, repeated 2 times already,
+
+[444]
+top first, top second, top 2. Bottom 2 is here.
+
+[445]
+Here is the next point to trade buy and sell following support and resistance.
+
+[446]
+That's it. As for another type, type 2 is the triangle pattern.
+
+[447]
+This one's kind of interesting. Triangles. Analyzing triangles.
+
+[448]
+Because it'll be, price will be like this, sideways.
+
+[449]
+Generally speaking, safe triangle trading is trading when it breaks out of the triangle.
+
+[450]
+Whether it breaks through the top or bottom. Because there'll be criteria that if a triangle breaks
+
+[451]
+whichever way it goes, it'll go about the distance of, approximately the height of roughly
+
+[452]
+this is called the base. This is the peak of the triangle. Here is the base.
+
+[453]
+It'll get approximately the same height or distance.
+
+[454]
+For safety you have to trade the break. When it breaks up, it means you know it'll go up.
+
+[455]
+But for the safest triangle break trading, some people might break and trade immediately.
+
+[456]
+Might break and go long immediately. Now there's a chance it could be a fake break.
+
+[457]
+A safer method for trading is to let it break. But when it breaks, it breaks about
+
+[458]
+the same distance as the base. Then wait for it to come
+
+[459]
+back, then try selling following it. Or if you're still scared it'll trick you again,
+
+[460]
+if you buy here then it falls again, something like that, well depends. But if you see it break,
+
+[461]
+pullback clearly, now not sure if it'll continue down or will it really go back up,
+
+[462]
+will it trick here? Simply put, this peak,
+
+[463]
+use the method of setting a pending order. Here would be a buy stop.
+
+[464]
+Writing is hard with a mouse. Buy stop, let's say.
+
+[465]
+When price comes back up and touches, it'll continue in a distance roughly equal to the base width.
+
+[466]
+If it breaks down it's the same, set a sell stop here, going down.
+
+[467]
+So choose how to trade. How you want to trade triangles,
+
+[468]
+how to trade sideways in triangle form.
+
+[469]
+There's still a way to analyze it.
+
+[470]
+Instead of just analyzing and trading, some people don't want to analyze.
+
+[471]
+Can we know which way it'll go? Something like that?
+
+[472]
+There is a method.
+
+[473]
+Method 1 is the simple method.
+
+[474]
+Simple is before it becomes sideways, it has to be a trend first.
+
+[475]
+Say it's an uptrend,
+
+[476]
+then it slowly...
+
+[477]
+It doesn't have... Simply put it's just a triangle.
+
+[478]
+It's sideways. The question is, the simple trading method is
+
+[479]
+trade following its original trend. Simply put it's just tired.
+
+[480]
+It's tired from climbing, so it rests. It climbed the mountain and found a rest stop midway,
+
+[481]
+so it rests, that's all. Then it'll continue.
+
+[482]
+Don't have to think too much. This is the simple thinking method. Trade following the trend, the same. Downtrend is the same. That's it.
+
+[483]
+It'll go following its original trend. This is simple thinking. Trade following trend. Simple analysis. Want to
+
+[484]
+analyze with more principles than this? Some people say, too easy?
+
+[485]
+Sure, if you like difficult, it's fine.
+
+[486]
+It's not difficult. But there are more principles than this.
+
+[487]
+There are more principles to add. Looks better.
+
+[488]
+Like this. Which we can analyze in 2 ways, 2 types.
+
+[489]
+I'll use a case where it's already running up.
+
+[490]
+Running up or down I don't know. Let's say it's a pattern like this.
+
+[491]
+Sideways in a box, and we draw lines around its swing.
+
+[492]
+Connecting lines to form a triangle. So it's a triangle.
+
+[493]
+In this case, method one, we analyze from the points where we connect the swing points.
+
+[494]
+Here. The swing points in various places.
+
+[495]
+Swing up, swing down, swing up,
+
+[496]
+but when swinging up here, see? Here's the trendline.
+
+[497]
+There's a gap, there's space going up, it doesn't reach.
+
+[498]
+It's like it wants to move here,
+
+[499]
+but something came and pushed it down here,
+
+[500]
+making the momentum not reach.
+
+
+[501]
+So there's a chance the triangle will be broken downward.
+
+[502]
+Because it's like pressure here pushing. We connect these two points.
+
+[503]
+We connect the two points.
+
+[504]
+Catch the back.
+
+[505]
+Say this point touches with this point,
+
+[506]
+this line would still come touch here, right?
+
+[507]
+But when going up, it doesn't reach. It's like there's momentum from the other side
+
+[508]
+pushing down, so there's a chance price will be pushed, pushed until it breaks through downward, penetrating the triangle downward.
+
+[509]
+Method two for analyzing is what we've learned - the steepness.
+
+[510]
+Look at its momentum. See it going up and down, up down up,
+
+[511]
+but when going up, going up, this one's going up step one, going up step two,
+
+[512]
+the steepness starts tilting out, see? Like this, opening.
+
+[513]
+But when going up here, there's no momentum to rise. At the triangle tip.
+
+[514]
+This is normal. This one, its rise, we can't really see
+
+[515]
+what its momentum is like. But it's clear that the point where it reverses swing,
+
+[516]
+the reversal, it doesn't reach here. This one reaches. But the momentum for it to reach,
+
+[517]
+it tilts out, has low steepness, flattens out.
+
+[518]
+So it shows there's downward pressure resisting here too.
+
+[519]
+So there's a chance it'll break down like this. Meaning penetrating the triangle to the downside.
+
+[520]
+Same thing. This is analyzing two methods.
+
+[521]
+Separate from this one which is looking at analyzing more.
+
+[522]
+Sort of like this. See? Here I drew it as a triangle. The steepness, see? Going up first attempt, going up second attempt, going up third attempt, see? Does it have momentum? Flattens out.
+
+[523]
+In the end which side does it break? Breaks downward. Breaks, comes back up to pullback, see what I said about when trading, waiting to trade,
+
+[524]
+sometimes some people trade the break at this candlestick, catch this candlestick then next candlestick continues down.
+
+[525]
+But if we want it safer, it'll come back up, pullback, then fall, then sell down.
+
+[526]
+There's a triangle here too. Here it's the same, the steepness, see?
+
+[527]
+Going up attempt 1, going up attempt 2, going up attempt 3, not much momentum.
+
+[528]
+So it broke downward.
+
+[529]
+As for this one, it went up. It's a triangle too, see?
+
+[530]
+We connect lines connecting swings.
+
+[531]
+Here it doesn't reach, see, it doesn't reach the trendline here.
+
+[532]
+Like there's some momentum supporting it up. It won't come down, so it goes up.
+
+[533]
+Two methods. See? Using both methods. It's up to whether you can analyze and see it.
+
+[534]
+Something like that. This is an example from a real chart.
+
+[535]
+Triangles. Rectangle will be a different pattern. Let's continue, should already understand.
+
+[536]
+This one is engulfing. It's showing momentum. If you look, you'll already know it's a consolidation rise and curving, then it has a chance to go up like this.
+
+[537]
+Next. This is called channel. A channel is like
+
+[538]
+this, it's a channel.
+
+[539]
+The chart runs like this. You ask why it's called a channel? Well when you draw
+
+[540]
+trendlines framing it, it becomes a channel like this.
+
+[541]
+And there's a chance it could form as, basically, price shoots up like this,
+
+[542]
+where the name is. But when it actually happens, it can happen in two patterns.
+
+[543]
+Channel first then spike, or spike first then channel.
+
+[544]
+Now why is it important? We measure its height. The channel's height.
+
+[545]
+The channel's height and when it spikes, it'll be about the same. About equal.
+
+[546]
+Same thing. In this case it's the same. When it's a spike then channel, the height will be similar.
+
+[547]
+And the channel, you ask why it's a channel?
+
+[548]
+Because we can't draw lines, draw waves clearly.
+
+[549]
+Inside the channel itself. It's quite confusing, quite messy.
+
+[550]
+Normally if price runs well, it'll run
+
+[551]
+gradually climbing up. But a channel will come out in the pattern of
+
+[552]
+can't draw it. They overlap all over.
+
+[553]
+Let's say that. This one really slid. Something like this.
+
+[554]
+Then then suddenly, shoots up. That's it.
+
+[555]
+Called channel spike. If we look at the chart, it'll be sort of like, where?
+
+[556]
+Here. See? Shoots up, then becomes a channel, a box coming down, like this.
+
+[557]
+So it's considered a channel spike.
+
+[558]
+See? Here messy, messy in two waves, then drawing head to tail isn't possible, it goes through
+
+[559]
+its own support and resistance. Perfectly can't do it. Not here. We'll draw here, it's all messed up around here.
+
+[560]
+So it's a channel.
+
+[561]
+Like this.
+
+[562]
+Like this.
+
+[563]
+Can draw it as a channel, see? Its head can be drawn together. It's a channel.
+
+[564]
+Then it broke, and shot up as a spike, as a long candlestick breaking out of the channel box.
+
+[565]
+See?
+
+[566]
+Like this. It'll get roughly the distance that it penetrated the box.
+
+[567]
+The reverse when it's spike first then channel, it gets about the same too.
+
+[568]
+See? Something like this.
+
+[569]
+Get it? Something like this.
+
+[570]
+Let's come back to detail again later. Let's go look at various patterns first.
+
+[571]
+This one's called divergence, meaning price conflict.
+
+[572]
+Conflict how? Normally if it's an uptrend, what has to happen is
+
+[573]
+highs have to keep getting higher, right?
+
+[574]
+Lows have to keep lifting up. But when it reaches a certain peak,
+
+[575]
+price is higher, that's true, these 2 peaks,
+
+[576]
+but the low isn't lifted. The low stays similar or equal, or this low might even be lower.
+
+[577]
+It's one warning sign that there might be a trend change from uptrend to downtrend.
+
+[578]
+When price loses balance it's messy. See?
+
+[579]
+It swings around, opens wider.
+
+[580]
+Meaning we don't know which side is dominant. Like it'll rise, it rises.
+
+[581]
+Want to fall, it comes down.
+
+[582]
+Then it plays back up. We'll try to catch the trade on the third attempt going up. If it's one, two, three, at this level, here, it might fall. Or it might fall here then continue up. Or it might fall here and penetrate long downward, changing trend entirely. To be sure, it already
+
+[583]
+broke the original support here. Same for
+
+[584]
+if it's downtrend. Round 3, one, two,
+
+[585]
+3, here. The pattern will be
+
+[586]
+let me look for it first.
+
+[587]
+Just found one so I'll show you.
+
+[588]
+This is a triangle. See, connect this point with this point.
+
+[589]
+Then we analyze as we've analyzed. What happened?
+
+[590]
+See that here there's 1, there's 2, there's 1, there's 2, it's a triangle.
+
+[591]
+But when it goes up this round, it doesn't reach, see?
+
+[592]
+Doesn't reach then it came down like this.
+
+[593]
+Remember the rise pattern? Rises, topples down like this.
+
+[594]
+Toppled down, so it has higher momentum going down than up.
+
+[595]
+Now here it doesn't reach, so what happened? It broke down. Broke down, see?
+
+[596]
+The candlestick broke down, came down, came back to test, retest.
+
+[597]
+This one came back up to test.
+
+[598]
+Changed from support to resistance, came up to test if it's really resistance.
+
+[599]
+Then it falls.
+
+[600]
+See?
+
+
+[601]
+This is a triangle.
+
+[602]
+Now let's look at divergence.
+
+[603]
+Let me find it.
+
+[604]
+Sort of like this.
+
+[605]
+Sort of like this. This zone is sort of like it but might not be super clear.
+
+[606]
+But it's still considered price losing balance. Losing balance how?
+
+[607]
+It's an uptrend, see?
+
+[608]
+Resistance. Here it made a higher high than before. But instead of lifting the low, it made a lower low than this one.
+
+[609]
+And rounds back up. But this round it doesn't reach this part. Now it doesn't reach, so it shows
+
+[610]
+if we're going to try to catch a sell trade, we might not catch it yet. But it's a point for us to be careful
+
+[611]
+that it's about to change trend to downtrend. You ask why? Look at the waves.
+
+[612]
+The steepness.
+
+[613]
+What happened? Does it topple?
+
+[614]
+Tilted this much, it topples. So it falls. That's it.
+
+[615]
+If looking at uptrend, look at the steepness first.
+
+[616]
+The steepness starts tilting more toward this side.
+
+[617]
+Second, look at the wave shape.
+
+[618]
+We saw the wave pattern already that the steepness, its angle is decreasing.
+
+[619]
+Next look at the shape, it has three types.
+
+[620]
+See? This pattern goes up as a wave, then it curves.
+
+[621]
+It loses momentum, curves. This one goes up straight, goes up straight, goes up straight. But this one goes up and curves, see? It curves.
+
+[622]
+Goes up straight, goes up straight, goes up straight, but this one goes up and curves. See, at resistance, lost energy. So it falls.
+
+[623]
+Right? See, it curves. See? It curves then falls, this one, see? Long too.
+
+[624]
+First it'll warn us already when divergence happens.
+
+[625]
+High rises, high rises, rises, rises,
+
+[626]
+low lifts, lifts, lifts, but the low drops down.
+
+[627]
+Then the high starts dropping down too.
+
+[628]
+Then it goes up again.
+
+[629]
+This one's higher than this one. But this one is lower than this one again.
+
+[630]
+This could be called divergence.
+
+[631]
+It might not be as clear as the theoretical drawing.
+
+[632]
+But we analyze with other things together, analyze the wave.
+
+[633]
+Sometimes if looking at candlesticks, sometimes if you're not good at seeing its momentum, seeing where it's losing momentum, which is more,
+
+[634]
+you might wonder if it'll go up or go down. Look at the wave together.
+
+[635]
+We'll see the wave, it'll be clearer. The wave when it goes up has this much steepness.
+
+[636]
+Then it gradually tilts out. Here looking at steepness. Looking at second thing,
+
+[637]
+when it goes up, it goes up as a straight line like this, goes up like this, goes up like this,
+
+[638]
+but here it's not straight. See it curves outward.
+
+[639]
+Shows that the force or momentum is losing energy here.
+
+[640]
+So it falls. There's a higher chance of falling than rising. I use this term better.
+
+[641]
+So it falls. Latest is roughly this.
+

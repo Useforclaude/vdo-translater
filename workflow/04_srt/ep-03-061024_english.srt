@@ -1,0 +1,3315 @@
+1
+00:00:01,040 --> 00:00:01,580
+Hello everyone.
+
+2
+00:00:02,560 --> 00:00:04,799
+In this Part, we'll continue with
+
+3
+00:00:05,259 --> 00:00:07,960
+Price Action, focusing on Support and Resistance.
+
+4
+00:00:09,160 --> 00:00:13,160
+After we've learned and understood about candlesticks
+
+5
+00:00:13,500 --> 00:00:14,099
+from
+
+6
+00:00:15,000 --> 00:00:15,900
+the previous Parts
+
+7
+00:00:16,640 --> 00:00:20,300
+whether it's reading Momentum, reading candlesticks like we're telling a story
+
+8
+00:00:20,800 --> 00:00:23,500
+like scenes in a movie
+
+9
+00:00:24,399 --> 00:00:27,420
+battlefield, or whatever comparison you want to make.
+
+10
+00:00:27,620 --> 00:00:29,519
+Now let's continue with Support and Resistance.
+
+11
+00:00:29,519 --> 00:00:32,439
+This will make reading our charts
+
+12
+00:00:32,439 --> 00:00:34,320
+or Price Action, which is
+
+13
+00:00:34,619 --> 00:00:37,340
+the action of price, the movement of price
+
+14
+00:00:37,799 --> 00:00:39,520
+much clearer than reading
+
+15
+00:00:40,520 --> 00:00:43,100
+candlesticks alone.
+
+16
+00:00:44,460 --> 00:00:45,979
+Let's get started.
+
+17
+00:00:47,740 --> 00:00:50,700
+Price Action isn't just about Support and Resistance.
+
+18
+00:00:50,700 --> 00:00:54,299
+There are about 3-5 patterns.
+
+19
+00:00:54,299 --> 00:00:58,820
+I'll show you the really interesting ones.
+
+20
+00:01:01,659 --> 00:01:03,420
+First of all, Support and Resistance
+
+21
+00:01:03,420 --> 00:01:08,579
+Type 1: Horizontal.
+
+22
+00:01:08,579 --> 00:01:11,060
+The word horizontal, a horizontal level like this.
+
+23
+00:01:14,079 --> 00:01:21,719
+First, view it as a price zone. The concept is to see it as a price zone, not as a single line or single price.
+
+24
+00:01:21,719 --> 00:01:24,599
+View it as a price range, as a zone, covering an area.
+
+25
+00:01:25,540 --> 00:01:31,579
+If it's above, we call it Resistance. If it's below the price, we call it Support.
+
+26
+00:01:31,579 --> 00:01:36,739
+The meaning, if we go by pure theory, it would be too much. Let's keep it short.
+
+27
+00:01:37,459 --> 00:01:43,879
+Resistance, to translate it simply in Price Action or price terms, it resists
+
+28
+00:01:43,879 --> 00:01:47,200
+and prevents it from going up. Simple. It's like a wall.
+
+29
+00:01:48,099 --> 00:02:05,260
+It's like a barrier. When price comes up and hits it, there's resistance.
+
+30
+00:02:05,260 --> 00:02:09,479
+Or a price wall. As for Support, the meaning is literal.
+
+31
+00:02:09,639 --> 00:02:15,159
+It supports and prevents it from going down. That's the concept. Resistance prevents upward movement.
+
+32
+00:02:16,000 --> 00:02:22,139
+If Support means it supports and prevents downward movement. Now, how do we create Support
+
+33
+00:02:22,139 --> 00:02:26,460
+and Resistance levels? Look at Swing Points.
+
+34
+00:02:26,680 --> 00:02:30,680
+The term Swing Point means it goes up then goes down.
+
+35
+00:02:31,159 --> 00:02:34,280
+If it's in the middle of price movement like this, we won't use it.
+
+36
+00:02:35,520 --> 00:02:36,840
+Use where it reverses.
+
+37
+00:02:36,840 --> 00:02:40,120
+Because it means it must have hit something, couldn't continue
+
+38
+00:02:40,120 --> 00:02:42,439
+and had to go in the other direction. Right?
+
+39
+00:02:43,199 --> 00:02:46,280
+Like these, it hits then continues on.
+
+40
+00:02:46,280 --> 00:02:52,300
+We won't use these as Support or Resistance. When it can't continue and bounces back
+
+41
+00:02:52,300 --> 00:02:59,479
+hits and bounces back, we'll use these. Like this, can't continue, reverses down. Comes down, can't
+
+42
+00:02:59,479 --> 00:03:04,699
+continue, reverses up. Every Swing Point like this, we'll use as Support or Resistance.
+
+43
+00:03:05,520 --> 00:03:09,000
+If it's above, it definitely resists upward movement. Above must be Resistance.
+
+44
+00:03:09,219 --> 00:03:11,659
+Below, it supports and prevents downward movement, so it must be Support.
+
+45
+00:03:13,580 --> 00:03:20,000
+And as I said from the start, count it as a zone, not drawing a single line as a price.
+
+46
+00:03:23,080 --> 00:03:28,560
+Support and Resistance, according to their meaning, is resisting and preventing downward movement.
+
+47
+00:03:28,560 --> 00:03:33,360
+This means Resistance often has price reversals
+
+48
+00:03:33,360 --> 00:03:35,800
+when it's been rising, rising, rising
+
+49
+00:03:35,800 --> 00:03:37,879
+and when it hits, it reverses down.
+
+50
+00:03:38,719 --> 00:03:40,180
+Support is the same.
+
+51
+00:03:41,099 --> 00:03:43,319
+It keeps dropping, dropping, dropping down.
+
+52
+00:03:43,319 --> 00:03:45,699
+When it hits Support, it supports and prevents downward movement.
+
+53
+00:03:45,699 --> 00:03:47,340
+According to the concept's name.
+
+54
+00:03:47,340 --> 00:03:50,460
+Support, it means there's a chance
+
+55
+00:03:50,460 --> 00:03:53,120
+let's use the word "chance." There's a chance it will reverse upward.
+
+56
+00:03:53,439 --> 00:03:56,539
+Away from the original direction that was coming down to hit Support.
+
+57
+00:03:56,960 --> 00:03:59,680
+As for Resistance, away from the original direction that was coming up to hit Resistance
+
+58
+00:03:59,680 --> 00:04:01,800
+which is the opposite direction, which is down.
+
+59
+00:04:02,879 --> 00:04:05,139
+There's usually a price reversal by
+
+60
+00:04:05,699 --> 00:04:07,479
+reading it together with candlesticks.
+
+61
+00:04:08,620 --> 00:04:09,500
+See? Pinbar.
+
+62
+00:04:10,319 --> 00:04:12,400
+Pinbar going down, right? Down.
+
+63
+00:04:13,539 --> 00:04:16,860
+This one's a group, but if you combine them, it becomes a Pinbar too.
+
+64
+00:04:17,360 --> 00:04:21,639
+In the principle of combining candlesticks that we learned in the earlier Parts.
+
+65
+00:04:22,120 --> 00:04:28,199
+Therefore, Support and Resistance, we'll use them together with candlesticks that show buying or selling pressure.
+
+66
+00:04:29,379 --> 00:04:34,199
+If the candlesticks we know, that we learned in the candlestick Part
+
+67
+00:04:34,199 --> 00:04:44,379
+if we encounter them in the middle of the chart, they won't really produce results according to their names, like reversal candlesticks and such.
+
+68
+00:04:44,379 --> 00:04:56,240
+Candlesticks will have clear effects only when they're found in areas that are Support or Resistance zones. Only then will they clearly produce those expected results.
+
+69
+00:04:59,180 --> 00:05:08,040
+Which case? Like coming down and encountering a candle like this. This isn't a Pinbar. Where is it?
+
+70
+00:05:11,480 --> 00:05:15,660
+And if it's not in a Support or Resistance zone, like this
+
+71
+00:05:15,660 --> 00:05:22,480
+Pinbar shows buying pressure returning. Dropping, dropping, dropping, but why doesn't it reverse back up like this?
+
+72
+00:05:23,000 --> 00:05:26,540
+Because it's in the middle of a trend. It's not in a Support or Resistance area.
+
+73
+00:05:26,540 --> 00:05:30,100
+Like this, see? When it's here, it goes up.
+
+74
+00:05:30,819 --> 00:05:35,319
+See? It produces clearer effects. Simply put.
+
+75
+00:05:39,000 --> 00:05:42,480
+Another concept of Support and Resistance you need to know is
+
+76
+00:05:43,120 --> 00:05:46,920
+originally, if it's above like this, price moves up and hits it.
+
+77
+00:05:48,040 --> 00:05:52,860
+Coming from below up to hit above, that's called Resistance. Right?
+
+78
+00:05:53,480 --> 00:06:00,100
+But whenever Resistance is broken through upward, when price breaks through upward
+
+79
+00:06:00,839 --> 00:06:05,779
+it immediately switches from Resistance, its role changes, to become Support.
+
+80
+00:06:05,779 --> 00:06:12,079
+From originally resisting upward movement, preventing upward movement
+
+81
+00:06:12,079 --> 00:06:16,300
+when it breaks through, simply put, the resistance couldn't hold, it broke.
+
+82
+00:06:16,819 --> 00:06:19,980
+Breaks up. When it reverses back down
+
+83
+00:06:20,519 --> 00:06:23,860
+what used to be Resistance will change to become Support, supporting and preventing downward movement.
+
+84
+00:06:23,860 --> 00:06:26,560
+In the same level, same zone.
+
+85
+00:06:26,939 --> 00:06:29,819
+Comes down. Retest, simply put, comes down to test.
+
+86
+00:06:31,939 --> 00:06:34,579
+Resisted upward movement, got broken through, damaged.
+
+87
+00:06:34,959 --> 00:06:38,259
+Therefore, it's no longer Resistance because it's below the price.
+
+88
+00:06:38,259 --> 00:06:41,480
+It becomes Support, according to its name. Supports and prevents downward movement.
+
+89
+00:06:41,480 --> 00:06:45,000
+So it becomes a reversal point to continue.
+
+90
+00:06:45,240 --> 00:06:47,579
+It will change its role. Like this one is Support.
+
+91
+00:06:48,079 --> 00:06:52,019
+Supports preventing downward movement, bounces up. Supports preventing downward movement, bounces up.
+
+92
+00:06:52,720 --> 00:06:55,579
+Finally, it gets destroyed. From Support it becomes Resistance.
+
+93
+00:06:55,959 --> 00:06:59,279
+Price comes back up to retest, comes up to hit again.
+
+94
+00:06:59,740 --> 00:07:03,519
+So originally it supported preventing downward movement.
+
+95
+00:07:03,519 --> 00:07:07,199
+When it's damaged and broken, it means it got broken through downward.
+
+96
+00:07:07,199 --> 00:07:10,120
+It will change its role to become Resistance preventing upward movement.
+
+97
+00:07:10,480 --> 00:07:14,100
+Come here. Understand the concept and remember it.
+
+98
+00:07:14,639 --> 00:07:15,560
+Then it drops.
+
+99
+00:07:17,360 --> 00:07:18,600
+Here, this is Support.
+
+100
+00:07:19,199 --> 00:07:22,839
+This breaks down. Support changes to Resistance.
+
+101
+00:07:23,759 --> 00:07:26,360
+Comes up to hit, and the same point that used to be Support before
+
+102
+00:07:26,360 --> 00:07:29,319
+now resists preventing upward movement, then drops.
+
+103
+00:07:29,319 --> 00:07:34,579
+Down. This is the role of Support and Resistance.
+
+104
+00:07:35,480 --> 00:07:37,879
+Like in this picture, it's also Support and Resistance.
+
+105
+00:07:38,300 --> 00:07:40,779
+But it's like the trend we've been seeing.
+
+106
+00:07:40,779 --> 00:07:44,100
+It's a trend.
+
+107
+00:07:44,100 --> 00:07:46,000
+This might be a clearer trend.
+
+108
+00:07:46,000 --> 00:07:47,420
+Going up step by step like stairs.
+
+109
+00:07:48,540 --> 00:07:50,439
+Hits, then hits and drops.
+
+110
+00:07:50,639 --> 00:07:52,459
+This is Support, bounces up.
+
+111
+00:07:52,459 --> 00:07:59,759
+Goes and breaks through, right? Breaks through, then hits a new barrier, which might have existed before.
+
+112
+00:07:59,759 --> 00:08:07,839
+It drops. When it comes down here, what was this? It was Resistance, got broken through, switches its role to become Support, supports preventing downward movement.
+
+113
+00:08:08,160 --> 00:08:14,300
+It continues up. This one used to resist, couldn't hold, got broken through. Reverses down, it supports preventing downward movement.
+
+114
+00:08:14,300 --> 00:08:22,620
+Changes role. Breaks through again, goes up to hit Resistance, comes down to hit Support, that's how its steps continue like this.
+
+115
+00:08:25,279 --> 00:08:32,500
+And the principle for drawing good Support and Resistance is to start from the larger timeframe down.
+
+116
+00:08:32,940 --> 00:08:38,220
+Like this will be a weekly timeframe, a weekly chart, weekly graph, this is Resistance.
+
+117
+00:08:38,220 --> 00:08:42,379
+See? It's a major level. Go ahead and draw it. It's a zone, a Support zone.
+
+118
+00:08:42,379 --> 00:08:48,379
+When it zooms down to daily, if it moves up and hits here, and forms a reversal candlestick pattern
+
+119
+00:08:48,379 --> 00:08:53,460
+like this, it's around this area that belongs to
+
+120
+00:08:53,460 --> 00:08:56,740
+a larger timeframe. Therefore, it will be thick, solid, as a
+
+121
+00:08:56,740 --> 00:08:59,399
+strong Resistance. Using the word "strong," how many points?
+
+122
+00:08:59,399 --> 00:09:04,039
+Count them. One, two, three, four, five. The word "strong" means there's
+
+123
+00:09:04,039 --> 00:09:06,440
+it's been hit multiple times already, whether Support or Resistance.
+
+124
+00:09:06,440 --> 00:09:09,139
+Using the term hit multiple times, price has hit and crashed into it.
+
+125
+00:09:09,419 --> 00:09:12,620
+But couldn't break through. If it's Resistance, couldn't break up.
+
+126
+00:09:12,620 --> 00:09:14,179
+If it's Support, couldn't break down.
+
+127
+00:09:14,179 --> 00:09:17,220
+That shows the level is even stronger.
+
+128
+00:09:17,240 --> 00:09:22,320
+This is why it drops so much, so far, after hitting Resistance.
+
+129
+00:09:23,379 --> 00:09:30,620
+Let's look at a real chart for a bit. A real chart. Look at the points.
+
+130
+00:09:31,440 --> 00:09:35,500
+This head, draw it like this. This is horizontal.
+
+131
+00:09:35,500 --> 00:09:39,240
+Our horizontal lines, we're talking about horizontal, so draw them.
+
+132
+00:09:41,059 --> 00:09:49,059
+This is drawing from what we see. But if we do it properly, know the history first.
+
+133
+00:09:50,379 --> 00:09:54,259
+Suppose I'm comfortable trading the 1-hour timeframe.
+
+134
+00:09:55,059 --> 00:09:59,139
+I'll take the larger one to control first, which is 4-hour.
+
+135
+00:10:01,759 --> 00:10:07,240
+This is the point where it swung, came down then reversed up forming a tail showing returning strength.
+
+136
+00:10:07,700 --> 00:10:13,059
+Then go back to the past. See? There's this point where it came down and went up.
+
+137
+00:10:14,220 --> 00:10:20,259
+Here it hit and went up. This shows this level works. So we draw it for the 4-hour.
+
+138
+00:10:22,279 --> 00:10:27,139
+Where else? Like here it has bounces. This is interesting. See?
+
+139
+00:10:27,720 --> 00:10:32,679
+Comes up, hits and drops. What role did it play, remember?
+
+140
+00:10:32,679 --> 00:10:36,679
+It was Resistance, resisted upward movement. Finally the Resistance broke, broke through.
+
+141
+00:10:36,879 --> 00:10:40,659
+Reverses back. What is it now? From Resistance it changed to Support.
+
+142
+00:10:40,659 --> 00:10:46,000
+Supports preventing downward movement. Can't go down, so it goes up. See?
+
+143
+00:10:46,700 --> 00:10:50,120
+But there's another thing I mentioned, don't forget.
+
+144
+00:10:50,120 --> 00:10:52,419
+We don't look at it as a single line.
+
+145
+00:10:52,419 --> 00:10:56,200
+Not taking this price, a single price. It's not this price that is Support or Resistance.
+
+146
+00:10:57,019 --> 00:11:00,340
+We take it as a zone. Like this, if you draw it as a zone
+
+147
+00:11:01,580 --> 00:11:03,759
+it becomes clearer like this. See?
+
+148
+00:11:04,700 --> 00:11:07,879
+This, it touches the zone, touches the zone, touches the zone a bit.
+
+149
+00:11:07,879 --> 00:11:22,399
+And finally it stays. And comes down touching the zone.
+
+150
+00:11:22,399 --> 00:11:28,820
+Resistance is here, this zone. You can combine them all this way, combine them all.
+
+151
+00:11:29,379 --> 00:11:33,659
+Like this. It hits and drops, hits and drops, hits and drops. See?
+
+152
+00:11:34,740 --> 00:11:39,360
+So we mark it like this. After marking on the larger timeframe
+
+153
+00:11:40,100 --> 00:11:44,940
+we'll break it down to smaller timeframes, well, smaller ones
+
+154
+00:11:45,000 --> 00:11:47,700
+and mark what we just saw. Look at the left side.
+
+155
+00:11:47,700 --> 00:11:50,360
+This is our left side. Here's where the current price is running on the chart.
+
+156
+00:11:50,659 --> 00:11:52,700
+So we look back at the past.
+
+157
+00:11:52,700 --> 00:11:55,919
+The points where it clearly bounced up. Here.
+
+158
+00:11:55,919 --> 00:12:14,980
+We mark and set them up.
+
+159
+00:12:14,980 --> 00:12:18,720
+If the line is above the price, that means it's Resistance.
+
+160
+00:12:19,059 --> 00:12:28,480
+Therefore, if price breaks through this Resistance upward
+
+161
+00:12:30,740 --> 00:12:34,279
+Breaks through. Price runs, boom, breaks up.
+
+162
+00:12:35,100 --> 00:12:40,200
+Where will it go next? It'll be clear, right? There's nothing blocking it anymore.
+
+163
+00:12:40,480 --> 00:12:44,299
+Price will keep running until it hits the next Resistance.
+
+164
+00:12:46,320 --> 00:12:48,340
+The next level.
+
+165
+00:12:49,740 --> 00:12:53,139
+When price goes up and hits it, we need to watch at that moment to see if price
+
+166
+00:12:53,740 --> 00:12:56,559
+will hit and pass through, or if it doesn't pass then
+
+167
+00:12:58,179 --> 00:13:00,919
+it'll reverse down. Look at the candlesticks.
+
+168
+00:13:01,419 --> 00:13:03,879
+Reverses back down. Look, this is the old Resistance.
+
+169
+00:13:04,259 --> 00:13:07,419
+Already broken through. It becomes Support. Comes down to test Support.
+
+170
+00:13:08,700 --> 00:13:10,419
+Right here. Boom.
+
+171
+00:13:13,379 --> 00:13:16,659
+Comes to test if it holds.
+
+172
+00:13:17,379 --> 00:13:20,399
+Right. It holds.
+
+173
+00:13:20,620 --> 00:13:24,220
+It holds. If it holds, price returns.
+
+174
+00:13:25,600 --> 00:13:26,460
+Goes back up.
+
+175
+00:13:29,120 --> 00:13:32,860
+If there's a lot of buying pressure, it might break through this Resistance.
+
+176
+00:13:32,860 --> 00:13:36,240
+Could break out. Break out like this, could go far.
+
+177
+00:13:36,840 --> 00:13:42,320
+If it breaks, where will it go? To the next Resistance. Right here.
+
+178
+00:13:45,500 --> 00:13:50,220
+Goes and hits it. Resistance does its job resisting upward movement. Then it'll curve down again.
+
+179
+00:13:50,220 --> 00:13:53,799
+It'll reverse downward again. It'll keep going like this.
+
+180
+00:13:55,200 --> 00:13:59,840
+Understand now? Support and Resistance in horizontal form.
+
+181
+00:13:59,840 --> 00:14:03,580
+You mark where you see repeated points.
+
+182
+00:14:03,580 --> 00:14:07,100
+Like three or so. For example, when I mark here, did I mark this correctly?
+
+183
+00:14:07,100 --> 00:14:11,580
+We haven't seen what's behind yet. Based on what we see now, it should hit this line.
+
+184
+00:14:12,299 --> 00:14:18,919
+This is Support, comes down and bounces, comes down and bounces up, breaks through, breaks through, comes back. This level must become Resistance, right?
+
+185
+00:14:18,919 --> 00:14:24,139
+And it comes up here. It resists down, resists down, resists down. Finally
+
+186
+00:14:24,139 --> 00:14:29,720
+it breaks down. All the way here. Reached this major Support zone.
+
+187
+00:14:30,139 --> 00:14:34,639
+Very clear Support. When it hits, see? It holds and prevents it from dropping.
+
+188
+00:14:34,639 --> 00:14:39,139
+It holds and bounces up like this. See? Now if it can break through
+
+189
+00:14:39,139 --> 00:14:43,460
+Boom, breaks down. Down. It reverses back up and hits this zone.
+
+190
+00:14:43,460 --> 00:14:46,659
+This Resistance zone. Originally it was Support. Already broken.
+
+191
+00:14:46,659 --> 00:14:52,019
+Change its name. It becomes Resistance. It resists, prevents upward movement. So it drops.
+
+192
+00:14:52,019 --> 00:14:59,039
+Price drops. Hits there and drops out. Here. Now if we try to look back
+
+193
+00:14:59,039 --> 00:15:07,080
+Let me look back. Here, here, here, here, here. See? Hit here again. This zone again.
+
+194
+00:15:07,080 --> 00:15:11,460
+This zone again. See? Hits and drops. Comes down and hits. Here and goes up. Bounces, bounces, bounces.
+
+195
+00:15:11,460 --> 00:15:17,000
+Until it's able to break through. Here it reverses up to hit again. Here. See? Here.
+
+196
+00:15:17,000 --> 00:15:21,820
+About this much is good enough. Looks like it broke through a bit, but couldn't continue.
+
+197
+00:15:21,820 --> 00:15:26,919
+So it drops like this. Still counts because like I said, Support and Resistance aren't viewed as a single price line.
+
+198
+00:15:26,919 --> 00:15:30,940
+It's a Price Zone. Like this. Like this. See?
+
+199
+00:15:32,000 --> 00:15:36,700
+Here. Here. We didn't know before. We don't know what's behind. We mark what we see now.
+
+200
+00:15:36,700 --> 00:15:40,019
+Based on current data, these 3 points didn't break. Mark here first.
+
+201
+00:15:41,399 --> 00:15:46,519
+Here too. Right. Once we mark it, it misses. After it misses, we look back to see if this level is really strong.
+
+202
+00:15:47,500 --> 00:15:52,820
+It all checks out. This is a zone, see? It doesn't reach exactly, but remember it's a zone.
+
+203
+00:15:52,820 --> 00:15:56,080
+It's a Price Zone. So it drops like this.
+
+204
+00:15:56,580 --> 00:16:00,240
+Therefore, this line should be fairly strong.
+
+205
+00:16:00,539 --> 00:16:02,960
+Therefore, if price, or here, comes up to hit here
+
+206
+00:16:03,899 --> 00:16:09,320
+we analyze or consider the trend
+
+207
+00:16:09,320 --> 00:16:12,080
+that there's a chance it won't break on the first try.
+
+208
+00:16:12,419 --> 00:16:14,320
+Might reverse back first.
+
+209
+00:16:15,480 --> 00:16:17,139
+Come to form new patterns, then go up.
+
+210
+00:16:17,559 --> 00:16:21,000
+This is the point where we'll consider buying or selling pressure
+
+211
+00:16:21,000 --> 00:16:25,240
+to see who wins, who dominates more, from what we learned about
+
+212
+00:16:25,720 --> 00:16:29,559
+about reading candlesticks. We look at it together with
+
+213
+00:16:29,559 --> 00:16:31,840
+this right here. We'll see a clearer picture than when we first
+
+214
+00:16:31,840 --> 00:16:50,980
+learned about candlesticks. We read them candle by candle.
+
+215
+00:16:51,799 --> 00:16:58,639
+Like before, we read by going up, until we reach here. Reading here, it's strong. Selling pressure is strong. Probably won't hold.
+
+216
+00:16:58,639 --> 00:17:05,140
+Reading down, up, up, down, and so on. Reading continuously, there was no, basically no focal point.
+
+217
+00:17:05,740 --> 00:17:09,200
+There might be a percentage that makes our reading and analysis of candlesticks
+
+218
+00:17:09,200 --> 00:17:12,480
+or buying/selling pressure or Momentum
+
+219
+00:17:13,279 --> 00:17:15,839
+less accurate. But if combined with Support and Resistance
+
+220
+00:17:15,839 --> 00:17:18,819
+it's a level we already know that it must play an important role where
+
+221
+00:17:19,039 --> 00:17:21,039
+price must do something in these zones.
+
+222
+00:17:21,920 --> 00:17:22,819
+If we compare it to
+
+223
+00:17:22,819 --> 00:17:28,140
+like comparing to the candlestick lessons we learned, Momentum as a battlefield
+
+224
+00:17:28,140 --> 00:17:31,900
+there are 2 cities fighting each other, to seize territory
+
+225
+00:17:31,900 --> 00:17:33,839
+who can enter whose territory more
+
+226
+00:17:34,240 --> 00:17:39,039
+Support and Resistance are like city walls or checkpoint walls.
+
+227
+00:17:39,559 --> 00:17:42,880
+So when it's a checkpoint wall, that means the wall must have who?
+
+228
+00:17:43,539 --> 00:17:46,880
+Must have soldiers guarding, obstacles blocking, right?
+
+229
+00:17:46,880 --> 00:17:50,880
+So we need to look at the forces battling there to see if they can destroy the wall.
+
+230
+00:17:50,880 --> 00:17:55,000
+This side, the city on this side, if it's an uptrend going up to hit Resistance, we need to see if
+
+231
+00:17:55,579 --> 00:17:59,539
+the army attacking, coming to assault, does it have strong or weak forces?
+
+232
+00:17:59,539 --> 00:18:05,299
+Is it at full strength or is it weakening? Against the army waiting to defend on the wall
+
+233
+00:18:05,299 --> 00:18:09,940
+at this level that already exists. Will this side be able to resist?
+
+234
+00:18:10,480 --> 00:18:15,819
+Can they push the enemy back? We'll know step by step.
+
+235
+00:18:16,079 --> 00:18:19,700
+Instead of reading candlesticks continuously from what we learned about Momentum
+
+236
+00:18:19,700 --> 00:18:21,920
+which already gives us information as a story
+
+237
+00:18:21,920 --> 00:18:25,539
+if we understand from the previous lessons, from previous parts
+
+238
+00:18:25,539 --> 00:18:28,980
+we can already read Momentum and candlesticks as a continuous story.
+
+239
+00:18:28,980 --> 00:18:32,160
+When we combine it with Support and Resistance as zones
+
+240
+00:18:33,359 --> 00:18:38,799
+it tells us exactly which points we should focus our reading on more.
+
+241
+00:18:39,140 --> 00:18:43,279
+Instead of reading through dozens of candles, which might be confusing
+
+242
+00:18:43,460 --> 00:18:47,319
+information might be wrong or inaccurate. But if we already know the positions we need to focus on
+
+243
+00:18:47,319 --> 00:18:50,980
+we just read buying or selling pressure at the moments when there are Support and Resistance
+
+244
+00:18:51,359 --> 00:18:55,200
+positions like these instead. It'll save us more time.
+
+245
+00:18:55,579 --> 00:18:59,900
+But if you want the overall picture or want to analyze more deeply
+
+246
+00:19:01,220 --> 00:19:03,900
+we read like we read before
+
+247
+00:19:03,900 --> 00:19:06,880
+from previous lessons, read through the entire set, read continuously
+
+248
+00:19:07,240 --> 00:19:12,039
+but at points where you encounter Support and Resistance, analyze more specifically
+
+249
+00:19:13,940 --> 00:19:15,220
+whether it will go or not go.
+
+250
+00:19:15,859 --> 00:19:21,079
+Because if it goes, it must go to the next level. Each level basically tells us, besides preventing upward movement
+
+251
+00:19:27,200 --> 00:19:32,259
+like I said before, this is the city wall. If the forces attack and break through
+
+252
+00:19:32,900 --> 00:19:38,619
+the next wall is here. Now you ask, what happens in this zone?
+
+253
+00:19:38,619 --> 00:19:40,960
+It doesn't do much. The troops just keep advancing
+
+254
+00:19:40,960 --> 00:19:45,779
+to attack the next wall or next city. That's it, to seize the new city and keep attacking forward.
+
+255
+00:19:46,980 --> 00:19:50,279
+If we compare it to warfare, it's exactly like this. It's normal.
+
+256
+00:19:50,279 --> 00:19:53,539
+In the function of Support like this, it holds price from dropping
+
+257
+00:19:53,539 --> 00:19:59,099
+so if it drops through, it broke this wall already, so it must go attack the next city wall which is the next zone.
+
+258
+00:19:59,920 --> 00:20:02,779
+Send the soldiers. When soldiers reach the next wall zone
+
+259
+00:20:02,779 --> 00:20:20,259
+the troops from this side send forces to fight, to fight and reclaim the territory back.
+
+260
+00:20:20,259 --> 00:20:22,539
+That's why they defend to prevent us from entering their territory too.
+
+261
+00:20:23,259 --> 00:20:25,359
+Hit, hit, hit, down, down
+
+262
+00:20:26,099 --> 00:20:27,140
+So we analyze like this.
+
+263
+00:20:27,740 --> 00:20:28,660
+If it drops, where does it go?
+
+264
+00:20:28,660 --> 00:20:33,119
+If the forces from below try to push up and lose
+
+265
+00:20:34,599 --> 00:20:36,779
+they'll retreat as normal. If we go fight
+
+266
+00:20:37,920 --> 00:20:40,059
+and we lose, or we can't fight anymore, we're exhausted
+
+267
+00:20:40,940 --> 00:20:41,819
+where do we have to go?
+
+268
+00:20:42,759 --> 00:20:44,980
+We have to return to our base, return to our army camp.
+
+269
+00:20:45,460 --> 00:20:49,079
+The question is, if we fight here and can't hold, we must return to Support level where it was before
+
+270
+00:20:49,079 --> 00:20:53,200
+like we go back, go rest first. It already won here before, we're defending here
+
+271
+00:20:53,200 --> 00:21:14,960
+right? This is considered their city wall. But fighting here doesn't work anymore.
+
+272
+00:21:14,960 --> 00:21:21,160
+When the army advances this big, like a wall appears, it protects the zone.
+
+273
+00:21:21,160 --> 00:21:25,460
+Taking that zone becomes the zone they're holding, according to the size of their candle.
+
+274
+00:21:25,859 --> 00:21:31,539
+When price hits and can't break through, encountered this level before, they retreat back.
+
+275
+00:21:33,519 --> 00:21:36,980
+See this huge candle? Remember?
+
+276
+00:21:38,319 --> 00:21:43,720
+If suddenly there are small candles and then a big candle appears from the start
+
+277
+00:21:43,720 --> 00:21:50,740
+that's it, the trend will go in the big candle's direction for a while. So see? When it comes, it goes this way again.
+
+278
+00:21:50,740 --> 00:21:58,640
+It sends forces this way again. Like it can't fight back, right? So it keeps sending the same army here.
+
+279
+00:21:58,640 --> 00:22:13,700
+They move the army, move the army here, attack, attack inward, attack until the defending forces can't hold anymore.
+
+280
+00:22:13,700 --> 00:22:33,240
+Keep going continuously.
+
+281
+00:22:33,660 --> 00:22:37,920
+See? It's like in this area, after breaking through for a while
+
+282
+00:22:37,920 --> 00:22:41,079
+in this area they have new forces forming a wall right here.
+
+283
+00:22:41,079 --> 00:22:44,480
+How did this happen? If you look back at this line, this line
+
+284
+00:22:46,380 --> 00:22:48,099
+See here? It bounces back.
+
+285
+00:22:50,359 --> 00:22:54,640
+This is this zone. Hit then drop, struggling here, hit
+
+286
+00:22:56,539 --> 00:22:57,480
+This one
+
+287
+00:22:57,480 --> 00:23:04,500
+This shows they still have military forces waiting
+
+288
+00:23:06,559 --> 00:23:13,099
+waiting to fight. That's why it must bounce. The army is coming. Simply put, they might be tired from traveling.
+
+289
+00:23:13,619 --> 00:23:16,980
+Momentum starts decreasing, the big candles start getting smaller and smaller and smaller.
+
+290
+00:23:18,180 --> 00:23:22,940
+Trying their best to push but in the end might start weakening.
+
+291
+00:23:22,940 --> 00:23:29,920
+Then small green candles gradually creep up, and finally defeat this army.
+
+292
+00:23:30,359 --> 00:23:35,539
+See? Price manages to close above this one. So keep fighting. Fight to where?
+
+293
+00:23:36,079 --> 00:23:39,220
+Fight back to where they just crossed over the city wall here.
+
+294
+00:23:39,220 --> 00:23:52,920
+This first checkpoint wall. Come here, then go back up to reclaim it.
+
+295
+00:23:52,920 --> 00:23:56,460
+Make it ours again, so the enemy doesn't reclaim it.
+
+296
+00:23:56,460 --> 00:24:00,660
+Hit then drop, hit then drop, hit then drop, trying to reclaim it.
+
+297
+00:24:00,660 --> 00:24:05,980
+Still can't reclaim it yet of course, because here it's still considered in the period of
+
+298
+00:24:07,019 --> 00:24:12,019
+sideways. Still fighting each other on this level. Here might be winning a bit
+
+299
+00:24:12,240 --> 00:24:16,079
+then shifts to the next Resistance level, which is here. Still fighting.
+
+300
+00:24:16,079 --> 00:24:21,359
+It's just the strength of Momentum, candlesticks, like we've read before
+
+301
+00:24:22,700 --> 00:24:30,339
+it'll make analysis easier, clearer, increase your trading percentage even more.
+
+302
+00:24:30,339 --> 00:24:32,200
+Let's continue watching.
+
+303
+00:24:35,579 --> 00:24:38,920
+Next up is Dynamic Support and Resistance, or the sloped type.
+
+304
+00:24:38,920 --> 00:24:50,680
+Earlier, Support and Resistance were horizontal, right? Now the sloped type, how is it? It's trendlines basically.
+
+305
+00:24:51,460 --> 00:24:58,079
+Let me open a new one, let's say this one works.
+
+306
+00:25:06,859 --> 00:25:07,279
+Let's continue.
+
+307
+00:25:07,279 --> 00:25:08,259
+This one I like Fuji.
+
+308
+00:25:09,380 --> 00:25:16,539
+We can look at this one.
+
+309
+00:25:17,559 --> 00:25:20,000
+At first, this one already went like this.
+
+310
+00:25:20,200 --> 00:25:21,319
+See, it's a zone?
+
+311
+00:25:22,339 --> 00:25:23,299
+The horizontal one.
+
+312
+00:25:23,299 --> 00:25:27,700
+Bouncing for a long period because if you know
+
+313
+00:25:27,920 --> 00:25:30,400
+it switches roles, from Support to Resistance.
+
+314
+00:25:31,700 --> 00:25:34,299
+Goes up, hits, drops. See?
+
+315
+00:25:35,200 --> 00:25:37,960
+Now we move to the horizontal type, we already know that.
+
+316
+00:25:38,859 --> 00:25:44,099
+Let's do the sloped type, the one with slope like this.
+
+317
+00:25:45,359 --> 00:25:45,960
+Draw like this.
+
+318
+00:25:50,259 --> 00:25:54,559
+If it's a downtrend, we'll draw from the peak downward like this.
+
+319
+00:25:56,079 --> 00:25:59,680
+Then create a channel to make it parallel, let it run like this.
+
+320
+00:26:01,279 --> 00:26:07,400
+You'll see it becomes Support and Resistance in diagonal form like this.
+
+321
+00:26:10,960 --> 00:26:15,819
+It's on top, it's a downtrend. So along this line
+
+322
+00:26:16,799 --> 00:26:20,380
+it must be Resistance.
+
+323
+00:26:20,660 --> 00:26:23,880
+Below, when it's below it becomes Support.
+
+324
+00:26:26,819 --> 00:26:29,819
+When price comes to hit the lower line it becomes Support.
+
+325
+00:26:32,819 --> 00:26:34,539
+This one first, Support like this.
+
+326
+00:26:50,380 --> 00:26:52,220
+Here, right here
+
+327
+00:26:55,299 --> 00:27:04,619
+Around here, see?
+
+328
+00:27:05,660 --> 00:27:09,380
+When we draw trendlines, we'll draw two clear points first.
+
+329
+00:27:09,380 --> 00:27:10,500
+Use this as point one.
+
+330
+00:27:11,519 --> 00:27:14,019
+Point two, take a nearby point, nearby peak.
+
+331
+00:27:14,500 --> 00:27:16,500
+This one might be a bit off, skip it.
+
+332
+00:27:27,039 --> 00:27:31,859
+We take this point and this point, these two points, then let the rest run.
+
+333
+00:27:35,700 --> 00:27:40,539
+For this we create a parallel channel at points it passed through before.
+
+334
+00:27:42,559 --> 00:27:47,720
+The top will be Resistance. Price runs down, reverses back up.
+
+335
+00:27:48,480 --> 00:27:53,559
+Sometimes price reverses back and forth, we might not see on the horizontal axis
+
+336
+00:27:53,559 --> 00:27:58,039
+why it bounces. Like here it might be struggling, not clear.
+
+337
+00:27:58,279 --> 00:28:04,940
+Why does it drop? But actually here there's a little bit.
+
+338
+00:28:08,039 --> 00:28:17,200
+Around here. They're fighting. Try looking back, is there anything? It's still not clear.
+
+339
+00:28:18,799 --> 00:28:24,119
+Actually we can kind of see it in another technique which we'll cover later, which is Fibo.
+
+340
+00:28:24,759 --> 00:28:31,279
+It happens to drop and retrace to around 55%, then it drops. But today we'll talk about it later.
+
+341
+00:28:32,380 --> 00:28:35,779
+But since it already happened, we take the point where it occurred, this swing
+
+342
+00:28:36,480 --> 00:28:40,819
+and this swing, connect them together and extend it out.
+
+343
+00:28:41,460 --> 00:28:45,519
+It becomes a channel. Make the bottom parallel to be Support.
+
+344
+00:28:45,519 --> 00:28:46,980
+We have Resistance already, now we'll have Support.
+
+345
+00:28:47,220 --> 00:28:53,019
+That's why when price runs to hit Support or the diagonal line, it goes up.
+
+346
+00:28:54,859 --> 00:29:00,440
+Hits, goes up, hits, hits. Goes down, down, down, down, down, down, hits again, then goes up. See?
+
+347
+00:29:00,440 --> 00:29:04,960
+Because if we want to know, wait, what's on the horizontal level that makes it go up?
+
+348
+00:29:04,960 --> 00:29:10,799
+It has to go up here. We can try observing this line.
+
+349
+00:29:19,299 --> 00:29:25,839
+This line, this line, horizontal. Oh okay, because when it reverses back below, there's still a point where it must bounce.
+
+350
+00:29:30,740 --> 00:29:36,700
+And it also has this line, so we can consider this one quite strong because there are 2 overlapping lines.
+
+351
+00:29:37,839 --> 00:29:44,480
+Two stories, two types of Support and Resistance switching roles.
+
+352
+00:29:44,480 --> 00:29:49,640
+Switching roles. In an uptrend, is there an uptrend? Yeah, uptrend first.
+
+353
+00:29:49,640 --> 00:29:53,079
+This one here, then we take this point, this Low.
+
+354
+00:29:56,500 --> 00:29:57,660
+The clear one would be like this one.
+
+355
+00:30:00,740 --> 00:30:02,039
+Let's zoom in a bit more.
+
+356
+00:30:03,819 --> 00:30:04,779
+Want to make it clearer.
+
+357
+00:30:09,880 --> 00:30:10,960
+Draw a channel there.
+
+358
+00:30:12,880 --> 00:30:17,940
+The bottom will become Support.
+
+359
+00:30:21,259 --> 00:30:22,740
+At this point we'll take it as point 2.
+
+360
+00:30:22,740 --> 00:30:25,200
+So we don't know if it's Support yet.
+
+361
+00:30:25,400 --> 00:30:29,299
+We have to wait for this formation to happen first, then we can draw it like this.
+
+362
+00:30:29,500 --> 00:30:31,680
+Once we draw it like this, it means we've got the top.
+
+363
+00:30:32,099 --> 00:30:34,240
+So the top has to become Resistance, right?
+
+364
+00:30:35,660 --> 00:30:38,460
+So when price runs from this point up,
+
+365
+00:30:39,079 --> 00:30:42,160
+pretty strong momentum too, runs up strongly, and this green candle,
+
+366
+00:30:42,160 --> 00:30:45,980
+this long and big, boom! Hits Resistance.
+
+367
+00:30:47,299 --> 00:30:50,640
+Still can't break through. That's why it curves down.
+
+368
+00:30:51,319 --> 00:30:54,140
+Ah! Tests again, still can't break through.
+
+369
+00:30:54,140 --> 00:30:56,880
+This one's like the final strike, boom!
+
+370
+00:30:57,619 --> 00:30:58,799
+But you see,
+
+371
+00:30:58,799 --> 00:31:00,180
+if we read by Momentum and candlesticks,
+
+372
+00:31:01,220 --> 00:31:04,200
+it shows there's selling pressure, an Engulfing back.
+
+373
+00:31:04,200 --> 00:31:06,720
+The other side won't let it go through, simply put.
+
+374
+00:31:07,180 --> 00:31:09,680
+So it reverses back because it's a Resistance zone.
+
+375
+00:31:10,680 --> 00:31:14,200
+Same thing, even though it's diagonal, we can still count it as a zone.
+
+376
+00:31:16,519 --> 00:31:18,740
+Take the closing prices and the shadows, we can draw it.
+
+377
+00:31:20,740 --> 00:31:22,900
+So it reverses back into the Channel.
+
+378
+00:31:23,759 --> 00:31:24,279
+Like this.
+
+379
+00:31:26,420 --> 00:31:28,700
+Then it comes down here, tests.
+
+380
+00:31:28,700 --> 00:31:31,440
+Tests Support, bounces up.
+
+381
+00:31:31,440 --> 00:31:33,259
+Goes up, comes back down to test again.
+
+382
+00:31:34,119 --> 00:31:43,519
+Down here, tests, bounces, tests.
+
+383
+00:31:44,079 --> 00:31:53,440
+See? It keeps testing Support.
+
+384
+00:31:54,440 --> 00:31:58,099
+This shows the diagonal line we drew
+
+385
+00:31:58,099 --> 00:32:03,500
+is acting as Support.
+
+386
+00:32:03,500 --> 00:32:07,500
+When price hits it, it bounces.
+
+387
+00:32:07,500 --> 00:32:12,599
+But look at this area,
+
+388
+00:32:12,599 --> 00:32:18,299
+when it breaks below Support,
+
+389
+00:32:18,859 --> 00:32:19,799
+this Support line
+
+390
+00:32:21,960 --> 00:32:26,660
+will switch to become Resistance.
+
+391
+00:32:26,660 --> 00:32:30,759
+See? Once it breaks below,
+
+392
+00:32:31,680 --> 00:32:34,900
+it tests from below, can't break through.
+
+393
+00:32:34,900 --> 00:32:38,440
+Tests again, can't break through.
+
+394
+00:32:41,500 --> 00:32:45,900
+This means the diagonal line switched roles
+
+395
+00:32:47,000 --> 00:32:52,019
+from Support to Resistance.
+
+396
+00:32:52,960 --> 00:32:56,740
+Same concept as horizontal Support/Resistance,
+
+397
+00:32:58,839 --> 00:33:02,619
+just on a diagonal.
+
+398
+00:33:02,960 --> 00:33:08,539
+So whether it's horizontal or diagonal,
+
+399
+00:33:09,380 --> 00:33:14,339
+Support and Resistance can switch roles.
+
+400
+00:33:16,160 --> 00:33:24,200
+This is what we call dynamic Support and Resistance.
+
+401
+00:33:25,480 --> 00:33:32,180
+Because it has a slope, it's not flat.
+
+402
+00:33:33,940 --> 00:33:37,559
+It moves with the trend.
+
+403
+00:33:38,400 --> 00:33:40,299
+That's why we call it dynamic.
+
+404
+00:33:43,079 --> 00:33:44,400
+Alright, so this is trendlines and channels.
+
+405
+00:33:46,200 --> 00:33:49,799
+Very useful for drawing Support and Resistance
+
+406
+00:33:49,799 --> 00:33:56,420
+that moves with price.
+
+407
+00:33:57,740 --> 00:34:02,920
+Now let's look at
+
+408
+00:34:03,720 --> 00:34:08,940
+another tool, which is
+
+409
+00:34:10,179 --> 00:34:16,659
+Fibonacci.
+
+410
+00:34:18,000 --> 00:34:21,599
+Fibonacci, or Fibo for short,
+
+411
+00:34:21,599 --> 00:34:28,659
+is a tool we use to find
+
+412
+00:34:28,659 --> 00:34:32,440
+Support and Resistance zones too.
+
+413
+00:34:33,039 --> 00:34:46,639
+But it's based on percentages
+
+414
+00:34:46,639 --> 00:34:48,780
+of the price movement.
+
+415
+00:34:49,300 --> 00:34:52,199
+The key levels are
+
+416
+00:34:53,840 --> 00:34:55,019
+23.6%, 38.2%, 50%,
+
+417
+00:34:56,860 --> 00:34:59,260
+61.8%, and 78.6%.
+
+418
+00:34:59,260 --> 00:35:01,699
+The most important is 61.8%,
+
+419
+00:35:01,960 --> 00:35:02,639
+also called the Golden Ratio.
+
+420
+00:35:04,380 --> 00:35:06,039
+We use Fibo to measure
+
+421
+00:35:07,000 --> 00:35:08,340
+where price might pull back to.
+
+422
+00:35:09,340 --> 00:35:12,179
+Let me show you how.
+
+423
+00:35:17,900 --> 00:35:21,000
+In an uptrend,
+
+424
+00:35:30,039 --> 00:35:34,059
+we draw from Low to High.
+
+425
+00:35:34,820 --> 00:35:39,599
+Like this swing here,
+
+426
+00:35:39,599 --> 00:35:46,800
+from this Low
+
+427
+00:35:46,800 --> 00:35:48,420
+to this High.
+
+428
+00:35:52,440 --> 00:35:58,800
+Then when price pulls back,
+
+429
+00:36:10,440 --> 00:36:16,619
+we watch those Fibo levels
+
+430
+00:36:17,800 --> 00:36:23,139
+to see where it might bounce.
+
+431
+00:36:25,000 --> 00:36:30,300
+If it bounces at 38.2% or 50%,
+
+432
+00:36:31,639 --> 00:36:33,800
+that's a shallow pullback.
+
+433
+00:36:34,619 --> 00:36:38,159
+If it goes to 61.8%,
+
+434
+00:36:39,820 --> 00:36:43,280
+that's a deeper pullback.
+
+435
+00:36:44,079 --> 00:36:47,300
+If it breaks 61.8%,
+
+436
+00:36:48,179 --> 00:36:51,519
+the trend might be weakening.
+
+437
+00:36:52,219 --> 00:36:54,059
+In a downtrend, we do the opposite.
+
+438
+00:36:55,199 --> 00:36:58,460
+Draw from High to Low.
+
+439
+00:36:58,760 --> 00:37:00,099
+Then watch for Resistance when it bounces.
+
+440
+00:37:02,280 --> 00:37:07,960
+Let's see an example.
+
+441
+00:37:11,300 --> 00:37:15,000
+Here's an uptrend.
+
+442
+00:37:15,000 --> 00:37:20,719
+We draw Fibo from Low to High.
+
+443
+00:37:21,559 --> 00:37:25,920
+Click the Fibo tool,
+
+444
+00:37:25,920 --> 00:37:28,639
+click at the Low,
+
+445
+00:37:28,639 --> 00:37:32,199
+drag to the High.
+
+446
+00:37:32,199 --> 00:37:50,699
+There, we get the levels.
+
+447
+00:37:52,239 --> 00:37:55,300
+Now watch when price pulls back,
+
+448
+00:37:56,400 --> 00:38:02,380
+where does it bounce?
+
+449
+00:38:04,179 --> 00:38:05,460
+Look, it bounces right at 50%.
+
+450
+00:38:07,059 --> 00:38:07,659
+like this tail
+
+451
+00:38:09,079 --> 00:38:10,719
+they allow you to draw it like this
+
+452
+00:38:11,199 --> 00:38:14,340
+you can draw the trendline because this is a swing point, see? Price came down then went up
+
+453
+00:38:14,619 --> 00:38:15,559
+came down and went up
+
+454
+00:38:16,500 --> 00:38:19,179
+so you're allowed to draw and test it, because it's like
+
+455
+00:38:19,179 --> 00:38:21,739
+it's a scare candle, reversed back down...
+
+456
+00:38:21,980 --> 00:38:26,400
+went up, there's still no closing price that went beyond this line downward
+
+457
+00:38:26,739 --> 00:38:29,719
+this is what we call discretionary, acceptable
+
+458
+00:38:31,559 --> 00:38:32,739
+something like this is acceptable
+
+459
+00:38:32,739 --> 00:38:35,739
+looks like it'll break through the trendline upward
+
+460
+00:38:36,260 --> 00:38:37,559
+but it didn't actually break
+
+461
+00:38:38,500 --> 00:38:39,019
+see, it wicked up
+
+462
+00:38:39,780 --> 00:38:43,980
+then reversed back down
+
+463
+00:38:44,519 --> 00:38:48,619
+so this is considered
+
+464
+00:38:48,619 --> 00:38:51,199
+acceptable, within discretion
+
+465
+00:38:51,199 --> 00:38:56,659
+But if it clearly breaks through
+
+466
+00:38:56,659 --> 00:39:03,780
+like breaking way up here
+
+467
+00:39:04,440 --> 00:39:05,820
+then coming back down
+
+468
+00:39:06,300 --> 00:39:12,579
+that wouldn't count anymore
+
+469
+00:39:12,579 --> 00:39:15,880
+understand?
+
+470
+00:39:16,559 --> 00:39:20,119
+So this is
+
+471
+00:39:20,239 --> 00:39:24,000
+the trendline concept
+
+472
+00:39:25,300 --> 00:39:31,199
+Drawing trendlines is about
+
+473
+00:39:31,199 --> 00:39:37,139
+finding swing points
+
+474
+00:39:37,780 --> 00:39:43,239
+When you connect swing points
+
+475
+00:39:43,599 --> 00:39:49,199
+you get a trendline
+
+476
+00:39:49,199 --> 00:39:51,900
+Once you have a trendline, you can
+
+477
+00:39:52,659 --> 00:39:57,400
+use it to analyze price movement
+
+478
+00:39:57,400 --> 00:40:01,280
+Like we'll wait for price to test this line
+
+479
+00:40:01,679 --> 00:40:12,340
+when it comes to test
+
+480
+00:40:12,340 --> 00:40:14,500
+if it bounces, we can trade it
+
+481
+00:40:15,079 --> 00:40:18,480
+or wait for it to break through
+
+482
+00:40:19,340 --> 00:40:22,780
+if it breaks, we trade the breakout
+
+483
+00:40:22,780 --> 00:40:24,980
+That's how we use trendlines
+
+484
+00:40:26,840 --> 00:40:28,980
+Next, let's look at
+
+485
+00:40:30,219 --> 00:40:42,320
+channels
+
+486
+00:40:43,500 --> 00:40:49,219
+Channels are drawn by
+
+487
+00:40:49,219 --> 00:40:58,940
+taking the trendline concept
+
+488
+00:41:00,280 --> 00:41:02,579
+and adding a parallel line
+
+489
+00:41:02,579 --> 00:41:09,340
+Like when we have an uptrend
+
+490
+00:41:09,920 --> 00:41:16,840
+we draw the trendline at the bottom
+
+491
+00:41:16,840 --> 00:41:25,139
+connecting swing lows
+
+492
+00:41:33,800 --> 00:41:42,500
+Then we draw a parallel line
+
+493
+00:41:44,780 --> 00:41:51,199
+at the swing highs
+
+494
+00:41:51,199 --> 00:41:52,280
+This creates a channel
+
+495
+00:42:00,280 --> 00:42:03,940
+Price moves within this channel
+
+496
+00:42:06,639 --> 00:42:10,780
+bouncing between the upper and lower lines
+
+497
+00:42:10,780 --> 00:42:18,219
+When we see a channel like this
+
+498
+00:42:18,219 --> 00:42:22,099
+we can trade it
+
+499
+00:42:23,880 --> 00:42:30,380
+Buy at the lower line
+
+500
+00:42:30,380 --> 00:42:36,760
+sell at the upper line
+
+501
+00:42:37,579 --> 00:42:47,539
+or wait for a breakout
+
+502
+00:42:48,320 --> 00:42:58,659
+If price breaks above the channel
+
+503
+00:42:58,659 --> 00:43:09,500
+that's a bullish breakout
+
+504
+00:43:10,679 --> 00:43:18,159
+If it breaks below
+
+505
+00:43:22,159 --> 00:43:31,019
+that's a bearish breakout
+
+506
+00:43:31,360 --> 00:43:36,059
+Let's look at an example
+
+507
+00:43:36,659 --> 00:43:39,559
+Here's a clear uptrend channel
+
+508
+00:43:39,980 --> 00:43:45,460
+See how price
+
+509
+00:43:45,460 --> 00:43:48,579
+keeps bouncing between the lines
+
+510
+00:43:48,579 --> 00:43:51,960
+touches the bottom line
+
+511
+00:43:52,780 --> 00:43:56,980
+bounces up
+
+512
+00:43:58,000 --> 00:43:58,780
+goes to the top line
+
+513
+00:44:01,579 --> 00:44:06,199
+bounces down
+
+514
+00:44:06,980 --> 00:44:09,639
+This creates a trading range
+
+515
+00:44:11,659 --> 00:44:12,500
+within the channel
+
+516
+00:44:13,400 --> 00:44:16,059
+We can use this to plan our trades
+
+517
+00:44:16,840 --> 00:44:20,699
+When price comes to the bottom
+
+518
+00:44:20,699 --> 00:44:24,059
+we look for buy signals
+
+519
+00:44:24,179 --> 00:44:29,659
+When it reaches the top
+
+520
+00:44:29,679 --> 00:44:33,880
+we look for sell signals
+
+521
+00:44:33,880 --> 00:44:38,500
+or take profit
+
+522
+00:44:38,840 --> 00:44:42,099
+Now let's see
+
+523
+00:44:43,860 --> 00:44:47,719
+a downtrend channel
+
+524
+00:44:50,639 --> 00:44:54,440
+In a downtrend
+
+525
+00:44:55,280 --> 00:44:59,000
+we draw the trendline at the top
+
+526
+00:44:59,679 --> 00:45:04,139
+connecting swing highs
+
+527
+00:45:04,860 --> 00:45:12,559
+Then add a parallel line
+
+528
+00:45:12,860 --> 00:45:16,480
+at the swing lows
+
+529
+00:45:18,440 --> 00:45:22,679
+Price moves down within this channel
+
+530
+00:45:22,940 --> 00:45:30,679
+Same concept, just inverted
+
+531
+00:45:38,599 --> 00:45:46,360
+We can sell at the top line
+
+532
+00:45:48,639 --> 00:45:53,880
+buy back at the bottom line
+
+533
+00:45:56,780 --> 00:46:02,820
+or wait for a breakout
+
+534
+00:46:05,039 --> 00:46:10,340
+The key thing about channels is
+
+535
+00:46:10,920 --> 00:46:14,119
+they help us see
+
+536
+00:46:14,460 --> 00:46:20,960
+the range price is moving in
+
+537
+00:46:20,960 --> 00:46:40,320
+and plan our entries and exits
+
+538
+00:46:40,320 --> 00:46:45,460
+Now an important point
+
+539
+00:46:45,460 --> 00:46:47,519
+about drawing channels
+
+540
+00:46:49,079 --> 00:46:53,599
+Sometimes you'll see
+
+541
+00:46:54,980 --> 00:46:59,039
+the channel isn't perfect
+
+542
+00:46:59,380 --> 00:47:04,840
+Price might wick outside
+
+543
+00:47:04,840 --> 00:47:08,760
+but not close outside
+
+544
+00:47:08,760 --> 00:47:13,420
+That's still okay
+
+545
+00:47:13,639 --> 00:47:20,480
+We use discretion here too
+
+546
+00:47:21,159 --> 00:47:25,219
+As long as the closes
+
+547
+00:47:26,679 --> 00:47:27,619
+stay within the channel
+
+548
+00:47:31,219 --> 00:47:32,099
+we can still consider it valid
+
+549
+00:47:32,460 --> 00:47:35,199
+Just like with trendlines
+
+550
+00:47:32,460 --> 00:47:35,199
+If we explain the theory in detail, it'd be really long
+
+551
+00:47:36,900 --> 00:47:39,519
+It's one of the
+
+552
+00:47:39,519 --> 00:47:44,239
+technical tools
+
+553
+00:47:44,840 --> 00:47:49,420
+that acts as psychological Support
+
+554
+00:47:49,420 --> 00:47:53,260
+It has specific ratios
+
+555
+00:47:53,260 --> 00:47:56,980
+The important ones are these
+
+556
+00:47:57,320 --> 00:47:59,840
+38.2%, 50%, and 61.8%
+
+557
+00:48:01,500 --> 00:48:03,880
+So when price moves up
+
+558
+00:48:05,300 --> 00:48:08,900
+If it pulls back, there are 3 lines
+
+559
+00:48:08,900 --> 00:48:12,360
+where price has a chance to bounce as Support or Resistance levels from Fibo
+
+560
+00:48:12,900 --> 00:48:16,519
+So let's say price moves up like this
+
+561
+00:48:16,980 --> 00:48:20,760
+When it pulls back
+
+562
+00:48:20,760 --> 00:48:22,460
+It might bounce at 38.2%
+
+563
+00:48:22,760 --> 00:48:29,260
+or 50%
+
+564
+00:48:31,139 --> 00:48:34,440
+or 61.8%
+
+565
+00:48:35,480 --> 00:48:38,980
+These are considered
+
+566
+00:48:38,980 --> 00:48:42,840
+psychological levels
+
+567
+00:48:44,059 --> 00:48:50,039
+that traders pay attention to
+
+568
+00:48:51,099 --> 00:48:53,860
+It's like
+
+569
+00:48:55,500 --> 00:48:59,840
+when price reaches these Fibonacci levels
+
+570
+00:49:01,039 --> 00:49:04,280
+traders will watch to see if it'll bounce or break through
+
+571
+00:49:04,980 --> 00:49:09,320
+But this is just a tool
+
+572
+00:49:09,659 --> 00:49:15,000
+We still need to combine it with other things we've learned
+
+573
+00:49:15,000 --> 00:49:18,820
+like candlestick patterns
+
+574
+00:49:19,400 --> 00:49:22,440
+price structure
+
+575
+00:49:22,900 --> 00:49:25,840
+to confirm
+
+576
+00:49:26,739 --> 00:49:30,000
+whether it'll really bounce at that level or not
+
+577
+00:49:30,000 --> 00:49:33,539
+Alright, so Fibonacci
+
+578
+00:49:34,820 --> 00:49:36,000
+is one popular tool
+
+579
+00:49:40,679 --> 00:49:44,280
+that many traders use
+
+580
+00:49:44,280 --> 00:49:48,400
+Okay, next
+
+581
+00:49:49,800 --> 00:49:53,639
+We'll talk about Trendlines
+
+582
+00:49:54,300 --> 00:49:56,599
+Trendlines
+
+583
+00:49:58,079 --> 00:50:06,739
+are lines we draw
+
+584
+00:50:06,739 --> 00:50:10,940
+to connect price swing points
+
+585
+00:50:10,940 --> 00:50:14,579
+For an uptrend
+
+586
+00:50:16,139 --> 00:50:18,320
+we connect the lows
+
+587
+00:50:20,280 --> 00:50:23,579
+the bottom points
+
+588
+00:50:23,960 --> 00:50:26,079
+When we draw a line connecting them
+
+589
+00:50:26,079 --> 00:50:30,579
+it becomes an uptrend line
+
+590
+00:50:31,159 --> 00:50:33,219
+For a downtrend
+
+591
+00:50:33,920 --> 00:50:34,920
+we connect the highs
+
+592
+00:50:40,599 --> 00:50:43,139
+the top points
+
+593
+00:50:43,900 --> 00:50:50,980
+When price comes to test this line
+
+594
+00:50:50,980 --> 00:50:58,960
+it often bounces
+
+595
+00:50:58,960 --> 00:51:04,860
+So the trendline acts as Support or Resistance
+
+596
+00:51:05,219 --> 00:51:08,420
+For example, if we draw an uptrend line
+
+597
+00:51:08,420 --> 00:51:14,159
+Each time price pulls back to touch this line
+
+598
+00:51:15,079 --> 00:51:19,559
+it tends to bounce up
+
+599
+00:51:19,559 --> 00:51:24,320
+If it breaks through this trendline
+
+600
+00:51:24,320 --> 00:51:26,340
+it signals that the trend might be changing
+
+601
+00:51:28,820 --> 00:51:32,480
+might be weakening
+
+602
+00:51:32,480 --> 00:51:36,719
+So trendlines
+
+603
+00:51:36,719 --> 00:51:41,320
+are very important tools
+
+604
+00:51:41,539 --> 00:51:48,360
+for identifying trend direction
+
+605
+00:51:49,780 --> 00:51:52,639
+and finding entry points
+
+606
+00:51:52,880 --> 00:51:55,139
+Okay, next we have Channels
+
+607
+00:51:55,139 --> 00:51:56,820
+Channels
+
+608
+00:51:57,340 --> 00:51:59,679
+are when we draw parallel lines
+
+609
+00:52:00,480 --> 00:52:02,320
+both top and bottom
+
+610
+00:52:02,320 --> 00:52:04,739
+The bottom line is Support
+
+611
+00:52:05,940 --> 00:52:07,500
+The top line is Resistance
+
+612
+00:52:09,079 --> 00:52:11,400
+Price will oscillate
+
+613
+00:52:12,380 --> 00:52:21,139
+bounce between these two lines
+
+614
+00:52:21,139 --> 00:52:29,619
+When it hits the bottom, it bounces up
+
+615
+00:52:30,440 --> 00:52:36,920
+When it hits the top, it bounces down
+
+616
+00:52:37,260 --> 00:52:42,519
+This is called trading in a channel
+
+617
+00:52:42,519 --> 00:52:49,440
+If price breaks out of the channel
+
+618
+00:52:59,619 --> 00:53:02,780
+either breaking the top resistance
+
+619
+00:53:03,059 --> 00:53:06,739
+or breaking the bottom support
+
+620
+00:53:09,659 --> 00:53:14,639
+it signals a potential trend change
+
+621
+00:53:15,019 --> 00:53:19,019
+or strong momentum in that direction
+
+622
+00:53:20,039 --> 00:53:26,539
+So channels
+
+623
+00:53:50,179 --> 00:53:55,980
+are great for range trading
+
+624
+00:53:56,719 --> 00:54:01,460
+buying at support, selling at resistance
+
+625
+00:54:02,500 --> 00:54:08,059
+Alright, these are the basic tools
+
+626
+00:54:08,440 --> 00:54:11,280
+for finding Support and Resistance
+
+627
+00:54:13,360 --> 00:54:18,159
+Whether it's horizontal levels
+
+628
+00:54:19,300 --> 00:54:47,619
+Fibonacci retracement
+
+629
+00:54:48,159 --> 00:54:50,039
+Trendlines
+
+630
+00:54:50,039 --> 00:54:56,539
+or Channels
+
+631
+00:54:56,539 --> 00:55:02,960
+They all serve the same purpose
+
+632
+00:55:04,179 --> 00:55:09,579
+helping us find where price might
+
+633
+00:55:11,119 --> 00:55:14,699
+bounce or reverse
+
+634
+00:55:16,440 --> 00:55:18,219
+But remember
+
+635
+00:55:19,099 --> 00:55:21,039
+these aren't 100% accurate
+
+636
+00:55:21,880 --> 00:55:25,280
+Sometimes price breaks through
+
+637
+00:55:26,440 --> 00:55:29,699
+Sometimes it bounces
+
+638
+00:55:29,699 --> 00:55:31,559
+We need to combine them with
+
+639
+00:55:31,559 --> 00:55:35,199
+candlestick patterns
+
+640
+00:55:35,199 --> 00:55:39,440
+price structure
+
+641
+00:55:39,440 --> 00:55:43,239
+and other confirmations
+
+642
+00:55:43,239 --> 00:55:47,059
+to make better trading decisions
+
+643
+00:55:47,059 --> 00:56:01,539
+Don't rely on just one tool
+
+644
+00:56:01,539 --> 00:56:05,519
+Use multiple confirmations
+
+645
+00:56:05,519 --> 00:56:10,019
+That'll increase our probability of success
+
+646
+00:56:10,159 --> 00:56:12,340
+Okay, now let's look at
+
+647
+00:56:12,340 --> 00:56:17,300
+some real chart examples
+
+648
+00:56:17,300 --> 00:56:24,860
+so you can see how these work in practice
+
+649
+00:56:24,860 --> 00:56:29,179
+Here we can see
+
+650
+00:56:30,780 --> 00:56:35,539
+This is a clear uptrend
+
+651
+00:56:36,119 --> 00:56:40,119
+Price keeps making higher highs
+
+652
+00:56:41,820 --> 00:56:47,219
+and higher lows
+
+653
+00:56:52,679 --> 00:56:58,920
+If we draw a trendline
+
+654
+00:56:59,780 --> 00:57:05,880
+connecting these lows
+
+655
+00:57:13,900 --> 00:57:22,280
+You'll see price respects this line
+
+656
+00:57:32,760 --> 00:57:35,659
+Each pullback touches the trendline and bounces
+
+657
+00:57:35,659 --> 00:57:35,860
+This shows the trend is still strong
+
+658
+00:57:35,880 --> 00:57:36,719
+But look here
+
+659
+00:57:39,619 --> 00:57:41,760
+When price breaks below the trendline
+
+660
+00:57:43,460 --> 00:57:44,480
+it signals trend weakness
+
+661
+00:57:45,840 --> 00:57:47,579
+After the break, price starts moving sideways
+
+662
+00:57:48,039 --> 00:57:49,519
+or even reverses
+
+663
+00:57:53,219 --> 00:57:53,840
+So trendline breaks
+
+664
+00:57:54,780 --> 00:57:55,219
+are important signals to watch
+
+665
+00:57:56,159 --> 00:57:57,900
+Here's another example
+
+666
+00:58:01,980 --> 00:58:02,480
+This is a channel
+
+667
+00:58:05,179 --> 00:58:05,860
+Price is bouncing between
+
+668
+00:58:05,860 --> 00:58:32,980
+the upper resistance line
+
+669
+00:58:34,900 --> 00:58:40,119
+and the lower support line
+
+670
+00:58:40,940 --> 00:58:54,440
+Each time it touches the bottom, it bounces up
+
+671
+00:58:59,619 --> 00:59:10,960
+Each time it touches the top, it bounces down
+
+672
+00:59:12,239 --> 00:59:15,579
+Very clear pattern
+
+673
+00:59:15,579 --> 00:59:19,900
+If we trade this channel
+
+674
+00:59:21,019 --> 00:59:26,320
+we'd buy near the bottom support
+
+675
+00:59:26,760 --> 00:59:31,639
+and sell near the top resistance
+
+676
+00:59:31,860 --> 00:59:34,880
+But watch what happens here
+
+677
+00:59:35,219 --> 00:59:39,039
+Price breaks above the channel
+
+678
+00:59:40,159 --> 00:59:45,340
+That's a breakout signal
+
+679
+00:59:45,340 --> 00:59:46,940
+After breaking out, price continues moving strongly upward
+
+680
+00:59:48,400 --> 00:59:52,179
+This is why channel breakouts
+
+681
+00:59:52,179 --> 00:59:55,079
+are important trading opportunities
+
+682
+00:59:56,099 --> 01:00:03,579
+Now let's look at Fibonacci
+
+683
+01:00:04,659 --> 01:00:13,699
+Here price made a strong move up
+
+684
+01:00:15,719 --> 01:00:23,900
+Then it started pulling back
+
+685
+01:00:25,619 --> 01:00:28,280
+If we draw Fibonacci from the low to the high
+
+686
+01:00:28,760 --> 01:00:30,760
+We can see the retracement levels
+
+687
+01:00:31,260 --> 01:00:34,179
+Look here, price pulled back
+
+688
+01:00:34,179 --> 01:00:36,840
+and bounced right at the 61.8% level
+
+689
+01:00:37,639 --> 01:00:41,619
+This is a common Fibo level
+
+690
+01:00:42,179 --> 01:00:43,820
+where price often finds support
+
+691
+01:00:45,880 --> 01:00:47,579
+After bouncing at 61.8%
+
+692
+01:00:47,579 --> 01:00:50,019
+price continued moving up
+
+693
+01:00:50,019 --> 01:00:52,980
+resuming the uptrend
+
+694
+01:00:53,460 --> 01:00:56,219
+This shows how Fibonacci levels
+
+695
+01:00:56,219 --> 01:00:58,840
+can help us find good entry points
+
+696
+01:00:58,840 --> 01:01:01,780
+during pullbacks in a trend
+
+697
+01:01:01,780 --> 01:01:04,639
+Alright, so these are practical examples
+
+698
+01:01:04,639 --> 01:01:09,500
+of how to use these tools
+
+699
+01:01:09,500 --> 01:01:14,460
+Now you can practice finding these patterns
+
+700
+01:01:19,139 --> 01:01:22,360
+can't break through, meaning it can't push higher
+
+701
+01:01:22,360 --> 01:01:26,900
+So here we might think, well, it might not make it
+
+702
+01:01:27,539 --> 01:01:31,800
+Maybe it'll drop back down first? Let's wait and see? Or what?
+
+703
+01:01:32,159 --> 01:01:34,920
+But we see another candlestick trying to break through
+
+704
+01:01:34,920 --> 01:01:38,320
+Alright, so when it breaks through, we see the role switches
+
+705
+01:01:39,280 --> 01:01:42,719
+from what was Resistance, now acting as Support
+
+706
+01:01:43,860 --> 01:01:50,480
+See? When it breaks through, the role reverses
+
+707
+01:01:50,480 --> 01:01:55,579
+supporting from below
+
+708
+01:01:55,579 --> 01:01:59,079
+Then it bounces up again
+
+709
+01:01:59,420 --> 01:02:05,159
+continuing the upward move
+
+710
+01:02:05,159 --> 01:02:10,360
+Alright, so this shows how Support and Resistance
+
+711
+01:02:10,360 --> 01:02:13,940
+can switch roles
+
+712
+01:02:13,940 --> 01:02:16,280
+This concept is very important
+
+713
+01:02:18,079 --> 01:02:20,900
+for understanding price movement
+
+714
+01:02:21,820 --> 01:02:23,159
+Now let's look at another example
+
+715
+01:02:23,460 --> 01:02:24,420
+This one combines multiple concepts
+
+716
+01:02:25,559 --> 01:02:27,920
+Here we have a trendline
+
+717
+01:02:28,519 --> 01:02:31,280
+which is diagonal Support
+
+718
+01:02:32,199 --> 01:02:33,920
+The price keeps testing this line
+
+719
+01:02:34,260 --> 01:02:36,440
+bouncing up each time
+
+720
+01:02:37,300 --> 01:02:39,480
+This shows the trendline is strong
+
+721
+01:02:39,480 --> 01:02:42,059
+because it's been tested multiple times
+
+722
+01:02:42,059 --> 01:02:47,739
+Now look what happens when it breaks
+
+723
+01:02:47,739 --> 01:02:51,280
+The trendline switches from Support
+
+724
+01:02:52,260 --> 01:02:57,380
+to become Resistance
+
+725
+01:02:57,559 --> 01:02:58,219
+See how the price tries to go back up
+
+726
+01:03:00,119 --> 01:03:05,039
+but gets rejected at the old trendline
+
+727
+01:03:05,260 --> 01:03:11,480
+This is a perfect example of role reversal
+
+728
+01:03:11,480 --> 01:03:14,840
+The same line that was supporting
+
+729
+01:03:14,840 --> 01:03:18,199
+is now resisting
+
+730
+01:03:18,199 --> 01:03:22,239
+Alright, let's talk about channels
+
+731
+01:03:23,380 --> 01:03:35,019
+A channel has two parallel lines
+
+732
+01:03:35,019 --> 01:03:39,860
+The lower line is Support
+
+733
+01:03:39,860 --> 01:03:45,420
+The upper line is Resistance
+
+734
+01:03:45,420 --> 01:03:51,760
+The price moves between these two lines
+
+735
+01:03:51,760 --> 01:03:56,340
+bouncing from Support to Resistance
+
+736
+01:03:57,400 --> 01:04:26,320
+and back down again
+
+737
+01:04:26,320 --> 01:04:28,760
+This is called channel trading
+
+738
+01:04:28,760 --> 01:04:33,980
+When the price is at the bottom
+
+739
+01:04:34,900 --> 01:04:38,980
+touching Support, we can buy
+
+740
+01:04:41,179 --> 01:04:42,380
+When it reaches the top
+
+741
+01:04:44,500 --> 01:04:46,780
+touching Resistance, we can sell
+
+742
+01:04:47,559 --> 01:04:50,840
+This works as long as the channel holds
+
+743
+01:04:51,619 --> 01:04:54,179
+But what happens if it breaks out?
+
+744
+01:04:54,920 --> 01:04:57,579
+If it breaks above the upper line
+
+745
+01:04:58,260 --> 01:04:59,500
+that Resistance becomes Support
+
+746
+01:04:59,500 --> 01:05:02,320
+The same role reversal concept
+
+747
+01:05:02,320 --> 01:05:03,980
+we've been talking about
+
+748
+01:05:04,800 --> 01:05:08,360
+Now, there's one more thing
+
+749
+01:05:08,579 --> 01:05:14,239
+about Support and Resistance zones
+
+750
+01:05:14,239 --> 01:05:18,340
+Remember, we don't draw them as single lines
+
+751
+01:05:18,699 --> 01:05:24,900
+We draw them as zones or areas
+
+752
+01:05:27,159 --> 01:05:41,900
+Because the price doesn't respect exact levels
+
+753
+01:05:41,900 --> 01:05:52,039
+It moves in zones
+
+754
+01:05:53,940 --> 01:06:03,019
+So when you're drawing Support and Resistance
+
+755
+01:06:04,800 --> 01:06:07,199
+don't try to be too precise
+
+756
+01:06:09,079 --> 01:06:12,739
+Draw zones instead
+
+757
+01:06:13,739 --> 01:06:17,679
+This gives you more flexibility
+
+758
+01:06:17,679 --> 01:06:22,079
+and better accuracy
+
+759
+01:06:22,480 --> 01:06:27,000
+Alright, let's look at some practical examples
+
+760
+01:06:28,219 --> 01:06:36,960
+on real charts
+
+761
+01:06:37,559 --> 01:06:47,940
+Here's a chart showing horizontal Support
+
+762
+01:06:54,280 --> 01:07:00,800
+You can see the price bouncing multiple times
+
+763
+01:07:00,800 --> 01:07:06,380
+from this zone
+
+764
+01:07:06,380 --> 01:07:10,480
+Each bounce makes the Support stronger
+
+765
+01:07:10,480 --> 01:07:13,880
+because more traders recognize it
+
+766
+01:07:13,880 --> 01:07:18,039
+Now look at this Resistance zone
+
+767
+01:07:18,340 --> 01:07:22,940
+The price tries to break through
+
+768
+01:07:26,340 --> 01:07:33,340
+but gets pushed back down
+
+769
+01:07:34,199 --> 01:07:39,679
+several times
+
+770
+01:07:40,019 --> 01:07:47,800
+This shows the Resistance is strong
+
+771
+01:07:49,099 --> 01:07:58,039
+Until finally, it breaks through
+
+772
+01:08:02,780 --> 01:08:05,219
+with a strong bullish candlestick
+
+773
+01:08:11,000 --> 01:08:15,280
+Now watch what happens next
+
+774
+01:08:15,719 --> 01:08:18,439
+The price pulls back
+
+775
+01:08:19,140 --> 01:08:23,319
+to retest the old Resistance
+
+776
+01:08:23,500 --> 01:08:28,420
+which is now acting as Support
+
+777
+01:08:28,420 --> 01:08:30,579
+This is a classic retest pattern
+
+778
+01:08:33,039 --> 01:08:36,159
+and a great trading opportunity
+
+779
+01:08:37,500 --> 01:08:40,239
+If you see a Pinbar here
+
+780
+01:08:40,560 --> 01:08:44,239
+at the old Resistance turned Support
+
+781
+01:08:44,239 --> 01:08:46,659
+that's a high-probability setup
+
+782
+01:08:46,659 --> 01:08:48,979
+combining candlestick patterns with Support and Resistance
+
+783
+01:08:50,500 --> 01:08:52,939
+This is what we call confluence
+
+784
+01:08:54,199 --> 01:08:57,699
+when multiple signals line up
+
+785
+01:08:57,699 --> 01:09:04,840
+Alright, so to summarize
+
+786
+01:09:04,840 --> 01:09:07,720
+Support and Resistance are price zones
+
+787
+01:09:07,720 --> 01:09:13,720
+not exact lines
+
+788
+01:09:14,420 --> 01:09:19,659
+They can switch roles when broken
+
+789
+01:09:19,659 --> 01:09:24,500
+Support becomes Resistance
+
+790
+01:09:24,500 --> 01:09:27,020
+Resistance becomes Support
+
+791
+01:09:27,020 --> 01:09:32,000
+The more times a level is tested
+
+792
+01:09:33,500 --> 01:09:36,300
+the stronger it becomes
+
+793
+01:09:36,300 --> 01:09:41,720
+We can use them with candlestick patterns
+
+794
+01:09:41,720 --> 01:09:45,279
+for better trading decisions
+
+795
+01:09:45,279 --> 01:09:49,239
+Support and Resistance work on all timeframes
+
+796
+01:09:49,239 --> 01:09:53,920
+from 1-minute charts to monthly charts
+
+797
+01:09:53,920 --> 01:09:57,800
+The concept is the same
+
+798
+01:09:57,800 --> 01:10:02,140
+just on different scales
+
+799
+01:10:02,140 --> 01:10:05,800
+Now, when you're analyzing charts
+
+800
+01:10:05,800 --> 01:10:09,260
+start with higher timeframes first
+
+801
+01:10:09,260 --> 01:10:15,460
+like weekly or 4-hour charts
+
+802
+01:10:15,899 --> 01:10:20,439
+to find the major Support and Resistance zones
+
+803
+01:10:21,859 --> 01:10:25,520
+Then drill down to lower timeframes
+
+804
+01:10:25,520 --> 01:10:29,319
+to find your entry points
+
+805
+01:10:29,319 --> 01:10:32,920
+This top-down approach
+
+806
+01:10:32,920 --> 01:10:35,100
+gives you better perspective
+
+807
+01:10:35,100 --> 01:10:40,640
+of the overall market structure
+
+808
+01:10:41,739 --> 01:10:44,420
+Alright, we've covered a lot today
+
+809
+01:10:47,399 --> 01:10:52,939
+about Support and Resistance
+
+810
+01:10:52,939 --> 01:10:54,220
+This is Part 2 of Price Action
+
+811
+01:10:56,399 --> 01:11:00,899
+In Part 1, we learned about candlesticks
+
+812
+01:11:00,899 --> 01:11:06,140
+Now in Part 2, we've learned Support and Resistance
+
+813
+01:11:07,140 --> 01:11:13,460
+These two components together
+
+814
+01:11:13,460 --> 01:11:17,960
+form the foundation of Price Action trading
+
+815
+01:11:17,960 --> 01:11:22,640
+When you combine candlestick patterns
+
+816
+01:11:22,640 --> 01:11:25,060
+with Support and Resistance zones
+
+817
+01:11:25,060 --> 01:11:30,439
+you'll have a powerful trading system
+
+818
+01:11:31,500 --> 01:11:36,560
+The key is to practice
+
+819
+01:11:36,560 --> 01:11:39,960
+looking at many charts
+
+820
+01:11:42,039 --> 01:11:45,439
+identifying these levels
+
+821
+01:11:45,439 --> 01:11:49,979
+and watching how price reacts
+
+822
+01:11:49,979 --> 01:12:06,539
+Over time, you'll develop
+
+823
+01:12:06,539 --> 01:12:10,760
+an eye for these patterns
+
+824
+01:12:10,760 --> 01:12:14,100
+and you'll start recognizing them quickly
+
+825
+01:12:14,340 --> 01:12:16,920
+Remember, Support and Resistance
+
+826
+01:12:16,920 --> 01:12:20,319
+are the most important tools in Price Action
+
+827
+01:12:20,319 --> 01:12:25,699
+and when you find these simple patterns, that's it
+
+828
+01:12:25,699 --> 01:12:28,560
+there's consistent profit opportunity
+
+829
+01:12:29,340 --> 01:12:30,579
+Thank you very much. Goodbye.

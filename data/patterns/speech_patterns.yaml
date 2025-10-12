@@ -1,0 +1,42 @@
+metadata:
+  description: Thai speech patterns for recognition
+  version: 1.0.0
+patterns:
+  continuations:
+    description: Continuation words
+    patterns:
+    - ^และ
+    - ^แต่
+    - ^หรือ
+    - ^ดังนั้น
+    - ^เพราะ
+    - ^แล้ว
+  emphasis:
+    description: Emphasis patterns
+    patterns:
+    - .*จริงๆ
+    - .*มากๆ
+    - .*เลย$
+    - .*อย่างมาก
+  fillers:
+    description: Filler words to remove
+    words:
+    - ครับ
+    - ค่ะ
+    - นะ
+    - นะครับ
+    - นะคะ
+    - อ่า
+    - เอ่อ
+    - อืม
+  questions:
+    description: Question patterns
+    patterns:
+    - .*ไหม$
+    - .*มั้ย$
+    - .*หรือเปล่า$
+    - .*หรือไม่$
+    - .*ได้ไหม$
+    - ^ทำไม.*
+    - ^อะไร.*
+    - ^ยังไง.*

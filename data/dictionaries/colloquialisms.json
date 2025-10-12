@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Thai colloquial phrases in Forex context",
+    "source": "ep-02.txt and Forex Terminology Guide"
+  },
+  "phrases": [
+    {
+      "thai": "ฝรั่งบอก",
+      "english": "As Westerners say",
+      "category": "colloquial",
+      "context": "introducing_concept",
+      "priority": 1
+    },
+    {
+      "thai": "เข้าเนื้อกันดีกว่า",
+      "english": "Let's dive into the details",
+      "category": "colloquial",
+      "context": "transition",
+      "priority": 1
+    },
+    {
+      "thai": "ฝั่งไหนครองเกมอยู่",
+      "english": "Which side is dominating",
+      "category": "colloquial",
+      "context": "market_control",
+      "priority": 1
+    },
+    {
+      "thai": "อ่านแผนที่นำทาง",
+      "english": "Read the market roadmap",
+      "category": "colloquial",
+      "context": "navigation",
+      "priority": 1
+    },
+    {
+      "thai": "แต่งให้มันเป็นนิทาน",
+      "english": "Turn it into your own narrative",
+      "category": "colloquial",
+      "context": "personalization",
+      "priority": 2
+    },
+    {
+      "thai": "กองทัพซะมากกว่า",
+      "english": "More like an army",
+      "category": "colloquial",
+      "context": "military_metaphor",
+      "priority": 1
+    },
+    {
+      "thai": "มีกำลังในการบุก",
+      "english": "Has the strength to advance",
+      "category": "colloquial",
+      "context": "military_metaphor",
+      "priority": 1
+    },
+    {
+      "thai": "เมืองสองเมืองจะยึด",
+      "english": "Two cities battling for control",
+      "category": "colloquial",
+      "context": "military_metaphor",
+      "priority": 2
+    },
+    {
+      "thai": "ฝั่งกระทิง",
+      "english": "Bull side",
+      "category": "colloquial",
+      "context": "market_forces",
+      "priority": 1
+    },
+    {
+      "thai": "ฝั่งหมี",
+      "english": "Bear side",
+      "category": "colloquial",
+      "context": "market_forces",
+      "priority": 1
+    },
+    {
+      "thai": "แรงเหวี่ยง",
+      "english": "Momentum",
+      "category": "colloquial",
+      "context": "physics_metaphor",
+      "priority": 1
+    },
+    {
+      "thai": "เหวี่ยงลูกตุ้ม",
+      "english": "Like a swinging pendulum",
+      "category": "colloquial",
+      "context": "physics_metaphor",
+      "priority": 2
+    },
+    {
+      "thai": "หมดกำลัง",
+      "english": "Running out of steam",
+      "category": "colloquial",
+      "context": "energy",
+      "priority": 1
+    },
+    {
+      "thai": "เหยียบเบรค",
+      "english": "Hitting the brakes",
+      "category": "colloquial",
+      "context": "car_metaphor",
+      "priority": 1
+    },
+    {
+      "thai": "ยูเทิร์นกลับ",
+      "english": "Making a U-turn",
+      "category": "colloquial",
+      "context": "car_metaphor",
+      "priority": 1
+    },
+    {
+      "thai": "แท่งมันค่อยๆ เล็กลงๆ",
+      "english": "The candles are gradually shrinking",
+      "category": "colloquial",
+      "context": "technical",
+      "priority": 1
+    },
+    {
+      "thai": "แรงขายเริ่มน้อยลง",
+      "english": "Selling pressure is weakening",
+      "category": "colloquial",
+      "context": "market_analysis",
+      "priority": 1
+    },
+    {
+      "thai": "เริ่มมีการสู้คืน",
+      "english": "Starting to fight back",
+      "category": "colloquial",
+      "context": "military_metaphor",
+      "priority": 1
+    },
+    {
+      "thai": "กำแพงเมือง",
+      "english": "City wall (major resistance)",
+      "category": "colloquial",
+      "context": "military_metaphor",
+      "priority": 1
+    },
+    {
+      "thai": "สูสีกัน",
+      "english": "Evenly matched",
+      "category": "colloquial",
+      "context": "market_battle",
+      "priority": 1,
+      "notes": "กำลังของทั้งสองฝ่ายพอๆ กัน ไม่รู้ฝ่ายไหนจะชนะ"
+    },
+    {
+      "thai": "สูสีมาก",
+      "english": "Closely contested",
+      "category": "colloquial",
+      "context": "market_battle",
+      "priority": 1
+    },
+    {
+      "thai": "ยังสู้กันอยู่",
+      "english": "Still battling it out",
+      "category": "colloquial",
+      "context": "military_metaphor",
+      "priority": 1
+    },
+    {
+      "thai": "เท่ากัน",
+      "english": "Equal / Balanced",
+      "category": "colloquial",
+      "context": "comparison",
+      "priority": 2,
+      "notes": "ใช้เปรียบเทียบแรงซื้อ-แรงขาย"
+    }
+  ]
+}

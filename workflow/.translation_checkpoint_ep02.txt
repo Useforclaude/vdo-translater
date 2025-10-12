@@ -1,0 +1,47 @@
+TRANSLATION CHECKPOINT - ep-02061024
+=====================================
+File: ep-02061024_transcript.json
+Date Started: 2025-10-08
+Date Completed: 2025-10-08
+Translator: Claude Sonnet 4.5 (Manual Translation)
+Status: ✅ COMPLETED
+
+Progress: 826/826 segments (100%)
+Last completed: Segment 826 (FINAL)
+
+Translation file: workflow/03_translated/ep-02061024_translated.txt
+
+Video Info:
+- Topic: Candlestick Part 2 - Momentum Analysis
+- Duration: ~64 minutes (3,829 seconds)
+- Total segments: 826
+- Style: Casual teaching, conversational
+
+Translation Rules Applied:
+✓ Remove particles (ครับ, นะ, เนี้ย, เลย)
+✓ Remove filler words (แบบว่า, อ่า, เอ่อ)
+✓ Context-aware idioms (สูสี = evenly matched)
+✓ Keep Forex terms in English
+✓ Casual contractions (we'll, let's, it's)
+✓ Military metaphors preserved (ทัพ = army, แม่ทัพ = general)
+✓ Automotive metaphors (ยูเทิร์น = U-turn)
+✓ Physics metaphors (แรงเหวี่ยง = momentum)
+✓ Fix transcription errors
+
+Checkpoints:
+- Segment 100: ✅ COMPLETED (2025-10-08)
+- Segment 200: ✅ COMPLETED (2025-10-08)
+- Segment 300: ✅ COMPLETED (2025-10-08)
+- Segment 400: ✅ COMPLETED (2025-10-08)
+- Segment 500: ✅ COMPLETED (2025-10-08)
+- Segment 600: ✅ COMPLETED (2025-10-08)
+- Segment 700: ✅ COMPLETED (2025-10-08)
+- Segment 826: ✅ COMPLETED (2025-10-08) - FINAL
+
+Completion Time: 2025-10-08
+Total Translation Time: Single session (continuous work)
+
+NEXT STEPS:
+1. Generate SRT file from translation
+2. Quality check
+3. Test with Quantum-SyncV5

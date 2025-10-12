@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Metaphor domains and mappings for Thai Forex content"
+  },
+  "domains": {
+    "military": {
+      "pattern": "กองทัพ|ทหาร|แม่ทัพ|ยึด|เมือง|บุก|รุกราน|ศัตรู|สู้|กำแพง|ตีคืน|ลูกคืบ|พื้นที่|ตั้งค่าย|สู้ศรี|กองหนุน|ถูกตี|หมดแรง|ตาย",
+      "description": "Military metaphors for market battles",
+      "mappings": {
+        "กองทัพ": "forces/army",
+        "ทหาร": "soldiers/troops",
+        "แม่ทัพ": "commander/major force",
+        "ยึดเมือง": "capture territory",
+        "ยึดพื้นที่": "capture territory",
+        "บุก": "attack/advance",
+        "รุกราน": "push through",
+        "ศัตรู": "opposing force",
+        "สู้คืน": "fight back/counter-attack",
+        "ตีคืน": "counter-attack",
+        "กำแพงเมือง": "major resistance",
+        "ลูกคืบ": "advance gradually",
+        "พื้นที่": "territory/zone",
+        "ตั้งค่าย": "establish position",
+        "ตั้งพื้นที่": "establish position",
+        "สูสี": "evenly matched/neck and neck/closely contested",
+        "กองหนุน": "reinforcements",
+        "ถูกตี": "being attacked",
+        "หมดแรง": "exhausted/losing strength",
+        "ตาย": "defeated",
+        "รอดชีวิต": "survived",
+        "ชนะ": "won/victorious"
+      }
+    },
+    "automotive": {
+      "pattern": "รถ|เบรค|คันเร่ง|ยูเทิร์น|เลี้ยว|ความเร็ว|ชะลอ|เร่ง|วิ่ง",
+      "description": "Car metaphors for momentum",
+      "mappings": {
+        "รถ": "vehicle (in metaphor context)",
+        "เบรค": "brake",
+        "เหยียบเบรค": "hitting the brakes",
+        "เย็บเบรก": "tapping the brakes",
+        "คันเร่ง": "accelerator",
+        "เหยียบคันเร่ง": "hitting the gas/accelerating",
+        "ยูเทิร์น": "making a U-turn/reversing direction",
+        "เลี้ยว": "turning/changing direction",
+        "ความเร็ว": "speed/momentum",
+        "ชะลอตัว": "slowing down",
+        "ชะลอความเร็ว": "decelerating",
+        "เร่งความเร็ว": "accelerating",
+        "วิ่ง": "running/moving",
+        "ขับ": "driving"
+      }
+    },
+    "physics": {
+      "pattern": "แรง|เหวี่ยง|ลูกตุ้ม|โมเมนตัม|พลังงาน|กำลัง",
+      "description": "Physics metaphors for market forces",
+      "mappings": {
+        "แรง": "force/strength",
+        "แรงเหวี่ยง": "momentum/swing force",
+        "เหวี่ยง": "swing",
+        "เหวี่ยงลูกตุ้ม": "like a swinging pendulum",
+        "ลูกตุ้ม": "pendulum",
+        "โมเมนตัม": "momentum",
+        "พลังงาน": "energy",
+        "กำลัง": "strength/power",
+        "มีกำลัง": "has strength",
+        "หมดกำลัง": "running out of strength",
+        "สูญเสียพลังงาน": "losing energy/momentum",
+        "แรงซื้อแรงขาย": "buying and selling pressure",
+        "แรงซื้อ": "buying pressure/strength",
+        "แรงขาย": "selling pressure/strength"
+      }
+    },
+    "sports": {
+      "pattern": "ครองเกม|ชนะ|แพ้|เกม|แข่งขัน",
+      "description": "Sports metaphors for competition",
+      "mappings": {
+        "ครองเกม": "dominating the game",
+        "ชนะ": "winning",
+        "แพ้": "losing",
+        "เกม": "the game"
+      }
+    },
+    "nature": {
+      "pattern": "คลื่น|ลม|พายุ|น้ำ|ไฟ",
+      "description": "Nature metaphors for market movements",
+      "mappings": {
+        "คลื่นใหญ่": "major wave",
+        "พายุ": "storm/volatility",
+        "น้ำท่วม": "overwhelming force"
+      }
+    }
+  }
+}

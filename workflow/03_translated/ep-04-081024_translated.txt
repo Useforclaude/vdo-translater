@@ -1,0 +1,1437 @@
+[1] 1.30s - 11.62s
+Hello everyone, we've reached Part 3, the component that works together with the first two parts we've already learned.
+
+[2] 11.90s - 17.02s
+That is, candlesticks and support and resistance, and this is the final component.
+
+[3] 17.02s - 23.10s
+Before we move to the final part that we'll learn next, which brings everything together.
+
+[4] 23.86s - 27.54s
+To create a clear picture when you look at charts, read charts, and read them more clearly.
+
+[5] 27.78s - 29.66s
+It's called Dow Theory.
+
+[6] 32.72s - 35.34s
+So this guy Dow established it.
+
+[7] 35.34s - 37.36s
+The market has its own cycles.
+
+[8] 37.36s - 44.04s
+There's greed and fear, all these things exist in the up and down cycles of the chart.
+
+[9] 44.38s - 46.44s
+That's it, according to Dow's first principle.
+
+[10] 47.04s - 49.06s
+The market has already absorbed everything.
+
+[11] 50.06s - 50.90s
+Second principle.
+
+[12] 50.90s - 53.32s
+Dow says the market moves in trends.
+
+[13] 53.56s - 54.10s
+Always.
+
+[14] 54.78s - 56.06s
+Is it always true?
+
+[15] 56.06s - 57.04s
+There will be some periods.
+
+[16] 58.28s - 60.08s
+Where it consolidates.
+
+[17] 60.08s - 63.00s
+So we'll have these.
+
+[18] 64.02s - 64.98s
+Uptrend.
+
+[19] 65.28s - 66.20s
+Moving up.
+
+[20] 66.78s - 68.42s
+Price continues moving up.
+
+[21] 68.42s - 70.34s
+Continuously.
+
+[22] 72.12s - 73.00s
+Downtrend.
+
+[23] 73.20s - 74.18s
+Downward trend.
+
+[24] 74.18s - 80.16s
+This is uptrend, downtrend, price will keep going up or down continuously.
+
+[25] 81.86s - 84.00s
+These have their limitations.
+
+[26] 84.46s - 87.18s
+Uptrend - Higher High and Higher Low.
+
+[27] 88.60s - 90.18s
+Downtrend is lower high.
+
+[28] 90.84s - 92.04s
+Followed by lower low.
+
+[29] 92.04s - 94.06s
+I'll expand on this later.
+
+[30] 94.06s - 97.56s
+And this one is called no trend, or it's moving sideways.
+
+[31] 97.56s - 101.44s
+It's not going up and it's not going down, moving sideways, we call it sideways.
+
+[32] 113.56s - 128.62s
+Like this, it's called downtrend, uptrend, which consists of swing high, swing low, swing high, swing low.
+
+[33] 129.06s - 134.06s
+At this point, you should all understand swing high and swing low now, it's just price going up and down, up and down like this.
+
+[34] 134.96s - 140.38s
+When it goes up and comes down, when it turns downward, we call it swing high. When it turns upward, that's swing low.
+
+[35] 141.16s - 145.02s
+Whether it's an uptrend or downtrend, where it turns upward is always a swing low.
+
+[36] 145.80s - 147.72s
+Where it turns downward is always a swing high.
+
+[37] 147.72s - 153.40s
+When we learned about support and resistance, these are the points where we draw support and resistance levels.
+
+[38] 154.00s - 157.70s
+At the swing high and swing low points, same thing.
+
+[39] 158.78s - 163.18s
+This picture is the same, but right now we're not learning about support and resistance.
+
+[40] 164.00s - 167.54s
+We're learning about trends.
+
+[41] 168.60s - 170.78s
+The definition of a trend.
+
+[42] 172.34s - 181.18s
+The purple part here, for price to be in a trend, it must have these components.
+
+[43] 184.32s - 186.38s
+You need to have these 4 points.
+
+[44] 186.70s - 195.22s
+First, if it's an uptrend, you need to have the initial high, the original high.
+
+[45] 197.04s - 210.52s
+Let me change this a bit, oh well, never mind. And you need to have the original low, see?
+
+[46] 210.78s - 218.72s
+High and low, you need these two parts first. And the parts that tell us it's an uptrend are these two.
+
+[47] 220.34s - 227.96s
+Higher high. Higher high, translating from English, if we translate to Thai, high means the height, the original high point.
+
+[48] 229.44s - 235.82s
+Higher high means a high point that's higher than the original, this point here is called higher high.
+
+[49] 236.36s - 240.30s
+Is it higher? If we draw a line, it's higher, it went up further, see?
+
+[50] 240.48s - 241.54s
+This is called higher high.
+
+[51] 242.12s - 246.28s
+And another component you need to have to call it an uptrend.
+
+[52] 246.28s - 249.40s
+That is, you need to have a higher low.
+
+[53] 250.60s - 253.58s
+Which is a low that's higher than the original low.
+
+[54] 255.34s - 257.10s
+Same thing, look, drawing a line.
+
+[55] 257.80s - 260.42s
+This low is higher than this one, it doesn't touch here.
+
+[56] 267.96s - 273.50s
+Just having these two, high and low, is not enough. You need higher high and higher low.
+
+[57] 274.00s - 287.84s
+In Thai, we say you have a new highest point and a low point that's elevated.
+
+[58] 289.60s - 299.84s
+Low, but not as low as before, it's elevated. High, even higher than before. With one, two, three, four, these 4 components, it's called an uptrend.
+
+[59] 301.50s - 311.20s
+Downtrend is the same, you need 4 components. You need a starting point, which is the original low.
+
+[60] 314.10s - 316.72s
+Meaning you have the initial low and the initial high.
+
+[61] 317.84s - 322.70s
+And when it swings down, we get a lower low.
+
+[62] 322.94s - 324.76s
+Which is a low that's lower than the original low.
+
+[63] 326.24s - 327.38s
+This is the original low here.
+
+[64] 328.98s - 332.32s
+This one breaks through this line, see how it's lower?
+
+[65] 332.32s - 335.40s
+So it's called lower than the original low, a lower low.
+
+[66] 335.84s - 340.34s
+And the high, of course, must be a lower high.
+
+[67] 340.94s - 343.86s
+A high that's lower than the original high.
+
+[68] 345.30s - 346.06s
+The original high is here.
+
+[69] 348.68s - 351.16s
+The new high doesn't reach it, see? Lower than the original.
+
+[70] 352.08s - 354.64s
+This is called Dow Trends, a downtrend.
+
+[71] 355.88s - 360.42s
+You need these same 4 components, but if you only have one of them.
+
+[72] 361.84s - 366.40s
+You have the original high, let's say, and you have the low.
+
+[73] 368.90s - 373.90s
+But you don't have a higher high, you don't have this one.
+
+[74] 374.24s - 378.06s
+It's still just a high, like this.
+
+[75] 386.18s - 392.44s
+And you still have a high, and it's a low.
+
+[76] 395.46s - 402.58s
+It's a low, it doesn't have those two words yet, these two.
+
+[77] 402.58s - 403.88s
+Higher higher, lower lower.
+
+[78] 405.00s - 407.82s
+It's high high high low low.
+
+[79] 408.50s - 413.62s
+So it's not a trend, easy right?
+
+[80] 414.02s - 417.42s
+But if during this period, it stays here.
+
+[81] 420.82s - 423.68s
+It goes up like this, and whoosh, comes down.
+
+[82] 424.26s - 428.58s
+What happens? The original low.
+
+[83] 428.98s - 432.80s
+This one stays the same, it's still a low, see?
+
+[84] 432.80s - 435.16s
+But here it went higher.
+
+[85] 435.66s - 436.92s
+So what will happen here?
+
+[86] 438.48s - 440.00s
+Here we'll get a higher high.
+
+[87] 441.94s - 443.46s
+This is a higher high now.
+
+[88] 446.06s - 447.82s
+This, oh, can't see it at all.
+
+[89] 449.52s - 450.32s
+Let me remove it.
+
+[90] 452.42s - 453.68s
+How do I remove this?
+
+[91] 460.34s - 461.56s
+Should be like this, let's see.
+
+[92] 474.82s - 479.72s
+Let's look at this again carefully.
+
+[93] 483.24s - 490.68s
+We see this now, original high, original low, one, two, and suddenly it goes up, we encounter a new one.
+
+[94] 492.62s - 493.32s
+Encounter a new one.
+
+[95] 494.50s - 496.42s
+I can change the text, like this.
+
+[96] 497.58s - 498.04s
+Sure.
+
+[97] 500.98s - 502.14s
+Higher high.
+
+[98] 502.60s - 505.42s
+After it swings up, it doesn't go further, it comes down.
+
+[99] 505.42s - 508.52s
+It retraces down, and after retracing, coincidentally.
+
+[100] 509.86s - 511.00s
+Coincidentally again.
+
+[101] 511.66s - 513.72s
+It turns back up a bit.
+
+[102] 513.94s - 516.74s
+Just a little bit is enough, doesn't need much, and it becomes.
+
+[103] 519.32s - 519.98s
+Higher low.
+
+[104] 523.30s - 525.18s
+See how it came down but didn't reach this low?
+
+[105] 525.18s - 528.96s
+So it has to be an elevated low, right? Now the components come together.
+
+[106] 528.96s - 531.22s
+If we have these 4, one, two, three, four.
+
+[107] 532.28s - 536.90s
+Just these are enough, don't need more. With just these we can call it an uptrend.
+
+[108] 537.48s - 541.20s
+It's an uptrend, meaning it broke out from.
+
+[109] 544.98s - 546.72s
+Broke out from the sideways range and.
+
+[110] 547.14s - 559.10s
+It's an uptrend that we're ready to trade as an uptrend now. Let's look at a chart for a bit, just a bit, like this.
+
+[111] 560.92s - 576.12s
+Like this, what kind of trend is this? Downtrend, clearly, because, this part is easy, clearly a downtrend, why?
+
+[112] 576.12s - 585.10s
+Uh, why? Well, here, the original high.
+
+[113] 597.18s - 599.24s
+Oh, Dow Theory is here.
+
+[114] 616.34s - 622.34s
+Let me redo this, hard to write, let me do it like this and capture it.
+
+[115] 625.44s - 626.52s
+How much?
+
+[116] 628.68s - 629.00s
+High.
+
+[117] 629.78s - 634.18s
+High, I'll start counting from here, or you can count from here, whichever you prefer.
+
+[118] 634.70s - 642.52s
+High, initial high, initial high, and then low.
+
+[119] 643.46s - 647.70s
+And what happens here? Lower high.
+
+[120] 647.70s - 653.34s
+High. And what about here? Lower.
+
+[121] 657.22s - 658.40s
+Low, a low that's lower than the original low.
+
+[122] 658.40s - 662.78s
+Is it really lower? The high is here, the original high is here.
+
+[123] 664.62s - 668.74s
+A high that's lower than the original high, it's clearly lower because this one doesn't touch this line, see?
+
+[124] 669.36s - 673.68s
+What about the low? A low that's lower than the original low.
+
+[125] 674.14s - 677.42s
+This one here, the original low is at this line, this is lower than this line.
+
+[126] 678.12s - 680.02s
+That reaches the swing low.
+
+[127] 681.82s - 682.62s
+Therefore.
+
+[128] 683.20s - 685.70s
+Of course this is a downtrend.
+
+[129] 685.70s - 687.36s
+We can call it a downtrend.
+
+[130] 688.68s - 691.98s
+See? And it will continue in its series.
+
+[131] 691.98s - 694.28s
+Until it changes on its own.
+
+[132] 694.78s - 695.68s
+Right.
+
+[133] 696.28s - 698.06s
+The opposite for an uptrend.
+
+[134] 699.80s - 701.90s
+This one is clearly a downtrend.
+
+[135] 703.88s - 705.22s
+It repeats itself.
+
+[136] 705.22s - 706.38s
+Accordingly.
+
+[137] 706.38s - 726.96s
+Like this, ah, like this, this, this, yeah, this, yeah, still.
+
+[138] 726.96s - 730.46s
+Yes, when it completes the components continuously, this is called.
+
+[139] 730.46s - 734.46s
+A downtrend, quite clearly, uptrend.
+
+[140] 736.38s - 741.58s
+And what about uptrend? Uptrend is.
+
+[141] 745.96s - 751.96s
+Which area should we use? This area works, easy.
+
+[142] 759.54s - 764.84s
+This one, we can count from here too.
+
+[143] 767.34s - 769.34s
+Draw it in, like this.
+
+[144] 773.54s - 777.78s
+As the starting point, we'll make it a low.
+
+[145] 779.72s - 781.02s
+Let's say counting the swing.
+
+[146] 781.02s - 781.94s
+Let's say counting the swing.
+
+[147] 781.96s - 784.08s
+Count the big one, this one, or count the small ones.
+
+[148] 784.08s - 785.72s
+Let's say we count from here.
+
+[149] 785.94s - 788.22s
+It's a high.
+
+[150] 790.22s - 792.40s
+And then it retraces down, see this here?
+
+[151] 792.40s - 793.36s
+Price retraces down.
+
+[152] 799.24s - 800.16s
+It's a higher low.
+
+[153] 802.42s - 804.40s
+Is it a higher low? Yes.
+
+[154] 804.40s - 806.40s
+Because the original low is here.
+
+[155] 806.94s - 808.20s
+But price stopped here.
+
+[156] 808.68s - 810.18s
+It didn't come down to touch this line.
+
+[157] 810.18s - 811.94s
+Meaning it's a low that's higher than before.
+
+[158] 812.40s - 816.50s
+Of course you can see it with your eyes, I'm just citing the theory.
+
+[159] 817.72s - 821.42s
+Therefore, this point must be a higher high.
+
+[160] 822.54s - 827.08s
+There, and then it will.
+
+[161] 827.88s - 831.00s
+Just like before, continuing like this.
+
+[162] 832.66s - 836.28s
+Better find this one, here, here.
+
+[163] 836.28s - 836.30s
+Here.
+
+[164] 839.90s - 840.68s
+Higher low.
+
+[165] 842.70s - 843.56s
+Elevated low.
+
+[166] 844.64s - 845.44s
+Elevated low.
+
+[167] 846.40s - 851.22s
+Elevated low, and this one.
+
+[168] 851.46s - 852.88s
+This one is about the same.
+
+[169] 853.68s - 855.96s
+Let's just stop here.
+
+[170] 857.00s - 859.82s
+Actually I think it's still elevated if you look closely at this point.
+
+[171] 862.20s - 862.86s
+A tiny bit.
+
+[172] 865.08s - 866.26s
+If you don't want to be confused, it's very close.
+
+[173] 868.04s - 873.18s
+But just this much, you can see it's an uptrend.
+
+[174] 875.06s - 879.56s
+Uptrend according to Dow's definition is like this.
+
+[175] 880.34s - 888.72s
+You have 2 starting points, a low and a high, and if you have higher high and higher low, it's called an uptrend.
+
+[176] 890.56s - 897.28s
+The earlier one was a downtrend, and there's another type where it doesn't go up and doesn't go down.
+
+[177] 903.70s - 907.72s
+We can use this one, right here.
+
+[178] 920.22s - 922.24s
+Make it smaller, this one.
+
+[179] 931.42s - 932.48s
+Just draw the lines.
+
+[180] 934.34s - 939.46s
+It's a range, see? Moving within a range.
+
+[181] 942.80s - 944.92s
+And for the starting point, it will be.
+
+[182] 948.72s - 949.48s
+Can find it here.
+
+[183] 950.94s - 955.74s
+Start here, this point.
+
+[184] 959.08s - 959.40s
+Low.
+
+[185] 961.50s - 964.56s
+There will always be 2 points.
+
+[186] 965.62s - 966.82s
+We need to find the starting point first.
+
+[187] 967.28s - 967.44s
+High.
+
+[188] 969.32s - 971.10s
+Low, there's a low here, low.
+
+[189] 974.68s - 976.40s
+Low and then swing up to a high.
+
+[190] 980.52s - 982.64s
+This has a higher high.
+
+[191] 984.96s - 987.38s
+Looks like it could be uptrend, has a higher high.
+
+[192] 987.86s - 993.70s
+But that's okay, let's count from here first.
+
+[193] 999.82s - 1000.28s
+Ah.
+
+[194] 1000.28s - 1000.54s
+Ah.
+
+[195] 1000.54s - 1001.08s
+Ah.
+
+[196] 1001.08s - 1001.08s
+
+
+[197] 1001.08s - 1001.08s
+
+
+[198] 1001.08s - 1001.08s
+
+
+[199] 1001.10s - 1002.46s
+Looking at it, it seems like it could be.
+
+[200] 1003.12s - 1003.54s
+Actually.
+
+[201] 1003.54s - 1006.04s
+According to theory, it would be right.
+
+[202] 1008.52s - 1009.64s
+But it might not be.
+
+[203] 1009.64s - 1010.38s
+Because this.
+
+[204] 1010.38s - 1011.42s
+We're counting this swing first.
+
+[205] 1011.42s - 1014.04s
+We're counting this high as the starting point because then there must be a low here too.
+
+[206] 1015.06s - 1016.98s
+This one will be a higher low.
+
+[207] 1019.12s - 1019.76s
+Right here.
+
+[208] 1021.76s - 1023.58s
+One, two, three, four, all 4.
+
+[209] 1023.58s - 1023.94s
+Okay.
+
+[210] 1023.94s - 1025.10s
+This is an uptrend.
+
+[211] 1026.14s - 1027.20s
+Just this part.
+
+[212] 1031.10s - 1038.40s
+They're about equal, it seems like it's not going to elevate, so exclude that, and then when it comes up here.
+
+[213] 1039.90s - 1042.82s
+It becomes a lower high.
+
+[214] 1045.70s - 1047.14s
+And then it comes down again.
+
+[215] 1049.86s - 1054.46s
+This is lower than this, it's a lower low.
+
+[216] 1059.88s - 1065.80s
+Simply put, it's no longer continuing in an upward series.
+
+[217] 1067.28s - 1070.92s
+Low, high, and then it should go up again.
+
+[218] 1071.26s - 1074.08s
+It breaks down right here, no continuation.
+
+[219] 1075.32s - 1077.34s
+Here it goes down, just looking at this, it's down.
+
+[220] 1078.90s - 1084.44s
+It goes up, but this high here is almost equal.
+
+[221] 1084.44s - 1084.44s
+
+
+[222] 1084.70s - 1089.74s
+It's still not clearly counted as one, okay, this one might come down to be.
+
+[223] 1089.74s - 1095.20s
+There is that, but it goes back up, look, evenly matched again, down then up.
+
+[224] 1095.74s - 1100.86s
+Very simply, if you look, look, just look at this period, I'll use the pen right away.
+
+[225] 1100.86s - 1105.54s
+This period, going up, see? Up, oh.
+
+[226] 1108.82s - 1109.72s
+But this period is down.
+
+[227] 1112.66s - 1119.50s
+If you just look at this, oh, this part is up again, if you look clearly, it's about.
+
+[228] 1119.50s - 1131.20s
+Like support and resistance, remember? It's a zone, it's a zone, it's in.
+
+[229] 1131.20s - 1138.52s
+A range, it will be rectangular, I mean, it's like, approximately like.
+
+[230] 1138.52s - 1144.80s
+A range, and price is moving inside, no matter what, it seems to be.
+
+[231] 1144.80s - 1148.22s
+Bouncing inside a bit, but in the end, it's just moving.
+
+[232] 1148.22s - 1156.02s
+Not going anywhere, moving sideways, if it's moving like this.
+
+[233] 1158.68s - 1160.98s
+You'll see it looks like waves of equal height, like this.
+
+[234] 1164.98s - 1175.76s
+You can see it's clearly sideways. If you want to be sure, look at it with support and resistance, it looks pretty messy.
+
+[235] 1175.76s - 1185.46s
+Breaking everything, support and resistance lines, breaking through all over the place, breaking like crazy, and not really respecting support and resistance that much.
+
+[236] 1186.40s - 1191.92s
+Like this is support, if it comes down and becomes resistance, no it's not.
+
+[237] 1191.92s - 1194.18s
+It breaks back and forth, this is called sideways.
+
+[238] 1195.80s - 1199.26s
+No trend, not trending, understand?
+
+[239] 1199.94s - 1204.22s
+Let's keep it simple for now, don't think too much, don't think too much, don't overcomplicate it.
+
+[240] 1204.22s - 1215.44s
+This is a trend. I'm explaining this for beginners.
+
+[241] 1216.62s - 1220.80s
+Coming back to our topic, you should be able to see which is which now.
+
+[242] 1221.76s - 1228.84s
+Okay, drawing trend lines, we talked about this in the support and resistance lesson.
+
+[243] 1229.22s - 1235.58s
+This is the correct way to draw it, he shows examples, this one cuts through, this one is wrong, skip it.
+
+[244] 1236.56s - 1244.52s
+Okay, now let's look at trend analysis, when it's an uptrend or downtrend, or sideways.
+
+[245] 1244.52s - 1253.16s
+What happens is the chart that forms will be a trend that looks like waves, you understand it's like waves?
+
+[246] 1255.54s - 1257.94s
+Yeah, we have waves, like waves.
+
+[247] 1257.94s - 1261.90s
+Look, let me clear the purple first.
+
+[248] 1269.94s - 1278.36s
+Like this, look, it moves like this, we call it waves.
+
+[249] 1280.14s - 1283.92s
+When we first talked, we learned specifically about individual candles.
+
+[250] 1283.92s - 1292.34s
+Candlesticks, individual candles like this, but many candlesticks combined continuously.
+
+[251] 1292.70s - 1298.24s
+They form wave patterns, right? In these waves, there will be how many candlesticks?
+
+[252] 1298.24s - 1304.62s
+Tons of them, countless, who knows, like this, but we won't focus on that anymore.
+
+[253] 1304.62s - 1307.02s
+At this point, we only focus on the waves.
+
+[254] 1310.12s - 1312.44s
+We're looking at the big picture.
+
+[255] 1315.08s - 1317.56s
+Now these waves are what we'll analyze.
+
+[256] 1318.32s - 1324.34s
+At first when we learned in the first part about candlesticks, we analyzed.
+
+[257] 1324.76s - 1326.04s
+We analyzed the candlesticks themselves.
+
+[258] 1327.36s - 1332.52s
+We read them candle by candle, continuously, to see what events might happen.
+
+[259] 1332.52s - 1346.86s
+Going forward into the future, whether it'll keep going up or if there's a tendency to go down by reading candle by candle. Now we'll read them as waves, the big picture, to see.
+
+[260] 1348.24s - 1354.46s
+What's likely ahead, I use the word likely, what it could be like.
+
+[261] 1358.48s - 1359.26s
+Let's continue.
+
+[262] 1362.74s - 1367.98s
+We need to pair them up, pair them up, when we see the overall chart like this, showing like this.
+
+[263] 1369.50s - 1372.30s
+We pair swing high with swing low.
+
+[264] 1374.26s - 1380.22s
+In sets, one after another like this, like this, going up, this is low, this is high, and running back to low.
+
+[265] 1380.22s - 1384.28s
+Three points, ABC, or one, two, three, easy to count, like.
+
+[266] 1384.28s - 1390.44s
+This, you see it? This, wait, let me show you again.
+
+[267] 1390.44s - 1391.46s
+One, like this.
+
+[268] 1396.20s - 1404.78s
+This, one, two, three, this is one period, when it's done, we count.
+
+[269] 1404.78s - 1413.34s
+A new set, from 3 here, it becomes 1, 2, 3 of this set, of this set.
+
+[270] 1414.70s - 1423.94s
+Count again, here it becomes 1, 2, 3 of this set, and then count a new set.
+
+[271] 1424.40s - 1429.16s
+And if there's more, keep counting continuously as 1-2-3, 1-2-3, pairing them up like this.
+
+[272] 1432.18s - 1438.32s
+You ask, for what purpose? To analyze the waves, analyze the strength of the waves.
+
+[273] 1438.32s - 1444.12s
+Whether the trend is strong or weak, ah, how it's moving.
+
+[274] 1444.12s - 1448.84s
+Which direction it will go, after we've already analyzed candlesticks, we'll look at waves as well.
+
+[275] 1449.56s - 1454.04s
+It's another tool, or another piece of knowledge, if we know and combine everything.
+
+[276] 1455.10s - 1457.72s
+It will help us read charts even better.
+
+[277] 1457.72s - 1460.52s
+Sometimes when we read candlesticks, they might say one thing, but waves say another.
+
+[278] 1460.52s - 1461.50s
+Whoa, which one do we believe?
+
+[279] 1462.04s - 1467.92s
+This, we'll get to this in the final part that we'll learn together.
+
+[280] 1468.26s - 1474.18s
+This part, let's just take it step by step first, pairing like this.
+
+[281] 1474.18s - 1489.60s
+It will have its own names, like M, like this.
+
+[282] 1489.60s - 1491.06s
+Anyway, pairing them up.
+
+[283] 1494.32s - 1500.72s
+They will classify them once paired, see how they're paired? But they'll categorize a bit.
+
+[284] 1501.90s - 1507.60s
+Type A, Type A is when it goes up and then retraces.
+
+[285] 1507.60s - 1514.80s
+Goes up then retraces, see? Goes up then retraces, when they classify types, they look at the retracement.
+
+[286] 1514.80s - 1516.94s
+Not when it goes up, but when it retraces.
+
+[287] 1517.90s - 1521.50s
+Vice versa when it goes down then turns back up.
+
+[288] 1521.50s - 1523.56s
+We count at the point where it turns up.
+
+[289] 1524.86s - 1525.34s
+Confused?
+
+[290] 1526.80s - 1527.74s
+Count here.
+
+[291] 1528.48s - 1530.40s
+The theory counts here, the theory counts.
+
+[292] 1530.40s - 1531.94s
+If it's upward movement, count when it retraces.
+
+[293] 1533.08s - 1534.22s
+But if it's downward movement.
+
+[294] 1535.28s - 1536.94s
+Count when it turns back up.
+
+[295] 1537.54s - 1538.06s
+Right here.
+
+[296] 1538.94s - 1543.90s
+Right here, to classify or categorize the type of wave.
+
+[297] 1545.54s - 1552.98s
+Type A, Type A is when it retraces, and counting the full length of the rise, it comes down less than 50%.
+
+[298] 1554.74s - 1560.24s
+If it's a down move, it retraces back up less than 50% of what it came down.
+
+[299] 1561.74s - 1568.52s
+This is type 1, Type A, like this, goes up then down, if the level is here, it doesn't reach it, and continues.
+
+[300] 1570.70s - 1578.60s
+Type B reaches about 50%, approximately, retracing approximately.
+
+[301] 1578.60s - 1582.08s
+And the last type, this is an example, retraces about 50%.
+
+[302] 1582.36s - 1587.28s
+Type C retraces more than 50% of the initial rise that went up.
+
+[303] 1587.56s - 1592.62s
+The impulse move, the retracement comes down and bounces back more than 50%.
+
+[304] 1593.30s - 1594.42s
+Like this, like this.
+
+[305] 1595.98s - 1600.18s
+You ask why do we need to know? Because each pattern A-B-C.
+
+[306] 1600.18s - 1603.18s
+It indicates the strength of the move.
+
+[307] 1604.52s - 1607.36s
+Look, they have their rules, rules of thumb.
+
+[308] 1608.66s - 1626.68s
+Pullback wave, this is it, pullback wave is the move that goes against the original direction. Simply put, if in this case it's an uptrend, it goes up, goes up meaning it has low, higher low, higher low, higher high, higher high, higher high.
+
+[309] 1627.42s - 1636.44s
+But when it retraces before it makes a higher high in the uptrend, it's divided into these 3 types, less than 50%, at 50%, more than 50%.
+
+[310] 1637.16s - 1647.34s
+The one that reaches or doesn't reach, exceeds or doesn't, the stronger the retracement is, the weaker the uptrend becomes.
+
+[311] 1648.12s - 1655.70s
+Meaning like this, goes up like this, reaches 50%, this one doesn't reach 50%.
+
+[312] 1655.98s - 1662.56s
+But this one exceeds 50%, the wave will be weak, meaning when it continues, it won't go very far.
+
+[313] 1668.22s - 1675.78s
+If it goes far, it has a chance, like this, you can look at this wave, look at this one, went up this much, let's say 50% is here.
+
+[314] 1676.36s - 1678.54s
+It only retraced this much and continues.
+
+[315] 1679.10s - 1680.56s
+See? It continues much further.
+
+[316] 1682.30s - 1683.16s
+But look at this one.
+
+[317] 1683.80s - 1685.94s
+Went up and retraced more than 50%.
+
+[318] 1686.68s - 1688.68s
+Went and struggled like this.
+
+[319] 1688.68s - 1692.40s
+If we look in terms of candlestick strength.
+
+[320] 1692.40s - 1693.42s
+It seems like it's starting to.
+
+[321] 1694.46s - 1696.52s
+Soon it will start, maybe around this area.
+
+[322] 1696.52s - 1698.24s
+And it will probably curve down.
+
+[323] 1702.32s - 1703.72s
+Now let's look at quality.
+
+[324] 1703.72s - 1708.62s
+The quality of the trend.
+
+[325] 1709.74s - 1715.86s
+Like this one, we'll look specifically at the moves that go in the direction of the trend.
+
+[326] 1716.86s - 1719.26s
+In the direction of the trend, which is.
+
+[327] 1730.02s - 1732.26s
+Let's say uptrend.
+
+[328] 1735.14s - 1739.84s
+Another one is downtrend, the earlier example was downtrend, right?
+
+[329] 1740.42s - 1742.52s
+Look at the moves that go in the same direction as the trend.
+
+[330] 1742.52s - 1745.18s
+This trend goes up, this trend goes down.
+
+[331] 1747.26s - 1747.92s
+We look at this one.
+
+[332] 1748.62s - 1748.90s
+Oh.
+
+[333] 1749.40s - 1757.62s
+For example, look at this one, look at this one, look at this, look at this, it's downtrend, we look at where it goes down.
+
+[334] 1757.62s - 1760.74s
+We don't look at where it goes up, we look at where it goes down, see?
+
+[335] 1762.78s - 1767.08s
+Look at the distance, measure the distance, bop, bop, the consistency, see?
+
+[336] 1767.50s - 1774.06s
+About 250, it's between this, this, like this is considered a strong trend.
+
+[337] 1774.06s - 1782.34s
+It's a good trend, it's a quality trend, because it will just keep going like this, see? When it comes down.
+
+[338] 1782.34s - 1804.04s
+This trend, downtrend, it will keep going continuously, won't stop. If we buy here.
+
+[339] 1804.04s - 1807.50s
+Fifty, quite inconsistent, like the earlier one, see?
+
+[340] 1807.96s - 1812.82s
+It's about this much, plus or minus percentage is similar, but this one, this is a lot.
+
+[341] 1812.82s - 1817.86s
+This one is little, this is even less, comes back a lot again, oh little again, this is a lot.
+
+[342] 1819.86s - 1822.48s
+Looks like it's doing well, it's running then suddenly shoots up.
+
+[343] 1823.36s - 1832.58s
+Follow it in, thinking it'll go further, but this type of trend, they consider, Westerners consider.
+
+[344] 1833.16s - 1839.68s
+It's not very strong, why it shoots up like this, but if you look at the big picture.
+
+[345] 1839.68s - 1852.46s
+They look at this as, this is learning about waves, not candlesticks.
+
+[346] 1852.66s - 1855.74s
+It's like, if driving uphill, gradually step on the accelerator.
+
+[347] 1857.44s - 1858.72s
+Finally step full max.
+
+[348] 1858.96s - 1861.84s
+Like the road is very steep, very steep incline too.
+
+[349] 1864.16s - 1866.18s
+Runs out of power, it flows down, drops.
+
+[350] 1866.44s - 1868.16s
+Something like that.
+
+[351] 1870.76s - 1871.96s
+Okay, let's look at an example.
+
+[352] 1873.12s - 1876.18s
+Suppose we see this pattern, what do we need to do?
+
+[353] 1877.56s - 1879.06s
+We pair them up.
+
+[354] 1879.58s - 1881.14s
+Like this, look at it as waves.
+
+[355] 1885.70s - 1892.96s
+Wave number 1, then down up, then down up, then down up, down up, but we don't care about the down.
+
+[356] 1893.30s - 1899.12s
+We want to analyze the consistency of the trend following the trend direction, use the term following the trend.
+
+[357] 1899.12s - 1904.60s
+Trend direction. Low is here, higher low, higher low, higher high, higher high.
+
+[358] 1904.60s - 1906.36s
+Therefore, this is clearly an uptrend.
+
+[359] 1911.14s - 1927.12s
+Following this, it's going up this way, up way, up way, up way, not down at all, let's do it again, this is not down way. Now let's analyze the first pair, rises to this point then drops down here, this is
+
+[360] 1927.12s - 1928.78s
+the return, return, the first pair.
+
+[361] 1929.38s - 1931.96s
+Let me explain simply. One, two, three, there are three pairs.
+
+[362] 1932.34s - 1933.98s
+Like the first pair, like this, we'll see that
+
+[363] 1934.22s - 1936.44s
+it's quite long and strong, then drops down.
+
+[364] 1938.16s - 1941.18s
+When it drops, it doesn't drop much. See? Doesn't drop much.
+
+[365] 1942.16s - 1944.96s
+Doesn't exceed, probably doesn't exceed 50% of
+
+[366] 1946.78s - 1949.08s
+the wave that surged up following the trend.
+
+[367] 1949.48s - 1951.88s
+So it should be classified around
+
+[368] 1951.88s - 1964.30s
+probably the type of wave we just learned, not A then B, should be around this. Now when it rises again, the second pair, pair it up again
+
+[369] 1965.56s - 1966.10s
+Ah
+
+[370] 1967.74s - 1976.00s
+You'll see that the second one that rises is actually shorter than this one.
+
+[371] 1976.90s - 1985.16s
+This means this one is strong, because the second wave is less strong than the first wave.
+
+[372] 1987.50s - 2000.44s
+And when it reverses back down, if you measure the height coming down, it probably exceeds 50% of the wave that pushed up in the same direction as the trend.
+
+[373] 2001.04s - 2015.22s
+Drops down, should exceed 50%, should be yes, should be around 50% or, if it's here, suppose 50% is here, then it exceeds, should definitely exceed 50% at this point.
+
+[374] 2015.22s - 2022.56s
+This shows the strength of this wave set is weaker than this wave set. This is already an important point, starting to weaken.
+
+[375] 2024.38s - 2029.10s
+Then the last one, it just keeps going, ah, like the type we learned, ah
+
+[376] 2029.36s - 2036.04s
+Just now, right, that it's not consistent. Strong, weak, strong, and look at the drop point. Drops
+
+[377] 2036.04s - 2042.94s
+a little, drops a lot. This trend is weakening, which might not be finished weakening yet.
+
+[378] 2042.94s - 2045.92s
+Might drop further, or it might continue up, we don't know yet.
+
+[379] 2046.26s - 2048.02s
+Just analyzing only the waves first.
+
+[380] 2049.30s - 2050.72s
+Take what we see clearly.
+
+[381] 2051.54s - 2052.76s
+We can say that
+
+[382] 2052.76s - 2054.60s
+this wave at the beginning
+
+[383] 2054.94s - 2055.68s
+was strong.
+
+[384] 2055.68s - 2057.72s
+Look at the first pair, first set.
+
+[385] 2058.44s - 2059.22s
+Surges like this.
+
+[386] 2059.56s - 2061.88s
+Here, suppose this might be Sideways, I don't know.
+
+[387] 2061.88s - 2063.94s
+But when it starts becoming a Trend, it surges really strong.
+
+[388] 2065.32s - 2066.38s
+Then pulls back just a little bit.
+
+[389] 2066.52s - 2069.58s
+Has a chance to continue, of course. See? If we follow, this is Type
+
+[390] 2070.42s - 2073.20s
+wave type, Type A, rises then pulls back a little, not reaching 50
+
+[391] 2073.46s - 2076.48s
+or around 50, it can continue far. If we count from
+
+[392] 2076.48s - 2079.16s
+this first set, it can continue this much.
+
+[393] 2079.16s - 2081.70s
+It rises like this, still going far following
+
+[394] 2082.38s - 2083.24s
+the energy of
+
+[395] 2083.24s - 2091.18s
+like this set, it pulls back a lot, it pulls back a lot, it does rise further, that's true, but it looks weak.
+
+[396] 2093.74s - 2101.42s
+Tired already, might not go as far as this one that sent, sent the whole set forward to this one, can you imagine?
+
+[397] 2103.66s - 2107.02s
+Looking at the second one, it's starting to weaken compared to the first.
+
+[398] 2107.78s - 2116.42s
+Therefore, the third one rises as strong as the first. If you look at the length, they're similar.
+
+[399] 2118.76s - 2126.86s
+Therefore, the overall picture, if we analyze it, the health is still considered good.
+
+[400] 2128.24s - 2130.68s
+Just looking at these three rises, because this part isn't finished yet.
+
+[401] 2130.68s - 2135.50s
+If we see the end part, we'll know whether the health is very good or not so good.
+
+[402] 2135.50s - 2139.64s
+If we see it pulls back only this much, and here might be support too.
+
+[403] 2140.72s - 2143.66s
+It might turn back up and continue. This shows that if it really pulls back only this much
+
+[404] 2144.00s - 2156.56s
+it would be a Type A wave, which is A below 50, A, C, A, still considered a Grade A type wave, can still continue, has a chance to continue.
+
+[405] 2157.20s - 2159.42s
+And we analyze like this.
+
+[406] 2160.70s - 2168.30s
+Like this example, this is very strong, shoots up, this is definitely A, not reaching 50%, but the second wave is shorter than this one, much shorter.
+
+[407] 2168.76s - 2172.12s
+And drops down exceeding 50, clearly, see?
+
+[408] 2173.64s - 2177.30s
+Therefore, we'll analyze that it's not very pretty.
+
+[409] 2179.18s - 2183.40s
+Rising like this, health is not very good.
+
+[410] 2184.70s - 2188.70s
+It might rise at most to around the previous High at this point.
+
+[411] 2189.28s - 2192.22s
+Then it could reverse down. The health is already not good.
+
+[412] 2192.22s - 2195.70s
+It rises well here, but here it's not so good.
+
+[413] 2197.76s - 2202.44s
+This is analyzing as waves, not looking at candlesticks yet, it's like a line chart.
+
+[414] 2204.40s - 2208.50s
+Dare to buy? Just buy. If you look at it as an uptrend, it's still lifting the Low.
+
+[415] 2208.50s - 2211.24s
+This is Low, Higher Low, Higher Low.
+
+[416] 2211.74s - 2214.26s
+High also gets higher, higher.
+
+[417] 2214.26s - 2219.12s
+But even though it can make it go up, it probably won't be strong.
+
+[418] 2219.12s - 2222.58s
+I analyze that it's not strong enough to go very far over there.
+
+[419] 2222.94s - 2225.82s
+Might come to around here, just past this high a little bit.
+
+[420] 2226.56s - 2231.20s
+Then gradually form a downtrend on the other side instead.
+
+[421] 2233.98s - 2240.08s
+Now we come to estimating the waves that will occur in the future.
+
+[422] 2241.38s - 2245.98s
+We look at the consistency. 185, 274, 209.
+
+[423] 2247.20s - 2250.78s
+On average, it should move around 200 if it continues up.
+
+[424] 2250.78s - 2253.38s
+Because this is an uptrend. See?
+
+[425] 2254.44s - 2257.04s
+Low lifts throughout, High rises throughout.
+
+[426] 2257.66s - 2261.28s
+If the hypothesis of the trend still exists, it means
+
+[427] 2261.70s - 2266.34s
+when there's a High, uh, Low that's higher here
+
+[428] 2266.34s - 2275.96s
+there's a chance for a High, uh, High that's even higher to occur.
+
+[429] 2275.96s - 2279.88s
+Around 200 pips, plus or minus, around this.
+
+[430] 2282.40s - 2290.08s
+Now the Trend will keep going according to the uptrend or downtrend direction, following the Concept theory.
+
+[431] 2290.74s - 2301.96s
+Until the Concept is violated, then we can say there's a chance for that trend to change.
+
+[432] 2303.58s - 2307.70s
+The candlestick patterns we used to memorize before, various reversal candlesticks
+
+[433] 2308.26s - 2311.90s
+Candlesticks don't indicate that the Trend will change or reverse.
+
+[434] 2311.90s - 2314.72s
+They just indicate a reversal in that specific price range only.
+
+[435] 2316.40s - 2321.12s
+Like when we see a reversal candlestick, a Pinbar just reverses this much. It doesn't say
+
+[436] 2322.50s - 2326.76s
+that the trend changes. Like where's good? Like here, this Pinbar
+
+[437] 2327.58s - 2331.76s
+drops down then rises back up. It doesn't mean that when you see a Pinbar or reversal candlestick pattern
+
+[438] 2331.76s - 2338.70s
+it will become an uptrend from a downtrend. It just changes the angle.
+
+[439] 2338.70s - 2342.74s
+The angle of price, making swing high swing low, that's all, and it still follows the same trend.
+
+[440] 2344.46s - 2348.98s
+The market moves in trends, Dow Theory point 2 says this, therefore
+
+[441] 2349.84s - 2352.66s
+You must believe it's a trend, and trade with the trend.
+
+[442] 2353.84s - 2356.08s
+And it will change trend only when it changes trend.
+
+[443] 2356.44s - 2358.56s
+Saying it like this sounds confusing but it's really like this.
+
+[444] 2359.04s - 2361.90s
+For it to change, it must violate the theory.
+
+[445] 2361.90s - 2363.68s
+Contradict it.
+
+[446] 2365.70s - 2367.32s
+Lower High, Lower High, Lower High.
+
+[447] 2367.32s - 2368.94s
+Lower Low, Lower Low, Lower Low.
+
+[448] 2368.94s - 2372.62s
+What should follow the downtrend direction?
+
+[449] 2373.02s - 2375.42s
+Lower High, Lower High, continuously lower.
+
+[450] 2375.42s - 2379.62s
+But it makes a High that's higher than the previous High here. See?
+
+[451] 2380.38s - 2384.90s
+This is violating, violating the theory.
+
+[452] 2386.10s - 2394.38s
+Therefore, there's a chance that it will change trend. Using the word chance.
+
+[453] 2394.38s - 2400.08s
+Must keep watching. Don't see just this and assume it's certain. It might just be temporary then drop again.
+
+[454] 2400.40s - 2405.08s
+Therefore, we need to watch. When it pulls back, we look at the rise that we pair up like we learned from the beginning, rises
+
+[455] 2405.08s - 2413.52s
+If it pulls back, pulls back and gets a lower, uh, gets here, gets a Higher Low, a low that's higher than this low.
+
+[456] 2417.20s - 2421.76s
+One, two, three, we get 3 components already. Low, High, Higher Low.
+
+[457] 2422.32s - 2427.60s
+If it continues moving higher than this High, becoming a Higher High, it's an uptrend.
+
+[458] 2427.90s - 2434.02s
+The trend change happens around this time, or it might drop, not stay here.
+
+[459] 2434.02s - 2440.98s
+It might drop all the way here, but not lower than this, not lower than this original Low, then it rises again.
+
+[460] 2442.66s - 2450.30s
+Until it's higher than this High, it's also an uptrend. The theory concept is when the wave breaks out of the concept.
+
+[461] 2450.84s - 2453.76s
+Of downtrend and then uptrend.
+
+[462] 2454.80s - 2458.14s
+If the pattern comes to this point really, it will fit the pattern that
+
+[463] 2458.14s - 2461.06s
+we remember as Double Bottom.
+
+[464] 2461.56s - 2466.12s
+A W shape. Two bottom points then the trend changes upward.
+
+[465] 2467.18s - 2471.12s
+According to theory, they consider the W pattern
+
+[466] 2472.02s - 2475.52s
+in a downtrend, if Double Bottom occurs, it's a Pattern
+
+[467] 2475.98s - 2484.60s
+for trend change. But really, if we take the real thing, there will be a price or wave that warns us first that it might change.
+
+[468] 2484.60s - 2505.50s
+It's this wave that breaks through the High, breaks through the concept. See? Higher than this High.
+
+[469] 2505.50s - 2509.50s
+The Low doesn't have a lifted low anymore. It has a suddenly lower low appearing like this.
+
+[470] 2511.36s - 2515.70s
+Like this example, it's clearly lower, it's clearly a downtrend.
+
+[471] 2516.38s - 2520.46s
+If this doesn't go up and drops with the downtrend, clearly it has changed.
+
+[472] 2522.02s - 2524.78s
+It's a warning signal. Simply put, we look at warning signals.
+
+[473] 2525.18s - 2535.82s
+If you've been happily playing Buy, holding long, and you see a warning signal, prepare to sell out, close TP already. Something like that.
+
+[474] 2535.82s - 2543.60s
+If you keep holding, it might come back to the point where you bought. Same if you've been selling, held it, it might come back up.
+
+[475] 2544.52s - 2549.46s
+It's a warning. However you say it, it's a warning. Remember this signal, End of Trend.
+
+[476] 2549.46s - 2553.58s
+And that's the end of this Part on the topic of Trends in Dow Theory for now.
+
+[477] 2553.96s - 2559.88s
+Next time we meet, we'll take everything and combine it all together, then we'll analyze charts together.
+
+[478] 2560.10s - 2563.96s
+That will be very fun and you'll understand much more.
+
+[479] 2564.32s - 2566.54s
+Okay, thank you very much. Goodbye.
+

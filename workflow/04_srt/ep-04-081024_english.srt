@@ -1,0 +1,1915 @@
+1
+00:00:01,299 --> 00:00:11,619
+Hello everyone, we've reached Part 3, the component that works together with the first two parts we've already learned.
+
+2
+00:00:11,900 --> 00:00:17,019
+That is, candlesticks and support and resistance, and this is the final component.
+
+3
+00:00:17,019 --> 00:00:23,100
+Before we move to the final part that we'll learn next, which brings everything together.
+
+4
+00:00:23,859 --> 00:00:27,539
+To create a clear picture when you look at charts, read charts, and read them more clearly.
+
+5
+00:00:27,779 --> 00:00:29,660
+It's called Dow Theory.
+
+6
+00:00:32,719 --> 00:00:35,340
+So this guy Dow established it.
+
+7
+00:00:35,340 --> 00:00:37,359
+The market has its own cycles.
+
+8
+00:00:37,359 --> 00:00:44,039
+There's greed and fear, all these things exist in the up and down cycles of the chart.
+
+9
+00:00:44,379 --> 00:00:46,439
+That's it, according to Dow's first principle.
+
+10
+00:00:47,039 --> 00:00:49,060
+The market has already absorbed everything.
+
+11
+00:00:50,060 --> 00:00:50,899
+Second principle.
+
+12
+00:00:50,899 --> 00:00:53,320
+Dow says the market moves in trends.
+
+13
+00:00:53,560 --> 00:00:54,100
+Always.
+
+14
+00:00:54,780 --> 00:00:56,060
+Is it always true?
+
+15
+00:00:56,060 --> 00:00:57,039
+There will be some periods.
+
+16
+00:00:58,280 --> 00:01:00,079
+Where it consolidates.
+
+17
+00:01:00,079 --> 00:01:03,000
+So we'll have these.
+
+18
+00:01:04,019 --> 00:01:04,980
+Uptrend.
+
+19
+00:01:05,280 --> 00:01:06,200
+Moving up.
+
+20
+00:01:06,780 --> 00:01:08,420
+Price continues moving up.
+
+21
+00:01:08,420 --> 00:01:10,340
+Continuously.
+
+22
+00:01:12,119 --> 00:01:13,000
+Downtrend.
+
+23
+00:01:13,200 --> 00:01:14,180
+Downward trend.
+
+24
+00:01:14,180 --> 00:01:20,159
+This is uptrend, downtrend, price will keep going up or down continuously.
+
+25
+00:01:21,860 --> 00:01:24,000
+These have their limitations.
+
+26
+00:01:24,460 --> 00:01:27,180
+Uptrend - Higher High and Higher Low.
+
+27
+00:01:28,600 --> 00:01:30,180
+Downtrend is lower high.
+
+28
+00:01:30,840 --> 00:01:32,040
+Followed by lower low.
+
+29
+00:01:32,040 --> 00:01:34,060
+I'll expand on this later.
+
+30
+00:01:34,060 --> 00:01:37,560
+And this one is called no trend, or it's moving sideways.
+
+31
+00:01:37,560 --> 00:01:41,440
+It's not going up and it's not going down, moving sideways, we call it sideways.
+
+32
+00:01:53,560 --> 00:02:08,620
+Like this, it's called downtrend, uptrend, which consists of swing high, swing low, swing high, swing low.
+
+33
+00:02:09,060 --> 00:02:14,060
+At this point, you should all understand swing high and swing low now, it's just price going up and down, up and down like this.
+
+34
+00:02:14,960 --> 00:02:20,379
+When it goes up and comes down, when it turns downward, we call it swing high. When it turns upward, that's swing low.
+
+35
+00:02:21,159 --> 00:02:25,020
+Whether it's an uptrend or downtrend, where it turns upward is always a swing low.
+
+36
+00:02:25,800 --> 00:02:27,719
+Where it turns downward is always a swing high.
+
+37
+00:02:27,719 --> 00:02:33,400
+When we learned about support and resistance, these are the points where we draw support and resistance levels.
+
+38
+00:02:34,000 --> 00:02:37,699
+At the swing high and swing low points, same thing.
+
+39
+00:02:38,780 --> 00:02:43,180
+This picture is the same, but right now we're not learning about support and resistance.
+
+40
+00:02:44,000 --> 00:02:47,539
+We're learning about trends.
+
+41
+00:02:48,600 --> 00:02:50,780
+The definition of a trend.
+
+42
+00:02:52,340 --> 00:03:01,180
+The purple part here, for price to be in a trend, it must have these components.
+
+43
+00:03:04,320 --> 00:03:06,379
+You need to have these 4 points.
+
+44
+00:03:06,700 --> 00:03:15,219
+First, if it's an uptrend, you need to have the initial high, the original high.
+
+45
+00:03:17,039 --> 00:03:30,520
+Let me change this a bit, oh well, never mind. And you need to have the original low, see?
+
+46
+00:03:30,780 --> 00:03:38,719
+High and low, you need these two parts first. And the parts that tell us it's an uptrend are these two.
+
+47
+00:03:40,340 --> 00:03:47,960
+Higher high. Higher high, translating from English, if we translate to Thai, high means the height, the original high point.
+
+48
+00:03:49,439 --> 00:03:55,819
+Higher high means a high point that's higher than the original, this point here is called higher high.
+
+49
+00:03:56,360 --> 00:04:00,300
+Is it higher? If we draw a line, it's higher, it went up further, see?
+
+50
+00:04:00,479 --> 00:04:01,539
+This is called higher high.
+
+51
+00:04:02,120 --> 00:04:06,280
+And another component you need to have to call it an uptrend.
+
+52
+00:04:06,280 --> 00:04:09,400
+That is, you need to have a higher low.
+
+53
+00:04:10,599 --> 00:04:13,580
+Which is a low that's higher than the original low.
+
+54
+00:04:15,340 --> 00:04:17,100
+Same thing, look, drawing a line.
+
+55
+00:04:17,799 --> 00:04:20,420
+This low is higher than this one, it doesn't touch here.
+
+56
+00:04:27,959 --> 00:04:33,500
+Just having these two, high and low, is not enough. You need higher high and higher low.
+
+57
+00:04:34,000 --> 00:04:47,839
+In Thai, we say you have a new highest point and a low point that's elevated.
+
+58
+00:04:49,600 --> 00:04:59,839
+Low, but not as low as before, it's elevated. High, even higher than before. With one, two, three, four, these 4 components, it's called an uptrend.
+
+59
+00:05:01,500 --> 00:05:11,199
+Downtrend is the same, you need 4 components. You need a starting point, which is the original low.
+
+60
+00:05:14,100 --> 00:05:16,720
+Meaning you have the initial low and the initial high.
+
+61
+00:05:17,839 --> 00:05:22,699
+And when it swings down, we get a lower low.
+
+62
+00:05:22,939 --> 00:05:24,759
+Which is a low that's lower than the original low.
+
+63
+00:05:26,240 --> 00:05:27,379
+This is the original low here.
+
+64
+00:05:28,980 --> 00:05:32,319
+This one breaks through this line, see how it's lower?
+
+65
+00:05:32,319 --> 00:05:35,399
+So it's called lower than the original low, a lower low.
+
+66
+00:05:35,840 --> 00:05:40,339
+And the high, of course, must be a lower high.
+
+67
+00:05:40,939 --> 00:05:43,860
+A high that's lower than the original high.
+
+68
+00:05:45,300 --> 00:05:46,060
+The original high is here.
+
+69
+00:05:48,680 --> 00:05:51,160
+The new high doesn't reach it, see? Lower than the original.
+
+70
+00:05:52,080 --> 00:05:54,639
+This is called Dow Trends, a downtrend.
+
+71
+00:05:55,879 --> 00:06:00,420
+You need these same 4 components, but if you only have one of them.
+
+72
+00:06:01,840 --> 00:06:06,399
+You have the original high, let's say, and you have the low.
+
+73
+00:06:08,900 --> 00:06:13,899
+But you don't have a higher high, you don't have this one.
+
+74
+00:06:14,240 --> 00:06:18,060
+It's still just a high, like this.
+
+75
+00:06:26,180 --> 00:06:32,439
+And you still have a high, and it's a low.
+
+76
+00:06:35,460 --> 00:06:42,579
+It's a low, it doesn't have those two words yet, these two.
+
+77
+00:06:42,579 --> 00:06:43,879
+Higher higher, lower lower.
+
+78
+00:06:45,000 --> 00:06:47,819
+It's high high high low low.
+
+79
+00:06:48,499 --> 00:06:53,620
+So it's not a trend, easy right?
+
+80
+00:06:54,019 --> 00:06:57,420
+But if during this period, it stays here.
+
+81
+00:07:00,819 --> 00:07:03,680
+It goes up like this, and whoosh, comes down.
+
+82
+00:07:04,259 --> 00:07:08,579
+What happens? The original low.
+
+83
+00:07:08,979 --> 00:07:12,800
+This one stays the same, it's still a low, see?
+
+84
+00:07:12,800 --> 00:07:15,160
+But here it went higher.
+
+85
+00:07:15,660 --> 00:07:16,920
+So what will happen here?
+
+86
+00:07:18,480 --> 00:07:20,000
+Here we'll get a higher high.
+
+87
+00:07:21,939 --> 00:07:23,459
+This is a higher high now.
+
+88
+00:07:26,060 --> 00:07:27,819
+This, oh, can't see it at all.
+
+89
+00:07:29,520 --> 00:07:30,319
+Let me remove it.
+
+90
+00:07:32,420 --> 00:07:33,680
+How do I remove this?
+
+91
+00:07:40,340 --> 00:07:41,560
+Should be like this, let's see.
+
+92
+00:07:54,819 --> 00:07:59,720
+Let's look at this again carefully.
+
+93
+00:08:03,240 --> 00:08:10,680
+We see this now, original high, original low, one, two, and suddenly it goes up, we encounter a new one.
+
+94
+00:08:12,619 --> 00:08:13,319
+Encounter a new one.
+
+95
+00:08:14,499 --> 00:08:16,420
+I can change the text, like this.
+
+96
+00:08:17,579 --> 00:08:18,040
+Sure.
+
+97
+00:08:20,979 --> 00:08:22,139
+Higher high.
+
+98
+00:08:22,599 --> 00:08:25,420
+After it swings up, it doesn't go further, it comes down.
+
+99
+00:08:25,420 --> 00:08:28,519
+It retraces down, and after retracing, coincidentally.
+
+100
+00:08:29,859 --> 00:08:31,000
+Coincidentally again.
+
+101
+00:08:31,659 --> 00:08:33,720
+It turns back up a bit.
+
+102
+00:08:33,940 --> 00:08:36,740
+Just a little bit is enough, doesn't need much, and it becomes.
+
+103
+00:08:39,320 --> 00:08:39,980
+Higher low.
+
+104
+00:08:43,300 --> 00:08:45,179
+See how it came down but didn't reach this low?
+
+105
+00:08:45,179 --> 00:08:48,960
+So it has to be an elevated low, right? Now the components come together.
+
+106
+00:08:48,960 --> 00:08:51,220
+If we have these 4, one, two, three, four.
+
+107
+00:08:52,280 --> 00:08:56,899
+Just these are enough, don't need more. With just these we can call it an uptrend.
+
+108
+00:08:57,480 --> 00:09:01,200
+It's an uptrend, meaning it broke out from.
+
+109
+00:09:04,980 --> 00:09:06,720
+Broke out from the sideways range and.
+
+110
+00:09:07,140 --> 00:09:19,100
+It's an uptrend that we're ready to trade as an uptrend now. Let's look at a chart for a bit, just a bit, like this.
+
+111
+00:09:20,919 --> 00:09:36,120
+Like this, what kind of trend is this? Downtrend, clearly, because, this part is easy, clearly a downtrend, why?
+
+112
+00:09:36,120 --> 00:09:45,100
+Uh, why? Well, here, the original high.
+
+113
+00:09:57,179 --> 00:09:59,240
+Oh, Dow Theory is here.
+
+114
+00:10:16,340 --> 00:10:22,340
+Let me redo this, hard to write, let me do it like this and capture it.
+
+115
+00:10:25,440 --> 00:10:26,519
+How much?
+
+116
+00:10:28,680 --> 00:10:29,000
+High.
+
+117
+00:10:29,779 --> 00:10:34,179
+High, I'll start counting from here, or you can count from here, whichever you prefer.
+
+118
+00:10:34,699 --> 00:10:42,519
+High, initial high, initial high, and then low.
+
+119
+00:10:43,459 --> 00:10:47,700
+And what happens here? Lower high.
+
+120
+00:10:47,700 --> 00:10:53,340
+High. And what about here? Lower.
+
+121
+00:10:57,220 --> 00:10:58,399
+Low, a low that's lower than the original low.
+
+122
+00:10:58,399 --> 00:11:02,779
+Is it really lower? The high is here, the original high is here.
+
+123
+00:11:04,620 --> 00:11:08,740
+A high that's lower than the original high, it's clearly lower because this one doesn't touch this line, see?
+
+124
+00:11:09,360 --> 00:11:13,679
+What about the low? A low that's lower than the original low.
+
+125
+00:11:14,139 --> 00:11:17,419
+This one here, the original low is at this line, this is lower than this line.
+
+126
+00:11:18,120 --> 00:11:20,019
+That reaches the swing low.
+
+127
+00:11:21,819 --> 00:11:22,620
+Therefore.
+
+128
+00:11:23,199 --> 00:11:25,700
+Of course this is a downtrend.
+
+129
+00:11:25,700 --> 00:11:27,360
+We can call it a downtrend.
+
+130
+00:11:28,679 --> 00:11:31,980
+See? And it will continue in its series.
+
+131
+00:11:31,980 --> 00:11:34,279
+Until it changes on its own.
+
+132
+00:11:34,779 --> 00:11:35,679
+Right.
+
+133
+00:11:36,279 --> 00:11:38,059
+The opposite for an uptrend.
+
+134
+00:11:39,799 --> 00:11:41,899
+This one is clearly a downtrend.
+
+135
+00:11:43,879 --> 00:11:45,220
+It repeats itself.
+
+136
+00:11:45,220 --> 00:11:46,379
+Accordingly.
+
+137
+00:11:46,379 --> 00:12:06,960
+Like this, ah, like this, this, this, yeah, this, yeah, still.
+
+138
+00:12:06,960 --> 00:12:10,460
+Yes, when it completes the components continuously, this is called.
+
+139
+00:12:10,460 --> 00:12:14,460
+A downtrend, quite clearly, uptrend.
+
+140
+00:12:16,379 --> 00:12:21,580
+And what about uptrend? Uptrend is.
+
+141
+00:12:25,960 --> 00:12:31,960
+Which area should we use? This area works, easy.
+
+142
+00:12:39,539 --> 00:12:44,840
+This one, we can count from here too.
+
+143
+00:12:47,339 --> 00:12:49,340
+Draw it in, like this.
+
+144
+00:12:53,539 --> 00:12:57,779
+As the starting point, we'll make it a low.
+
+145
+00:12:59,719 --> 00:13:01,019
+Let's say counting the swing.
+
+146
+00:13:01,019 --> 00:13:01,940
+Let's say counting the swing.
+
+147
+00:13:01,960 --> 00:13:04,080
+Count the big one, this one, or count the small ones.
+
+148
+00:13:04,080 --> 00:13:05,720
+Let's say we count from here.
+
+149
+00:13:05,939 --> 00:13:08,220
+It's a high.
+
+150
+00:13:10,219 --> 00:13:12,399
+And then it retraces down, see this here?
+
+151
+00:13:12,399 --> 00:13:13,360
+Price retraces down.
+
+152
+00:13:19,239 --> 00:13:20,159
+It's a higher low.
+
+153
+00:13:22,419 --> 00:13:24,399
+Is it a higher low? Yes.
+
+154
+00:13:24,399 --> 00:13:26,399
+Because the original low is here.
+
+155
+00:13:26,939 --> 00:13:28,200
+But price stopped here.
+
+156
+00:13:28,679 --> 00:13:30,179
+It didn't come down to touch this line.
+
+157
+00:13:30,179 --> 00:13:31,940
+Meaning it's a low that's higher than before.
+
+158
+00:13:32,400 --> 00:13:36,500
+Of course you can see it with your eyes, I'm just citing the theory.
+
+159
+00:13:37,720 --> 00:13:41,419
+Therefore, this point must be a higher high.
+
+160
+00:13:42,540 --> 00:13:47,080
+There, and then it will.
+
+161
+00:13:47,879 --> 00:13:51,000
+Just like before, continuing like this.
+
+162
+00:13:52,660 --> 00:13:56,279
+Better find this one, here, here.
+
+163
+00:13:56,279 --> 00:13:56,299
+Here.
+
+164
+00:13:59,899 --> 00:14:00,679
+Higher low.
+
+165
+00:14:02,699 --> 00:14:03,559
+Elevated low.
+
+166
+00:14:04,639 --> 00:14:05,440
+Elevated low.
+
+167
+00:14:06,399 --> 00:14:11,220
+Elevated low, and this one.
+
+168
+00:14:11,459 --> 00:14:12,879
+This one is about the same.
+
+169
+00:14:13,679 --> 00:14:15,960
+Let's just stop here.
+
+170
+00:14:16,999 --> 00:14:19,820
+Actually I think it's still elevated if you look closely at this point.
+
+171
+00:14:22,199 --> 00:14:22,860
+A tiny bit.
+
+172
+00:14:25,079 --> 00:14:26,259
+If you don't want to be confused, it's very close.
+
+173
+00:14:28,039 --> 00:14:33,179
+But just this much, you can see it's an uptrend.
+
+174
+00:14:35,059 --> 00:14:39,559
+Uptrend according to Dow's definition is like this.
+
+175
+00:14:40,339 --> 00:14:48,720
+You have 2 starting points, a low and a high, and if you have higher high and higher low, it's called an uptrend.
+
+176
+00:14:50,560 --> 00:14:57,279
+The earlier one was a downtrend, and there's another type where it doesn't go up and doesn't go down.
+
+177
+00:15:03,700 --> 00:15:07,720
+We can use this one, right here.
+
+178
+00:15:20,219 --> 00:15:22,240
+Make it smaller, this one.
+
+179
+00:15:31,419 --> 00:15:32,480
+Just draw the lines.
+
+180
+00:15:34,339 --> 00:15:39,460
+It's a range, see? Moving within a range.
+
+181
+00:15:42,799 --> 00:15:44,919
+And for the starting point, it will be.
+
+182
+00:15:48,720 --> 00:15:49,480
+Can find it here.
+
+183
+00:15:50,940 --> 00:15:55,740
+Start here, this point.
+
+184
+00:15:59,080 --> 00:15:59,399
+Low.
+
+185
+00:16:01,500 --> 00:16:04,559
+There will always be 2 points.
+
+186
+00:16:05,620 --> 00:16:06,820
+We need to find the starting point first.
+
+187
+00:16:07,280 --> 00:16:07,440
+High.
+
+188
+00:16:09,320 --> 00:16:11,100
+Low, there's a low here, low.
+
+189
+00:16:14,679 --> 00:16:16,399
+Low and then swing up to a high.
+
+190
+00:16:20,519 --> 00:16:22,639
+This has a higher high.
+
+191
+00:16:24,959 --> 00:16:27,379
+Looks like it could be uptrend, has a higher high.
+
+192
+00:16:27,859 --> 00:16:33,700
+But that's okay, let's count from here first.
+
+193
+00:16:39,819 --> 00:16:40,279
+Ah.
+
+194
+00:16:40,279 --> 00:16:40,539
+Ah.
+
+195
+00:16:40,539 --> 00:16:41,080
+Ah.
+
+196
+00:16:41,080 --> 00:16:41,080
+
+
+197
+00:16:41,080 --> 00:16:41,080
+
+
+198
+00:16:41,080 --> 00:16:41,080
+
+
+199
+00:16:41,100 --> 00:16:42,460
+Looking at it, it seems like it could be.
+
+200
+00:16:43,120 --> 00:16:43,539
+Actually.
+
+201
+00:16:43,539 --> 00:16:46,039
+According to theory, it would be right.
+
+202
+00:16:48,519 --> 00:16:49,639
+But it might not be.
+
+203
+00:16:49,639 --> 00:16:50,379
+Because this.
+
+204
+00:16:50,379 --> 00:16:51,419
+We're counting this swing first.
+
+205
+00:16:51,419 --> 00:16:54,039
+We're counting this high as the starting point because then there must be a low here too.
+
+206
+00:16:55,060 --> 00:16:56,980
+This one will be a higher low.
+
+207
+00:16:59,120 --> 00:16:59,759
+Right here.
+
+208
+00:17:01,760 --> 00:17:03,580
+One, two, three, four, all 4.
+
+209
+00:17:03,580 --> 00:17:03,940
+Okay.
+
+210
+00:17:03,940 --> 00:17:05,099
+This is an uptrend.
+
+211
+00:17:06,139 --> 00:17:07,200
+Just this part.
+
+212
+00:17:11,099 --> 00:17:18,400
+They're about equal, it seems like it's not going to elevate, so exclude that, and then when it comes up here.
+
+213
+00:17:19,899 --> 00:17:22,819
+It becomes a lower high.
+
+214
+00:17:25,699 --> 00:17:27,140
+And then it comes down again.
+
+215
+00:17:29,859 --> 00:17:34,460
+This is lower than this, it's a lower low.
+
+216
+00:17:39,879 --> 00:17:45,799
+Simply put, it's no longer continuing in an upward series.
+
+217
+00:17:47,279 --> 00:17:50,920
+Low, high, and then it should go up again.
+
+218
+00:17:51,259 --> 00:17:54,079
+It breaks down right here, no continuation.
+
+219
+00:17:55,319 --> 00:17:57,339
+Here it goes down, just looking at this, it's down.
+
+220
+00:17:58,899 --> 00:18:04,440
+It goes up, but this high here is almost equal.
+
+221
+00:18:04,440 --> 00:18:04,440
+
+
+222
+00:18:04,699 --> 00:18:09,740
+It's still not clearly counted as one, okay, this one might come down to be.
+
+223
+00:18:09,740 --> 00:18:15,200
+There is that, but it goes back up, look, evenly matched again, down then up.
+
+224
+00:18:15,740 --> 00:18:20,859
+Very simply, if you look, look, just look at this period, I'll use the pen right away.
+
+225
+00:18:20,859 --> 00:18:25,539
+This period, going up, see? Up, oh.
+
+226
+00:18:28,819 --> 00:18:29,720
+But this period is down.
+
+227
+00:18:32,660 --> 00:18:39,500
+If you just look at this, oh, this part is up again, if you look clearly, it's about.
+
+228
+00:18:39,500 --> 00:18:51,200
+Like support and resistance, remember? It's a zone, it's a zone, it's in.
+
+229
+00:18:51,200 --> 00:18:58,519
+A range, it will be rectangular, I mean, it's like, approximately like.
+
+230
+00:18:58,519 --> 00:19:04,799
+A range, and price is moving inside, no matter what, it seems to be.
+
+231
+00:19:04,799 --> 00:19:08,220
+Bouncing inside a bit, but in the end, it's just moving.
+
+232
+00:19:08,220 --> 00:19:16,019
+Not going anywhere, moving sideways, if it's moving like this.
+
+233
+00:19:18,680 --> 00:19:20,980
+You'll see it looks like waves of equal height, like this.
+
+234
+00:19:24,979 --> 00:19:35,759
+You can see it's clearly sideways. If you want to be sure, look at it with support and resistance, it looks pretty messy.
+
+235
+00:19:35,759 --> 00:19:45,460
+Breaking everything, support and resistance lines, breaking through all over the place, breaking like crazy, and not really respecting support and resistance that much.
+
+236
+00:19:46,399 --> 00:19:51,920
+Like this is support, if it comes down and becomes resistance, no it's not.
+
+237
+00:19:51,920 --> 00:19:54,180
+It breaks back and forth, this is called sideways.
+
+238
+00:19:55,799 --> 00:19:59,259
+No trend, not trending, understand?
+
+239
+00:19:59,939 --> 00:20:04,220
+Let's keep it simple for now, don't think too much, don't think too much, don't overcomplicate it.
+
+240
+00:20:04,220 --> 00:20:15,440
+This is a trend. I'm explaining this for beginners.
+
+241
+00:20:16,619 --> 00:20:20,799
+Coming back to our topic, you should be able to see which is which now.
+
+242
+00:20:21,759 --> 00:20:28,839
+Okay, drawing trend lines, we talked about this in the support and resistance lesson.
+
+243
+00:20:29,219 --> 00:20:35,579
+This is the correct way to draw it, he shows examples, this one cuts through, this one is wrong, skip it.
+
+244
+00:20:36,559 --> 00:20:44,519
+Okay, now let's look at trend analysis, when it's an uptrend or downtrend, or sideways.
+
+245
+00:20:44,519 --> 00:20:53,160
+What happens is the chart that forms will be a trend that looks like waves, you understand it's like waves?
+
+246
+00:20:55,539 --> 00:20:57,940
+Yeah, we have waves, like waves.
+
+247
+00:20:57,940 --> 00:21:01,900
+Look, let me clear the purple first.
+
+248
+00:21:09,939 --> 00:21:18,359
+Like this, look, it moves like this, we call it waves.
+
+249
+00:21:20,139 --> 00:21:23,920
+When we first talked, we learned specifically about individual candles.
+
+250
+00:21:23,920 --> 00:21:32,339
+Candlesticks, individual candles like this, but many candlesticks combined continuously.
+
+251
+00:21:32,699 --> 00:21:38,240
+They form wave patterns, right? In these waves, there will be how many candlesticks?
+
+252
+00:21:38,240 --> 00:21:44,619
+Tons of them, countless, who knows, like this, but we won't focus on that anymore.
+
+253
+00:21:44,619 --> 00:21:47,019
+At this point, we only focus on the waves.
+
+254
+00:21:50,119 --> 00:21:52,440
+We're looking at the big picture.
+
+255
+00:21:55,079 --> 00:21:57,559
+Now these waves are what we'll analyze.
+
+256
+00:21:58,319 --> 00:22:04,339
+At first when we learned in the first part about candlesticks, we analyzed.
+
+257
+00:22:04,759 --> 00:22:06,039
+We analyzed the candlesticks themselves.
+
+258
+00:22:07,359 --> 00:22:12,519
+We read them candle by candle, continuously, to see what events might happen.
+
+259
+00:22:12,519 --> 00:22:26,859
+Going forward into the future, whether it'll keep going up or if there's a tendency to go down by reading candle by candle. Now we'll read them as waves, the big picture, to see.
+
+260
+00:22:28,240 --> 00:22:34,460
+What's likely ahead, I use the word likely, what it could be like.
+
+261
+00:22:38,480 --> 00:22:39,259
+Let's continue.
+
+262
+00:22:42,740 --> 00:22:47,980
+We need to pair them up, pair them up, when we see the overall chart like this, showing like this.
+
+263
+00:22:49,499 --> 00:22:52,299
+We pair swing high with swing low.
+
+264
+00:22:54,259 --> 00:23:00,220
+In sets, one after another like this, like this, going up, this is low, this is high, and running back to low.
+
+265
+00:23:00,220 --> 00:23:04,279
+Three points, ABC, or one, two, three, easy to count, like.
+
+266
+00:23:04,279 --> 00:23:10,440
+This, you see it? This, wait, let me show you again.
+
+267
+00:23:10,440 --> 00:23:11,460
+One, like this.
+
+268
+00:23:16,199 --> 00:23:24,779
+This, one, two, three, this is one period, when it's done, we count.
+
+269
+00:23:24,779 --> 00:23:33,339
+A new set, from 3 here, it becomes 1, 2, 3 of this set, of this set.
+
+270
+00:23:34,699 --> 00:23:43,940
+Count again, here it becomes 1, 2, 3 of this set, and then count a new set.
+
+271
+00:23:44,399 --> 00:23:49,160
+And if there's more, keep counting continuously as 1-2-3, 1-2-3, pairing them up like this.
+
+272
+00:23:52,179 --> 00:23:58,319
+You ask, for what purpose? To analyze the waves, analyze the strength of the waves.
+
+273
+00:23:58,319 --> 00:24:04,119
+Whether the trend is strong or weak, ah, how it's moving.
+
+274
+00:24:04,119 --> 00:24:08,839
+Which direction it will go, after we've already analyzed candlesticks, we'll look at waves as well.
+
+275
+00:24:09,560 --> 00:24:14,039
+It's another tool, or another piece of knowledge, if we know and combine everything.
+
+276
+00:24:15,100 --> 00:24:17,720
+It will help us read charts even better.
+
+277
+00:24:17,720 --> 00:24:20,519
+Sometimes when we read candlesticks, they might say one thing, but waves say another.
+
+278
+00:24:20,519 --> 00:24:21,500
+Whoa, which one do we believe?
+
+279
+00:24:22,040 --> 00:24:27,920
+This, we'll get to this in the final part that we'll learn together.
+
+280
+00:24:28,260 --> 00:24:34,180
+This part, let's just take it step by step first, pairing like this.
+
+281
+00:24:34,180 --> 00:24:49,599
+It will have its own names, like M, like this.
+
+282
+00:24:49,599 --> 00:24:51,059
+Anyway, pairing them up.
+
+283
+00:24:54,319 --> 00:25:00,720
+They will classify them once paired, see how they're paired? But they'll categorize a bit.
+
+284
+00:25:01,899 --> 00:25:07,599
+Type A, Type A is when it goes up and then retraces.
+
+285
+00:25:07,599 --> 00:25:14,799
+Goes up then retraces, see? Goes up then retraces, when they classify types, they look at the retracement.
+
+286
+00:25:14,799 --> 00:25:16,940
+Not when it goes up, but when it retraces.
+
+287
+00:25:17,899 --> 00:25:21,500
+Vice versa when it goes down then turns back up.
+
+288
+00:25:21,500 --> 00:25:23,559
+We count at the point where it turns up.
+
+289
+00:25:24,859 --> 00:25:25,339
+Confused?
+
+290
+00:25:26,799 --> 00:25:27,740
+Count here.
+
+291
+00:25:28,480 --> 00:25:30,400
+The theory counts here, the theory counts.
+
+292
+00:25:30,400 --> 00:25:31,940
+If it's upward movement, count when it retraces.
+
+293
+00:25:33,079 --> 00:25:34,220
+But if it's downward movement.
+
+294
+00:25:35,279 --> 00:25:36,940
+Count when it turns back up.
+
+295
+00:25:37,539 --> 00:25:38,059
+Right here.
+
+296
+00:25:38,940 --> 00:25:43,900
+Right here, to classify or categorize the type of wave.
+
+297
+00:25:45,539 --> 00:25:52,980
+Type A, Type A is when it retraces, and counting the full length of the rise, it comes down less than 50%.
+
+298
+00:25:54,740 --> 00:26:00,240
+If it's a down move, it retraces back up less than 50% of what it came down.
+
+299
+00:26:01,740 --> 00:26:08,519
+This is type 1, Type A, like this, goes up then down, if the level is here, it doesn't reach it, and continues.
+
+300
+00:26:10,699 --> 00:26:18,599
+Type B reaches about 50%, approximately, retracing approximately.
+
+301
+00:26:18,599 --> 00:26:22,079
+And the last type, this is an example, retraces about 50%.
+
+302
+00:26:22,359 --> 00:26:27,279
+Type C retraces more than 50% of the initial rise that went up.
+
+303
+00:26:27,559 --> 00:26:32,619
+The impulse move, the retracement comes down and bounces back more than 50%.
+
+304
+00:26:33,299 --> 00:26:34,420
+Like this, like this.
+
+305
+00:26:35,980 --> 00:26:40,180
+You ask why do we need to know? Because each pattern A-B-C.
+
+306
+00:26:40,180 --> 00:26:43,180
+It indicates the strength of the move.
+
+307
+00:26:44,519 --> 00:26:47,359
+Look, they have their rules, rules of thumb.
+
+308
+00:26:48,659 --> 00:27:06,680
+Pullback wave, this is it, pullback wave is the move that goes against the original direction. Simply put, if in this case it's an uptrend, it goes up, goes up meaning it has low, higher low, higher low, higher high, higher high, higher high.
+
+309
+00:27:07,419 --> 00:27:16,440
+But when it retraces before it makes a higher high in the uptrend, it's divided into these 3 types, less than 50%, at 50%, more than 50%.
+
+310
+00:27:17,159 --> 00:27:27,339
+The one that reaches or doesn't reach, exceeds or doesn't, the stronger the retracement is, the weaker the uptrend becomes.
+
+311
+00:27:28,119 --> 00:27:35,700
+Meaning like this, goes up like this, reaches 50%, this one doesn't reach 50%.
+
+312
+00:27:35,980 --> 00:27:42,559
+But this one exceeds 50%, the wave will be weak, meaning when it continues, it won't go very far.
+
+313
+00:27:48,219 --> 00:27:55,779
+If it goes far, it has a chance, like this, you can look at this wave, look at this one, went up this much, let's say 50% is here.
+
+314
+00:27:56,359 --> 00:27:58,539
+It only retraced this much and continues.
+
+315
+00:27:59,099 --> 00:28:00,559
+See? It continues much further.
+
+316
+00:28:02,299 --> 00:28:03,160
+But look at this one.
+
+317
+00:28:03,799 --> 00:28:05,940
+Went up and retraced more than 50%.
+
+318
+00:28:06,679 --> 00:28:08,680
+Went and struggled like this.
+
+319
+00:28:08,680 --> 00:28:12,400
+If we look in terms of candlestick strength.
+
+320
+00:28:12,400 --> 00:28:13,420
+It seems like it's starting to.
+
+321
+00:28:14,459 --> 00:28:16,519
+Soon it will start, maybe around this area.
+
+322
+00:28:16,519 --> 00:28:18,240
+And it will probably curve down.
+
+323
+00:28:22,319 --> 00:28:23,720
+Now let's look at quality.
+
+324
+00:28:23,720 --> 00:28:28,619
+The quality of the trend.
+
+325
+00:28:29,740 --> 00:28:35,859
+Like this one, we'll look specifically at the moves that go in the direction of the trend.
+
+326
+00:28:36,859 --> 00:28:39,259
+In the direction of the trend, which is.
+
+327
+00:28:50,019 --> 00:28:52,259
+Let's say uptrend.
+
+328
+00:28:55,139 --> 00:28:59,839
+Another one is downtrend, the earlier example was downtrend, right?
+
+329
+00:29:00,419 --> 00:29:02,519
+Look at the moves that go in the same direction as the trend.
+
+330
+00:29:02,519 --> 00:29:05,180
+This trend goes up, this trend goes down.
+
+331
+00:29:07,259 --> 00:29:07,920
+We look at this one.
+
+332
+00:29:08,619 --> 00:29:08,900
+Oh.
+
+333
+00:29:09,399 --> 00:29:17,619
+For example, look at this one, look at this one, look at this, look at this, it's downtrend, we look at where it goes down.
+
+334
+00:29:17,619 --> 00:29:20,740
+We don't look at where it goes up, we look at where it goes down, see?
+
+335
+00:29:22,779 --> 00:29:27,079
+Look at the distance, measure the distance, bop, bop, the consistency, see?
+
+336
+00:29:27,500 --> 00:29:34,059
+About 250, it's between this, this, like this is considered a strong trend.
+
+337
+00:29:34,059 --> 00:29:42,339
+It's a good trend, it's a quality trend, because it will just keep going like this, see? When it comes down.
+
+338
+00:29:42,339 --> 00:30:04,039
+This trend, downtrend, it will keep going continuously, won't stop. If we buy here.
+
+339
+00:30:04,039 --> 00:30:07,500
+Fifty, quite inconsistent, like the earlier one, see?
+
+340
+00:30:07,959 --> 00:30:12,819
+It's about this much, plus or minus percentage is similar, but this one, this is a lot.
+
+341
+00:30:12,819 --> 00:30:17,859
+This one is little, this is even less, comes back a lot again, oh little again, this is a lot.
+
+342
+00:30:19,859 --> 00:30:22,480
+Looks like it's doing well, it's running then suddenly shoots up.
+
+343
+00:30:23,359 --> 00:30:32,579
+Follow it in, thinking it'll go further, but this type of trend, they consider, Westerners consider.
+
+344
+00:30:33,159 --> 00:30:39,680
+It's not very strong, why it shoots up like this, but if you look at the big picture.
+
+345
+00:30:39,680 --> 00:30:52,460
+They look at this as, this is learning about waves, not candlesticks.
+
+346
+00:30:52,659 --> 00:30:55,740
+It's like, if driving uphill, gradually step on the accelerator.
+
+347
+00:30:57,439 --> 00:30:58,720
+Finally step full max.
+
+348
+00:30:58,959 --> 00:31:01,839
+Like the road is very steep, very steep incline too.
+
+349
+00:31:04,159 --> 00:31:06,180
+Runs out of power, it flows down, drops.
+
+350
+00:31:06,439 --> 00:31:08,160
+Something like that.
+
+351
+00:31:10,759 --> 00:31:11,960
+Okay, let's look at an example.
+
+352
+00:31:13,119 --> 00:31:16,180
+Suppose we see this pattern, what do we need to do?
+
+353
+00:31:17,559 --> 00:31:19,059
+We pair them up.
+
+354
+00:31:19,579 --> 00:31:21,140
+Like this, look at it as waves.
+
+355
+00:31:25,699 --> 00:31:32,960
+Wave number 1, then down up, then down up, then down up, down up, but we don't care about the down.
+
+356
+00:31:33,299 --> 00:31:39,119
+We want to analyze the consistency of the trend following the trend direction, use the term following the trend.
+
+357
+00:31:39,119 --> 00:31:44,599
+Trend direction. Low is here, higher low, higher low, higher high, higher high.
+
+358
+00:31:44,599 --> 00:31:46,359
+Therefore, this is clearly an uptrend.
+
+359
+00:31:51,140 --> 00:32:07,119
+Following this, it's going up this way, up way, up way, up way, not down at all, let's do it again, this is not down way. Now let's analyze the first pair, rises to this point then drops down here, this is
+
+360
+00:32:07,119 --> 00:32:08,779
+the return, return, the first pair.
+
+361
+00:32:09,379 --> 00:32:11,960
+Let me explain simply. One, two, three, there are three pairs.
+
+362
+00:32:12,339 --> 00:32:13,980
+Like the first pair, like this, we'll see that
+
+363
+00:32:14,220 --> 00:32:16,440
+it's quite long and strong, then drops down.
+
+364
+00:32:18,159 --> 00:32:21,180
+When it drops, it doesn't drop much. See? Doesn't drop much.
+
+365
+00:32:22,159 --> 00:32:24,960
+Doesn't exceed, probably doesn't exceed 50% of
+
+366
+00:32:26,779 --> 00:32:29,079
+the wave that surged up following the trend.
+
+367
+00:32:29,480 --> 00:32:31,880
+So it should be classified around
+
+368
+00:32:31,880 --> 00:32:44,299
+probably the type of wave we just learned, not A then B, should be around this. Now when it rises again, the second pair, pair it up again
+
+369
+00:32:45,559 --> 00:32:46,099
+Ah
+
+370
+00:32:47,740 --> 00:32:56,000
+You'll see that the second one that rises is actually shorter than this one.
+
+371
+00:32:56,899 --> 00:33:05,160
+This means this one is strong, because the second wave is less strong than the first wave.
+
+372
+00:33:07,500 --> 00:33:20,440
+And when it reverses back down, if you measure the height coming down, it probably exceeds 50% of the wave that pushed up in the same direction as the trend.
+
+373
+00:33:21,039 --> 00:33:35,220
+Drops down, should exceed 50%, should be yes, should be around 50% or, if it's here, suppose 50% is here, then it exceeds, should definitely exceed 50% at this point.
+
+374
+00:33:35,220 --> 00:33:42,559
+This shows the strength of this wave set is weaker than this wave set. This is already an important point, starting to weaken.
+
+375
+00:33:44,379 --> 00:33:49,099
+Then the last one, it just keeps going, ah, like the type we learned, ah
+
+376
+00:33:49,359 --> 00:33:56,039
+Just now, right, that it's not consistent. Strong, weak, strong, and look at the drop point. Drops
+
+377
+00:33:56,039 --> 00:34:02,940
+a little, drops a lot. This trend is weakening, which might not be finished weakening yet.
+
+378
+00:34:02,940 --> 00:34:05,920
+Might drop further, or it might continue up, we don't know yet.
+
+379
+00:34:06,259 --> 00:34:08,019
+Just analyzing only the waves first.
+
+380
+00:34:09,300 --> 00:34:10,719
+Take what we see clearly.
+
+381
+00:34:11,540 --> 00:34:12,760
+We can say that
+
+382
+00:34:12,760 --> 00:34:14,599
+this wave at the beginning
+
+383
+00:34:14,940 --> 00:34:15,679
+was strong.
+
+384
+00:34:15,679 --> 00:34:17,719
+Look at the first pair, first set.
+
+385
+00:34:18,440 --> 00:34:19,219
+Surges like this.
+
+386
+00:34:19,559 --> 00:34:21,880
+Here, suppose this might be Sideways, I don't know.
+
+387
+00:34:21,880 --> 00:34:23,940
+But when it starts becoming a Trend, it surges really strong.
+
+388
+00:34:25,320 --> 00:34:26,380
+Then pulls back just a little bit.
+
+389
+00:34:26,519 --> 00:34:29,579
+Has a chance to continue, of course. See? If we follow, this is Type
+
+390
+00:34:30,420 --> 00:34:33,199
+wave type, Type A, rises then pulls back a little, not reaching 50
+
+391
+00:34:33,460 --> 00:34:36,480
+or around 50, it can continue far. If we count from
+
+392
+00:34:36,480 --> 00:34:39,159
+this first set, it can continue this much.
+
+393
+00:34:39,159 --> 00:34:41,699
+It rises like this, still going far following
+
+394
+00:34:42,380 --> 00:34:43,239
+the energy of
+
+395
+00:34:43,239 --> 00:34:51,179
+like this set, it pulls back a lot, it pulls back a lot, it does rise further, that's true, but it looks weak.
+
+396
+00:34:53,740 --> 00:35:01,420
+Tired already, might not go as far as this one that sent, sent the whole set forward to this one, can you imagine?
+
+397
+00:35:03,660 --> 00:35:07,019
+Looking at the second one, it's starting to weaken compared to the first.
+
+398
+00:35:07,780 --> 00:35:16,420
+Therefore, the third one rises as strong as the first. If you look at the length, they're similar.
+
+399
+00:35:18,760 --> 00:35:26,860
+Therefore, the overall picture, if we analyze it, the health is still considered good.
+
+400
+00:35:28,240 --> 00:35:30,679
+Just looking at these three rises, because this part isn't finished yet.
+
+401
+00:35:30,679 --> 00:35:35,500
+If we see the end part, we'll know whether the health is very good or not so good.
+
+402
+00:35:35,500 --> 00:35:39,639
+If we see it pulls back only this much, and here might be support too.
+
+403
+00:35:40,720 --> 00:35:43,659
+It might turn back up and continue. This shows that if it really pulls back only this much
+
+404
+00:35:44,000 --> 00:35:56,559
+it would be a Type A wave, which is A below 50, A, C, A, still considered a Grade A type wave, can still continue, has a chance to continue.
+
+405
+00:35:57,200 --> 00:35:59,420
+And we analyze like this.
+
+406
+00:36:00,700 --> 00:36:08,300
+Like this example, this is very strong, shoots up, this is definitely A, not reaching 50%, but the second wave is shorter than this one, much shorter.
+
+407
+00:36:08,760 --> 00:36:12,119
+And drops down exceeding 50, clearly, see?
+
+408
+00:36:13,640 --> 00:36:17,300
+Therefore, we'll analyze that it's not very pretty.
+
+409
+00:36:19,180 --> 00:36:23,400
+Rising like this, health is not very good.
+
+410
+00:36:24,700 --> 00:36:28,699
+It might rise at most to around the previous High at this point.
+
+411
+00:36:29,280 --> 00:36:32,219
+Then it could reverse down. The health is already not good.
+
+412
+00:36:32,219 --> 00:36:35,699
+It rises well here, but here it's not so good.
+
+413
+00:36:37,760 --> 00:36:42,440
+This is analyzing as waves, not looking at candlesticks yet, it's like a line chart.
+
+414
+00:36:44,400 --> 00:36:48,500
+Dare to buy? Just buy. If you look at it as an uptrend, it's still lifting the Low.
+
+415
+00:36:48,500 --> 00:36:51,239
+This is Low, Higher Low, Higher Low.
+
+416
+00:36:51,740 --> 00:36:54,260
+High also gets higher, higher.
+
+417
+00:36:54,260 --> 00:36:59,119
+But even though it can make it go up, it probably won't be strong.
+
+418
+00:36:59,119 --> 00:37:02,579
+I analyze that it's not strong enough to go very far over there.
+
+419
+00:37:02,940 --> 00:37:05,820
+Might come to around here, just past this high a little bit.
+
+420
+00:37:06,560 --> 00:37:11,199
+Then gradually form a downtrend on the other side instead.
+
+421
+00:37:13,980 --> 00:37:20,079
+Now we come to estimating the waves that will occur in the future.
+
+422
+00:37:21,380 --> 00:37:25,980
+We look at the consistency. 185, 274, 209.
+
+423
+00:37:27,200 --> 00:37:30,780
+On average, it should move around 200 if it continues up.
+
+424
+00:37:30,780 --> 00:37:33,380
+Because this is an uptrend. See?
+
+425
+00:37:34,440 --> 00:37:37,039
+Low lifts throughout, High rises throughout.
+
+426
+00:37:37,660 --> 00:37:41,280
+If the hypothesis of the trend still exists, it means
+
+427
+00:37:41,700 --> 00:37:46,340
+when there's a High, uh, Low that's higher here
+
+428
+00:37:46,340 --> 00:37:55,960
+there's a chance for a High, uh, High that's even higher to occur.
+
+429
+00:37:55,960 --> 00:37:59,880
+Around 200 pips, plus or minus, around this.
+
+430
+00:38:02,400 --> 00:38:10,079
+Now the Trend will keep going according to the uptrend or downtrend direction, following the Concept theory.
+
+431
+00:38:10,740 --> 00:38:21,960
+Until the Concept is violated, then we can say there's a chance for that trend to change.
+
+432
+00:38:23,579 --> 00:38:27,699
+The candlestick patterns we used to memorize before, various reversal candlesticks
+
+433
+00:38:28,260 --> 00:38:31,900
+Candlesticks don't indicate that the Trend will change or reverse.
+
+434
+00:38:31,900 --> 00:38:34,719
+They just indicate a reversal in that specific price range only.
+
+435
+00:38:36,400 --> 00:38:41,119
+Like when we see a reversal candlestick, a Pinbar just reverses this much. It doesn't say
+
+436
+00:38:42,500 --> 00:38:46,760
+that the trend changes. Like where's good? Like here, this Pinbar
+
+437
+00:38:47,580 --> 00:38:51,760
+drops down then rises back up. It doesn't mean that when you see a Pinbar or reversal candlestick pattern
+
+438
+00:38:51,760 --> 00:38:58,699
+it will become an uptrend from a downtrend. It just changes the angle.
+
+439
+00:38:58,699 --> 00:39:02,739
+The angle of price, making swing high swing low, that's all, and it still follows the same trend.
+
+440
+00:39:04,460 --> 00:39:08,980
+The market moves in trends, Dow Theory point 2 says this, therefore
+
+441
+00:39:09,840 --> 00:39:12,659
+You must believe it's a trend, and trade with the trend.
+
+442
+00:39:13,840 --> 00:39:16,079
+And it will change trend only when it changes trend.
+
+443
+00:39:16,440 --> 00:39:18,559
+Saying it like this sounds confusing but it's really like this.
+
+444
+00:39:19,040 --> 00:39:21,900
+For it to change, it must violate the theory.
+
+445
+00:39:21,900 --> 00:39:23,679
+Contradict it.
+
+446
+00:39:25,700 --> 00:39:27,320
+Lower High, Lower High, Lower High.
+
+447
+00:39:27,320 --> 00:39:28,940
+Lower Low, Lower Low, Lower Low.
+
+448
+00:39:28,940 --> 00:39:32,619
+What should follow the downtrend direction?
+
+449
+00:39:33,020 --> 00:39:35,420
+Lower High, Lower High, continuously lower.
+
+450
+00:39:35,420 --> 00:39:39,619
+But it makes a High that's higher than the previous High here. See?
+
+451
+00:39:40,380 --> 00:39:44,900
+This is violating, violating the theory.
+
+452
+00:39:46,100 --> 00:39:54,380
+Therefore, there's a chance that it will change trend. Using the word chance.
+
+453
+00:39:54,380 --> 00:40:00,079
+Must keep watching. Don't see just this and assume it's certain. It might just be temporary then drop again.
+
+454
+00:40:00,400 --> 00:40:05,079
+Therefore, we need to watch. When it pulls back, we look at the rise that we pair up like we learned from the beginning, rises
+
+455
+00:40:05,079 --> 00:40:13,519
+If it pulls back, pulls back and gets a lower, uh, gets here, gets a Higher Low, a low that's higher than this low.
+
+456
+00:40:17,200 --> 00:40:21,760
+One, two, three, we get 3 components already. Low, High, Higher Low.
+
+457
+00:40:22,320 --> 00:40:27,599
+If it continues moving higher than this High, becoming a Higher High, it's an uptrend.
+
+458
+00:40:27,900 --> 00:40:34,019
+The trend change happens around this time, or it might drop, not stay here.
+
+459
+00:40:34,019 --> 00:40:40,980
+It might drop all the way here, but not lower than this, not lower than this original Low, then it rises again.
+
+460
+00:40:42,660 --> 00:40:50,299
+Until it's higher than this High, it's also an uptrend. The theory concept is when the wave breaks out of the concept.
+
+461
+00:40:50,840 --> 00:40:53,760
+Of downtrend and then uptrend.
+
+462
+00:40:54,800 --> 00:40:58,139
+If the pattern comes to this point really, it will fit the pattern that
+
+463
+00:40:58,139 --> 00:41:01,059
+we remember as Double Bottom.
+
+464
+00:41:01,560 --> 00:41:06,119
+A W shape. Two bottom points then the trend changes upward.
+
+465
+00:41:07,180 --> 00:41:11,119
+According to theory, they consider the W pattern
+
+466
+00:41:12,020 --> 00:41:15,519
+in a downtrend, if Double Bottom occurs, it's a Pattern
+
+467
+00:41:15,980 --> 00:41:24,599
+for trend change. But really, if we take the real thing, there will be a price or wave that warns us first that it might change.
+
+468
+00:41:24,599 --> 00:41:45,500
+It's this wave that breaks through the High, breaks through the concept. See? Higher than this High.
+
+469
+00:41:45,500 --> 00:41:49,500
+The Low doesn't have a lifted low anymore. It has a suddenly lower low appearing like this.
+
+470
+00:41:51,360 --> 00:41:55,699
+Like this example, it's clearly lower, it's clearly a downtrend.
+
+471
+00:41:56,380 --> 00:42:00,460
+If this doesn't go up and drops with the downtrend, clearly it has changed.
+
+472
+00:42:02,020 --> 00:42:04,780
+It's a warning signal. Simply put, we look at warning signals.
+
+473
+00:42:05,180 --> 00:42:15,820
+If you've been happily playing Buy, holding long, and you see a warning signal, prepare to sell out, close TP already. Something like that.
+
+474
+00:42:15,820 --> 00:42:23,599
+If you keep holding, it might come back to the point where you bought. Same if you've been selling, held it, it might come back up.
+
+475
+00:42:24,519 --> 00:42:29,460
+It's a warning. However you say it, it's a warning. Remember this signal, End of Trend.
+
+476
+00:42:29,460 --> 00:42:33,579
+And that's the end of this Part on the topic of Trends in Dow Theory for now.
+
+477
+00:42:33,960 --> 00:42:39,880
+Next time we meet, we'll take everything and combine it all together, then we'll analyze charts together.
+
+478
+00:42:40,100 --> 00:42:43,960
+That will be very fun and you'll understand much more.
+
+479
+00:42:44,320 --> 00:42:46,539
+Okay, thank you very much. Goodbye.

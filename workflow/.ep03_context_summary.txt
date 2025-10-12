@@ -1,0 +1,124 @@
+=== EP-03 CONTEXT SUMMARY (Pass 1 Analysis) ===
+Generated: 2025-10-08
+Total Segments: 830 | Duration: 72.5 minutes
+
+TOPIC:
+Support & Resistance - Part 2 of Price Action Teaching Series
+This lesson teaches horizontal Support/Resistance concepts, price zones (not single lines), role reversal (S→R, R→S), multi-timeframe analysis, and combining S/R with candlestick patterns for trade decisions.
+
+TEACHING TONE & STYLE:
+- Casual, conversational, friendly instructor
+- Heavy use of military metaphors (battlefield, army, walls, attack/defend)
+- Interactive teaching style with questions
+- Visual chart examples with live demonstration
+- Use contractions in English: "we'll", "let's", "it's"
+- Keep natural conversational flow
+
+TRANSCRIPTION ERRORS DETECTED (AUTO-CORRECT):
+1. "Player Action" / "Pry Action" / "ไพรแอคชั่น" → Price Action (3 instances)
+2. "แนวลับ" → แนวรับ (Support) - Whisper transcribed wrong (~60 instances)
+3. "สนามลบ" → สนามรบ (battlefield) - 1 instance
+
+FOREX TERMINOLOGY (Top 15):
+1. แนวรับ/แนวต้าน → Support/Resistance (127x total)
+2. แท่งเทียน → Candlestick (27x)
+3. โซนราคา → Price Zone (15x) - NOT single price line
+4. ทะลุ → Break through / Breakout (40x)
+5. เด้ง → Bounce (25x)
+6. ทดสอบ → Test / Retest (18x)
+7. Swing Point → Swing High/Low (5x) - KEEP AS IS
+8. Pinbar → Pinbar (6x) - KEEP AS IS
+9. แข็งแรง/แข็งแกร่ง → Strong (level tested multiple times, 12x)
+10. ทำหน้าที่ → acts as / functions as / switches role to (22x)
+11. ไทม์เฟรม → Timeframe (8x)
+12. แนวนอน → Horizontal (6x)
+13. กราฟ → Chart (15x)
+14. เทรนด์ → Trend (7x)
+15. Momentum → Momentum (2x)
+
+MILITARY METAPHORS DETECTED (Major Theme):
+- สนามรบ = Battlefield (market as war zone)
+- กำแพง = Wall / Barrier (S/R as price walls, 15x)
+- ทัพ = Army / Forces (buying/selling pressure, 8x)
+- บุก = Attack / Push (price attacking level, 6x)
+- ตั้งรับ = Defend / Hold (level defending, 4x)
+- กำลัง = Forces / Strength (market forces)
+- ทหาร = Soldiers (traders/participants)
+- ด่าน = Checkpoint / Barrier (S/R level)
+
+IDIOMS & METAPHORS:
+- วิ่ง = "moves" / "runs" (price movement, 30x)
+- ฝั่ง = "side" (bull/bear side, 43x)
+- หักหัว = "reverses" / "turns back"
+- ชน = "hits" / "touches" (price hitting level)
+- ย้อน = "reverses" / "pulls back"
+- ครองเกม = "dominates" / "controls" (which side wins)
+
+PARTICLES TO REMOVE (777 total):
+- ครับ: 214x → REMOVE ALL
+- เนี่ย/เนี่ย: 225x → REMOVE ALL
+- นะ: 159x → REMOVE ALL
+- นะครับ: 117x → REMOVE ALL
+- เลย: 62x → REMOVE ALL
+Rule: Thai particles do NOT translate to English. Remove completely.
+
+TEACHING STRUCTURE:
+Segments 1-100: Introduction
+- Price Action Part 2 introduction
+- Review: Candlesticks from Part 1
+- Introduce S/R as the key component
+
+Segments 100-300: Core S/R Concepts
+- Horizontal S/R concept (Type 1)
+- Price zones vs single price lines
+- Swing points identification
+- Role reversal: Support ↔ Resistance
+- Strength of levels (tested multiple times = stronger)
+
+Segments 300-500: Multi-Timeframe Analysis
+- Start with higher timeframe (Week/4H)
+- Drill down to lower timeframe (1H)
+- Historical S/R validation
+- Zone drawing technique
+
+Segments 500-700: Practical Chart Examples
+- Real chart analysis
+- Combining S/R with candlestick patterns
+- Pinbar at S/R = high probability setup
+- S/R as "focus points" for reading price action
+
+Segments 700-830: Military Metaphor Extension
+- Market = Battlefield between two cities
+- S/R = City walls/barriers
+- Price = Army attacking/defending
+- Traders = Soldiers with varying strength
+- Breakout = Wall destroyed, role reverses
+
+SPECIAL TRANSLATION NOTES:
+1. S/R Role Reversal: "ทำหน้าที่" = "acts as" / "switches to" (dynamic concept)
+2. Price Zone emphasis: Always "zone" not "line" (repeated 15+ times)
+3. Military metaphors: Keep natural (wall, army, attack) - don't over-translate
+4. Testing levels: "ทดสอบ" = "test" or "retest" (contextual)
+5. Breakout: "ทะลุ" = "break through" or "breakout" (both OK)
+6. Bounce: "เด้ง" = "bounce" (simple, direct)
+7. Chart references: "ตรงนี้" → "here", "อันนี้" → "this one"
+8. Teaching questions: "เห็นไหมครับ" → "see?", "ถูกไหมครับ" → "right?"
+
+CONTEXT AWARENESS REQUIRED:
+- This is Part 2 of Price Action series (Part 1 covered Candlesticks)
+- Students know candlestick basics (Pinbar, Engulfing, Doji, Momentum)
+- Instructor builds on previous knowledge
+- Heavy emphasis on "zones not lines" (repeated concept)
+- Military metaphor is central teaching device (market = war)
+- Role reversal concept is critical (S→R, R→S)
+- Multi-timeframe approach is professional trading method
+
+TRANSLATION APPROACH:
+- Use context-aware translation (NOT segment-by-segment)
+- Maintain casual teaching tone throughout
+- Keep technical terms in English (Support, Resistance, Swing Point, Pinbar)
+- Remove all Thai particles (777 instances)
+- Translate military metaphors naturally (wall, army, attack, defend)
+- Fix transcription errors automatically (แนวลับ → Support, etc.)
+- Preserve teaching enthusiasm and question-based engagement
+- Role reversal phrases: use "acts as" / "functions as" / "switches to"

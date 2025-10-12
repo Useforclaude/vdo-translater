@@ -1,0 +1,1533 @@
+ENGLISH TRANSLATION - ep-02061024
+===================================
+Source: ep-02061024_transcript.json
+Total Segments: 826
+Translator: Claude Sonnet 4.5
+Translation Date: 2025-10-08
+
+Format: [SEGMENT_NUMBER] English Translation
+
+===================================
+
+[001] Hello! Let's continue with Part 2 of Candlesticks.
+
+[002] We're talking about Momentum Analysis.
+
+[003] In English it's called "Beyond the Basics of Candlestick" which means going beyond
+
+[004] the fundamentals of candlesticks, which is Momentum analysis.
+
+[005] Buying and selling pressure, which side is dominating the game.
+
+[006] How do we analyze this?
+
+[007] We're going to read this together like reading a map,
+
+[008] like navigation,
+
+[009] like if we're going
+
+[010] from Bangkok to Chiang Mai, how do we get there?
+
+[011] Is the road good or bad?
+
+[012] Turn left or turn right?
+
+[013] Or if we want to adjust,
+
+[014] it depends on what you're comfortable with.
+
+[015] If you understand Momentum,
+
+[016] you can turn it into a fairy tale, or a novel,
+
+[017] or your own personal story,
+
+[018] whatever works for you.
+
+[019] For me, I like to think of it more like an army, like
+
+[020] two cities or two countries at war.
+
+[021] Buyers versus sellers, which side will win, which side has the power to attack,
+
+[022] to advance, who has the better commanding general?
+
+[023] Let's dive in. Enough intro, let's get to the content.
+
+[024] So with momentum, which one, the buying force,
+
+[025] will the bulls win? Because if we see a candle like this, the bears
+
+[026] Bulls mean going up, bears mean going down.
+
+[027] And you might wonder why this symbol, why is this bulls and this bears? Let's take a look.
+
+[028] Let's start with momentum analysis. Momentum is like, if we compare it, it's like the swing force, the swing force of power, like when we
+
+[029] swing a pendulum. When it swings to this side, the momentum it has
+
+[030] still carries it swinging up until it runs out of force, then swings back to the other side.
+
+[031] That's what we call momentum. When one side starts to weaken,
+
+[032] at this point the selling pressure is very strong.
+
+[033] Then it gets smaller.
+
+[034] The selling pressure starts decreasing.
+
+[035] We already learned about the Body.
+
+[036] Because the Body,
+
+[037] between a large Body and a small short Body,
+
+[038] which one has more buying or selling pressure?
+
+[039] Therefore,
+
+[040] this small candle obviously has less selling pressure than the large candle.
+
+[041] It's just getting smaller, the buying force is gradually decreasing, see?
+
+[042] Let me give you another comparison.
+
+[043] Compare it to when the price
+
+[044] is running in which direction, like
+
+[045] like a car, I don't know if you've been in a car,
+
+[046] the car is coming at 200 km per hour.
+
+[047] You definitely can't catch it at 200 km, it has to go to the intersection ahead.
+
+[048] So for you to make a U-turn here,
+
+[049] means you were running at 200 km per hour.
+
+[050] Right?
+
+[051] Running, running, running,
+
+[052] you have to brake, right? Slowly,
+
+[053] it will slow down, slow down, and then you wait
+
+[054] to make the U-turn.
+
+[055] After that you can accelerate again, like that. The chart
+
+[056] is the same. These small ones
+
+[057] are like when it's slowing down, braking,
+
+[058] that's it. It's gradually slowing down, slowing down, which means if we see this,
+
+[059] there's a chance it might U-turn here.
+
+[060] The other side is the same, it's going down,
+
+[061] coming down strong. Green, small green, red, red.
+
+[062] And there's a tail, see the tail?
+
+[063] It should be red, it should be fully red,
+
+[064] but it got pushed back up like this.
+
+[065] A tail this big shows there's strong buying pressure. When it bounced up, buyers stepped in, might go down but buyers push up.
+
+[066] Finally it closes as a full green candle like this.
+
+[067] Coming down strong, then the force hit the brakes.
+
+[068] If it's a car starting to brake, it will slow down,
+
+[069] there's a chance it can turn around.
+
+[070] If we use the battlefield analogy that I'm comfortable with,
+
+[071] if you understand and it suits you,
+
+[072] like if I see it as a battlefield, the red army keeps attacking,
+
+[073] keeps attacking, but later the troops they're sending
+
+[074] start to have less power. The green side counterattacks and reclaims territory,
+
+[075] like this. There's a chance it will continue. This is like
+
+[076] this goes up up up like this, will it reverse down? If you see a chart like this
+
+[077] and you think it will turn, will you enter a sell? Think it will reverse down?
+
+[078] The chance is very low that you can sell here.
+
+[079] Because it's like coming strong, coming fast at two hundred,
+
+[080] one hundred eighty, two hundred, around here.
+
+[081] If it's a car, it definitely has to continue. The force is still there.
+
+[082] But then we see the next pattern, running along like this,
+
+[083] starting to have some like this, like this, like this,
+
+[084] showing that the car is starting to slow down.
+
+[085] Starting to brake a bit now, but even after braking it's probably still not stopping.
+
+[086] Just seeing this tiny one like this, after braking it probably continues.
+
+[087] It hasn't slowed down to the point where it can reverse. From two hundred maybe down to one sixty.
+
+[088] If we see the next candle, there's a chance
+
+[089] it could be red next.
+
+[090] You might be able to turn around the chart here, something like this.
+
+[091] We're analyzing momentum as a story.
+
+[092] The other side is the same.
+
+[093] This one I'll speak quickly, I'll go into more detail
+
+[094] later when we read the actual chart.
+
+[095] To make it more fun and easier to understand, here,
+
+[096] the car is coming fast, boom boom boom boom boom.
+
+[097] Here we have small ones, starting to brake a bit, here's another small one.
+
+[098] Will it turn or reverse? But the chance isn't high yet, the chance isn't high.
+
+[099] It will be higher when, when this candle changes to the next pattern instead.
+
+[100] Green like this and the next candle isn't red, let's say it is red.
+
+[101] There's a higher chance than with a red candle like this. If the next one looks like this, the chance is even higher.
+
+[102] It looks like it's already slowing down, see? It's reversing now.
+
+[103] The next candle confirms it's definitely reversing.
+
+[104] Like it's made a U-turn and about to go.
+
+[105] About to step on the accelerator and continue in the direction it U-turned.
+
+[106] This shows this candle has the most power
+
+[107] in terms of momentum reversing.
+
+[108] This one comes fast.
+
+[109] For this to reverse like this,
+
+[110] it has to reverse like this.
+
+[111] We need to see that the force is decreasing.
+
+[112] The force is decreasing.
+
+[113] This one the force is increasing.
+
+[114] But when it increases a lot like this,
+
+[115] it might face resistance.
+
+[116] This is momentum.
+
+[117] Momentum is loving.
+
+[118] Momentum gradually decreasing.
+
+[119] Slowing down.
+
+[120] There's a chance.
+
+[121] There's another pattern that technically means if you see small candlesticks clustered together like this,
+
+[122] and suddenly you see a big candle, a long bar comes out, this is definitely called a big candle.
+
+[123] Because compared to the previous context or the previous candle set, the whole set,
+
+[124] it's clearly, obviously big. The momentum direction surging here
+
+[125] will determine the direction and increase the chance of continuing in this candle's direction.
+
+[126] A big candle, suddenly, out of nowhere, a red one drops down this much.
+
+[127] This means it won't reverse up anytime soon.
+
+[128] It has to continue. It will pause and then continue like this, see?
+
+[129] But on the other hand, if it's been going down for a while,
+
+[130] meaning it's been running for some distance and suddenly boom, a long one comes out bigger than the others,
+
+[131] as a pin bar, there's a percentage or chance that it runs out of steam and can reverse.
+
+[132] Need to wait for another confirmation.
+
+[133] Like this pattern.
+
+[134] If you look at the pattern it becomes a
+
+[135] W shape or
+
+[136] double bottom.
+
+[137] Then it reverses.
+
+[138] In this period, see?
+
+[139] It's red boom, and there's a reversal candle here.
+
+[140] And this set here is Engulfing.
+
+[141] Combine this candle set, combine the whole set. This green candle isn't just this one.
+
+[142] We learned about combining candlesticks. As I said, we don't need to memorize many patterns.
+
+[143] If we combine them, we can analyze everything.
+
+[144] Take this whole set and combine it all together. In the end you'll get a green candle like this.
+
+[145] See? A pin bar. Does it mean strong buying pressure? Yes. So it goes up.
+
+[146] If you combine this set,
+
+[147] we covered this in the previous part, combining candlesticks. Cut off the top,
+
+[148] it'll be just a tiny bit of green body, the rest is all tail.
+
+[149] And the green top here indicates strong buying pressure already.
+
+[150] This candle confirms going up based on combining the candlesticks.
+
+[151] Same here, coming down, slowing down, finding a candle with a tail showing resistance from the other side.
+
+[152] This means there's a chance it will go up
+
+[153] in the direction of the resistance. Need to see the next candle confirm again.
+
+[154] And another rule we should remember precisely is to wait for the candlestick time to finish or close before acting.
+
+[155] If it's a 15-minute candle, that candle must complete the full 15 minutes until it closes with a clear pattern.
+
+[156] A daily candle must finish the day, a 1-hour candle must finish the hour.
+
+[157] Because otherwise it might be a case like this:
+
+[158] Small small, then suddenly a big red one shoots out like this,
+
+[159] you sell following it, thinking it will go down because
+
+[160] with this much selling pressure it will definitely go down. But let's say this candle is a 1-hour candle.
+
+[161] It drops this much, runs down, and stays down like this continuously until about 59 minutes, 59 minutes.
+
+[162] One more minute to complete the hour, it suddenly shoots up and closes like this. After one hour it becomes this candle.
+
+[163] This is actually buying pressure. Just one minute and it becomes buying pressure instead.
+
+[164] Selling here, you could get stopped out. It might go up like this.
+
+[165] Because here, see analyzing momentum here, what is this?
+
+[166] The forces are evenly matched. We still don't know who wins or loses. They're completely equal.
+
+[167] Then suddenly it shoots up like this, deciding the entire period
+
+[168] that buying pressure has a chance to win, so there's a chance it will go up like this.
+
+[169] Same here, boom boom boom, selling following, making
+
+[170] if it breaks the previous high or resistance level, boom following drops
+
+[171] because momentum is decreasing so there's a chance it goes down.
+
+[172] Buy would definitely get stuck, so wait,
+
+[173] wait for the candle to finish its time first.
+
+[174] Same thing, another case.
+
+[175] Downtrend breaks support, strong selling.
+
+[176] Sell following, breaks out of the channel.
+
+[177] Breaks the trendline, comes down to support trendline.
+
+[178] Selling before time ends, it shoots up as buying pressure.
+
+[179] Sold here, candle closes like this.
+
+[180] There's a chance it will go the opposite direction from where we
+
+[181] sold our order. So wait for the candle to close first, wait for it to close,
+
+[182] determine what kind of candle it actually is.
+
+[183] Like this we come to read
+
+[184] momentum, the force of action.
+
+[185] So if we encounter a candlestick shape like this,
+
+[186] will it go up or continue down?
+
+[187] Well,
+
+[188] we'd analyze it will probably go up
+
+[189] because this candle is big,
+
+[190] small, showing
+
+[191] the original force that was running from before is decreasing,
+
+[192] and the other side can
+
+[193] engulf all of it, see? Engulfs all of this candle.
+
+[194] The buying side has stronger power suddenly in this period. If it's a pattern they call it
+
+[195] a candlestick pattern they call engulfing, swallowing.
+
+[196] Swallows this entire candle, showing the buying side has strong power.
+
+[197] There's a chance the next candle if it's green will go up green.
+
+[198] Compared to this one which has a much higher chance of going down for sure.
+
+[199] Because it won even though this standing candle has force, but came down but didn't close it all,
+
+[200] didn't beat the opening price of this candle yet.
+
+[201] But this one has 3 candles, one red candle eats them all, engulfs everything. So massive selling pressure here beats
+
+[202] all 3 of these buying forces completely. This one might have a little fight left, need to see the next candle if it can fight back.
+
+[203] Now what we see like this, 1 candle, candle A and B, exactly the same.
+
+[204] Let's say it's a 1-hour candle, make it 1 hour.
+
+[205] When we see this, do we think it will go up or down? Is this candle strong?
+
+[206] Seeing it like this, we should think it's already strong, lots of buying pressure.
+
+[207] But if we break it down to a smaller timeframe,
+
+[208] like a 15-minute timeframe.
+
+[209] How many 15-minute candles make up one hour?
+
+[210] Which becomes one 1-hour candle,
+
+[211] there must be 4 candles, right?
+
+[212] Now when we break it down,
+
+[213] this candle is composed of these 4 candles.
+
+[214] 1, 2, 3, 4 candles, 15 minutes each.
+
+[215] Does this quite confirm it's an uptrend?
+
+[216] Uptrend.
+
+[217] But the exact same candle broken down to 15 minutes looks like this:
+
+[218] 15-minute candle number 1,
+
+[219] 15-minute candle number 2 going up,
+
+[220] then sellers attack and push it down.
+
+[221] This one buyers push back up,
+
+[222] and it becomes a candle like this.
+
+[223] This shows which one is stronger between A and B?
+
+[224] It must be A that has more power. Wow,
+
+[225] this is all buying, it goes up steadily.
+
+[226] Has more power.
+
+[227] The next candle has a chance to be green
+
+[228] and continue up. This one might
+
+[229] be green but then turn red,
+
+[230] oscillating again the next hour.
+
+[231] Because it's chaotic like this, see?
+
+[232] The momentum or its force isn't as consistent as this one.
+
+[233] Should understand in comparing candle to candle that look similar.
+
+[234] When we break down to see the finer details, the smaller parts,
+
+[235] we'll see clearly whether the candle we're looking at is composed strongly or not strongly.
+
+[236] Next like this, reading the trend as an uptrend, going up continuously.
+
+[237] Finding a long tail this big near the top, does it show selling pressure?
+
+[238] See? Small small small.
+
+[239] Shows the energy is starting to weaken.
+
+[240] When it's weak and selling pressure hits, this shows very strong selling pressure.
+
+[241] There's a chance it will go down.
+
+[242] Will it go down?
+
+[243] Here, this point tells you, Westerners call it a thank you.
+
+[244] Thank you in advance, finding a tail this big going in,
+
+[245] and the next candle finds a big red.
+
+[246] This is called a big candle, see? Compared to the previous candles, this is definitely big.
+
+[247] Remember what I said? I already mentioned
+
+[248] if it's in a small frame and suddenly boom like this,
+
+[249] one candle, a big candle appears,
+
+[250] the direction it will go next usually goes in the same direction as this candle.
+
+[251] This candle is red, showing selling pressure, so there's a chance it will go like this.
+
+[252] It comes down and then pauses, accumulates energy a bit, then continues, continues down, see?
+
+[253] This is another case, coming down as a downtrend. Earlier was, earlier it was an uptrend.
+
+[254] This one comes from a downtrend and suddenly finds this candle shooting up.
+
+[255] Does it show buying pressure? Buying pressure. Count it, how many candles?
+
+[256] This one candle eats them all, eats them all, see?
+
+[257] The territory drawn from top to bottom eats everything. So it's considered very strong buying.
+
+[258] However these selling pressures pushed down, don't know,
+
+[259] suddenly bought everything all at once,
+
+[260] all of this.
+
+[261] So it meets the same criteria as before.
+
+[262] Small small small,
+
+[263] clustered together then suddenly boom a candle like this.
+
+[264] Clustered like this,
+
+[265] small small then boom a candle this size.
+
+[266] This is called a big candle for sure.
+
+[267] Even though we see here it's already big, already big. Compared to others, here it's big, compared to these,
+
+[268] this one's big, this green is big, this red is big. If compared to this set, this red is considered big, lots of selling.
+
+[269] But this green candle beats them all, definitely considered big.
+
+[270] Quite clearly bigger, so the momentum direction will lead in the same direction as this candle,
+
+[271] which is uptrend like this, see?
+
+[272] Now it goes up, same thing.
+
+[273] It goes up, see? It goes up.
+
+[274] Is there starting to be a fight back from the selling side?
+
+[275] Starting to have it. Candles start getting shorter, green starts getting shorter, shorter.
+
+[276] Boom, then long.
+
+[277] And no more green, how many candles? 1, 2, 3, 4, 5.
+
+[278] See? Then there's, there's green, but the green is just these tiny 3.
+
+[279] Shows loss of momentum energy already.
+
+[280] So the selling side is starting to have power coming back.
+
+[281] If you still remember, this is the top, see?
+
+[282] Combine the candles, these 2 candles, green and red, what candle do you get?
+
+[283] You'll definitely get a pin bar. This candle.
+
+[284] This pair combined, see? Cut off this top, boom, opening price take the opening
+
+[285] price of candle 1, closing price of candle 2, becomes the body, right?
+
+[286] Yes, the wick is on top, you get the head, clear pin bar
+
+[287] right here. So there's a chance it will go down, see? Will it go down?
+
+[288] Goes down, see? The benefit of us not having to memorize patterns.
+
+[289] We analyze as momentum, as energy going up, then use
+
+[290] the principle of combining candlesticks together
+
+[291] to find buying or selling pressure, which side it's clear on,
+
+[292] to help in decision making or analysis.
+
+[293] It becomes much clearer
+
+[294] than memorizing patterns like
+
+[295] this is a pin bar, it doesn't go down.
+
+[296] Well it doesn't go down.
+
+[297] You should analyze.
+
+[298] Analyze as momentum, as force going up.
+
+[299] And at this high point it's still continuing up, haven't found selling pressure pushing back yet.
+
+[300] Just found it now, pushing back, and here selling pressure trying to push back up.
+
+[301] But in the end does buying pressure push up? Pushes up, until only this much head is left.
+
+[302] And the next candle? Still goes up more. This is considered still fighting.
+
+[303] Coming to look, there's a tail. There's a tail, fighting each other continuously.
+
+[304] Until it becomes clear, at this point where it's starting to slow down.
+
+[305] This point is clearer.
+
+[306] This period is very clear that they're fighting quite a lot.
+
+[307] If we see this, we wait and watch.
+
+[308] Don't enter an order. Wait to see which side will win for sure.
+
+[309] Until we can decide, we find this pair.
+
+[310] Combined, it becomes a pin bar, and the next set is a candle that doesn't
+
+[311] have much force. When it doesn't have much force, there's a chance that
+
+[312] it won't go up much. So it came down like this.
+
+[313] Another one, this one.
+
+[314] Remember the case where it's small small small then finds a long candle?
+
+[315] Momentum says it will continue in the direction of the long candle. Another case, going up or down continuously,
+
+[316] and suddenly a big candle appears, there's a chance it could reverse back.
+
+[317] Because this is considered a strong candle, strong. This candle fights back.
+
+[318] Selling fights back. Can you combine this candle? If you combine carefully, you'll see
+
+[319] these two candles first, combined, it becomes another one, see?
+
+[320] This becomes the tail, the wick. Opening price is here of candle one.
+
+[321] Keep it. Closing price of candle two is here, becomes here.
+
+[322] If you combine three candles, this candle comes in too,
+
+[323] take the closing price of this candle, you'll barely have any green body left.
+
+[324] The rest is all tail, all wick. So there's a chance it will go down like this.
+
+[325] See? Next one, same same one.
+
+[326] This goes down long. Lots of selling pressure? Lots. Very much.
+
+[327] And it continues down as a set. But notice, see the body gets shorter?
+
+[328] Shows selling pressure, momentum gradually decreasing. The swing force of price gradually lessening.
+
+[329] Simply put, this might have turned around already, stepped on the accelerator
+
+[330] going up over 100 km/h very fast, then became 200 in this direction,
+
+[331] like this. But after driving for a while they start releasing the accelerator, start braking, slowing, slowing down.
+
+[332] And green comes back, see? When it was long, it still didn't have, we didn't see any green at all.
+
+[333] When it finds green starting to appear, shows buying pressure is starting to return, starting to fight, starting to fight back.
+
+[334] Can it fight back? Well, looking at this pattern fighting back is quite difficult because it's small small small small small.
+
+[335] This one comes this big, these ones are small small, can it fight back? It's not big. Can't, so it goes down like this.
+
+[336] From here, finally goes down.
+
+[337] So
+
+[338] let's look at real charts better. Got the momentum thing.
+
+[339] More fun if we analyze it as a story.
+
+[340] As a story means I'll assume like this.
+
+[341] Don't take it too
+
+[342] give me a bit more.
+
+[343] About this much so we understand, same page.
+
+[344] When I analyze momentum,
+
+[345] I analyze it like there are two cities.
+
+[346] Draw it like, not really cities, consider it countries.
+
+[347] I'm in ancient war times, with generals riding horses and stuff,
+
+[348] fighting each other, wielding swords, there are bows.
+
+[349] This one is the red city side, another one, this changes to green city.
+
+[350] Like this. Assume like this when I speak and explain so we understand the same way.
+
+[351] I'll compare that it's generals, it's armies. In this candle there will be, what was it,
+
+[352] soldiers, like people figures like this.
+
+[353] Many.
+
+[354] Let me explain first, as armies.
+
+[355] Assume it's an army, as people, many many many, armor 1,000 people like this.
+
+[356] Yeah, an army of 1,000 people. This is 1,000 people, see?
+
+[357] When it's smaller, shows this group might be only 3,000 people.
+
+[358] 2,000 people, not that few.
+
+[359] Can't arrange them yet, rough count just for today first.
+
+[360] But this one is only 1,000 people, 500 people.
+
+[361] Think, can 500 people fight 10,000 people?
+
+[362] I think you can't fight already.
+
+[363] The army on that side sends in, front army, definitely die if sent into that territory.
+
+[364] Let's use an object to understand the middle like this first.
+
+[365] Like this, it's the dividing line.
+
+[366] This side wants to seize this side.
+
+[367] This side wants to seize this side.
+
+[368] When they want to seize, they do like this.
+
+[369] This side wants to seize this side, they have to try how?
+
+[370] Inch forward into this side's territory, right?
+
+[371] Inch in, inch in.
+
+[372] It goes up up continuously like this.
+
+[373] It's an uptrend.
+
+[374] Eating this territory.
+
+[375] Is there fighting back or not? To seize their own territory back?
+
+[376] And can they inch into this side's territory, get some back?
+
+[377] When I read candlesticks, read momentum, I turn it into a story and it's fun, not stressful.
+
+[378] Actually entering orders when trading is stressful, have to use your mind, it's somewhat stressful.
+
+[379] But if we assume something like this, it becomes readable continuously, entertaining, relaxing.
+
+[380] Overall combined it becomes clearer. Let's look at examples from real charts a bit.
+
+[381] Assume that
+
+[382] let's try looking at this pair, GA.
+
+[383] 1-hour chart.
+
+[384] Really which chart you're comfortable with, you play that chart.
+
+[385] We can already see this. Won't use this, let me start like here.
+
+[386] Assume,
+
+[387] assume we see like this, going down, then going up, zigzag zigzag zigzag zigzag.
+
+[388] Shows this is an uptrend right? Going up, going up then it goes zigzag zigzag,
+
+[389] sideways like this. No, not going up directly. If we read this,
+
+[390] what does it mean? Shows starting to have loss of power or power of the uptrend side, the buying side
+
+[391] starting to decrease. If it's armies, troops, sending people up to attack,
+
+[392] but can only attack this far, attack up to take territory, this side's territory, only this much.
+
+[393] Seize territory only this much then fighting, struggling like this.
+
+[394] Do you think next it will go up or go down?
+
+[395] Will they win?
+
+[396] If it's me looking, analyzing momentum, I think
+
+[397] the buying side probably won't win yet. Need to see, need to follow what we learned, candle by candle.
+
+[398] Like this candle, big red, compared to before, this is considered big.
+
+[399] Shows the territory of the selling side, assume they control this area,
+
+[400] this one is the buying people's side, buying city, this is selling city.
+
+[401] Sending troops back, like a commanding general, a large army.
+
+[402] Bigger than the small troops fighting, has strong power, already attacking up.
+
+[403] This is the buying city side or green city, it fights back up, still struggling.
+
+[404] Finally pushes up this much, shows they're considered evenly matched in power.
+
+[405] Coming up this much, what will the next candle be? Let's see.
+
+[406] If the next candle is like this, at first I thought seeing this candle it would continue up more.
+
+[407] But it turned out to be only this candle left, see? From big, only this much left.
+
+[408] Shows the buying side is starting to weaken. They invaded into their own territory this much.
+
+[409] This one sends troops to push back, but can only push this much, can't push further, stuck.
+
+[410] Stuck in this zone area, stuck at the resistance area, evenly matched.
+
+[411] I guess buying, no selling pressure, the red side
+
+[412] is quite a lot. Selling pressure can push up, true.
+
+[413] Here,
+
+[414] right here,
+
+[415] can't decide anything yet.
+
+[416] I still wouldn't dare enter an order.
+
+[417] But when finding this candle,
+
+[418] if reading momentum, boom,
+
+[419] see?
+
+[420] However many troops the green sends to fight, more green than red,
+
+[421] but it's still not big,
+
+[422] not clearly outstanding.
+
+[423] Red breaks through to here,
+
+[424] sends a large army sweeping everything, controlling all of this, see? So
+
+[425] the next one has a chance that the army, the selling side or red side,
+
+[426] will seize the green side's territory in this zone quite a lot, more than before. At first didn't look like much, they're evenly matched.
+
+[427] Finding this going in, you look at this whole set, don't need to just look at this, see?
+
+[428] There's no red candle or green candle as big as this candle.
+
+[429] Shows the army eats them all, counterattacks, the troops sent all die.
+
+[430] Then attacks into the territory, can they attack in? I think they can.
+
+[431] See? Here it comes.
+
+[432] Once it comes, inching in, if this one finds this candle confirming, here I wouldn't dare sell, but if we're trading, if we read only momentum
+
+[433] of the candlestick pattern, closing this candle, next candle can risk selling. Since momentum,
+
+[434] the chance has come.
+
+[435] For the green to fight back, seize territory back until going up like this,
+
+[436] low chance. Because we've read the momentum.
+
+[437] We read it as a story like this, as momentum of the price action,
+
+[438] we didn't just wait to see the chart pattern
+
+[439] whether it will go up or, uh, like having to memorize this pattern, up down.
+
+[440] But if it's momentum as a story, finding this candle boom, one candle, we know
+
+[441] the selling side has more power, sending troops to attack,
+
+[442] killing this side completely.
+
+[443] Then inch into this side's territory already, see?
+
+[444] Inch in, got the candle, evenly matched.
+
+[445] Big army or not don't know, not a royal army, probably about this much,
+
+[446] but it's a large army
+
+[447] coming in this much.
+
+[448] Now will look at the other side, can they fight? Need to see the next candle.
+
+[449] Yeah, starting to have counterattack up, see? It's entered the red territory.
+
+[450] This is the red territory of this side. Fighting back, sending troops fighting back as a fighting
+
+[451] candle, evenly matched but not winning yet, see? But if you combine the candles you'll see
+
+[452] it's, well, next chapter we'll tell you
+
+[453] because pin bar isn't that wherever a pin bar forms, it will always work there.
+
+[454] There will be points or zones where pin bar has more power than usual,
+
+[455] where it rarely fails.
+
+[456] Here it's in the middle area. Even though it's a pin bar,
+
+[457] but still not certain it will prevail.
+
+[458] We just know there are buyers, buying pressure, it's fighting back, that's all.
+
+[459] Can they fight? Can't fight. Like this I call can't fight. Why?
+
+[460] Because green came together already. If they can fight, the next candle must be green, must continue green.
+
+[461] Lots of green too, must continue green. But it became red.
+
+[462] As the troops of this side that survived,
+
+[463] sending troops to fight this much,
+
+[464] taking territory up. But finally the green army
+
+[465] dies. Red is the surviving side, the winner.
+
+[466] And there's fighting going on, see the candle wicks?
+
+[467] Trying to stretch up then gets pushed, trying to stretch down then gets pushed up.
+
+[468] But in the end, red survives, see?
+
+[469] So there's a chance, need to watch next if momentum will decrease more.
+
+[470] Here, because finding this one, red survived.
+
+[471] Green tries to send remaining troops to fight up more,
+
+[472] still haven't passed the original point, not going much further.
+
+[473] Inching back to get territory, can't get much territory back.
+
+[474] After being eaten away from here, 2 candles, only got back this much then got pushed back this much.
+
+[475] Shows I think it's probably losing power already.
+
+[476] So the red side probably has more power.
+
+[477] Likely has a chance to continue down.
+
+[478] Combined with if we've learned that
+
+[479] see? It's small small, then finds a big candle boom coming out this much.
+
+[480] Has momentum to push in the direction of this candle, remember?
+
+[481] This is one we keep aside.
+
+[482] As consideration data, as data.
+
+[483] The rest, considering momentum further, feel that green still probably can't fight.
+
+[484] Price probably has more chance to go down.
+
+[485] Ask why must get to around here, about this much, around support level, around, level, right,
+
+[486] level of the city. Look further, see? If finding this candle boom, quite quite
+
+[487] quite confident that the red side, troop power higher than green side already.
+
+[488] Because so far, after attacking in,
+
+[489] only sent one army. Came to fight, and couldn't fight at all, no more green coming, see?
+
+[490] Red inches, inches, inches in continuously. Deep in already.
+
+[491] Has a chance to go down more.
+
+[492] And this is the result.
+
+[493] Reached, red inches up to here.
+
+[494] But this candle says what?
+
+[495] This much says the buying side doesn't give up either.
+
+[496] Shoots up 10,000, now pushes back, until only this much head left, only this much.
+
+[497] Comes back to the original area, this candle could attack up to only this much,
+
+[498] then sends army attacking in until almost seizing
+
+[499] where they set up camp or set up army waiting here.
+
+[500] Has considerable power to not let it go down yet.
+
+[501] So finding this candle, boom,
+
+[502] might have a chance to bounce up, could come up.
+
+[503] But will it go higher than this?
+
+[504] Think probably not.
+
+[505] Because this candle is blocking.
+
+[506] Need to see further. Need to see further.
+
+[507] Just this candle can't decide yet, just know around here it's dense. Let's see further.
+
+[508] When finding the next candle it says, normally if finding this candle, if green follows,
+
+[509] from a candle like this shows strong buying pressure for sure. But this shows selling pressure still won't stop.
+
+[510] Still continuing, still will seize territory back.
+
+[511] But starting to get smaller already, see?
+
+[512] This is big, big.
+
+[513] This one, this candle is considered a big candle.
+
+[514] But it only fought back this much.
+
+[515] So when it was pushed back,
+
+[516] and it bounced red back,
+
+[517] shows it inches back,
+
+[518] will win. But finally gets smaller.
+
+[519] Gets smaller, shows the loss of, well, the troops are starting to run out of energy too.
+
+[520] After inching up then getting hit back, and sending more troops again,
+
+[521] but troops are starting to weaken, tired, losing energy. There's a chance, there's a chance.
+
+[522] If the next candle is still small, there's a chance it can bounce back up
+
+[523] a bit. Please find that it came down, it might have a rebound going back up, some.
+
+[524] Let's see if it will be like that. Here, see? It's getting smaller.
+
+[525] Shows red is running out of power, decreasing, decreasing. Green seeing the opportunity just takes back.
+
+[526] See? Takes takes. This one controls the whole candle, sends troops to take.
+
+[527] The area we saw here lots already that it has pushing force up, see?
+
+[528] Shows this area has lots of troops waiting already, the green side waiting.
+
+[529] They won't give up easily, let seize any area. When coming down to here still takes up,
+
+[530] up up. But then starting to lose energy too.
+
+[531] This is green's. Still can't take much back.
+
+[532] Need to see if red will have force to serve again.
+
+[533] Look here.
+
+[534] See? Green starting to take from here, see?
+
+[535] Take back. When red tries to take back down,
+
+[536] it gets pushed back up by green about half.
+
+[537] This is considered evenly matched this period, fighting each other.
+
+[538] Very evenly matched, both small, but green seems to have more troops left but evenly matched.
+
+[539] Here don't need to pay attention, the real price is running.
+
+[540] Now let's see further.
+
+[541] Green is coming, see? Starting to come.
+
+[542] Will it win?
+
+[543] If seeing like this shows green is coming, red starting to not appear, not a single red candle, see?
+
+[544] Not appearing at all, there's a chance the next candle will go up more.
+
+[545] Then it goes up, really goes up, okay.
+
+[546] This candle says
+
+[547] about defeated the army sent, have little troops left, survivors.
+
+[548] But finally counterattacked back. Sent army reinforcement.
+
+[549] This territory is still tough, still won't let in easily. Hit back up.
+
+[550] Defeated the army. But hit back up. Red that attacked in from here, see?
+
+[551] They've been fighting here, this zone.
+
+[552] And take back, these two candles, two large armies, this army still controls.
+
+[553] This red candle still controls, see? Green still can't beat it.
+
+[554] Still can't win this candle.
+
+[555] Then find the next candle from green, instead of continuing green it becomes red.
+
+[556] Shows the red side still has plenty of power left too.
+
+[557] So can't take back half of the green candle.
+
+[558] Shows there's a chance to continue down. Because originally it was a downtrend already.
+
+[559] There's a chance they can still inch back. And this is it.
+
+[560] This is inching. If taking this much, we've been watching this much, see?
+
+[561] Took back. Finally can seize territory?
+
+[562] Almost seized, coming down, lower than the original that was seized.
+
+[563] Meaning entered territory more already. This candle, look at this candle.
+
+[564] It retreats up this much, shows green can fight back quite a bit.
+
+[565] But when finding this candle, big candle, same, even bigger.
+
+[566] Only hit back this much, short, could hit back almost all but only hit back this much.
+
+[567] Shows this side still has more force.
+
+[568] So quite able to take territory around here.
+
+[569] Let's zoom out and look from far.
+
+[570] Some level, I think can take around here.
+
+[571] Take until reaching here, move down.
+
+[572] See? Finally they took this territory already, can help each other go.
+
+[573] Could fight back, finally can't fight back. Came fully.
+
+[574] But still in their city, they'll fight back a bit.
+
+[575] When I put it, I'd say can't fight, it must come to here for sure, look from far.
+
+[576] Then take down, take territory down more, hit back about this much.
+
+[577] Is it enough? Can fight? Finally can't fight, breaks through, hits the city.
+
+[578] Finding this candle, can fight? Probably can't.
+
+[579] Depends on the teachers, can fight.
+
+[580] Probably can't. Red takes territory now, at first could only fight this much.
+
+[581] Takes territory, takes territory. This zone taken already, comes to take this zone more.
+
+[582] Then finds these 2 candles, sends army in, shows sent 2 large armies.
+
+[583] Green can only fight this much, push only this much.
+
+[584] And the next candle is still like this, this candle takes more, there's a chance to go down more.
+
+[585] Can go lower than this. It's broken through. Let's save this first.
+
+[586] Come see the next candle. Now let's see, see? Starting to have fighting back up.
+
+[587] Starting to close as green already, after not seeing green for a long time.
+
+[588] This part green retreated, got hit until retreating to here.
+
+[589] It's their territory, can they control here?
+
+[590] Okay, fighting, fighting up.
+
+[591] Move this here, because it's a swing point.
+
+[592] How much can they fight back? Because this candle controls, this army.
+
+[593] Like this army already won, it won and moved to set up position here.
+
+[594] Retreated in to attack and take territory like this, so moved large army to here.
+
+[595] This army still controls, see? Need to see if green can come back and fight this army.
+
+[596] Will it come up to here? Let's see.
+
+[597] But could only come up this much, then found red countering in again.
+
+[598] Yeah.
+
+[599] Here they also fight back the same.
+
+[600] Yeah.
+
+[601] This is very evenly matched.
+
+[602] Even though fighting back, it still fights up.
+
+[603] It's still not two green candles in a row.
+
+[604] Still only this much left.
+
+[605] Shows the red side
+
+[606] also won't give up.
+
+[607] Still has lots of force left.
+
+[608] These 2 candles, momentum is gone. Look carefully.
+
+[609] It came down strong like this, but when going up, goes up zigzag zigzag.
+
+[610] No force going up. I think it continues down.
+
+[611] Look here, 2 small candles, this red candle, evenly matched is this candle.
+
+[612] This army was sent like will win, this army already took back. There's a chance it will continue down, and it does go down.
+
+[613] Is the candle big? Big, comparing to this candle, about equal. If zooming, this is big, this one is also big enough compared to
+
+[614] this candle, shows the army came to set up new territory. At first set up here, now set up here.
+
+[615] Oh, they think they seized it back. Now let's see further.
+
+[616] Like this, small small small small small small small.
+
+[617] Finding a break, considered still, still no force. We'll see if it has force
+
+[618] only when it defeats this army. Meaning defeats, can have green path.
+
+[619] Sent many armies, it becomes reinforcement. Did they win? Already won.
+
+[620] Means we only saw red once. We appeared one two three four five.
+
+[621] Red just appeared candle five six seven still green, shows this army might be starting to
+
+[622] be exhausted already, despite it going. Big candle, remember from where it
+
+[623] then small small small then there's a long candle coming out as this color, it will have momentum force pushing in that direction, in another case.
+
+[624] And if it came down or came in that direction for a period then suddenly a big candle appears, remember there's one chapter,
+
+[625] there's a chance it will be a reversal point, like attacking until the last gasp, traveling all the way,
+
+[626] tired already then attacks with full force, giving all, but the other side tries to resist until running out of energy.
+
+[627] Can win because this one, this candle is considered closing beyond this candle already.
+
+[628] By principle, considered defeating this candle already. This army considered can't fight.
+
+[629] Can inch in, true, but gets slowly, takes more time.
+
+[630] This one like attacking one day, one day hands break, breaking through.
+
+[631] But the green side takes about a week slowly counterattacking.
+
+[632] Yeah, using like this works, comparing like this works, slowly counterattacking. That day there's a chance
+
+[633] to bounce back up. But will it bounce a lot? Will it reverse and go up?
+
+[634] When it has to keep watching, like this they start losing energy, losing momentum.
+
+[635] If the next candle goes down, there's a chance to continue down like before, but if it
+
+[636] goes up but how can they fight? They'll try to come attack this army.
+
+[637] Already, big army broken through, left this army, they have to try to come up and attack this army to see if it breaks.
+
+[638] If can't attack this army, they continue down, like this army set up and seized this territory.
+
+[639] If can't counterattack, it goes down.
+
+[640] Still can't counterattack, even though sending this big army up, finally still doesn't reach to close here, still going down.
+
+[641] Two armies and the two big armies that won, counterattack, it takes back at once,
+
+[642] there's a chance it will go up.
+
+[643] Meaning accumulating energy, sideways already. This will analyze candle by candle for real.
+
+[644] It's hard to analyze, so look at the overall picture, like you explained,
+
+[645] view as forces like I do, or you can compare to whatever you're comfortable with,
+
+[646] and view as momentum like we're viewing.
+
+[647] We might read candlesticks like this.
+
+[648] Might be a story.
+
+[649] Like a metaphor.
+
+[650] This one appears.
+
+[651] Was playing, staying just this much.
+
+[652] This one appears above all of these.
+
+[653] This army.
+
+[654] Even if won't counterattack.
+
+[655] There's a chance it will gradually
+
+[656] might not win.
+
+[657] Like this period, these red side hit in one shot, one moment reaching.
+
+[658] But green like slowly fights, slowly pushes up, pushes up, pushes up.
+
+[659] Later we'll learn about Dow Theory, will understand more than this.
+
+[660] Because some things talking about momentum alone, sometimes it's hard to predict what's next.
+
+[661] Might be hard, only know they're fighting, evenly matched, that's all.
+
+[662] This period, but if bringing Dow in to combine,
+
+[663] Dow Theory in to combine, there will be reasons to say
+
+[664] there's a chance to go up, there's a chance to go up, if using Dow.
+
+[665] When learning to that point will know, when combining with candlestick momentum,
+
+[666] come see if it really goes up.
+
+[667] It gradually goes.
+
+[668] Still going up.
+
+[669] But
+
+[670] its force isn't as much as here where it went down.
+
+[671] Fighting, not fully evenly matched. If looking at overall momentum, considered close.
+
+[672] But this candle came. This candle came, like setting a base here already.
+
+[673] And fighting if red will win, that's all.
+
+[674] Like we see other pairs, this one, this army, is it strong?
+
+[675] Counterattacking them this much.
+
+[676] And green can't fight, can only fight half of this.
+
+[677] And the army has to retreat far down and slowly counterattack, fight up.
+
+[678] No red appearing at all, see?
+
+[679] But momentum, friends in buying, we read the momentum out already, see?
+
+[680] It's a long tail, pushed up throughout, and very long, big candle, very long coming up, coming up until
+
+[681] red is small, green is small. Even though trying to push up,
+
+[682] running out of energy, like will run out of energy. I think.
+
+[683] Called small, trying to fight the army around here.
+
+[684] Finally still can't fight, got about this much, just that here is selling pressure coming back.
+
+[685] Because green is starting to weaken here already, finding force here, fighting back.
+
+[686] These 2 candles together show selling pressure that can fight with these,
+
+[687] the ones that are weak, so it becomes this candle following.
+
+[688] But green tries to push, finally this candle, this army pushes in, still stuck in this zone.
+
+[689] Trying to push, fighting.
+
+[690] Can they fight? Finding this candle going in, have to decide probably can't.
+
+[691] Probably can't, probably will go down more.
+
+[692] Remember, same as before.
+
+[693] Small small small, in a frame then boom appears like this.
+
+[694] Momentum still exists.
+
+[695] Like they've been fighting a lot.
+
+[696] This is considered the period where green troops are weak, see?
+
+[697] Very small.
+[698] The red side establishes base and sends troops flooding back in to counterattack.
+[699] A candle this size, and can green fight back? How many candles still can't? Half way there. Oh, here it is.
+[700] Until gradually fighting upward. Red loses strength and can't fight back.
+[701] Green pushes up again, showing energy dominated by green. The next candle turned completely red.
+[702] Hit this candle.
+[703] Green won't give up, pushing up again. Looking at this, there's a chance it will rise here.
+[704] But when bears came in to push down and hit this army, it's like playing dead here, completely slaughtered coming down this hard. This army only has the duty of fulfilling downward pressure for sure. So there's a chance it will go down much further.
+[705] See that? Then it goes down again.
+[706] We read it like this - green fights back.
+[707] Fights back, fights back. Can it fight back? Seems like it, but not quite yet.
+[708] Why? This army, this army is still waiting.
+[709] Green tries to push to not let it go lower than this.
+[710] But every time it pushes up, it gets hit back.
+[711] Every push up gets hit back. No matter how it pushes up, it gets hit back.
+[712] This is still green until finally it gets hit back and turns red.
+[713] There's a chance it will continue down.
+[714] See these two candles? They're holding firm.
+[715] Green army can't push up at all.
+[716] It pushed up past half of this candle's body already.
+[717] Both wicks here.
+[718] But in the end, when closing time comes, it gets hit by red army.
+[719] Counterattacked on both candles.
+[720] Especially this candle, still green.
+[721] Still has enough strength. This candle's soldiers are fierce fighters, completely pushed back up.
+[722] The next candle has a chance, has a chance - let me use the word "chance" - that red will be the winning side.
+[723] Right, push, push, can't fight, can't fight, going down, it goes down.
+[724] And it should go down more. If it's dropping this much consecutively, here, going way down.
+[725] But this zone is green zone, so there might be a lot of their troops defending the trenches.
+[726] And then trying to push back up as a Pinbar.
+[727] There's a chance it will rise.
+[728] Can it push up? Because these 2 candles are holding firm.
+[729] Need to watch the next momentum.
+[730] Still red.
+[731] This one starts to become uncertain.
+[732] If it turns green upward, there's a chance showing they're starting to fight upward.
+[733] But it shows the force of them pushing back as momentum, pushing back up.
+[734] But the next candle couldn't go up again, encountering red pushing down even if just a little bit.
+[735] It shows red still has strength, moderately enough, at this moment.
+[736] Okay, when encountering this, red itself starts to get tired too.
+[737] There's a resting zone, fighting each other, fighting like this is hard to tell.
+[738] Which side will win.
+[739] Just that this zone, repeatedly, and this zone red controls. See? 2 candles control this zone.
+[740] If hitting this zone, they already control this zone.
+[741] Green zone, this zone controls this zone.
+[742] But in the end, green couldn't rise to red's zone at all.
+[743] Fighting, fighting, and finally red starts flowing consecutively 3, 4, 5 candles.
+[744] And then spacing downward, pushing down, pushing down, next candle turns red like this.
+[745] It's quite likely to go down more.
+[746] Likely to go down more.
+[747] But it's starting to slow down, see?
+[748] When red comes down to this candle, it's like slowing down.
+[749] Running out of steam. It used force.
+[750] During this period, they were concentrated.
+[751] Troops marching in, they get tired.
+[752] It's left with just this, force decreases.
+[753] Force is decreasing.
+[754] There's a chance the bears might reverse upward, reverse up. That is, green fights back.
+[755] Taking territory back. Can it take it? Ah, see? Trying to take it back upward.
+[756] But taking it like this, taking like this, I think momentum is still low.
+[757] Look, took it and left this much, like this. They took this much.
+[758] We can only take up this much. I think there's a chance it will actually continue down. Red candle like this will get revenge because green still can't close at all, see?
+[759] There's a chance red, red group, this red army they sent already, these three armies already won, there's a chance to take it further.
+[760] There's a chance to go down more. Take that, going down for real, see? So we...
+[761] Gradually like this, adding force, adding force coming up, they fight back.
+[762] Completely, sending large candles up continuously, because...
+[763] Therefore, there's a chance it will break low here, going down more. Ah, but...
+[764] Green candles starting to show green's strength already.
+[765] They will get revenge.
+[766] Starting to send soldiers to fight.
+[767] Fighting each other, showing in a range, both sides evenly matched.
+[768] How far will they be evenly matched? We'll watch.
+[769] See? And then rising, rising together already.
+[770] See? Seeing this much shows green is starting to have considerable force coming up.
+[771] After being hit by red retreating into their own territory this much, they start buying back.
+[772] And encounter this candle coming up, right here. Green-green. Normally it goes green-green, red-red.
+[773] Going that direction, red controls this area. Red controls this area here, trying to fight back this area but can't.
+[774] Looking down, this candle is about to get revenge on this candle, coming up.
+[775] If getting revenge on this candle, they'll try to get revenge on candles around here.
+[776] Well, whether they can get revenge or not, how will they try to go up? We'll see how far they can try to go up.
+[777] But this candle, I think it should continue. Should have strength to continue.
+[778] Let's see. Ah, it can go. But starting to lose momentum as well.
+[779] Starting to decrease. Tired. It's tiring to fight back.
+[780] Starting to decrease.
+[781] Okay, when I see this, curving like this.
+[782] Might still, might still not come up to, should rest coming down first.
+[783] And then consolidate below because not much force. Here there's a lot of force.
+[784] And left with just this candle, little force, need to rest.
+[785] Encountering this candle, it must go down.
+[786] Red side is about to get revenge.
+[787] Going down.
+[788] See? Coming down, but coming down and green won't give up either.
+[789] Looking at this condition, and this wave, there's still a chance to go up more.
+[790] Still going down. Ah, like encountering this green candle confirms that...
+[791] This area definitely has force, because around this area...
+[792] Green candle already holds this, see? And this candle holds it back.
+[793] Sending reinforcements. How much chance to fight back?
+[794] There's still a chance it will push upward.
+[795] But after watching for a while, momentum starts to decrease.
+[796] Not much force. Not confident. Let's wait and see.
+[797] In the end, which side wins? Can move.
+[798] So we read charts like this.
+[799] Reading as a story like this.
+[800] Gradually sitting and analyzing, gradually thinking.
+[801] We'll keep going. But just reading like this alone, we only look at candlesticks, sometimes it might...
+[802] Um, somehow, it's still not exactly 100 percent right.
+[803] We need to use it together with other things that will be in the next parts.
+[804] Bring it to read together with Momentum that we learned.
+[805] That we're talking about.
+[806] Hope you understand more.
+[807] In the end, they say...
+[808] Price is king. Price is...
+[809] The biggest.
+[810] Everything else is secondary. That is, other things...
+[811] Come down.
+[812] Price is price.
+[813] Price is these candlesticks.
+[814] It consists of 4 prices.
+[815] Therefore...
+[816] If you can read Momentum as a story...
+[817] It works.
+[818] They say there's no Advanced level of Pattern of candlesticks like which type.
+[819] This one encounters this candle, encounters this Pattern, definitely up, definitely down as Advanced level.
+[820] We must remember there isn't.
+[821] There's only deep understanding.
+[822] Very deep in price movement.
+[823] It's Momentum.
+[824] If we focus correctly, we'll be able to go all ways, understand charts more and more.
+[825] So I'll end the Candlestick Part here, which is Part 1.
+[826] Candlestick, that's it. Thank you very much.

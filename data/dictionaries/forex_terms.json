@@ -1,0 +1,430 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Forex trading terminology",
+    "language_pair": "th-en"
+  },
+  "terms": [
+    {
+      "thai": "ยูโร/ดอลลาร์",
+      "english": "EUR/USD",
+      "category": "currency_pairs",
+      "priority": 1,
+      "pronunciation": "euro dollar"
+    },
+    {
+      "thai": "ปอนด์/ดอลลาร์",
+      "english": "GBP/USD",
+      "category": "currency_pairs",
+      "priority": 1,
+      "pronunciation": "cable"
+    },
+    {
+      "thai": "ดอลลาร์/เยน",
+      "english": "USD/JPY",
+      "category": "currency_pairs",
+      "priority": 1,
+      "pronunciation": "dollar yen"
+    },
+    {
+      "thai": "ทองคำ",
+      "english": "XAU/USD",
+      "category": "currency_pairs",
+      "priority": 1,
+      "pronunciation": "gold"
+    },
+    {
+      "thai": "ซื้อ",
+      "english": "Buy/Long",
+      "category": "trading_actions",
+      "priority": 1,
+      "description": "Opening a long position"
+    },
+    {
+      "thai": "ขาย",
+      "english": "Sell/Short",
+      "category": "trading_actions",
+      "priority": 1,
+      "description": "Opening a short position"
+    },
+    {
+      "thai": "ปิดออเดอร์",
+      "english": "Close order",
+      "category": "trading_actions",
+      "priority": 1
+    },
+    {
+      "thai": "เปิดออเดอร์",
+      "english": "Open order",
+      "category": "trading_actions",
+      "priority": 1
+    },
+    {
+      "thai": "ตั้งออเดอร์",
+      "english": "Place order",
+      "category": "trading_actions",
+      "priority": 1
+    },
+    {
+      "thai": "การวิเคราะห์เทคนิค",
+      "english": "Technical analysis",
+      "category": "technical_analysis",
+      "priority": 1
+    },
+    {
+      "thai": "การวิเคราะห์พื้นฐาน",
+      "english": "Fundamental analysis",
+      "category": "technical_analysis",
+      "priority": 1
+    },
+    {
+      "thai": "การวิเคราะห์โมเมนตัม",
+      "english": "Momentum analysis",
+      "category": "technical_analysis",
+      "priority": 1,
+      "spoken_variations": [
+        "แรงซื้อแรงขาย"
+      ]
+    },
+    {
+      "thai": "แนวโน้ม",
+      "english": "Trend",
+      "category": "technical_analysis",
+      "priority": 1,
+      "spoken_variations": [
+        "เทรนด์"
+      ]
+    },
+    {
+      "thai": "แนวโน้มขาขึ้น",
+      "english": "Uptrend",
+      "category": "technical_analysis",
+      "priority": 1,
+      "spoken_variations": [
+        "ขาขึ้น"
+      ]
+    },
+    {
+      "thai": "แนวโน้มขาลง",
+      "english": "Downtrend",
+      "category": "technical_analysis",
+      "priority": 1,
+      "spoken_variations": [
+        "ขาลง"
+      ]
+    },
+    {
+      "thai": "แนวรับ",
+      "english": "Support",
+      "category": "support_resistance",
+      "priority": 1,
+      "spoken_variations": [
+        "ซัพพอร์ต"
+      ]
+    },
+    {
+      "thai": "แนวต้าน",
+      "english": "Resistance",
+      "category": "support_resistance",
+      "priority": 1,
+      "spoken_variations": [
+        "รีซิสแตนซ์"
+      ]
+    },
+    {
+      "thai": "จุดพิวอต",
+      "english": "Pivot point",
+      "category": "support_resistance",
+      "priority": 2
+    },
+    {
+      "thai": "อาร์เอสไอ",
+      "english": "RSI",
+      "category": "indicators",
+      "priority": 1,
+      "pronunciation": "aar-es-ai"
+    },
+    {
+      "thai": "แมคดี",
+      "english": "MACD",
+      "category": "indicators",
+      "priority": 1,
+      "pronunciation": "mak-dee"
+    },
+    {
+      "thai": "ค่าเฉลี่ยเคลื่อนที่",
+      "english": "Moving Average",
+      "category": "indicators",
+      "priority": 1,
+      "abbreviation": "MA"
+    },
+    {
+      "thai": "โบลลิงเจอร์แบนด์",
+      "english": "Bollinger Bands",
+      "category": "indicators",
+      "priority": 1
+    },
+    {
+      "thai": "ฟีโบนักชี",
+      "english": "Fibonacci",
+      "category": "indicators",
+      "priority": 1
+    },
+    {
+      "thai": "แท่งเทียน",
+      "english": "Candlestick",
+      "category": "candlesticks",
+      "priority": 1,
+      "spoken_variations": [
+        "แท่ง",
+        "เทียน"
+      ]
+    },
+    {
+      "thai": "โดจิ",
+      "english": "Doji",
+      "category": "candlesticks",
+      "priority": 1
+    },
+    {
+      "thai": "แฮมเมอร์",
+      "english": "Hammer",
+      "category": "candlesticks",
+      "priority": 1,
+      "spoken_variations": [
+        "ค้อน"
+      ]
+    },
+    {
+      "thai": "ชูตติ้งสตาร์",
+      "english": "Shooting star",
+      "category": "candlesticks",
+      "priority": 1
+    },
+    {
+      "thai": "พินบาร์",
+      "english": "Pin bar",
+      "category": "price_action",
+      "priority": 1,
+      "spoken_variations": [
+        "พิน บาร์"
+      ]
+    },
+    {
+      "thai": "อินไซด์บาร์",
+      "english": "Inside bar",
+      "category": "price_action",
+      "priority": 1
+    },
+    {
+      "thai": "เอ็นกัลฟิ่ง",
+      "english": "Engulfing",
+      "category": "price_action",
+      "priority": 1,
+      "spoken_variations": [
+        "กลืนกิน"
+      ]
+    },
+    {
+      "thai": "เบรคเอาท์",
+      "english": "Breakout",
+      "category": "price_action",
+      "priority": 1
+    },
+    {
+      "thai": "การจัดการความเสี่ยง",
+      "english": "Risk management",
+      "category": "risk_management",
+      "priority": 1
+    },
+    {
+      "thai": "สต็อปลอส",
+      "english": "Stop loss",
+      "category": "risk_management",
+      "priority": 1,
+      "abbreviation": "SL"
+    },
+    {
+      "thai": "เทคโปรฟิต",
+      "english": "Take profit",
+      "category": "risk_management",
+      "priority": 1,
+      "abbreviation": "TP"
+    },
+    {
+      "thai": "ความเสี่ยงต่อผลตอบแทน",
+      "english": "Risk-reward ratio",
+      "category": "risk_management",
+      "priority": 1,
+      "abbreviation": "RR"
+    },
+    {
+      "thai": "เลเวอเรจ",
+      "english": "Leverage",
+      "category": "risk_management",
+      "priority": 1
+    },
+    {
+      "thai": "มาร์จิ้น",
+      "english": "Margin",
+      "category": "risk_management",
+      "priority": 1
+    },
+    {
+      "thai": "ตัวเทียน",
+      "english": "Candle body",
+      "category": "candlesticks",
+      "priority": 1,
+      "spoken_variations": ["บอดี้", "body"]
+    },
+    {
+      "thai": "ไส้เทียน",
+      "english": "Wick",
+      "category": "candlesticks",
+      "priority": 1,
+      "spoken_variations": ["หาง", "shadow"]
+    },
+    {
+      "thai": "ราคาเปิด",
+      "english": "Opening price",
+      "category": "candlesticks",
+      "priority": 1,
+      "spoken_variations": ["ราคาที่เปิด", "open"]
+    },
+    {
+      "thai": "ราคาปิด",
+      "english": "Closing price",
+      "category": "candlesticks",
+      "priority": 1,
+      "spoken_variations": ["ราคาที่ปิด", "close"]
+    },
+    {
+      "thai": "จุดสูงสุด",
+      "english": "High",
+      "category": "candlesticks",
+      "priority": 1,
+      "spoken_variations": ["ไฮ", "high"]
+    },
+    {
+      "thai": "จุดต่ำสุด",
+      "english": "Low",
+      "category": "candlesticks",
+      "priority": 1,
+      "spoken_variations": ["โลว์", "low"]
+    },
+    {
+      "thai": "โมเมนตัม",
+      "english": "Momentum",
+      "category": "technical_analysis",
+      "priority": 1,
+      "spoken_variations": ["แรงเหวี่ยง"]
+    },
+    {
+      "thai": "แรงซื้อ",
+      "english": "Buying pressure",
+      "category": "market_forces",
+      "priority": 1
+    },
+    {
+      "thai": "แรงขาย",
+      "english": "Selling pressure",
+      "category": "market_forces",
+      "priority": 1
+    },
+    {
+      "thai": "กระทิง",
+      "english": "Bull",
+      "category": "market_forces",
+      "priority": 1,
+      "spoken_variations": ["ฝั่งกระทิง", "ฝั่งซื้อ"]
+    },
+    {
+      "thai": "หมี",
+      "english": "Bear",
+      "category": "market_forces",
+      "priority": 1,
+      "spoken_variations": ["ฝั่งหมี", "ฝั่งขาย"]
+    },
+    {
+      "thai": "วิ่ง",
+      "english": "move",
+      "category": "price_movement",
+      "priority": 1,
+      "context": "price is moving/running"
+    },
+    {
+      "thai": "ดิ่งลง",
+      "english": "plunge down",
+      "category": "price_movement",
+      "priority": 1
+    },
+    {
+      "thai": "ผงาดขึ้น",
+      "english": "surge up",
+      "category": "price_movement",
+      "priority": 1
+    },
+    {
+      "thai": "พักตัว",
+      "english": "consolidate",
+      "category": "price_movement",
+      "priority": 1,
+      "spoken_variations": ["พัก", "รอตัว"]
+    },
+    {
+      "thai": "แกว่งตัว",
+      "english": "oscillate",
+      "category": "price_movement",
+      "priority": 1,
+      "spoken_variations": ["แกว่ง"]
+    },
+    {
+      "thai": "ชะลอตัว",
+      "english": "slow down",
+      "category": "price_movement",
+      "priority": 1,
+      "spoken_variations": ["ชะลอ"]
+    },
+    {
+      "thai": "ไทม์เฟรม",
+      "english": "Timeframe",
+      "category": "technical_analysis",
+      "priority": 1,
+      "spoken_variations": ["กรอบเวลา", "time frame"]
+    },
+    {
+      "thai": "กรอบ",
+      "english": "Range",
+      "category": "technical_analysis",
+      "priority": 1,
+      "spoken_variations": ["ช่วง", "range"]
+    },
+    {
+      "thai": "โซน",
+      "english": "Zone",
+      "category": "technical_analysis",
+      "priority": 1,
+      "spoken_variations": ["พื้นที่", "area"]
+    },
+    {
+      "thai": "ช่องว่าง",
+      "english": "Gap",
+      "category": "price_action",
+      "priority": 1
+    },
+    {
+      "thai": "คอนเฟิร์ม",
+      "english": "Confirmation",
+      "category": "trading_actions",
+      "priority": 1,
+      "spoken_variations": ["ยืนยัน", "confirm"]
+    },
+    {
+      "thai": "รีเทส",
+      "english": "Retest",
+      "category": "price_action",
+      "priority": 1,
+      "spoken_variations": ["ทดสอบ", "retest"]
+    }
+  ]
+}

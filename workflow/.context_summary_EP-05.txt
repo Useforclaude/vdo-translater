@@ -1,0 +1,300 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║           PASS 1: DOCUMENT ANALYSIS - CONTEXT SUMMARY                      ║
+║           EP-05: Reading Charts Like Reading a Story (Part 3)              ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+DOCUMENT: EP-05-new-clip_transcript.json
+SEGMENTS: 1,766 segments (Segment 1200 to be SKIPPED - unclear transcription)
+DURATION: 146.3 minutes (2.4 hours)
+ANALYSIS DATE: 2025-10-09
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📚 MAIN TOPIC & TEACHING CONCEPT
+═══════════════════════════════════════════════════════════════════════════════
+
+**Core Concept**: "Reading Charts Like Reading a Story/Watching a Movie"
+
+This is Part 3 of an advanced Price Action trading course. The instructor uses
+an innovative metaphor system where:
+
+- **Candlesticks = Characters** (แท่งเทียน = ตัวละคร)
+  • Large candles = Main characters/protagonists (ตัวเอก, พระเอก)
+  • Small candles = Supporting characters
+  • Major candles = Commanders/Bosses (แม่ทัพ, บอส, หัวหน้า)
+
+- **Price Movement = Story Plot** (การเคลื่อนไหวของราคา = โครงเรื่อง)
+  • Uptrend = Hero/Bull side winning (พระเอก/กระทิง)
+  • Downtrend = Villain/Bear side winning (ผู้ร้าย/หมี)
+  • Consolidation = Evenly matched battle (สูสี)
+
+- **Key Levels = Important Scenes** (แนวรับ/แนวต้าน = ฉากสำคัญ)
+  • Support/Resistance = Critical plot points
+  • Breakouts = Plot twists
+
+**Teaching Goal**: Help traders understand price action intuitively by thinking
+of charts as a story with characters, plot development, and scene analysis -
+rather than just memorizing patterns and indicators.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🎭 TEACHING TONE & STYLE
+═══════════════════════════════════════════════════════════════════════════════
+
+**Tone**: Casual, friendly, enthusiastic, conversational
+**Speaker**: Single male instructor (uses ครับ 379x)
+**Style**: Teaching through storytelling and metaphors
+
+**Key Characteristics**:
+✓ Very casual and approachable (มันส์ๆ, เป็นกันเอง)
+✓ Uses everyday language and metaphors
+✓ Encourages viewers to think differently
+✓ Repeats key concepts for emphasis
+✓ Uses rhetorical questions: "เห็นมั้ยครับ?" "นึกออกมั้ย?"
+✓ Lots of enthusiasm: "เนี่ย!", "อ่า!", "เห็นไหม!"
+
+**Translation Guidelines**:
+→ Use contractions: "we'll", "let's", "it's" (NOT "we will", "let us")
+→ Keep casual tone: "Check this out", "See that?", "You know?"
+→ Preserve enthusiasm: "This is key!", "Look at this!"
+→ Direct address: "you", "we" (inclusive teaching style)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📊 KEY TERMINOLOGY (Must Translate Consistently)
+═══════════════════════════════════════════════════════════════════════════════
+
+**FOREX/TRADING TERMS** (English equivalents required):
+
+HIGH FREQUENCY (use consistently):
+• แท่ง (217x) → candle/bar
+• แท่งเทียน (25x) → candlestick
+• แนวต้าน (61x) → resistance
+• แนวรับ (11x) → support
+• เทรนด์ (44x) → trend
+• ขาขึ้น (25x) → uptrend
+• ขาลง (17x) → downtrend
+• ราคา (31x) → price
+• กราฟ (14x) → chart
+• โมเมนตัม (17x) → momentum
+
+PATTERNS:
+• Swing (11x) → swing point / swing
+• Higher High (4x) → higher high
+• Lower Low (4x) → lower low
+• Pin Bar → pin bar
+• Engulfing → engulfing (pattern)
+• แพทเทิร์น (3x) → pattern
+
+MARKET PARTICIPANTS:
+• กระทิง → bull(s)
+• หมี → bear(s)
+• ฝั่งซื้อ → buy side / buyers
+• ฝั่งขาย → sell side / sellers
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🎬 METAPHOR SYSTEM (Contextual Translation Required)
+═══════════════════════════════════════════════════════════════════════════════
+
+**STORY/MOVIE DOMAIN** (very high frequency):
+
+• ฉาก (95x) → scene / key level
+  Context: Important price levels where action happens
+  Example: "ฉากสำคัญ" → "key scene" / "critical level"
+
+• แม่ทัพ (79x) → major candle / dominant candle / commander
+  Context: Large, powerful candle that controls the zone
+  Example: "ถ้าเอาชนะแม่ทัพได้" → "if we break through this major candle"
+  ⚠️ DO NOT translate as "mother army" or "commander" literally!
+
+• ตัวละคร (35x) → character
+  Context: Candlesticks as characters in the story
+  Example: "ตัวละครแต่ละตัว" → "each character" / "each candle"
+
+• พระเอก (34x) → hero / protagonist
+  Context: Bullish candles, upward movement
+  Example: "พระเอกชนะ" → "bulls win" / "buyers dominate"
+
+• ผู้ร้าย (varies) → villain / antagonist
+  Context: Bearish candles, downward movement
+  Example: "ผู้ร้ายกลับมา" → "bears comeback" / "sellers take over"
+
+• โครงเรื่อง (28x) → plot / story / price action
+  Context: Overall price movement narrative
+  Example: "โครงเรื่องจะพลิกไปไหน" → "which way will price turn"
+
+• ดูหนัง (8x) / หนัง (18x) → watching a movie / reading a story
+  Context: Analyzing charts like watching a movie
+  Keep metaphor: "We're watching the story unfold"
+
+• บอส / หัวหน้า → boss / leader
+  Context: Major candles that lead the movement
+  Example: "บอสตาย" → "the major candle breaks"
+
+**MILITARY DOMAIN** (medium frequency):
+
+• กองทัพ (6x) → army / large force
+  Context: Large candle with significant volume
+  Example: "กองทัพขนาดใหญ่" → "major force" / "strong army"
+  ⚠️ Use "large force" or "major candle" in context
+
+• กองทหาร → army / troops
+  Context: Multiple candles working together
+  Keep military metaphor in natural English
+
+**BATTLE/COMPETITION**:
+
+• สูสี (9x) → evenly matched / neck and neck / closely contested
+  Context: Bulls vs Bears with equal strength
+  Example: "สูสีกัน" → "evenly matched" / "closely contested"
+  ⚠️ DO NOT translate as "compete color"!
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🚫 PARTICLES TO REMOVE (High Frequency)
+═══════════════════════════════════════════════════════════════════════════════
+
+Thai uses particles for politeness, emphasis, and tone. These should be
+REMOVED in English translation (not translated):
+
+**POLITENESS PARTICLES**:
+• ครับ (379x) → [REMOVE]
+• นะครับ (164x) → [REMOVE]
+• นะ (304x) → [REMOVE - unless changes meaning to suggestion]
+
+**EMPHASIS/CASUAL PARTICLES**:
+• เนี่ย (192x) → [REMOVE]
+• เนี้ย (100x) → [REMOVE]
+• เลย (175x) → [REMOVE - unless means "at all"]
+• ละ (132x) → [REMOVE]
+• แหละ (19x) → [REMOVE]
+• ซะ (7x) → [REMOVE]
+
+**FILLER WORDS**:
+• อ่า (96x) → [REMOVE]
+• อ่ะ (77x) → [REMOVE]
+• เอ่อ → [REMOVE]
+• แบบว่า → [REMOVE - unless needed for flow]
+• ก็คือ → "basically" / "so" (sometimes keep for natural flow)
+
+**SOUND EFFECTS**:
+• ปุ๊บ (17x) → [REMOVE or "then" if needed for flow]
+
+**EXAMPLE TRANSFORMATIONS**:
+❌ "ดีนะครับ" → "good particle polite"
+✅ "ดีนะครับ" → "looks good"
+
+❌ "เห็นไหมครับเนี่ย" → "see question polite particle"
+✅ "เห็นไหมครับเนี่ย" → "See that?"
+
+❌ "มันก็เลยลงต่อแบบนี้เลยครับ" → "it so continue down like this at-all polite"
+✅ "มันก็เลยลงต่อแบบนี้เลยครับ" → "so it continues down like this"
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🏗️ DOCUMENT STRUCTURE & TEACHING FLOW
+═══════════════════════════════════════════════════════════════════════════════
+
+**OPENING (Segments 1-10)**:
+- Introduces core metaphor: "Reading charts like reading a novel/watching a movie"
+- Sets tone: casual, friendly, innovative approach
+- Promises deeper understanding beyond pattern memorization
+
+**MAIN CONTENT (Segments 11-1750)**:
+Divided into conceptual blocks:
+
+1. **Character Identification** (Early segments)
+   - How to identify "main characters" (large candles)
+   - Recognizing "supporting characters" (small candles)
+   - Understanding "commanders" (แม่ทัพ - dominant candles)
+
+2. **Plot Analysis** (Middle segments)
+   - Reading the "story" of price movement
+   - Identifying plot direction (uptrend/downtrend)
+   - Recognizing plot twists (reversals)
+
+3. **Scene Analysis** (Throughout)
+   - Key scenes = important support/resistance levels
+   - How characters behave in different scenes
+   - Battle scenes = consolidation zones
+
+4. **Practical Application** (Later segments)
+   - Real chart examples
+   - Demonstrating metaphor in action
+   - "Follow the story" = follow the trend
+
+**CLOSING (Segments 1755-1766)**:
+- Summary of key concepts
+- Encouragement for viewers (both beginners and experienced)
+- Thanks and goodbye
+- Motivational: "คงจะหยุดรอดในตลาดนี้ได้" (you'll be able to survive in this market)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+⚠️ SPECIAL TRANSLATION NOTES
+═══════════════════════════════════════════════════════════════════════════════
+
+**TRANSCRIPTION ERRORS FOUND** (fix during translation):
+• หนี้ยาย → นิยาย (novel)
+• มิตินึง → มิติหนึ่ง (another dimension/perspective)
+• แง่ทัพ → แม่ทัพ (major candle)
+• กี่รูปที → กี่รูปแบบ (how many patterns)
+• ตามใดที่ → ตราบใดที่ (as long as)
+• แท่งเทียง → แท่งเทียน (candlestick)
+
+**SEGMENT TO SKIP**:
+• Segment 1200: "คำสั่งยากแฮฟ ต่อทางแบบวิสิกศาจ"
+  → Unclear transcription, cannot be understood
+  → User instruction: "ตัดทิ้งไปเลย" (skip completely)
+
+**THAI PHONETIC ENGLISH** (convert to proper English):
+• ไฮเออร์ไฮ → Higher High
+• โลเวอร์โล → Lower Low
+• สวิง → Swing
+• พินบาร์ → Pin Bar
+• เอนกัฟฟิง → Engulfing
+
+═══════════════════════════════════════════════════════════════════════════════
+
+✅ CONTEXT SUMMARY FOR PASS 2 TRANSLATION
+═══════════════════════════════════════════════════════════════════════════════
+
+**TOPIC**: Advanced Price Action - Reading Charts as Story Analysis (Part 3)
+
+**TONE**: Casual, friendly, enthusiastic teaching style
+
+**KEY METAPHORS**:
+1. Candlesticks = Characters (heroes vs villains, large vs small)
+2. Price movement = Story plot
+3. Support/Resistance = Important scenes
+4. Major candles = Commanders/Bosses (แม่ทัพ)
+5. Consolidation = Evenly matched battle (สูสี)
+
+**TRANSLATION RULES**:
+✓ Remove ALL particles (ครับ, นะ, เนี้ย, etc.)
+✓ Use contractions (we'll, let's, it's)
+✓ Keep casual tone ("Check this out", "See that?")
+✓ Translate metaphors contextually (NOT literally!)
+✓ Use English forex terms consistently
+✓ Preserve teaching enthusiasm
+✓ Fix transcription errors when found
+
+**METAPHOR TRANSLATION GUIDE**:
+• แม่ทัพ → "major candle" / "dominant candle" (NOT "mother army"!)
+• กองทัพ → "large force" / "major candle" (NOT "army" literally)
+• สูสี → "evenly matched" / "neck and neck" (NOT "compete color"!)
+• ฉาก → "scene" / "key level" (context: important price level)
+• ตัวละคร → "character" (context: candles as story characters)
+• พระเอก → "hero" / "bulls" / "buyers" (bullish side)
+• ผู้ร้าย → "villain" / "bears" / "sellers" (bearish side)
+• โครงเรื่อง → "plot" / "story" / "price action"
+
+**SEGMENT COUNT**: 1,765 to translate (1,766 minus Segment 1200)
+
+══════════════════════════════════════════════════════════════════════════════
+
+PASS 1 ANALYSIS COMPLETE ✅
+READY FOR PASS 2: CONTEXT-AWARE TRANSLATION
+
+══════════════════════════════════════════════════════════════════════════════

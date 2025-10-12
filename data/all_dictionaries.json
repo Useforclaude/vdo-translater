@@ -1,0 +1,724 @@
+{
+  "forex_terms": [
+    {
+      "thai": "ยูโร/ดอลลาร์",
+      "english": "EUR/USD",
+      "category": "currency_pairs",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "ปอนด์/ดอลลาร์",
+      "english": "GBP/USD",
+      "category": "currency_pairs",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "ดอลลาร์/เยน",
+      "english": "USD/JPY",
+      "category": "currency_pairs",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "ทองคำ",
+      "english": "XAU/USD",
+      "category": "currency_pairs",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "ซื้อ",
+      "english": "Buy/Long",
+      "category": "trading_actions",
+      "priority": 1,
+      "description": "Opening a long position",
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "ขาย",
+      "english": "Sell/Short",
+      "category": "trading_actions",
+      "priority": 1,
+      "description": "Opening a short position",
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "ปิดออเดอร์",
+      "english": "Close order",
+      "category": "trading_actions",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "เปิดออเดอร์",
+      "english": "Open order",
+      "category": "trading_actions",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "ตั้งออเดอร์",
+      "english": "Place order",
+      "category": "trading_actions",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "การวิเคราะห์เทคนิค",
+      "english": "Technical analysis",
+      "category": "technical_analysis",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "การวิเคราะห์พื้นฐาน",
+      "english": "Fundamental analysis",
+      "category": "technical_analysis",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "การวิเคราะห์โมเมนตัม",
+      "english": "Momentum analysis",
+      "category": "technical_analysis",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [
+        "แรงซื้อแรงขาย"
+      ],
+      "metadata": {}
+    },
+    {
+      "thai": "แนวโน้ม",
+      "english": "Trend",
+      "category": "technical_analysis",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [
+        "เทรนด์"
+      ],
+      "metadata": {}
+    },
+    {
+      "thai": "แนวโน้มขาขึ้น",
+      "english": "Uptrend",
+      "category": "technical_analysis",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [
+        "ขาขึ้น"
+      ],
+      "metadata": {}
+    },
+    {
+      "thai": "แนวโน้มขาลง",
+      "english": "Downtrend",
+      "category": "technical_analysis",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [
+        "ขาลง"
+      ],
+      "metadata": {}
+    },
+    {
+      "thai": "แนวรับ",
+      "english": "Support",
+      "category": "support_resistance",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [
+        "ซัพพอร์ต"
+      ],
+      "metadata": {}
+    },
+    {
+      "thai": "แนวต้าน",
+      "english": "Resistance",
+      "category": "support_resistance",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [
+        "รีซิสแตนซ์"
+      ],
+      "metadata": {}
+    },
+    {
+      "thai": "จุดพิวอต",
+      "english": "Pivot point",
+      "category": "support_resistance",
+      "priority": 2,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "อาร์เอสไอ",
+      "english": "RSI",
+      "category": "indicators",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "แมคดี",
+      "english": "MACD",
+      "category": "indicators",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "ค่าเฉลี่ยเคลื่อนที่",
+      "english": "Moving Average",
+      "category": "indicators",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "โบลลิงเจอร์แบนด์",
+      "english": "Bollinger Bands",
+      "category": "indicators",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "ฟีโบนักชี",
+      "english": "Fibonacci",
+      "category": "indicators",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "แท่งเทียน",
+      "english": "Candlestick",
+      "category": "candlesticks",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [
+        "แท่ง",
+        "เทียน"
+      ],
+      "metadata": {}
+    },
+    {
+      "thai": "โดจิ",
+      "english": "Doji",
+      "category": "candlesticks",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "แฮมเมอร์",
+      "english": "Hammer",
+      "category": "candlesticks",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [
+        "ค้อน"
+      ],
+      "metadata": {}
+    },
+    {
+      "thai": "ชูตติ้งสตาร์",
+      "english": "Shooting star",
+      "category": "candlesticks",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "พินบาร์",
+      "english": "Pin bar",
+      "category": "price_action",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [
+        "พิน บาร์"
+      ],
+      "metadata": {}
+    },
+    {
+      "thai": "อินไซด์บาร์",
+      "english": "Inside bar",
+      "category": "price_action",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "เอ็นกัลฟิ่ง",
+      "english": "Engulfing",
+      "category": "price_action",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [
+        "กลืนกิน"
+      ],
+      "metadata": {}
+    },
+    {
+      "thai": "เบรคเอาท์",
+      "english": "Breakout",
+      "category": "price_action",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "การจัดการความเสี่ยง",
+      "english": "Risk management",
+      "category": "risk_management",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "สต็อปลอส",
+      "english": "Stop loss",
+      "category": "risk_management",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "เทคโปรฟิต",
+      "english": "Take profit",
+      "category": "risk_management",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "ความเสี่ยงต่อผลตอบแทน",
+      "english": "Risk-reward ratio",
+      "category": "risk_management",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "เลเวอเรจ",
+      "english": "Leverage",
+      "category": "risk_management",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "มาร์จิ้น",
+      "english": "Margin",
+      "category": "risk_management",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    }
+  ],
+  "colloquialisms": [
+    {
+      "thai": "ฝรั่งบอก",
+      "english": "As Westerners say",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "introducing_concept",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "เข้าเนื้อกันดีกว่า",
+      "english": "Let's dive into the details",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "transition",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "ฝั่งไหนครองเกมอยู่",
+      "english": "Which side is dominating",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "market_control",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "อ่านแผนที่นำทาง",
+      "english": "Read the market roadmap",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "navigation",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "แต่งให้มันเป็นนิทาน",
+      "english": "Turn it into your own narrative",
+      "category": "colloquial",
+      "priority": 2,
+      "description": null,
+      "context": "personalization",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "กองทัพซะมากกว่า",
+      "english": "More like an army",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "military_metaphor",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "มีกำลังในการบุก",
+      "english": "Has the strength to advance",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "military_metaphor",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "เมืองสองเมืองจะยึด",
+      "english": "Two cities battling for control",
+      "category": "colloquial",
+      "priority": 2,
+      "description": null,
+      "context": "military_metaphor",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "ฝั่งกระทิง",
+      "english": "Bull side",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "market_forces",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "ฝั่งหมี",
+      "english": "Bear side",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "market_forces",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "แรงเหวี่ยง",
+      "english": "Momentum",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "physics_metaphor",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "เหวี่ยงลูกตุ้ม",
+      "english": "Like a swinging pendulum",
+      "category": "colloquial",
+      "priority": 2,
+      "description": null,
+      "context": "physics_metaphor",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "หมดกำลัง",
+      "english": "Running out of steam",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "energy",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "เหยียบเบรค",
+      "english": "Hitting the brakes",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "car_metaphor",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "ยูเทิร์นกลับ",
+      "english": "Making a U-turn",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "car_metaphor",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "แท่งมันค่อยๆ เล็กลงๆ",
+      "english": "The candles are gradually shrinking",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "technical",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "แรงขายเริ่มน้อยลง",
+      "english": "Selling pressure is weakening",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "market_analysis",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "เริ่มมีการสู้คืน",
+      "english": "Starting to fight back",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "military_metaphor",
+      "spoken_variations": [],
+      "metadata": {}
+    },
+    {
+      "thai": "กำแพงเมือง",
+      "english": "City wall (major resistance)",
+      "category": "colloquial",
+      "priority": 1,
+      "description": null,
+      "context": "military_metaphor",
+      "spoken_variations": [],
+      "metadata": {}
+    }
+  ],
+  "custom_terms": [
+    {
+      "thai": "พินบาร์",
+      "english": "Pin bar",
+      "category": "price_action",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [
+        "พิน บาร์",
+        "ปินบาร์"
+      ],
+      "metadata": {}
+    },
+    {
+      "thai": "โมเมนตัม",
+      "english": "Momentum",
+      "category": "technical",
+      "priority": 2,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    }
+  ],
+  "metaphors": {
+    "military": {
+      "pattern": "กองทัพ|ทหาร|แม่ทัพ|ยึด|เมือง|บุก|รุกราน|ศัตรู|สู้|กำแพง",
+      "description": "Military metaphors for market battles",
+      "mappings": {
+        "กองทัพ": "forces",
+        "ทหาร": "traders",
+        "แม่ทัพ": "major players",
+        "ยึดเมือง": "capture levels",
+        "บุก": "advance",
+        "รุกราน": "push through",
+        "ศัตรู": "opposing force",
+        "สู้คืน": "fight back",
+        "กำแพงเมือง": "major resistance"
+      }
+    },
+    "automotive": {
+      "pattern": "รถ|เบรค|คันเร่ง|ยูเทิร์น|เลี้ยว|ความเร็ว",
+      "description": "Car metaphors for momentum",
+      "mappings": {
+        "เหยียบเบรค": "slowing down",
+        "เหยียบคันเร่ง": "accelerating",
+        "ยูเทิร์น": "reversing direction",
+        "เลี้ยว": "changing direction",
+        "ความเร็ว": "speed/momentum"
+      }
+    },
+    "physics": {
+      "pattern": "แรง|เหวี่ยง|ลูกตุ้ม|โมเมนตัม|พลังงาน",
+      "description": "Physics metaphors for market forces",
+      "mappings": {
+        "แรงเหวี่ยง": "momentum force",
+        "เหวี่ยงลูกตุ้ม": "pendulum swing",
+        "สูญเสียพลังงาน": "losing energy",
+        "แรงซื้อแรงขาย": "buying and selling pressure"
+      }
+    },
+    "sports": {
+      "pattern": "ครองเกม|ชนะ|แพ้|เกม|แข่งขัน",
+      "description": "Sports metaphors for competition",
+      "mappings": {
+        "ครองเกม": "dominating the game",
+        "ชนะ": "winning",
+        "แพ้": "losing",
+        "เกม": "the game"
+      }
+    },
+    "nature": {
+      "pattern": "คลื่น|ลม|พายุ|น้ำ|ไฟ",
+      "description": "Nature metaphors for market movements",
+      "mappings": {
+        "คลื่นใหญ่": "major wave",
+        "พายุ": "storm/volatility",
+        "น้ำท่วม": "overwhelming force"
+      }
+    }
+  },
+  "patterns": {
+    "continuations": {
+      "description": "Continuation words",
+      "patterns": [
+        "^และ",
+        "^แต่",
+        "^หรือ",
+        "^ดังนั้น",
+        "^เพราะ",
+        "^แล้ว"
+      ]
+    },
+    "emphasis": {
+      "description": "Emphasis patterns",
+      "patterns": [
+        ".*จริงๆ",
+        ".*มากๆ",
+        ".*เลย$",
+        ".*อย่างมาก"
+      ]
+    },
+    "fillers": {
+      "description": "Filler words to remove",
+      "words": [
+        "ครับ",
+        "ค่ะ",
+        "นะ",
+        "นะครับ",
+        "นะคะ",
+        "อ่า",
+        "เอ่อ",
+        "อืม"
+      ]
+    },
+    "questions": {
+      "description": "Question patterns",
+      "patterns": [
+        ".*ไหม$",
+        ".*มั้ย$",
+        ".*หรือเปล่า$",
+        ".*หรือไม่$",
+        ".*ได้ไหม$",
+        "^ทำไม.*",
+        "^อะไร.*",
+        "^ยังไง.*"
+      ]
+    }
+  },
+  "statistics": {
+    "total_terms": 69,
+    "forex_terms": 37,
+    "colloquialisms": 19,
+    "custom_terms": 2,
+    "exported_at": "2025-09-24T08:34:55.216763"
+  }
+}

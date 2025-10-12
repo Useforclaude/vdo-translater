@@ -1,0 +1,1108 @@
+1
+00:00:00,000 --> 00:00:03,720
+Hello everyone, welcome to the Forex Pre-Action course.
+
+2
+00:00:04,139 --> 00:00:09,300
+We'll read candlesticks like reading a story - understanding the meaning behind the price action.
+
+3
+00:00:10,240 --> 00:00:14,720
+Let's just get started right away - we'll cut straight to the point, no fluff.
+
+4
+00:00:15,080 --> 00:00:22,480
+But for those who already have a basic understanding of candlesticks,
+
+5
+00:00:23,139 --> 00:00:26,920
+what they mean and how to read them, you can skip ahead to the next lesson.
+
+6
+00:00:26,920 --> 00:00:34,700
+This is for complete beginners who don't yet understand candlestick charts,
+
+7
+00:00:34,700 --> 00:00:39,560
+what they look like, what they mean, and how to read them.
+
+8
+00:00:39,560 --> 00:00:52,460
+This lesson will be the absolute basics.
+
+9
+00:00:56,680 --> 00:01:00,600
+Let's start with charts.
+
+10
+00:01:00,600 --> 00:01:03,939
+With Price Action, we look at charts like this second one here.
+
+11
+00:01:03,939 --> 00:01:08,180
+What I mean by "naked" chart is,
+
+12
+00:01:08,180 --> 00:01:11,500
+we'll still use some tools,
+
+13
+00:01:13,339 --> 00:01:16,260
+like drawing lines here and there to help with the analysis.
+
+14
+00:01:16,519 --> 00:01:20,159
+But we won't be using
+
+15
+00:01:23,439 --> 00:01:24,000
+lots of stuff like this.
+
+16
+00:01:24,420 --> 00:01:28,480
+We won't use tons of indicators. Some traders who have their own system
+
+17
+00:01:28,480 --> 00:01:31,700
+are comfortable with this approach.
+
+18
+00:01:31,700 --> 00:01:35,939
+They look at where indicators cross, which points
+
+19
+00:01:35,939 --> 00:01:40,780
+are interesting for selling or buying.
+
+20
+00:01:41,039 --> 00:01:50,140
+But for Price Action traders, they prefer analysis that's
+
+21
+00:01:50,140 --> 00:01:51,420
+clean like this - nice and clear.
+
+22
+00:01:54,140 --> 00:01:56,659
+Price Action consists of three main components.
+
+23
+00:01:57,620 --> 00:02:01,659
+At minimum - there could be more depending on each trader's specific techniques.
+
+24
+00:02:01,659 --> 00:02:05,840
+But at minimum, anyone using Price Action will use these three things.
+
+25
+00:02:06,100 --> 00:02:11,460
+First is Candlestick analysis. Next is Support and Resistance levels.
+
+26
+00:02:11,460 --> 00:02:15,340
+Resistance and Support, and the last one is Dow Theory.
+
+27
+00:02:15,580 --> 00:02:20,460
+This is really important - Dow Theory, trends, and market direction.
+
+28
+00:02:21,900 --> 00:02:24,120
+Now let's get to know candlesticks.
+
+29
+00:02:24,120 --> 00:02:27,280
+For those who don't know or are still new to this.
+
+30
+00:02:27,660 --> 00:02:31,599
+Actually, when we configure candlesticks in our platform,
+
+31
+00:02:31,599 --> 00:02:34,379
+we can set them to any color we want.
+
+32
+00:02:34,780 --> 00:02:39,539
+Here, I'll use green to represent bullish candles - upward movement.
+
+33
+00:02:39,539 --> 00:02:45,159
+"Bullish" means the price keeps moving up - buy low, sell high.
+
+34
+00:02:45,159 --> 00:03:04,360
+Red candles mean the price is dropping - bearish movement, for selling.
+
+35
+00:03:04,780 --> 00:03:15,860
+From this image, you can see the opening price is here, and when the candle closes, the price has moved from here up continuously.
+
+36
+00:03:15,860 --> 00:03:26,560
+It might drop first to make a low point, then move up to make a high point, and then close.
+
+37
+00:03:26,979 --> 00:03:34,000
+Simply put - a bullish green candle means the close price is higher than the open price.
+
+38
+00:03:34,900 --> 00:03:41,280
+For red candles, the close is lower than the open - meaning the price dropped.
+
+39
+00:03:42,819 --> 00:03:47,199
+The price keeps dropping, pulling back. Green means the price keeps rising.
+
+40
+00:03:47,199 --> 00:03:52,319
+Keeps going up. Now, if you see candles like this,
+
+41
+00:03:52,319 --> 00:04:01,080
+with no wicks sticking out, no tails - it still has the same four price components.
+
+42
+00:04:01,360 --> 00:04:09,919
+It's just that the open price overlaps with another price - the open IS the low of this candle.
+
+43
+00:04:10,879 --> 00:04:14,599
+And the close price IS also the high of this candle.
+
+44
+00:04:15,159 --> 00:04:16,899
+Vice versa - same thing for this one.
+
+45
+00:04:17,179 --> 00:04:19,839
+The high price is the open price of this candle.
+
+46
+00:04:20,379 --> 00:04:23,839
+Then it got pushed down by selling pressure until it closed here.
+
+47
+00:04:23,839 --> 00:04:25,920
+This becomes the low point where it closed.
+
+48
+00:04:26,459 --> 00:04:28,480
+It closed at the same level as that price.
+
+49
+00:04:29,199 --> 00:04:32,620
+So no matter if the candle has a tail, has wicks, or no wicks,
+
+50
+00:04:34,519 --> 00:04:38,120
+it must always have these four prices.
+
+51
+00:04:39,659 --> 00:04:42,100
+Now these are some other variations you might see.
+
+52
+00:04:42,100 --> 00:04:44,019
+We've already covered this shape.
+
+53
+00:04:44,539 --> 00:04:47,439
+Like this one - it still has four prices.
+
+54
+00:04:47,919 --> 00:04:53,399
+Opens here, then moves up or down, but when the candle closes,
+
+55
+00:04:53,399 --> 00:04:58,259
+it comes back and closes at the same level as the open - that's why it looks like just a single line.
+
+56
+00:04:58,259 --> 00:05:17,420
+But there are actually two prices overlapping - the open and close prices.
+
+57
+00:05:18,159 --> 00:05:21,540
+It reached this low point, and the open and close are together here.
+
+58
+00:05:21,839 --> 00:05:24,019
+That's why the prices are overlapping.
+
+59
+00:05:26,159 --> 00:05:29,959
+Here's a simple explanation of price movement.
+
+60
+00:05:30,199 --> 00:05:34,620
+If it opens here and has a wick below, that means the price must have gone lower than the open.
+
+61
+00:05:34,620 --> 00:05:38,439
+So it might have opened, dropped down, then moved back up.
+
+62
+00:05:38,639 --> 00:05:54,379
+Until it reaches this high point then falls back to close a bit, or it could open and go straight up to make the high, then drop all the way to the low, and climb back up to close around here - not higher than this, so it stays at this level.
+
+63
+00:05:54,379 --> 00:05:59,379
+These two candles look the same, but the actual price movement was different - see that?
+
+64
+00:05:59,860 --> 00:06:03,660
+So the simple conclusion is - a candle can move in any way.
+
+65
+00:06:04,060 --> 00:06:09,879
+You just need to know that it must always have these four prices to form a candlestick.
+
+66
+00:06:11,519 --> 00:06:16,600
+You should understand now - no matter what kind of candle it is, like this one,
+
+67
+00:06:19,079 --> 00:06:24,259
+opens here, moves around somehow - drops to here then bounces back up,
+
+68
+00:06:24,259 --> 00:06:28,379
+or it could go up first, reach this point, and close here.
+
+69
+00:06:28,379 --> 00:06:46,579
+When it closes here, time's up and a new candle starts - the prices must connect like this.
+
+70
+00:06:49,779 --> 00:06:57,120
+Let me show you another example - this is really for beginners so you can visualize it better.
+
+71
+00:07:07,459 --> 00:07:11,480
+Let's say the opening price comes in - opens right here.
+
+72
+00:07:13,500 --> 00:07:18,060
+Then the price moves around - maybe like this during the hour, keeps moving like this.
+
+73
+00:07:18,060 --> 00:07:25,459
+Drops to here, slowly climbs up, drops again, climbs back up, finally reaches here.
+
+74
+00:07:26,119 --> 00:07:31,740
+Then it might zigzag around this area, or it could fall - but when the candle's about to close,
+
+75
+00:07:31,740 --> 00:07:37,980
+say it climbs up to here - here we'll get the components.
+
+76
+00:07:37,980 --> 00:07:48,480
+Four components - what are they? The high price - this is the highest price.
+
+77
+00:07:48,480 --> 00:07:55,500
+The open price is here, the lowest price it reached is
+
+78
+00:07:55,500 --> 00:08:01,600
+here. When the candle forms, it becomes a candle
+
+79
+00:08:01,600 --> 00:08:11,540
+shaped like this - see? Open, close, and the parts sticking out are the wicks.
+
+80
+00:08:16,039 --> 00:08:21,420
+That's all there is to it. So it doesn't have to move in any specific pattern.
+
+81
+00:08:21,420 --> 00:08:25,560
+It can move however it wants - any pattern is possible.
+
+82
+00:08:26,000 --> 00:08:28,879
+But in the end, it must always create these four price points.
+
+83
+00:08:28,879 --> 00:08:31,939
+We'll always know exactly where the open is and where the close is,
+
+84
+00:08:32,440 --> 00:08:35,320
+and the highest point it reached and the lowest point it reached.
+
+85
+00:08:35,320 --> 00:08:38,360
+These all combine to form one candle.
+
+86
+00:08:38,360 --> 00:08:42,519
+This is candlesticks for those who are new to trading,
+
+87
+00:08:42,519 --> 00:08:46,639
+so you understand what candlesticks mean and why they have these different shapes.
+
+88
+00:08:46,879 --> 00:08:57,059
+To summarize simply - if the close is lower than the open, it's a red candle, a bearish candle.
+
+89
+00:08:57,059 --> 00:09:00,820
+If the close is higher than the open, it's a green candle, a bullish candle.
+
+90
+00:09:00,820 --> 00:09:09,000
+It's that simple. The shape of the candle depends on how the price moved during that candle's timeframe.
+
+91
+00:09:10,899 --> 00:09:12,980
+Now we come to candle size.
+
+92
+00:09:13,520 --> 00:09:16,679
+This is a large candle, this is a small candle - small body.
+
+93
+00:09:17,140 --> 00:09:19,399
+Why does it matter? Why do we need to know about large and small candles?
+
+94
+00:09:19,399 --> 00:09:23,240
+It tells us which one has more strength.
+
+95
+00:09:23,240 --> 00:09:26,620
+Like this candle - if it's a red bearish candle,
+
+96
+00:09:27,620 --> 00:09:29,980
+talking about selling pressure - between this candle and this candle,
+
+97
+00:09:40,399 --> 00:09:50,080
+it shows the strength in a direction or which side has more control over the other side.
+
+98
+00:09:51,599 --> 00:09:52,679
+In a case like this,
+
+99
+00:09:52,879 --> 00:09:53,600
+it's red -
+
+100
+00:09:53,600 --> 00:09:59,019
+we already know that sellers have more strength than buyers.
+
+101
+00:09:59,019 --> 00:09:59,700
+Read candlesticks like reading a story - understand the meaning behind them.
+
+102
+00:09:59,999 --> 00:10:05,879
+Let's just get started - we'll cut straight to the point, no fluff.
+
+103
+00:10:06,180 --> 00:10:11,960
+But just a quick note - for those who already understand the basics of candlesticks,
+
+104
+00:10:11,960 --> 00:10:16,980
+what they mean and how to read them - you can skip to the next lesson.
+
+105
+00:10:16,980 --> 00:10:19,840
+This is really basic stuff for absolute beginners - those who don't yet understand candlestick charts,
+
+106
+00:10:19,840 --> 00:10:23,879
+what they look like, what they mean, how to read them - that kind of thing.
+
+107
+00:10:23,879 --> 00:10:29,519
+This will be the most basic content in this lesson.
+
+108
+00:10:29,519 --> 00:10:33,120
+Let's start with charts.
+
+109
+00:10:33,660 --> 00:10:36,700
+With Price Action, we look at charts like this second one here.
+
+110
+00:10:36,700 --> 00:10:39,179
+It's a clean chart like this - when I say "clean",
+
+111
+00:10:40,300 --> 00:10:43,320
+we actually do use some tools,
+
+112
+00:10:43,820 --> 00:10:45,360
+here and there - like drawing lines to help with analysis.
+
+113
+00:10:45,740 --> 00:10:47,059
+But we won't use
+
+114
+00:10:47,059 --> 00:10:48,840
+this kind of setup -
+
+115
+00:10:48,840 --> 00:10:49,759
+tons of indicators. Some traders who have their own systems
+
+116
+00:10:51,000 --> 00:10:53,179
+already developed - they're comfortable with this approach.
+
+117
+00:10:53,740 --> 00:10:54,820
+They look at where things cross, which points are
+
+118
+00:10:55,640 --> 00:10:56,639
+interesting spots to sell or buy - something like that.
+
+119
+00:10:57,260 --> 00:10:59,379
+But for Price Action traders, they prefer analysis that's
+
+120
+00:10:59,379 --> 00:11:00,559
+clean like this - nice and clear.
+
+121
+00:11:01,460 --> 00:11:03,659
+Price Action consists of three main components.
+
+122
+00:11:03,659 --> 00:11:13,299
+At minimum - there could be more depending on each trader's specific techniques.
+
+123
+00:11:13,299 --> 00:11:14,379
+But at minimum, anyone using Price Action will use these three things.
+
+124
+00:11:15,259 --> 00:11:15,799
+First is Candlestick analysis. Next is Support and Resistance levels.
+
+125
+00:11:17,080 --> 00:11:19,100
+Resistance and Support, and the last one is Dow Theory.
+
+126
+00:11:20,639 --> 00:11:22,799
+This is really important - Dow Theory, trends, and market direction.
+
+127
+00:11:23,720 --> 00:11:26,179
+Now let's get to know candlesticks.
+
+128
+00:11:28,740 --> 00:11:31,879
+For those who don't know or are still new to this.
+
+129
+00:11:32,080 --> 00:11:32,919
+Candlesticks - when we set them up,
+
+130
+00:11:33,899 --> 00:11:34,500
+we can set them to any color we want in the program.
+
+131
+00:11:36,980 --> 00:11:38,039
+Here, I'll use green to represent bullish candlesticks.
+
+132
+00:11:43,060 --> 00:11:45,259
+"Bullish" means the price keeps moving up - buy low, sell high.
+
+133
+00:11:46,820 --> 00:11:51,440
+Something like that. Red candles mean price going down - bearish, for selling.
+
+134
+00:11:52,160 --> 00:11:56,820
+From this diagram, you'll see the open price is here, the close price is when the candle forms - price runs from here and keeps going up.
+
+135
+00:11:56,820 --> 00:11:59,480
+It might drop first, come down to this point to make the low, then run up to make the high, and then close.
+
+136
+00:11:59,680 --> 00:12:01,139
+Simple summary - bullish candle, green candle, means close price is higher than open price.
+
+137
+00:12:01,139 --> 00:12:04,320
+Red candles - open is higher than close, meaning price is falling.
+
+138
+00:12:04,320 --> 00:12:05,879
+Price is decreasing, pulling back. Green means price is increasing.
+
+139
+00:12:05,879 --> 00:12:08,200
+Keeps increasing. Now, if you see a candle like this,
+
+140
+00:12:08,200 --> 00:12:11,019
+with no wicks sticking out, no tails - it still has the same four components.
+
+141
+00:12:11,019 --> 00:12:12,899
+It's just that the open price overlaps with another price - the open IS the low of this candle.
+
+142
+00:12:13,379 --> 00:12:16,379
+And the close price IS the high of this candle.
+
+143
+00:12:21,120 --> 00:12:24,299
+Vice versa for this one - same thing.
+
+144
+00:12:24,299 --> 00:12:29,720
+The high is the open price of this candle.
+
+145
+00:12:29,720 --> 00:12:39,500
+Then it gets pushed down by selling pressure until it closes here.
+
+146
+00:12:41,639 --> 00:12:46,039
+This becomes the low of the candle where it closed.
+
+147
+00:12:46,599 --> 00:12:53,580
+It closes at the same level as that price.
+
+148
+00:12:53,580 --> 00:12:59,820
+So no matter what - whether the candle has tails, wicks, or no wicks,
+
+149
+00:12:59,820 --> 00:13:06,659
+it always consists of these four prices.
+
+150
+00:13:08,560 --> 00:13:16,059
+Now, this section shows other patterns that can form.
+
+151
+00:13:17,080 --> 00:13:21,379
+We've covered this one already - we learned this pattern.
+
+152
+00:13:24,100 --> 00:13:29,779
+Like this one - it still has to have four prices.
+
+153
+00:13:30,820 --> 00:13:34,080
+Opens here, then runs up - or down - but ultimately when the candle closes,
+
+154
+00:13:34,080 --> 00:13:38,519
+it comes back to close at the same level as the open - that's why it's just one line like this.
+
+155
+00:13:39,679 --> 00:13:42,019
+But there are two prices overlapping - the open and close price.
+
+156
+00:13:43,579 --> 00:13:50,600
+It runs to this low, with open and close together at this level.
+
+157
+00:13:50,600 --> 00:13:56,240
+That's why the prices overlap.
+
+158
+00:13:58,399 --> 00:14:03,679
+Price movement - this is the simple version.
+
+159
+00:14:03,679 --> 00:14:06,460
+Opens here, and if there's a wick below, that means price had to go lower than the open.
+
+160
+00:14:06,899 --> 00:14:08,820
+It might open, drop down, then run back up.
+
+161
+00:14:08,820 --> 00:14:13,519
+Reaches the high here then falls back to close - or it might open and shoot straight up to the high, then drop all the way to the low, then back up to close around here, not higher than this point.
+
+162
+00:14:13,519 --> 00:14:16,240
+These two candles look the same but their price movements are different, see?
+
+163
+00:14:16,240 --> 00:14:18,659
+So in simple terms, one candlestick - it can move however it wants.
+
+164
+00:14:20,340 --> 00:14:23,320
+You just need to know it always has these four prices to form the candlestick.
+
+165
+00:14:23,320 --> 00:14:37,340
+You should understand by now - no matter what kind of candle, like this one,
+
+166
+00:14:37,340 --> 00:14:39,600
+opens here, moves somehow - it drops to this point then reverses up.
+
+167
+00:14:40,639 --> 00:14:42,259
+Or it might go up first, reach this point, then close here.
+
+168
+00:14:42,680 --> 00:14:44,139
+When it closes here, time's up - a new candle forms, and prices connect like this.
+
+169
+00:14:45,340 --> 00:14:46,240
+Let me show you another example - this is for complete beginners, you'll see it more clearly.
+
+170
+00:14:46,240 --> 00:14:46,860
+Let's say the open price comes in - open price, opens right here.
+
+171
+00:14:47,280 --> 00:14:48,019
+Then price moves - who knows how - maybe it moves like this for 1 hour, keeps going like this.
+
+172
+00:14:48,420 --> 00:14:50,019
+Then down to here, then gradually up and up, drops again then up and up, climbs to this point.
+
+173
+00:14:50,019 --> 00:14:52,720
+Then might bounce around this area, or maybe drop back down - but when the candle's about to close,
+
+174
+00:14:52,720 --> 00:14:54,259
+say it comes up to here - at this point you'll have the four
+
+175
+00:14:54,259 --> 00:14:55,480
+components - what are they? The high price - this is the high. The
+
+176
+00:14:56,560 --> 00:14:59,100
+open - the open price is here. The low price that it reached is
+
+177
+00:15:00,259 --> 00:15:02,720
+here. When the candle forms, it becomes a candle
+
+178
+00:15:03,740 --> 00:15:05,159
+like this, see? Open, close, the part sticking out is the wick.
+
+179
+00:15:05,159 --> 00:15:08,559
+That's all. So it doesn't have to move this exact way.
+
+180
+00:15:09,520 --> 00:15:25,460
+It can move however - anything's possible, any pattern.
+
+181
+00:15:26,140 --> 00:15:28,500
+But ultimately, it always creates those four price points.
+
+182
+00:15:29,100 --> 00:15:31,740
+We'll definitely know where the open and close are.
+
+183
+00:15:33,080 --> 00:15:34,679
+And the highest point it reached and the lowest point it reached.
+
+184
+00:15:35,080 --> 00:15:37,379
+These combine to form one candle.
+
+185
+00:15:38,259 --> 00:15:40,500
+This is candlesticks for those who are new to trading.
+
+186
+00:15:40,500 --> 00:15:44,720
+Now you know what candlesticks mean, why they have these different shapes.
+
+187
+00:15:45,660 --> 00:15:47,960
+Simple summary - if close is lower than open, it's a red candle, bearish candle.
+
+188
+00:15:48,200 --> 00:15:55,440
+If close is higher than open, it's a green candle, bullish candle.
+
+189
+00:15:55,440 --> 00:15:56,919
+That's it - simple. The shape of the candle depends on how price moved during that candle's timeframe.
+
+190
+00:15:56,919 --> 00:15:58,740
+Now we get to candle size.
+
+191
+00:15:58,740 --> 00:15:59,980
+This is a large candle, this is a small candle - small body.
+
+192
+00:16:01,019 --> 00:16:02,019
+Why is it important? Why do we need to know large vs small candles?
+
+193
+00:16:02,660 --> 00:16:03,580
+It tells us which candle has more strength.
+
+194
+00:16:03,580 --> 00:16:04,539
+Like this candle - if it's red, a bearish candle,
+
+195
+00:16:05,360 --> 00:16:07,320
+we're talking about selling pressure - between this candle and this one.
+
+196
+00:16:07,320 --> 00:16:08,100
+It indicates the momentum in that direction, or which side has more control over the other.
+
+197
+00:16:08,100 --> 00:16:10,399
+In a case like this,
+
+198
+00:16:10,759 --> 00:16:12,640
+it's red -
+
+199
+00:16:12,639 --> 00:16:16,259
+we already know sellers have more strength than buyers.
+
+200
+00:16:16,720 --> 00:16:20,500
+That's why it's red.
+
+201
+00:16:20,500 --> 00:16:22,559
+But it doesn't have as much pushing power as a large candle.
+
+202
+00:16:23,040 --> 00:16:25,220
+That can push it down this much - this is how we look at momentum.
+
+203
+00:16:26,800 --> 00:16:29,100
+We'll go into more detail about this in the next lesson.
+
+204
+00:16:29,940 --> 00:16:34,480
+About price momentum.
+
+205
+00:16:35,080 --> 00:16:40,320
+That's important for reading charts - reading them like a story.
+
+206
+00:16:40,320 --> 00:16:46,100
+Like a map, like a narrative. Now, which candles
+
+207
+00:16:47,800 --> 00:16:52,620
+are considered large? We know this one - we can see candles large and small.
+
+208
+00:16:52,620 --> 00:17:21,119
+But when candles actually appear in real trading, they come in groups like this.
+
+209
+00:17:21,119 --> 00:17:27,559
+Which ones are called large? Which are called small?
+
+210
+00:17:27,559 --> 00:17:29,220
+To determine this, you need to look at context.
+
+211
+00:17:35,699 --> 00:17:36,740
+The whole group of candles in that area.
+
+212
+00:17:41,719 --> 00:17:47,759
+If in that group you have candles like this,
+
+213
+00:17:48,260 --> 00:17:54,380
+small, small, small, small - then this one pops up,
+
+214
+00:17:54,380 --> 00:18:00,799
+this one's called large.
+
+215
+00:18:00,799 --> 00:18:08,839
+But if in their group they're all mixed together,
+
+216
+00:18:08,839 --> 00:18:14,539
+boom boom boom boom -
+
+217
+00:18:14,539 --> 00:18:18,460
+it's not called large.
+
+218
+00:18:19,659 --> 00:18:23,079
+They're about the same - this is called
+
+219
+00:18:23,359 --> 00:18:25,359
+the same group.
+
+220
+00:18:25,359 --> 00:18:30,059
+This is large. This isn't called large -
+
+221
+00:18:30,759 --> 00:18:34,039
+significantly large.
+
+222
+00:18:34,039 --> 00:18:38,740
+This one's called large.
+
+223
+00:18:38,740 --> 00:18:45,819
+See?
+
+224
+00:18:49,039 --> 00:18:55,920
+But let's say in a group like this,
+
+225
+00:18:55,920 --> 00:18:59,859
+you see this candle - this still isn't called large.
+
+226
+00:19:00,440 --> 00:19:02,259
+They're similar - similar sizes.
+
+227
+00:19:05,900 --> 00:19:08,440
+These are small, small, small - see this one? That's large.
+
+228
+00:19:08,880 --> 00:19:11,640
+Got it?
+
+229
+00:19:17,260 --> 00:19:19,720
+Can you visualize it?
+
+230
+00:19:21,139 --> 00:19:27,539
+What about other groups?
+
+231
+00:19:27,859 --> 00:19:32,599
+Earlier we saw a candle like this - called large.
+
+232
+00:19:34,939 --> 00:19:38,099
+Let's say you see both of them around the same area like this.
+
+233
+00:19:38,859 --> 00:19:43,579
+This, this, this, this, this, this - these four candles, five candles, six candles -
+
+234
+00:19:44,579 --> 00:20:13,359
+they're considered similar, not called large yet.
+
+235
+00:20:14,519 --> 00:20:19,339
+They're in the same group.
+
+236
+00:20:21,259 --> 00:20:28,279
+The large one is this one - this is called large.
+
+237
+00:20:28,279 --> 00:20:32,740
+This one could also be called large.
+
+238
+00:20:32,740 --> 00:20:37,000
+Because it stands out a bit.
+
+239
+00:20:38,200 --> 00:20:41,579
+But in terms of momentum, they're still similar if you count the wicks.
+
+240
+00:20:42,579 --> 00:20:44,880
+Still considered similar - this one doesn't stand out yet.
+
+241
+00:20:46,139 --> 00:20:50,400
+This one is truly large.
+
+242
+00:20:50,400 --> 00:20:55,680
+This part we'll learn together later.
+
+243
+00:20:55,680 --> 00:21:00,900
+Let's look first - from the beginning, these small candles we saw, their shape -
+
+244
+00:21:01,179 --> 00:21:05,799
+there's also this shape - all wick with a small body left.
+
+245
+00:21:06,299 --> 00:21:10,940
+These are reversal types - this one's a single candle, this one comes in sets.
+
+246
+00:21:10,940 --> 00:21:13,599
+Like this one, here, and here - this is a set. This pair indicates reversal, they have their own names.
+
+247
+00:21:13,799 --> 00:21:17,140
+Like Engulfing, this one's Railroad or double track - Western names, depends what you call them.
+
+248
+00:21:17,679 --> 00:21:19,940
+Here's Pinbar, a Doji, this one's railroad from above, this is Engulfing from above.
+
+249
+00:21:20,540 --> 00:21:22,359
+The meaning is price moves - this is Bullish Candlesticks, means it's reversing to bullish.
+
+250
+00:21:22,359 --> 00:21:24,099
+About to reverse to bullish. Can you picture it?
+
+251
+00:21:26,200 --> 00:21:27,680
+I'll go through this quickly because we haven't reached the key points we need to learn yet.
+
+252
+00:21:27,680 --> 00:21:32,000
+Like price moves this way - it's in a downtrend, keeps dropping.
+
+253
+00:21:32,340 --> 00:21:36,319
+When you see this candle - boom - there's a chance, I say there's a chance it will rise.
+
+254
+00:21:37,240 --> 00:21:39,920
+Other sets are the same - chance of rising.
+
+255
+00:21:43,699 --> 00:21:47,319
+If you see reversal candles. This one's Bullish Candlesticks -
+
+256
+00:21:47,679 --> 00:21:52,460
+means it's been going up, then sees this one break in - chance of reversing to bearish.
+
+257
+00:21:52,939 --> 00:21:56,420
+All of them are similar, but we won't memorize them like this.
+
+258
+00:21:56,979 --> 00:21:59,339
+We won't memorize patterns - like "see this one, it must do that."
+
+259
+00:21:59,939 --> 00:22:03,140
+It fails quite often if you approach it this way.
+
+260
+00:22:04,639 --> 00:22:08,740
+Meaning it doesn't work - it might not go up or down according to theory.
+
+261
+00:22:08,740 --> 00:22:12,839
+Or as they say.
+
+262
+00:22:14,999 --> 00:22:18,839
+Why? Let's take a look.
+
+263
+00:22:18,839 --> 00:22:21,640
+Here we go - various candlestick patterns.
+
+264
+00:22:23,539 --> 00:22:28,240
+There are tons of them - this type is a single candle. Look at single candles first - just one that supposedly signals reversal. Now let's look at examples, see?
+
+265
+00:22:28,519 --> 00:22:31,740
+Here, Doji - something like this around here.
+
+266
+00:22:32,359 --> 00:22:36,119
+These are supposed to mean reversal.
+
+267
+00:22:36,119 --> 00:22:43,140
+But when you see them, do they reverse?
+
+268
+00:22:43,140 --> 00:22:45,039
+Maybe a little bit.
+
+269
+00:22:47,339 --> 00:22:49,779
+In Pin Bar,
+
+270
+00:22:49,779 --> 00:22:52,460
+Shooting Star -
+
+271
+00:22:52,460 --> 00:22:56,279
+this one, this bearish candle like this -
+
+272
+00:22:56,279 --> 00:22:57,980
+should go down. But it doesn't drop, it keeps going up.
+
+273
+00:22:57,980 --> 00:23:02,839
+If we try to sell around here,
+
+274
+00:23:02,839 --> 00:23:04,480
+see this candle and sell -
+
+275
+00:23:05,000 --> 00:23:08,980
+looks like it'll work, like it drops a bit, but then it goes back up.
+
+276
+00:23:08,980 --> 00:23:13,680
+See? Well, that means it's not accurate, not right.
+
+277
+00:23:14,079 --> 00:23:16,579
+See it here, and here again.
+

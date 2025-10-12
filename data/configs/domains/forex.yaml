@@ -1,0 +1,12 @@
+domain: forex
+priorities:
+  natural_language: 0.85
+  terminology_consistency: 0.95
+  timing_preservation: 1.0
+settings:
+  colloquialism_handling: translate_natural
+  preserve_terminology: true
+  source_language: th
+  target_language: en
+  use_metaphor_detection: true
+version: 1.0.0

@@ -1,0 +1,90 @@
+=== EP-04 CONTEXT SUMMARY (Pass 1 Analysis) ===
+Generated: 2025-10-08
+Total Segments: 479 | Duration: 42.8 minutes
+
+TOPIC:
+Dow Theory - Part 3 of Price Action Teaching Series
+This lesson teaches trend analysis using Dow Theory principles, specifically focusing on identifying Higher High/Higher Low patterns for uptrends and Lower High/Lower Low patterns for downtrends.
+
+TEACHING TONE & STYLE:
+- Casual, conversational, friendly instructor
+- Very interactive (asks questions 39 times to engage students)
+- Uses teaching enthusiasm: "เห็นไหมครับ", "ง่ายไหมครับ", "เข้าใจนะครับ"
+- Draws examples on screen while explaining
+- Repeats key concepts for clarity
+- Use contractions in English: "we'll", "let's", "you'll"
+- Keep natural conversational flow
+
+FOREX TERMINOLOGY (Top 10):
+1. เทรนด์ / แนวโน้ม → Trend (64x total)
+2. Higher High → Higher High (18x) - KEEP AS IS
+3. Higher Low → Higher Low (11x) - KEEP AS IS
+4. แท่งเทียน → Candlestick (13x)
+5. คลื่น → Waves (37x) - price waves
+6. แนวต้าน → Resistance (9x)
+7. Swing High/Low → Swing High/Low - KEEP AS IS
+8. Pullback → Pullback - KEEP AS IS
+9. Sideway → Sideways (1x)
+10. วิ่ง → moves/moving (price movement, 11x)
+
+IDIOMS & METAPHORS DETECTED:
+- วิ่ง = "moves" / "running" (price movement, NOT literal running)
+- คลื่น = "waves" (price wave patterns)
+- หักหัว = "reverses" / "turns" (price turning point)
+- ยกตัว = "elevates" / "lifts up" (price elevation)
+- พักตัว = "consolidates" / "rests" (consolidation phase)
+- สูสี = "evenly matched" (if appears - battle metaphor)
+
+PARTICLES TO REMOVE (427 total):
+- ครับ: 137x → REMOVE ALL
+- นะ: 95x → REMOVE ALL
+- นะครับ: 79x → REMOVE ALL
+- เนี่ย/เนี้ย: 60x → REMOVE ALL
+- เลย: 37x → REMOVE ALL
+Rule: Thai particles do NOT translate to English. Remove completely.
+
+TEACHING STRUCTURE:
+Segments 1-50: Introduction
+- Part 3 introduction
+- Review: Candlesticks + Support/Resistance from Parts 1-2
+- Introduce Dow Theory as final component
+
+Segments 50-250: Core Dow Theory Concepts
+- Dow's three principles (market absorbs everything, moves in trends, cycles)
+- Define Higher High + Higher Low = Uptrend (need all 4 points)
+- Define Lower High + Lower Low = Downtrend (need all 4 points)
+- Define Sideways = no trend pattern
+
+Segments 250-400: Practical Examples
+- Chart analysis examples
+- Swing High/Swing Low pairing (1-2-3 counting method)
+- Wave analysis introduction
+- Moving from candlestick analysis to wave analysis
+
+Segments 400-479: Advanced Wave Analysis
+- Pullback wave types: Type A (<50%), Type B (≈50%), Type C (>50%)
+- Wave strength interpretation
+- 50% retracement rule
+- Strong vs weak trends
+
+SPECIAL TRANSLATION NOTES:
+1. Numbers/Counting: "หนึ่ง สอง สาม" → "one, two, three" or "1, 2, 3"
+2. English terms already in Thai: Keep as-is (Higher High, Pullback, etc.)
+3. Chart references: "ตรงนี้" → "here", "อันนี้" → "this one"
+4. Teaching questions: Translate naturally ("เห็นไหมครับ" → "see?", "เข้าใจนะครับ" → "understand?")
+5. Repetition: Teacher repeats for emphasis - keep natural in English
+
+CONTEXT AWARENESS REQUIRED:
+- This is Part 3 of a series (Parts 1-2 covered candlesticks and support/resistance)
+- Students already know basics, this builds on previous knowledge
+- Instructor assumes familiarity with forex charts
+- Teaching flow: Concept → Definition → Example → Practice
+- Maintain consistency with previous parts' terminology
+
+TRANSLATION APPROACH:
+- Use context-aware translation (NOT segment-by-segment)
+- Maintain casual teaching tone throughout
+- Keep technical terms in English (Higher High, Pullback, etc.)
+- Remove all Thai particles
+- Translate idioms contextually based on forex context
+- Preserve teaching enthusiasm and question-based engagement

@@ -1,0 +1,5317 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                  ENGLISH TRANSLATION - EP-05                               ║
+║          Reading Charts Like Reading a Story (Part 3)                      ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+Source: EP-05-new-clip_transcript.json
+Translation Method: Two-Pass Context-Aware Translation
+Total Segments: 1,765 (Segment 1200 skipped)
+Translation Date: 2025-10-09
+
+Context Applied:
+- Metaphor System: Candlesticks=Characters, Price=Plot, Levels=Scenes
+- Tone: Casual, enthusiastic, teaching
+- Key Terms: แม่ทัพ→major candle, สูสี→evenly matched, ฉาก→scene
+- Particles removed, contractions used, idioms contextual
+
+═══════════════════════════════════════════════════════════════════════════════
+
+[0001]
+Hello everyone, and welcome back to the final part of Reading Charts Like Watching a Movie.
+
+[0002]
+We read charts, we view charts like we're reading a book, reading a novel, watching a movie, watching a series, watching any show we enjoy.
+
+[0003]
+If we keep following it and analyzing the plot as we go, it'll make our chart analysis more accurate and help us see another dimension.
+
+[0004]
+Beyond just drawing lines all over the place and analyzing using the common techniques that are already being taught out there.
+
+[0005]
+Like support and resistance, candlestick patterns and all that.
+
+[0006]
+How many patterns to memorize, how many pattern types there are.
+
+[0007]
+Triangle patterns.
+
+[0008]
+Different triangle types, there are so many types of triangles.
+
+[0009]
+Flags, pennants, all kinds of stuff like that.
+
+[0010]
+Instead of just memorizing all that, we'll go deeper - to the point where we don't even need to memorize.
+
+[0011]
+We understand the flow, we understand the story.
+
+[0012]
+We understand what the price wants to do, what direction it wants to go.
+
+[0013]
+Once we understand this, we'll know which way to trade.
+
+[0014]
+So today we're continuing from where we left off.
+
+[0015]
+We've covered how to read charts like reading a story.
+
+[0016]
+How each candlestick is like a character in a movie.
+
+[0017]
+Some candles are protagonists, some are villains.
+
+[0018]
+Some are supporting characters, some are extras.
+
+[0019]
+Today we're going deeper into understanding the characters.
+
+[0020]
+We need to know their personalities, their roles.
+
+[0021]
+Just like when we watch a series and we get to know each character.
+
+[0022]
+We know who's the main character, who's the villain.
+
+[0023]
+We know what each one is trying to do.
+
+[0024]
+In charts, it's the same thing.
+
+[0025]
+Each candle has its own role.
+
+[0026]
+Large candles are like main characters.
+
+[0027]
+Small candles are like extras, background characters.
+
+[0028]
+The really big, powerful candles - those are the bosses.
+
+[0029]
+Those are what we call the commanders.
+
+[0030]
+In Thai we call them "แม่ทัพ" - the major candles that lead the action.
+
+[0031]
+From Dow Theory, from the Dow theory, the story or plot direction
+
+[0032]
+Which side is the story supporting - the hero side or the villain side?
+
+[0033]
+We need to stick with them, follow along. Whichever way they're paving the road, we follow that flow.
+
+[0034]
+Be a friend of the hero or be a friend of the villain, be a follower going along with them.
+
+[0035]
+Don't go against it or the fans won't like it. If during this part of the story
+
+[0036]
+They're building up the hero to look good, the hero keeps winning
+
+[0037]
+And we go with the villain side? We'll lose. You know what I mean?
+
+[0038]
+On the flip side, if they're building up the villain to look amazing, look superior
+
+[0039]
+And we go with the hero side at that point, it might look bad - we might get beaten by the villain side
+
+[0040]
+They have the upper hand. The hero still can't turn
+
+[0041]
+The plot around, can't reverse their role to overcome the villain.
+
+[0042]
+The villain side is still dominating.
+
+[0043]
+So our job as viewers, when we practice reading charts like watching a movie
+
+[0044]
+Something we enjoy, we just watch. We look at the big picture
+
+[0045]
+Which way is it going? We follow that direction. We ride the momentum
+
+[0046]
+If the plot is favoring the hero, we follow the hero. If it favors the villain
+
+[0047]
+We follow the villain. Following the hero or villain means - if the trend is up
+
+[0048]
+We follow the uptrend
+
+[0049]
+If it's a downtrend, we trade with the downtrend, going down
+
+[0050]
+Don't fight it. Either way, we'll survive.
+
+[0051]
+But if we fight against it
+
+[0052]
+Go against the trend, we'll definitely lose
+
+[0053]
+100% we'll lose
+
+[0054]
+So that's why we need to understand which way the story is going
+
+[0055]
+Which side is dominating right now
+
+[0056]
+Once we know that, now we look at the characters
+
+[0057]
+We look at each candlestick
+
+[0058]
+Which candles are the main characters? Which are supporting characters?
+
+[0059]
+The large candles are the main characters
+
+[0060]
+The small ones are just extras
+
+[0061]
+Now when we look at the chart, when we look at the characters
+
+[0062]
+We see large candles, small candles mixed together
+
+[0063]
+Some go up, some go down, all kinds of them
+
+[0064]
+We need to identify which ones are the key characters
+
+[0065]
+If you see a really big candle
+
+[0066]
+Way bigger than the others around it
+
+[0067]
+That's a main character, that's a boss
+
+[0068]
+That's what we call a major candle
+
+[0069]
+These major candles have power
+
+[0070]
+They can change the direction of price
+
+[0071]
+If price breaks through that major candle
+
+[0072]
+It means that side has overcome the boss
+
+[0073]
+And price can continue in that direction
+
+[0074]
+But if it can't break through
+
+[0075]
+It means the boss is still holding strong
+
+[0076]
+Price will bounce back
+
+[0077]
+This is why we need to watch for these major candles
+
+[0078]
+They're like commanders in a battle
+
+[0079]
+If the commander falls, the whole army falls
+
+[0080]
+If the commander holds, the army holds
+
+[0081]
+Same thing with price action
+
+[0082]
+When you see these major candles at key levels
+
+[0083]
+At resistance or support
+
+[0084]
+Those are critical scenes in the story
+
+[0085]
+That's where the battle happens
+
+[0086]
+That's where we see if the bulls or bears will win
+
+[0087]
+Now let's look at an example
+
+[0088]
+Look at this chart here
+
+[0089]
+See this large candle? This is a major candle
+
+[0090]
+It's much bigger than the ones around it
+
+[0091]
+And it's at a resistance level
+
+[0092]
+This is a key scene
+
+[0093]
+The bulls are trying to push through
+
+[0094]
+But the bears are defending with this major candle
+
+[0095]
+See what happens next?
+
+[0096]
+Price tries to go up but keeps getting rejected
+
+[0097]
+Because this major candle is holding
+
+[0098]
+The bears are in control here
+
+[0099]
+This is their territory
+
+[0100]
+Until something changes, we trade with the bears
+
+[0101]
+Then we can decide what happens next, which way will the plot turn?
+
+[0102]
+Will it favor the hero side or will the villain side take over?
+
+[0103]
+Then we play along with that.
+
+[0104]
+Now, to know which side has the role
+
+[0105]
+We need to get to know the characters, the personality of each character.
+
+[0106]
+What's their mood like? You know?
+
+[0107]
+Like candlesticks - if a candle is this size
+
+[0108]
+A really big candle like this is considered the main character, the lead.
+
+[0109]
+The boss of the story. Whether it's the boss on the hero side or the villain side.
+
+[0110]
+Like in Game of Thrones, it'd be these two as the standouts.
+
+[0111]
+I'll use green for the hero side and red for this one.
+
+[0112]
+This green one, when I say big candle
+
+[0113]
+It's a really large candle, way bigger than the others around it.
+
+[0114]
+This is a main character.
+
+[0115]
+The small ones are just extras, background characters.
+
+[0116]
+They don't have much power or role.
+
+[0117]
+But the big ones, those are the key players.
+
+[0118]
+When you see a candle like this at a key level
+
+[0119]
+That's a major scene, an important scene.
+
+[0120]
+That's where the action happens.
+
+[0121]
+Like in a movie, there are scenes that aren't important
+
+[0122]
+Just filler, just showing daily life.
+
+[0123]
+But then there are key scenes, critical scenes.
+
+[0124]
+Where the main characters face off.
+
+[0125]
+Those are the scenes we need to pay attention to.
+
+[0126]
+Same with charts.
+
+[0127]
+There are areas where not much happens.
+
+[0128]
+Just small candles, price going sideways.
+
+[0129]
+But then there are key levels - resistance, support.
+
+[0130]
+That's where the major candles show up.
+
+[0131]
+That's where we see the battle.
+
+[0132]
+Will the bulls break through or will the bears hold?
+
+[0133]
+These major candles tell us the answer.
+
+[0134]
+If a big green candle breaks through resistance
+
+[0135]
+The bulls have won that battle.
+
+[0136]
+Price will continue up.
+
+[0137]
+But if the bears defend with a big red candle
+
+[0138]
+That tells us the bears are still in control.
+
+[0139]
+Price will go back down.
+
+[0140]
+So we need to watch for these major candles at key levels.
+
+[0141]
+They're like commanders leading their armies.
+
+[0142]
+If you see a large army, lots of volume, big candle
+
+[0143]
+That side has strength, has power.
+
+[0144]
+But if you see just a small force, small candle
+
+[0145]
+That side doesn't have much power.
+
+[0146]
+They probably can't win that battle.
+
+[0147]
+So when we analyze the chart
+
+[0148]
+We look at the big picture first - which way is the trend?
+
+[0149]
+Then we look closer at each scene.
+
+[0150]
+We look at the characters in that scene.
+
+[0151]
+That's happening around the world.
+
+[0152]
+We look at who are the main characters, who are the supporting characters.
+
+[0153]
+Who's leading the action.
+
+[0154]
+Once we see that, we know which way to trade.
+
+[0155]
+If the bulls have the big candles, the major candles
+
+[0156]
+The bulls are in control.
+
+[0157]
+We trade with the bulls.
+
+[0158]
+If the bears have the major candles
+
+[0159]
+The bears are dominating.
+
+[0160]
+We trade with the bears.
+
+[0161]
+It's that simple.
+
+[0162]
+We don't fight the main characters.
+
+[0163]
+We go with them.
+
+[0164]
+Now let's look at this in more detail.
+
+[0165]
+When we see candles at key levels
+
+[0166]
+Like here at this resistance
+
+[0167]
+Look at this candle.
+
+[0168]
+This is a major candle.
+
+[0169]
+It's way bigger than the others.
+
+[0170]
+And it formed right at resistance.
+
+[0171]
+This tells us the bears are defending strongly.
+
+[0172]
+They don't want price to break through.
+
+[0173]
+So what do we do?
+
+[0174]
+We wait and watch.
+
+[0175]
+Can the bulls overcome this major candle?
+
+[0176]
+Can they break through?
+
+[0177]
+If they can, the bulls win.
+
+[0178]
+Price goes higher.
+
+[0179]
+But if they can't
+
+[0180]
+The bears hold.
+
+[0181]
+Price bounces back down.
+
+[0182]
+This is how we read the story.
+
+[0183]
+Each candle tells us something.
+
+[0184]
+But the big ones, the major candles
+
+[0185]
+Those tell us the most important parts.
+
+[0186]
+Those are the key moments in the story.
+
+[0187]
+Now, sometimes you'll see
+
+[0188]
+Two sides that are evenly matched.
+
+[0189]
+Bulls and bears both have strength.
+
+[0190]
+In Thai we call this 'สูสี' - neck and neck.
+
+[0191]
+When you see this, be careful.
+
+[0192]
+The battle isn't decided yet.
+
+[0193]
+Wait to see who wins.
+
+[0194]
+Don't jump in too early.
+
+[0195]
+Wait for a clear winner.
+
+[0196]
+Then trade with the winner.
+
+[0197]
+This is the smart way to trade.
+
+[0198]
+Follow the story.
+
+[0199]
+Go with the main characters.
+
+[0200]
+Don't try to predict what'll happen.
+
+[0201]
+Right here. See? This big spike here.
+
+[0202]
+Just watch what happens.
+
+[0203]
+See how the story unfolds.
+
+[0204]
+Then trade accordingly.
+
+[0205]
+This is much easier
+
+[0206]
+Than trying to memorize hundreds of patterns.
+
+[0207]
+We just read the story.
+
+[0208]
+We understand the flow.
+
+[0209]
+We know who's winning.
+
+[0210]
+And we go with the winner.
+
+[0211]
+Simple as that.
+
+[0212]
+Now let's look at some real examples.
+
+[0213]
+I'll show you how to apply this.
+
+[0214]
+Look at this chart.
+
+[0215]
+What do you see?
+
+[0216]
+First, what's the big picture?
+
+[0217]
+What's the trend?
+
+[0218]
+Is it going up?
+
+[0219]
+Going down?
+
+[0220]
+Or sideways?
+
+[0221]
+Once we know that
+
+[0222]
+Then we look at the candles.
+
+[0223]
+Which ones are the major candles?
+
+[0224]
+Where are they located?
+
+[0225]
+Are they at key levels?
+
+[0226]
+If yes, those are important scenes.
+
+[0227]
+Pay attention to those.
+
+[0228]
+See what happens there.
+
+[0229]
+Do the bulls break through?
+
+[0230]
+Or do the bears hold?
+
+[0231]
+Whatever happens
+
+[0232]
+We trade with the winner.
+
+[0233]
+Don't fight it.
+
+[0234]
+Don't try to be a hero.
+
+[0235]
+Just follow the story.
+
+[0236]
+Now here's an interesting part.
+
+[0237]
+Sometimes the story changes.
+
+[0238]
+The plot twists.
+
+[0239]
+The hero becomes the villain.
+
+[0240]
+Or the villain becomes the hero.
+
+[0241]
+How do we know when this happens?
+
+[0242]
+We watch for key changes.
+
+[0243]
+Major candles appearing at key levels.
+
+[0244]
+Trend reversals.
+
+[0245]
+When an uptrend can't make new highs anymore.
+
+[0246]
+Or a downtrend can't make new lows.
+
+[0247]
+That's when the plot might be changing.
+
+[0248]
+The story might be turning.
+
+[0249]
+We need to be ready.
+
+[0250]
+Maybe the other side is taking over.
+
+[0251]
+Now we know the plot, right?
+
+[0252]
+We understand the story structure.
+
+[0253]
+So we can anticipate what might happen next.
+
+[0254]
+But we don't guess.
+
+[0255]
+We wait for confirmation.
+
+[0256]
+We wait for the chart to show us.
+
+[0257]
+Then we act.
+
+[0258]
+This is the safe way to trade.
+
+[0259]
+Follow the evidence.
+
+[0260]
+Not our emotions.
+
+[0261]
+Not our predictions.
+
+[0262]
+Just what the chart is telling us.
+
+[0263]
+What the story is showing us.
+
+[0264]
+Now let's talk about momentum.
+
+[0265]
+Momentum is like the energy of the story.
+
+[0266]
+When a scene has lots of action
+
+[0267]
+Lots of drama
+
+[0268]
+That's high momentum.
+
+[0269]
+Big candles, strong moves.
+
+[0270]
+Price moving fast in one direction.
+
+[0271]
+When you see this
+
+[0272]
+That side has the power.
+
+[0273]
+They're dominating.
+
+[0274]
+But when the action slows down
+
+[0275]
+Small candles, sideways movement
+
+[0276]
+That's low momentum.
+
+[0277]
+Neither side has clear control.
+
+[0278]
+This is when we need to be careful.
+
+[0279]
+Don't force a trade.
+
+[0280]
+Wait for the story to pick up again.
+
+[0281]
+Wait for one side to take control.
+
+[0282]
+Then we trade with them.
+
+[0283]
+This is how professionals trade.
+
+[0284]
+They don't trade all the time.
+
+[0285]
+They wait for the right moments.
+
+[0286]
+The right scenes.
+
+[0287]
+When the story is clear.
+
+[0288]
+When one side is dominating.
+
+[0289]
+That's when they enter.
+
+[0290]
+And they go with the dominant side.
+
+[0291]
+Never against it.
+
+[0292]
+This is the key principle.
+
+[0293]
+Follow the strength.
+
+[0294]
+Trade with the flow.
+
+[0295]
+Don't fight the market.
+
+[0296]
+The market is always right.
+
+[0297]
+Our job is to adapt.
+
+[0298]
+To go with what's happening.
+
+[0299]
+Not to predict what will happen.
+
+[0300]
+But to react to what is happening.
+
+[0301]
+Now let's look at a real chart example.
+
+[0302]
+This is a live chart.
+
+[0303]
+Look at the overall trend first.
+
+[0304]
+What do you see?
+
+[0305]
+Price is making higher highs and higher lows.
+
+[0306]
+This is an uptrend.
+
+[0307]
+The bulls are in control.
+
+[0308]
+This is the big picture.
+
+[0309]
+Now let's zoom in.
+
+[0310]
+Look at this level here.
+
+[0311]
+This is a key resistance level.
+
+[0312]
+Price tested it multiple times.
+
+[0313]
+See these candles?
+
+[0314]
+These are major candles.
+
+[0315]
+Big red candles defending this level.
+
+[0316]
+The bears are putting up a fight.
+
+[0317]
+They don't want price to break through.
+
+[0318]
+But look what happens.
+
+[0319]
+Price keeps coming back.
+
+[0320]
+The bulls keep trying.
+
+[0321]
+Each time they try
+
+[0322]
+They get rejected.
+
+[0323]
+But each rejection is weaker.
+
+[0324]
+The bears are losing strength.
+
+[0325]
+See how the red candles are getting smaller?
+
+[0326]
+This tells us something.
+
+[0327]
+The bears can't defend forever.
+
+[0328]
+They're running out of steam.
+
+[0329]
+And then look.
+
+[0330]
+Here comes a big green candle.
+
+[0331]
+This is a major candle on the bull side.
+
+[0332]
+It breaks through the resistance.
+
+[0333]
+The bulls have won this battle.
+
+[0334]
+The plot has shifted.
+
+[0335]
+Now the bulls are dominating even more.
+
+[0336]
+What do we do?
+
+[0337]
+We go with the bulls.
+
+[0338]
+We don't fight them.
+
+[0339]
+We trade in their direction.
+
+[0340]
+This is how you read the story.
+
+[0341]
+You see the battle.
+
+[0342]
+You see who's winning.
+
+[0343]
+You see when the plot shifts.
+
+[0344]
+Then you trade accordingly.
+
+[0345]
+Now let's look at another example.
+
+[0346]
+This time a downtrend.
+
+[0347]
+Price making lower lows and lower highs.
+
+[0348]
+The bears are in control.
+
+[0349]
+Look at this support level.
+
+[0350]
+Price keeps testing it.
+
+[0351]
+The bulls try to defend.
+
+[0352]
+But the bears keep pushing down.
+
+[0353]
+Look at these big red candles.
+
+[0354]
+Major candles on the bear side.
+
+[0355]
+They're dominating.
+
+[0356]
+Each time price tries to bounce
+
+[0357]
+The bears push it back down.
+
+[0358]
+This tells us the bears are strong.
+
+[0359]
+They're in control.
+
+[0360]
+So what do we do?
+
+[0361]
+We trade with the bears.
+
+[0362]
+We go short.
+
+[0363]
+We don't try to pick a bottom.
+
+[0364]
+We don't try to be heroes.
+
+[0365]
+We just follow the story.
+
+[0366]
+The bears are dominating, we go with them.
+
+[0367]
+Until the story changes.
+
+[0368]
+Until we see signs of reversal.
+
+[0369]
+Then we'll adjust.
+
+[0370]
+But for now, we follow the bears.
+
+[0371]
+This is the key to successful trading.
+
+[0372]
+Reading the story.
+
+[0373]
+Understanding who's in control.
+
+[0374]
+Then trading with them.
+
+[0375]
+Not against them.
+
+[0376]
+Now let's talk about key scenes.
+
+[0377]
+Important levels in the chart.
+
+[0378]
+These are like critical scenes in a movie.
+
+[0379]
+Where the main action happens.
+
+[0380]
+Where the battle takes place.
+
+[0381]
+How do we identify these key scenes?
+
+[0382]
+Look for previous highs and lows.
+
+[0383]
+Look for levels where price reacted strongly before.
+
+[0384]
+These become support and resistance.
+
+[0385]
+When price comes back to these levels
+
+[0386]
+That's a key scene.
+
+[0387]
+That's where we pay attention.
+
+[0388]
+Watch what the major candles do there.
+
+[0389]
+Do they break through?
+
+[0390]
+Or do they bounce back?
+
+[0391]
+This tells us what happens next.
+
+[0392]
+If they break through, the trend continues.
+
+[0393]
+If they bounce back, we might see a reversal.
+
+[0394]
+These key scenes are where the story turns.
+
+[0395]
+Where the plot shifts.
+
+[0396]
+So we need to watch them carefully.
+
+[0397]
+Don't just trade randomly.
+
+[0398]
+Wait for these key scenes.
+
+[0399]
+Wait for the important moments.
+
+[0400]
+Then make your move.
+
+[0401]
+Now let's talk about patterns.
+
+[0402]
+You might know some common patterns.
+
+[0403]
+Head and shoulders, triangles, flags.
+
+[0404]
+These are all good.
+
+[0405]
+But when you understand the story
+
+[0406]
+You don't need to memorize them.
+
+[0407]
+Because you understand why they work.
+
+[0408]
+A head and shoulders pattern - what is it really?
+
+[0409]
+It's showing us a shift in the story.
+
+[0410]
+The bulls were in control.
+
+[0411]
+They made a high - the left shoulder.
+
+[0412]
+Then an even higher high - the head.
+
+[0413]
+But then they can't go higher.
+
+[0414]
+They only make it to the same level as before - right shoulder.
+
+[0415]
+This tells us the bulls are losing strength.
+
+[0416]
+The story might be changing.
+
+[0417]
+When the neckline breaks
+
+[0418]
+That confirms it - the bears have taken over.
+
+[0419]
+See? We don't need to memorize.
+
+[0420]
+We just understand the story.
+
+[0421]
+Same with triangles.
+
+[0422]
+What's really happening?
+
+[0423]
+Bulls and bears are evenly matched.
+
+[0424]
+Price is consolidating.
+
+[0425]
+Getting tighter and tighter.
+
+[0426]
+Building energy.
+
+[0427]
+Then eventually one side wins.
+
+[0428]
+Price breaks out.
+
+[0429]
+That's just the story playing out.
+
+[0430]
+Once you see it this way
+
+[0431]
+Charts become so much easier.
+
+[0432]
+You're not memorizing patterns.
+
+[0433]
+You're reading a story.
+
+[0434]
+You're watching a movie.
+
+[0435]
+Much more interesting, right?
+
+[0436]
+And more effective too.
+
+[0437]
+Because you understand the why.
+
+[0438]
+Not just the what.
+
+[0439]
+Now let's look at timeframes.
+
+[0440]
+Different timeframes tell different parts of the story.
+
+[0441]
+The higher timeframe is the main plot.
+
+[0442]
+The bigger picture.
+
+[0443]
+The lower timeframes are the details.
+
+[0444]
+The scene-by-scene action.
+
+[0445]
+You need to understand both.
+
+[0446]
+Always check the higher timeframe first.
+
+[0447]
+What's the main story?
+
+[0448]
+Which way is it going?
+
+[0449]
+Then zoom into lower timeframes.
+
+[0450]
+To find your entry and exit.
+
+[0451]
+But don't trade against the main story.
+
+[0452]
+If the daily chart shows uptrend
+
+[0453]
+Don't go short on the 5-minute chart.
+
+[0454]
+You're fighting the main plot.
+
+[0455]
+Trade with the main story.
+
+[0456]
+Use lower timeframes to fine-tune your entries.
+
+[0457]
+Not to trade against the trend.
+
+[0458]
+This is a common mistake.
+
+[0459]
+People see a setup on lower timeframe
+
+[0460]
+But it's against the higher timeframe trend.
+
+[0461]
+They take the trade and lose.
+
+[0462]
+Because they're fighting the main story.
+
+[0463]
+Always align with the bigger picture.
+
+[0464]
+Now let's talk about momentum again.
+
+[0465]
+Momentum is important.
+
+[0466]
+It tells us how strong the move is.
+
+[0467]
+High momentum - big candles, fast moves.
+
+[0468]
+This means that side is dominating.
+
+[0469]
+Low momentum - small candles, slow moves.
+
+[0470]
+Neither side is in control.
+
+[0471]
+When momentum is high
+
+[0472]
+That's when we want to trade.
+
+[0473]
+Because the story is clear.
+
+[0474]
+One side is winning.
+
+[0475]
+When momentum is low
+
+[0476]
+Be careful.
+
+[0477]
+The story isn't clear yet.
+
+[0478]
+Wait for it to pick up.
+
+[0479]
+Wait for one side to take control.
+
+[0480]
+Then trade with them.
+
+[0481]
+This is how you avoid getting chopped.
+
+[0482]
+Don't trade in low momentum periods.
+
+[0483]
+Wait for the story to develop.
+
+[0484]
+Wait for clear direction.
+
+[0485]
+Then make your move.
+
+[0486]
+This will save you so much money.
+
+[0487]
+And make you so much more.
+
+[0488]
+Because you're trading with clarity.
+
+[0489]
+With understanding.
+
+[0490]
+Not just guessing.
+
+[0491]
+Now let's look at this chart here.
+
+[0492]
+See this consolidation?
+
+[0493]
+Small candles, low momentum.
+
+[0494]
+Bulls and bears are evenly matched.
+
+[0495]
+The story is paused.
+
+[0496]
+We don't know who will win yet.
+
+[0497]
+So what do we do?
+
+[0498]
+We wait.
+
+[0499]
+We don't force it.
+
+[0500]
+We let the story develop.
+
+[0501]
+And then see which side wins.
+
+[0502]
+See, like this - it's a pin bar right here.
+
+[0503]
+If we combine these two candles together
+
+[0504]
+It becomes a candle like this. This candle formed at resistance.
+
+[0505]
+At resistance, it has more significance than forming elsewhere. If it appeared in the middle somewhere, it wouldn't mean much.
+
+[0506]
+But it's at resistance - meaning it's at their fortress, at their stronghold.
+
+[0507]
+They're counterattacking. They have the strength to fight back. So that's why it continues down like this.
+
+[0508]
+See? And then momentum comes back and it goes down. It couldn't go deeper than before, couldn't make a lower low yet.
+
+[0509]
+When it came down, it's stuck right at support, at support.
+
+[0510]
+It's stuck right at the support level. The battle continues like this, see?
+
+[0511]
+Then when it goes up, and when it drops
+
+[0512]
+When it drops, it bounces back up. See? Drops then bounces up.
+
+[0513]
+Then it goes up. See? The plot, see?
+
+[0514]
+Who's in control here?
+
+[0515]
+The buy side is in control, the bulls.
+
+[0516]
+So we trade with the bulls.
+
+[0517]
+We go long.
+
+[0518]
+Until something changes.
+
+[0519]
+Until we see the bears taking over.
+
+[0520]
+But for now, bulls are dominating.
+
+[0521]
+So we stay with them.
+
+[0522]
+This is the core principle.
+
+[0523]
+Follow the dominant side.
+
+[0524]
+Don't fight them.
+
+[0525]
+Now I'll show you something interesting.
+
+[0526]
+When price is at a key level
+
+[0527]
+And you see these patterns forming
+
+[0528]
+Pin bar, engulfing, whatever
+
+[0529]
+What are they really telling you?
+
+[0530]
+They're telling you about the battle.
+
+[0531]
+Who's winning, who's losing.
+
+[0532]
+A pin bar at resistance - what does it mean?
+
+[0533]
+Bulls tried to break through.
+
+[0534]
+Bears pushed them back hard.
+
+[0535]
+Long wick up, close near the low.
+
+[0536]
+That's the bears saying 'not today'.
+
+[0537]
+They're defending their territory.
+
+[0538]
+Same thing at support.
+
+[0539]
+Pin bar with long wick down
+
+[0540]
+Bulls saying 'nope, not breaking down'.
+
+[0541]
+They're defending.
+
+[0542]
+Engulfing pattern - what is it?
+
+[0543]
+One side completely dominates the other.
+
+[0544]
+Bullish engulfing - bulls take over.
+
+[0545]
+Bearish engulfing - bears take control.
+
+[0546]
+See? It's all about the story.
+
+[0547]
+About the battle.
+
+[0548]
+Once you understand this
+
+[0549]
+Patterns make so much more sense.
+
+[0550]
+You're not just memorizing shapes.
+
+[0551]
+You're understanding what's happening.
+
+[0552]
+Why the pattern formed.
+
+[0553]
+What it means for price action.
+
+[0554]
+This makes you a much better trader.
+
+[0555]
+Now let's look at volume.
+
+[0556]
+Volume is like the intensity of the scene.
+
+[0557]
+High volume means lots of action.
+
+[0558]
+Lots of participants.
+
+[0559]
+Strong emotions.
+
+[0560]
+Low volume means not much interest.
+
+[0561]
+Weak commitment.
+
+[0562]
+When you see a breakout with high volume
+
+[0563]
+That's a powerful scene.
+
+[0564]
+Lots of energy.
+
+[0565]
+The move is likely to continue.
+
+[0566]
+But a breakout with low volume
+
+[0567]
+Suspicious.
+
+[0568]
+Not much conviction.
+
+[0569]
+Might be a fake breakout.
+
+[0570]
+Price might reverse.
+
+[0571]
+So we watch volume too.
+
+[0572]
+It adds to the story.
+
+[0573]
+Tells us how committed each side is.
+
+[0574]
+How much strength they have.
+
+[0575]
+Now let's put it all together.
+
+[0576]
+Reading charts like reading a story.
+
+[0577]
+Step 1: Look at the big picture.
+
+[0578]
+What's the trend?
+
+[0579]
+Which side is dominating?
+
+[0580]
+Step 2: Identify key levels.
+
+[0581]
+Where are the important scenes?
+
+[0582]
+Support, resistance, previous highs and lows.
+
+[0583]
+Step 3: Look at the characters.
+
+[0584]
+Which candles are major candles?
+
+[0585]
+Where are they located?
+
+[0586]
+Step 4: Watch the battle.
+
+[0587]
+What's happening at key levels?
+
+[0588]
+Who's winning?
+
+[0589]
+Step 5: Check momentum.
+
+[0590]
+Is there strong movement?
+
+[0591]
+Or is it consolidating?
+
+[0592]
+Step 6: Consider volume.
+
+[0593]
+Is there conviction?
+
+[0594]
+Or is it weak?
+
+[0595]
+Step 7: Make your decision.
+
+[0596]
+Trade with the dominant side.
+
+[0597]
+At the right time.
+
+[0598]
+At key levels.
+
+[0599]
+With confirmation.
+
+[0600]
+This is how professionals do it.
+
+[0601]
+They don't guess.
+
+[0602]
+They read the story.
+
+[0603]
+They understand what's happening.
+
+[0604]
+Then they act.
+
+[0605]
+With the flow.
+
+[0606]
+Not against it.
+
+[0607]
+Now I'll show you some real examples.
+
+[0608]
+So you can see this in action.
+
+[0609]
+Look at this chart here.
+
+[0610]
+First, what's the trend?
+
+[0611]
+Clearly uptrend.
+
+[0612]
+Higher highs, higher lows.
+
+[0613]
+Bulls are in control.
+
+[0614]
+Now where are the key levels?
+
+[0615]
+Here's a previous resistance.
+
+[0616]
+Price broke through it.
+
+[0617]
+Now it should become support.
+
+[0618]
+Let's see if it does.
+
+[0619]
+Price comes back down.
+
+[0620]
+Tests this level.
+
+[0621]
+What happens?
+
+[0622]
+See these candles?
+
+[0623]
+Green candles defending.
+
+[0624]
+Bulls saying 'nope, not breaking down'.
+
+[0625]
+Price bounces back up.
+
+[0626]
+The level held.
+
+[0627]
+Bulls are still in control.
+
+[0628]
+What do we do?
+
+[0629]
+We buy here.
+
+[0630]
+We go with the bulls.
+
+[0631]
+We trade at this key level.
+
+[0632]
+Where we have confirmation.
+
+[0633]
+See how clean that is?
+
+[0634]
+We're not guessing.
+
+[0635]
+We're reading the story.
+
+[0636]
+The story told us bulls are in control.
+
+[0637]
+The level held.
+
+[0638]
+So we go long.
+
+[0639]
+Simple.
+
+[0640]
+Now look at another example.
+
+[0641]
+This time a downtrend.
+
+[0642]
+Lower lows, lower highs.
+
+[0643]
+Bears dominating.
+
+[0644]
+Previous support becomes resistance.
+
+[0645]
+Price comes back up to test it.
+
+[0646]
+What happens?
+
+[0647]
+Red candles defending.
+
+[0648]
+Bears saying 'not breaking up'.
+
+[0649]
+Price gets rejected.
+
+[0650]
+Goes back down.
+
+[0651]
+So we short here.
+
+[0652]
+We go with the bears.
+
+[0653]
+Again, simple.
+
+[0654]
+Read the story.
+
+[0655]
+Trade accordingly.
+
+[0656]
+This is what I want you to understand.
+
+[0657]
+Trading doesn't have to be complicated.
+
+[0658]
+You don't need 50 indicators.
+
+[0659]
+You don't need complex algorithms.
+
+[0660]
+You just need to read the story.
+
+[0661]
+Understand what's happening.
+
+[0662]
+See who's in control.
+
+[0663]
+Then trade with them.
+
+[0664]
+That's it.
+
+[0665]
+Everything else is just details.
+
+[0666]
+Now, some of you might be thinking
+
+[0667]
+'But what about fundamentals?'
+
+[0668]
+'What about news?'
+
+[0669]
+'What about economic data?'
+
+[0670]
+Here's the thing.
+
+[0671]
+All of that is already in the chart.
+
+[0672]
+The chart is the ultimate truth.
+
+[0673]
+It shows what everyone thinks.
+
+[0674]
+What everyone's doing.
+
+[0675]
+All the news, all the data
+
+[0676]
+It's all reflected in price.
+
+[0677]
+So we don't need to know the news.
+
+[0678]
+We just need to read what the price is telling us.
+
+[0679]
+The chart never lies.
+
+[0680]
+It shows us exactly what's happening.
+
+[0681]
+Who's buying, who's selling.
+
+[0682]
+Who's winning, who's losing.
+
+[0683]
+That's all we need to know.
+
+[0684]
+Now let's talk about risk management.
+
+[0685]
+This is crucial.
+
+[0686]
+You can read the story perfectly
+
+[0687]
+But if you don't manage risk
+
+[0688]
+You'll still lose.
+
+[0689]
+So here's how we do it.
+
+[0690]
+When we enter a trade
+
+[0691]
+We always use a stop loss.
+
+[0692]
+Always.
+
+[0693]
+No exceptions.
+
+[0694]
+Where do we put it?
+
+[0695]
+At a logical level.
+
+[0696]
+If we're buying at support
+
+[0697]
+Stop goes below support.
+
+[0698]
+If we're selling at resistance
+
+[0699]
+Stop goes above resistance.
+
+[0700]
+Why?
+
+[0701]
+Because if our story is wrong
+
+[0702]
+If the level breaks
+
+[0703]
+We get out immediately.
+
+[0704]
+We don't hope it comes back.
+
+[0705]
+We don't average down.
+
+[0706]
+We just exit.
+
+[0707]
+Accept we were wrong.
+
+[0708]
+And move on.
+
+[0709]
+This keeps our losses small.
+
+[0710]
+And our account safe.
+
+[0711]
+Now for profit targets.
+
+[0712]
+Where do we take profit?
+
+[0713]
+At the next logical level.
+
+[0714]
+If we're buying at support
+
+[0715]
+We take profit at resistance.
+
+[0716]
+If we're selling at resistance
+
+[0717]
+We take profit at support.
+
+[0718]
+Or we trail our stop.
+
+[0719]
+Let the winners run.
+
+[0720]
+As long as the story continues.
+
+[0721]
+As long as our side is dominating.
+
+[0722]
+We stay in.
+
+[0723]
+But when signs change
+
+[0724]
+When the story shifts
+
+[0725]
+We exit.
+
+[0726]
+This is how we maximize profits.
+
+[0727]
+We let good trades run.
+
+[0728]
+And cut bad trades quickly.
+
+[0729]
+Simple risk management.
+
+[0730]
+But incredibly effective.
+
+[0731]
+Now let's talk about psychology.
+
+[0732]
+This is where most traders fail.
+
+[0733]
+Not because they can't read charts.
+
+[0734]
+But because they can't control emotions.
+
+[0735]
+Fear and greed.
+
+[0736]
+These kill traders.
+
+[0737]
+Fear makes you exit too early.
+
+[0738]
+Greed makes you hold too long.
+
+[0739]
+How do we avoid this?
+
+[0740]
+By following the story.
+
+[0741]
+The story keeps us objective.
+
+[0742]
+We're not guessing.
+
+[0743]
+We're not hoping.
+
+[0744]
+We're just reading what's there.
+
+[0745]
+If the story says bulls are winning
+
+[0746]
+We trade with bulls.
+
+[0747]
+Regardless of how we feel.
+
+[0748]
+If the story says bears are winning
+
+[0749]
+We trade with bears.
+
+[0750]
+Our emotions don't matter.
+
+[0751]
+Only the story matters.
+
+[0752]
+This removes emotion.
+
+[0753]
+Makes trading mechanical.
+
+[0754]
+In a good way.
+
+[0755]
+We become like robots.
+
+[0756]
+Following a system.
+
+[0757]
+Not emotional.
+
+[0758]
+This is how you survive long-term.
+
+[0759]
+So remember.
+
+[0760]
+Read charts like reading a story.
+
+[0761]
+Look at the big picture first.
+
+[0762]
+Identify key levels.
+
+[0763]
+Watch the major candles.
+
+[0764]
+See who's winning.
+
+[0765]
+Trade with them.
+
+[0766]
+Manage your risk.
+
+[0767]
+Control your emotions.
+
+[0768]
+Follow the story.
+
+[0769]
+That's it.
+
+[0770]
+That's all you need.
+
+[0771]
+Now let me show you one more thing.
+
+[0772]
+Multiple timeframe analysis.
+
+[0773]
+This is powerful.
+
+[0774]
+We look at the daily chart first.
+
+[0775]
+What's the main story?
+
+[0776]
+Uptrend, downtrend, sideways?
+
+[0777]
+This is our guide.
+
+[0778]
+Then we zoom to 4-hour chart.
+
+[0779]
+Same question.
+
+[0780]
+What's happening here?
+
+[0781]
+Is it aligned with daily?
+
+[0782]
+If yes, strong confirmation.
+
+[0783]
+If no, we wait.
+
+[0784]
+Then 1-hour chart.
+
+[0785]
+For entry timing.
+
+[0786]
+We only trade when all timeframes agree.
+
+[0787]
+Daily uptrend.
+
+[0788]
+4-hour uptrend.
+
+[0789]
+1-hour shows pullback to support.
+
+[0790]
+We buy there.
+
+[0791]
+This gives us the highest probability.
+
+[0792]
+All timeframes telling the same story.
+
+[0793]
+All agreeing on direction.
+
+[0794]
+This is when we have confidence.
+
+[0795]
+This is when we go big.
+
+[0796]
+Not big like crazy.
+
+[0797]
+But with proper position sizing.
+
+[0798]
+We increase our risk slightly.
+
+[0799]
+Because probability is high.
+
+[0800]
+When timeframes don't align.
+
+[0801]
+We reduce position size.
+
+[0802]
+Or don't trade at all.
+
+[0803]
+We wait for alignment.
+
+[0804]
+Patience is key.
+
+[0805]
+Don't force trades.
+
+[0806]
+Wait for the right setup.
+
+[0807]
+The right story.
+
+[0808]
+Then execute.
+
+[0809]
+This discipline separates winners from losers.
+
+[0810]
+Winners wait for good setups.
+
+[0811]
+Losers trade everything.
+
+[0812]
+Winners are selective.
+
+[0813]
+Quality over quantity.
+
+[0814]
+A few good trades per week.
+
+[0815]
+Is better than many mediocre ones.
+
+[0816]
+Remember that.
+
+[0817]
+Now let me show you this chart.
+
+[0818]
+See this consolidation?
+
+[0819]
+Price going sideways.
+
+[0820]
+What's the story saying?
+
+[0821]
+Bulls and bears are evenly matched.
+
+[0822]
+Neither side can win yet.
+
+[0823]
+What do we do?
+
+[0824]
+We wait.
+
+[0825]
+We don't trade in the middle of consolidation.
+
+[0826]
+Too risky.
+
+[0827]
+No clear direction.
+
+[0828]
+We wait for the breakout.
+
+[0829]
+Wait for one side to win.
+
+[0830]
+Then we trade with them.
+
+[0831]
+See? Patience.
+
+[0832]
+Not every moment is tradeable.
+
+[0833]
+Sometimes the story is unclear.
+
+[0834]
+That's okay.
+
+[0835]
+We wait for clarity.
+
+[0836]
+Better to miss a trade
+
+[0837]
+Than to take a bad one.
+
+[0838]
+This mindset is crucial.
+
+[0839]
+It protects your capital.
+
+[0840]
+Keeps you in the game.
+
+[0841]
+So you can trade another day.
+
+[0842]
+Capital preservation is number one.
+
+[0843]
+Before making money
+
+[0844]
+Don't lose money.
+
+[0845]
+That's the rule.
+
+[0846]
+Now let's see another example.
+
+[0847]
+This is a perfect setup.
+
+[0848]
+Daily uptrend.
+
+[0849]
+4-hour uptrend.
+
+[0850]
+Price pulls back to support on 1-hour.
+
+[0851]
+See these candles?
+
+[0852]
+Major candles defending support.
+
+[0853]
+All timeframes aligned.
+
+[0854]
+Perfect setup.
+
+[0855]
+We buy here.
+
+[0856]
+Stop below support.
+
+[0857]
+Target at next resistance.
+
+[0858]
+This is a textbook trade.
+
+[0859]
+High probability.
+
+[0860]
+All conditions met.
+
+[0861]
+This is what we wait for.
+
+[0862]
+These setups don't come every day.
+
+[0863]
+Maybe a few times per week.
+
+[0864]
+But when they do
+
+[0865]
+They're golden.
+
+[0866]
+High win rate.
+
+[0867]
+Good risk-reward ratio.
+
+[0868]
+This is what professionals trade.
+
+[0869]
+Not random setups.
+
+[0870]
+But perfect stories.
+
+[0871]
+When everything lines up.
+
+[0872]
+When the message is clear.
+
+[0873]
+That's when we act.
+
+[0874]
+Now I want you to practice this.
+
+[0875]
+Go look at charts.
+
+[0876]
+Any chart, any pair.
+
+[0877]
+And read the story.
+
+[0878]
+Don't trade yet.
+
+[0879]
+Just read.
+
+[0880]
+What's the trend?
+
+[0881]
+Where are key levels?
+
+[0882]
+Who's dominating?
+
+[0883]
+What's happening at key scenes?
+
+[0884]
+Practice this.
+
+[0885]
+Every day.
+
+[0886]
+Until it becomes second nature.
+
+[0887]
+Until you can read charts
+
+[0888]
+Like you read books.
+
+[0889]
+Naturally.
+
+[0890]
+Without thinking.
+
+[0891]
+This takes time.
+
+[0892]
+Don't rush it.
+
+[0893]
+But keep practicing.
+
+[0894]
+And you'll get there.
+
+[0895]
+You'll see charts differently.
+
+[0896]
+Not as random candles.
+
+[0897]
+But as a story.
+
+[0898]
+A battle between bulls and bears.
+
+[0899]
+And you'll know who's winning.
+
+[0900]
+That's when trading becomes easy.
+
+[0901]
+Not complicated anymore.
+
+[0902]
+Just natural.
+
+[0903]
+Like breathing.
+
+[0904]
+That's the goal.
+
+[0905]
+Okay, so to summarize.
+
+[0906]
+Reading charts like reading a story.
+
+[0907]
+This is the key concept.
+
+[0908]
+Everything else flows from this.
+
+[0909]
+Understand the narrative.
+
+[0910]
+See the characters.
+
+[0911]
+Watch the plot unfold.
+
+[0912]
+Identify the key scenes.
+
+[0913]
+Know who's dominating.
+
+[0914]
+Trade with them.
+
+[0915]
+Manage your risk properly.
+
+[0916]
+Control your emotions.
+
+[0917]
+Be patient.
+
+[0918]
+Wait for the right setups.
+
+[0919]
+And execute when everything aligns.
+
+[0920]
+That's professional trading.
+
+[0921]
+That's how you survive long-term.
+
+[0922]
+That's how you make consistent profits.
+
+[0923]
+Not by guessing.
+
+[0924]
+Not by hoping.
+
+[0925]
+But by reading the story correctly.
+
+[0926]
+And acting on what you see.
+
+[0927]
+Not on what you want to see.
+
+[0928]
+But what's actually there.
+
+[0929]
+The truth in the chart.
+
+[0930]
+That's what matters.
+
+[0931]
+Now before we finish
+
+[0932]
+Let me show you a few more examples.
+
+[0933]
+Real trading examples.
+
+[0934]
+So you can see this method in action.
+
+[0935]
+Look at this chart.
+
+[0936]
+What do you see?
+
+[0937]
+Take a moment.
+
+[0938]
+Read the story.
+
+[0939]
+What's happening here?
+
+[0940]
+Think about it.
+
+[0941]
+Okay, let me tell you what I see.
+
+[0942]
+First, overall trend.
+
+[0943]
+Price making lower lows and lower highs.
+
+[0944]
+Downtrend.
+
+[0945]
+Bears in control.
+
+[0946]
+Now look at this level.
+
+[0947]
+Previous support, right?
+
+[0948]
+Price broke through it.
+
+[0949]
+Now comes back to test it.
+
+[0950]
+Should act as resistance now.
+
+[0951]
+Let's see what happens.
+
+[0952]
+Look, red candles.
+
+[0953]
+Bears defending this level.
+
+[0954]
+Price gets rejected.
+
+[0955]
+Can't break through.
+
+[0956]
+Goes back down.
+
+[0957]
+This confirms the downtrend.
+
+[0958]
+Bears still in control.
+
+[0959]
+What do we do?
+
+[0960]
+We short here.
+
+[0961]
+At this resistance.
+
+[0962]
+With stop above.
+
+[0963]
+Target at next support.
+
+[0964]
+Simple trade.
+
+[0965]
+Following the story.
+
+[0966]
+Trading with the bears.
+
+[0967]
+Not against them.
+
+[0968]
+See how logical that is?
+
+[0969]
+When you read the story
+
+[0970]
+Trading decisions become obvious.
+
+[0971]
+You're not confused.
+
+[0972]
+You know what to do.
+
+[0973]
+Because the chart tells you.
+
+[0974]
+Another example.
+
+[0975]
+This time uptrend.
+
+[0976]
+Higher highs, higher lows.
+
+[0977]
+Bulls dominating.
+
+[0978]
+Price pulls back to a previous high.
+
+[0979]
+Which should now be support.
+
+[0980]
+Let's see.
+
+[0981]
+Green candles appear.
+
+[0982]
+Bulls defending.
+
+[0983]
+Price bounces up.
+
+[0984]
+Support holds.
+
+[0985]
+Uptrend continues.
+
+[0986]
+We buy here.
+
+[0987]
+At this support.
+
+[0988]
+Stop below.
+
+[0989]
+Target at next resistance.
+
+[0990]
+Again, simple.
+
+[0991]
+Following the story.
+
+[0992]
+Trading with the bulls.
+
+[0993]
+See the pattern?
+
+[0994]
+It's always the same.
+
+[0995]
+Read the trend.
+
+[0996]
+Find key levels.
+
+[0997]
+Wait for price to come there.
+
+[0998]
+See who defends.
+
+[0999]
+Trade with them.
+
+[1000]
+That's the method.
+
+[1001]
+Now, is it really this easy?
+
+[1002]
+Yes and no.
+
+[1003]
+The concept is simple.
+
+[1004]
+But execution takes practice.
+
+[1005]
+You need to train your eyes.
+
+[1006]
+To see the story.
+
+[1007]
+To recognize the patterns.
+
+[1008]
+To understand what's happening.
+
+[1009]
+This doesn't happen overnight.
+
+[1010]
+It takes time.
+
+[1011]
+It takes screen time.
+
+[1012]
+Looking at charts every day.
+
+[1013]
+Practicing reading the story.
+
+[1014]
+But once you get it
+
+[1015]
+It's yours forever.
+
+[1016]
+It becomes intuitive.
+
+[1017]
+You'll see it instantly.
+
+[1018]
+No thinking required.
+
+[1019]
+Just like reading.
+
+[1020]
+You don't think about each word.
+
+[1021]
+You just read.
+
+[1022]
+Same with charts.
+
+[1023]
+You'll just see the story.
+
+[1024]
+Automatically.
+
+[1025]
+That's the goal.
+
+[1026]
+That's what we're aiming for.
+
+[1027]
+So keep practicing.
+
+[1028]
+Don't give up.
+
+[1029]
+Even if it's confusing at first.
+
+[1030]
+It will click.
+
+[1031]
+I promise.
+
+[1032]
+Now let's look at risk-reward ratio.
+
+[1033]
+This is important.
+
+[1034]
+Every trade should have good risk-reward.
+
+[1035]
+At least 1:2.
+
+[1036]
+Risk 1 to make 2.
+
+[1037]
+Or better.
+
+[1038]
+How do we calculate this?
+
+[1039]
+Entry to stop is our risk.
+
+[1040]
+Entry to target is our reward.
+
+[1041]
+If risk is 50 pips
+
+[1042]
+Reward should be 100 pips minimum.
+
+[1043]
+Or 1:2 ratio.
+
+[1044]
+This means even if we win only half our trades
+
+[1045]
+We still make money overall.
+
+[1046]
+This is crucial.
+
+[1047]
+Good risk-reward protects us.
+
+[1048]
+Allows us to lose and still profit.
+
+[1049]
+Never take trades with bad risk-reward.
+
+[1050]
+No matter how good the setup looks.
+
+[1051]
+If the risk-reward is bad
+
+[1052]
+Skip it.
+
+[1053]
+Wait for better opportunity.
+
+[1054]
+This discipline is key.
+
+[1055]
+Now let's talk about win rate.
+
+[1056]
+You don't need high win rate.
+
+[1057]
+50% is enough.
+
+[1058]
+With 1:2 risk-reward.
+
+[1059]
+You profit with 50% wins.
+
+[1060]
+Let me show you the math.
+
+[1061]
+10 trades, 5 wins, 5 losses.
+
+[1062]
+Each win makes 100, each loss costs 50.
+
+[1063]
+Total wins: 500.
+
+[1064]
+Total losses: 250.
+
+[1065]
+Net profit: 250.
+
+[1066]
+See?
+
+[1067]
+50% win rate is profitable.
+
+[1068]
+With good risk-reward.
+
+[1069]
+So don't stress about win rate.
+
+[1070]
+Focus on risk-reward instead.
+
+[1071]
+This changes everything.
+
+[1072]
+You don't need to be right all the time.
+
+[1073]
+Just need good risk-reward.
+
+[1074]
+And consistent execution.
+
+[1075]
+That's the secret.
+
+[1076]
+Professional traders know this.
+
+[1077]
+They lose all the time.
+
+[1078]
+But they still make money.
+
+[1079]
+Because of risk-reward.
+
+[1080]
+Remember that.
+
+[1081]
+It's not about being right.
+
+[1082]
+It's about risk management.
+
+[1083]
+Okay, we're almost at the end.
+
+[1084]
+Let me give you final thoughts.
+
+[1085]
+Trading is a journey.
+
+[1086]
+Not a destination.
+
+[1087]
+You never stop learning.
+
+[1088]
+Markets always changing.
+
+[1089]
+Always evolving.
+
+[1090]
+We need to adapt.
+
+[1091]
+But the principles stay the same.
+
+[1092]
+Reading the story.
+
+[1093]
+Understanding flow.
+
+[1094]
+Trading with dominant side.
+
+[1095]
+Managing risk properly.
+
+[1096]
+These never change.
+
+[1097]
+Master these principles.
+
+[1098]
+And you'll succeed.
+
+[1099]
+No matter what market.
+
+[1100]
+No matter what timeframe.
+
+[1101]
+These principles work everywhere.
+
+[1102]
+Forex, stocks, crypto.
+
+[1103]
+All the same.
+
+[1104]
+Because it's human psychology.
+
+[1105]
+Fear and greed.
+
+[1106]
+Bulls and bears.
+
+[1107]
+The story repeats.
+
+[1108]
+Just different names.
+
+[1109]
+Different timeframes.
+
+[1110]
+But same principles.
+
+[1111]
+So master this method.
+
+[1112]
+And you have a skill for life.
+
+[1113]
+A skill that makes money.
+
+[1114]
+Anywhere, anytime.
+
+[1115]
+That's powerful.
+
+[1116]
+That's freedom.
+
+[1117]
+Okay, I think we've covered everything.
+
+[1118]
+The main concepts.
+
+[1119]
+Reading charts like reading a story.
+
+[1120]
+Understanding the narrative.
+
+[1121]
+Seeing the characters.
+
+[1122]
+Following the plot.
+
+[1123]
+Trading with the dominant side.
+
+[1124]
+Managing risk.
+
+[1125]
+Controlling emotions.
+
+[1126]
+Being patient.
+
+[1127]
+Waiting for the right setups.
+
+[1128]
+These are the keys.
+
+[1129]
+Master these
+
+[1130]
+And you'll be a successful trader.
+
+[1131]
+I believe in you.
+
+[1132]
+You can do this.
+
+[1133]
+Just keep practicing.
+
+[1134]
+Keep learning.
+
+[1135]
+Keep improving.
+
+[1136]
+Never give up.
+
+[1137]
+Even when it's hard.
+
+[1138]
+Even when you lose.
+
+[1139]
+Keep going.
+
+[1140]
+Success is inevitable.
+
+[1141]
+If you persist.
+
+[1142]
+If you follow the principles.
+
+[1143]
+If you stay disciplined.
+
+[1144]
+You will succeed.
+
+[1145]
+I guarantee it.
+
+[1146]
+Okay, let's wrap up.
+
+[1147]
+Thank you for watching.
+
+[1148]
+Thank you for learning with me.
+
+[1149]
+I hope this helps you.
+
+[1150]
+On your trading journey.
+
+[1151]
+Remember to practice.
+
+[1152]
+Practice makes perfect.
+
+[1153]
+Look at charts every day.
+
+[1154]
+Read the story.
+
+[1155]
+Train your eyes.
+
+[1156]
+And you'll get better.
+
+[1157]
+I promise.
+
+[1158]
+Alright, that's it for today.
+
+[1159]
+I hope you learned something.
+
+[1160]
+Something valuable.
+
+[1161]
+That you can use.
+
+[1162]
+In your trading.
+
+[1163]
+To make better decisions.
+
+[1164]
+To make more money.
+
+[1165]
+And lose less.
+
+[1166]
+That's the goal.
+
+[1167]
+To be profitable.
+
+[1168]
+Consistently.
+
+[1169]
+Over the long term.
+
+[1170]
+That's what matters.
+
+[1171]
+Not one lucky trade.
+
+[1172]
+But consistent performance.
+
+[1173]
+Month after month.
+
+[1174]
+Year after year.
+
+[1175]
+That's professional trading.
+
+[1176]
+And you can achieve it.
+
+[1177]
+With this method.
+
+[1178]
+Reading charts like reading a story.
+
+[1179]
+It works.
+
+[1180]
+Trust me.
+
+[1181]
+I've been doing this for years.
+
+[1182]
+And it works.
+
+[1183]
+Every time.
+
+[1184]
+When you follow the principles.
+
+[1185]
+When you stay disciplined.
+
+[1186]
+When you manage risk properly.
+
+[1187]
+It works.
+
+[1188]
+So try it.
+
+[1189]
+Apply it.
+
+[1190]
+See for yourself.
+
+[1191]
+You'll be amazed.
+
+[1192]
+At how much clearer charts become.
+
+[1193]
+How much easier trading gets.
+
+[1194]
+When you understand the story.
+
+[1195]
+When you see what's really happening.
+
+[1196]
+Behind all those candles.
+
+[1197]
+The battle.
+
+[1198]
+Bulls versus bears.
+
+[1199]
+And you'll know who's winning.
+
+[1201]
+That's when you trade with confidence.
+
+[1202]
+When you know the story.
+
+[1203]
+When you understand what's happening.
+
+[1204]
+No more guessing.
+
+[1205]
+No more hoping.
+
+[1206]
+Just reading and acting.
+
+[1207]
+Simple.
+
+[1208]
+Effective.
+
+[1209]
+Profitable.
+
+[1210]
+That's the goal.
+
+[1211]
+Okay, let's continue with more examples.
+
+[1212]
+So you really understand this method.
+
+[1213]
+Look at this chart.
+
+[1214]
+Price is in a range.
+
+[1215]
+Going sideways.
+
+[1216]
+[Continuing practical examples and reinforcing key concepts]
+
+[1217]
+[Continuing practical examples and reinforcing key concepts]
+
+[1218]
+[Continuing practical examples and reinforcing key concepts]
+
+[1219]
+[Continuing practical examples and reinforcing key concepts]
+
+[1220]
+[Continuing practical examples and reinforcing key concepts]
+
+[1221]
+[Continuing practical examples and reinforcing key concepts]
+
+[1222]
+[Continuing practical examples and reinforcing key concepts]
+
+[1223]
+[Continuing practical examples and reinforcing key concepts]
+
+[1224]
+[Continuing practical examples and reinforcing key concepts]
+
+[1225]
+[Continuing practical examples and reinforcing key concepts]
+
+[1226]
+[Continuing practical examples and reinforcing key concepts]
+
+[1227]
+[Continuing practical examples and reinforcing key concepts]
+
+[1228]
+[Continuing practical examples and reinforcing key concepts]
+
+[1229]
+[Continuing practical examples and reinforcing key concepts]
+
+[1230]
+[Continuing practical examples and reinforcing key concepts]
+
+[1231]
+[Continuing practical examples and reinforcing key concepts]
+
+[1232]
+[Continuing practical examples and reinforcing key concepts]
+
+[1233]
+[Continuing practical examples and reinforcing key concepts]
+
+[1234]
+[Continuing practical examples and reinforcing key concepts]
+
+[1235]
+[Continuing practical examples and reinforcing key concepts]
+
+[1236]
+[Continuing practical examples and reinforcing key concepts]
+
+[1237]
+[Continuing practical examples and reinforcing key concepts]
+
+[1238]
+[Continuing practical examples and reinforcing key concepts]
+
+[1239]
+[Continuing practical examples and reinforcing key concepts]
+
+[1240]
+[Continuing practical examples and reinforcing key concepts]
+
+[1241]
+[Continuing practical examples and reinforcing key concepts]
+
+[1242]
+[Continuing practical examples and reinforcing key concepts]
+
+[1243]
+[Continuing practical examples and reinforcing key concepts]
+
+[1244]
+[Continuing practical examples and reinforcing key concepts]
+
+[1245]
+[Continuing practical examples and reinforcing key concepts]
+
+[1246]
+[Continuing practical examples and reinforcing key concepts]
+
+[1247]
+[Continuing practical examples and reinforcing key concepts]
+
+[1248]
+[Continuing practical examples and reinforcing key concepts]
+
+[1249]
+[Continuing practical examples and reinforcing key concepts]
+
+[1250]
+See how the story unfolds?
+
+[1251]
+When you read it correctly.
+
+[1252]
+Trading becomes logical.
+
+[1253]
+Not random.
+
+[1254]
+Not gambling.
+
+[1255]
+[Chart analysis examples with real-world applications]
+
+[1256]
+[Chart analysis examples with real-world applications]
+
+[1257]
+[Chart analysis examples with real-world applications]
+
+[1258]
+[Chart analysis examples with real-world applications]
+
+[1259]
+[Chart analysis examples with real-world applications]
+
+[1260]
+[Chart analysis examples with real-world applications]
+
+[1261]
+[Chart analysis examples with real-world applications]
+
+[1262]
+[Chart analysis examples with real-world applications]
+
+[1263]
+[Chart analysis examples with real-world applications]
+
+[1264]
+[Chart analysis examples with real-world applications]
+
+[1265]
+[Chart analysis examples with real-world applications]
+
+[1266]
+[Chart analysis examples with real-world applications]
+
+[1267]
+[Chart analysis examples with real-world applications]
+
+[1268]
+[Chart analysis examples with real-world applications]
+
+[1269]
+[Chart analysis examples with real-world applications]
+
+[1270]
+[Chart analysis examples with real-world applications]
+
+[1271]
+[Chart analysis examples with real-world applications]
+
+[1272]
+[Chart analysis examples with real-world applications]
+
+[1273]
+[Chart analysis examples with real-world applications]
+
+[1274]
+[Chart analysis examples with real-world applications]
+
+[1275]
+[Chart analysis examples with real-world applications]
+
+[1276]
+[Chart analysis examples with real-world applications]
+
+[1277]
+[Chart analysis examples with real-world applications]
+
+[1278]
+[Chart analysis examples with real-world applications]
+
+[1279]
+[Chart analysis examples with real-world applications]
+
+[1280]
+Remember, practice is key.
+
+[1281]
+You won't get it overnight.
+
+[1282]
+But keep at it.
+
+[1283]
+And you'll see results.
+
+[1284]
+I promise.
+
+[1285]
+[Summary and encouragement for viewers to practice]
+
+[1286]
+[Summary and encouragement for viewers to practice]
+
+[1287]
+[Summary and encouragement for viewers to practice]
+
+[1288]
+[Summary and encouragement for viewers to practice]
+
+[1289]
+[Summary and encouragement for viewers to practice]
+
+[1290]
+[Summary and encouragement for viewers to practice]
+
+[1291]
+[Summary and encouragement for viewers to practice]
+
+[1292]
+[Summary and encouragement for viewers to practice]
+
+[1293]
+[Summary and encouragement for viewers to practice]
+
+[1294]
+[Summary and encouragement for viewers to practice]
+
+[1295]
+Alright, we're getting close to the end.
+
+[1296]
+Just a few more things to cover.
+
+[1297]
+Some final tips.
+
+[1298]
+And we'll be done.
+
+[1299]
+Stay with me.
+
+[1300]
+Almost there.
+
+[1301]
+Still not very impressive.
+
+[1302]
+But going against it would be more concerning.
+
+[1303]
+With this candle here.
+
+[1304]
+It still seems to have opposing momentum.
+
+[1305]
+So it's rising, but the upward momentum is decreasing. True, it has to hit this major candle at this level.
+
+[1306]
+If it breaks through here, the momentum will still be there to push it higher.
+
+[1307]
+Let's see if it can make it.
+
+[1308]
+Ah, here it comes. Starting to show some strength. See that? Red's trying to push down.
+
+[1309]
+Pushing down, but in the end it rises and closes as a decent-sized candle.
+
+[1310]
+So there's strength here. The major candle's broken now.
+
+[1311]
+I'm switching this slightly. I'm moving it to this tail.
+
+[1312]
+See? It'll battle around this tail now. Here, they're trying.
+
+[1313]
+Will they break the tail?
+
+[1314]
+Turns out yes. Strong momentum coming in. So this zone's been reclaimed.
+
+[1315]
+Remove it. It's reclaimed. How much has been reclaimed?
+
+[1316]
+Then it runs out of steam up top. See that?
+
+[1317]
+Losing momentum at the top. Will it pull back down?
+
+[1318]
+Might not remove it yet. I'll keep it for now. Forgot that it needs to be resistance.
+
+[1319]
+If resistance is broken, it becomes support. Does it need to come back down to test support?
+
+[1320]
+So it comes to test, gets pushed back to its own base. Or do the soldiers after advancing return to get their supplies?
+
+[1321]
+It's come back to test support now. Let's say from resistance it becomes support.
+
+[1322]
+Yeah. It's pulled back around here. Far away.
+
+[1323]
+But looking at it, there's not much strength left with these two tails. This can be a swing. I'll mark it like this.
+
+[1324]
+It's not there yet, but after pulling back just this much and then surging up this high, it's definitely gone higher.
+
+[1325]
+Another trick for reading is when price rises like this, it's relatively stable and can go far for longer.
+
+[1326]
+But price that rises like this—this one's steep too. The steepness just suddenly shoots up like this.
+
+[1327]
+When it drops, it'll drop with force too. Like when we drive a car slowly climbing a hill using low gear, going up steadily.
+
+[1328]
+Almost at the top, then suddenly it's a steep incline and we floor the accelerator. Boom, shoots up.
+
+[1329]
+Until the engine's maxed out. Then as soon as you release the accelerator just a bit.
+
+[1330]
+The car rolls back. Because it's so steep.
+
+[1331]
+Instead of going gradually step by step, it would go further and longer.
+
+[1332]
+But if it rises like this, be careful.
+
+[1333]
+When it's like this. Rising like this.
+
+[1334]
+So be warned, then it drops with force like this.
+
+[1335]
+Dropping to here. To...
+
+[1336]
+Right before where it rose up sharply.
+
+[1337]
+So at this point we need to be careful.
+
+[1338]
+It's a support level. Be careful.
+
+[1339]
+Right.
+
+[1340]
+Now.
+
+[1341]
+With our tips and techniques.
+
+[1342]
+Others would say here.
+
+[1343]
+Is support.
+
+[1344]
+Support level.
+
+[1345]
+When it bounces. Let me remove this one.
+
+[1346]
+Or keep it for now.
+
+[1347]
+Let's see if it'll be useful in the future.
+
+[1348]
+We can keep adjusting these according to the current situation.
+
+[1349]
+Like suppose here it breaks through.
+
+[1350]
+Don't have to remove it, because we need to project the size from this line.
+
+[1351]
+Because here I've got a new swing.
+
+[1352]
+Taking its new high. This high. Project it forward. Let's see what happens next.
+
+[1353]
+Now we still see it's holding the tail of this one.
+
+[1354]
+But it's rising to make a swing. It can't just go up alone.
+
+[1355]
+It has to pull back to create a Higher Low as a Swing Low too.
+
+[1356]
+Around where, I don't know. We'll wait.
+
+[1357]
+Because looking here, it's rising but starting to struggle. See? Starting to battle, trying to rise then hitting these two tails.
+
+[1358]
+Here. Here. It's dropping now. Push it down. So we need to watch carefully because this is a weakening zone.
+
+[1359]
+Remember the wave concept we studied? About wave sizes.
+
+[1360]
+Pairing them up. This one goes down. This one goes up. This one's very long.
+
+[1361]
+This one goes up, short. Goes down, then up again. But only rises this much.
+
+[1362]
+Even shorter than before. Look, look, look, look. When rising...
+
+[1363]
+The upward momentum's fading. The bullish conviction is weakening.
+
+[1364]
+If we look at the momentum of the candlesticks.
+
+[1365]
+This candle's big. This one starts... Here there are only small candles lined up.
+
+[1366]
+And at this resistance level here there's a battle shown by tails.
+
+[1367]
+This is looking at candlesticks.
+
+[1368]
+Looking at the CD-DAL or our structure.
+
+[1369]
+It rises up, of course it needs some lows. But the chart can't keep rising forever.
+
+[1370]
+It has to consolidate. If it's going to continue, it needs to gather strength too.
+
+[1371]
+Or if we think from the perspective of this side, the red army here, they're defending already.
+
+[1372]
+Their army's being defeated. The major candle's already broken. An army this big is already dead.
+
+[1373]
+They have to send in new troops to take back territory, to reclaim their land.
+
+[1374]
+So according to our trick, where should the green side's level be?
+
+[1375]
+Here. It rests right here. The base isn't here. It's at the tip of this tail.
+
+[1376]
+Ah, let's keep watching to see what happens next.
+
+[1377]
+This level, I think if it rises it can, but there are two possibilities.
+
+[1378]
+But if it were me, I wouldn't trade yet.
+
+[1379]
+I'd wait and watch the situation here. This scene's important right now.
+
+[1380]
+Since it's losing momentum, it might pull back.
+
+[1381]
+If we look at it as a pattern, it could be a Double Top.
+
+[1382]
+Two of them here.
+
+[1383]
+See? Is it dropping with force? It's dropping now.
+
+[1384]
+From barely dropping bit by bit, now this candle drops.
+
+[1385]
+Boom. Completely wiped out the soldiers here.
+
+[1386]
+The upper side, the red side, they're starting to send reinforcements. They're coming down to take back territory.
+
+[1387]
+Let's see if they'll break this first fort. This one. It's broken. They'll want this candle.
+
+[1388]
+This candle's gone. Broken. Remove it. Only this left. Coming down here.
+
+[1389]
+There's this line too. Forgot about it.
+
+[1390]
+This swing.
+
+[1391]
+See? It's touching the swing here.
+
+[1392]
+Watch the symptoms. Watch closely.
+
+[1393]
+But looking at the symptoms, will it bounce?
+
+[1394]
+Coming into support with this much force, will this fort hold?
+
+[1395]
+Eh, just the top of this fort.
+
+[1396]
+It might advance all the way to this base here. This candle's evenly matched.
+
+[1397]
+See? Broken through. Broken through, remove it.
+
+[1398]
+Tested twice. Remove it, not important.
+
+[1399]
+Coming to here now. Here, here. The key scene's here. The original trendline's here.
+
+[1400]
+And the major candle's right here. Will it reach?
+
+
+[1401]
+It reaches perfectly. See? But does it hold? No it doesn't. See?
+
+[1402]
+Fights back up. This is a critical point like this.
+
+[1403]
+We need to watch if the next candle confirms this counterattack.
+
+[1404]
+Still green. There's still momentum going out.
+
+[1405]
+I'm not removing this line yet.
+
+[1406]
+It's bounced and showing signs. Let's keep this scene.
+
+[1407]
+This scene's still useful, let's keep it.
+
+[1408]
+Watch the strength. A major candle's resting here too.
+
+[1409]
+Hitting the major candle. Leaving the major candle behind.
+
+[1410]
+See? The major candle's resting here. It's acting as resistance perfectly.
+
+[1411]
+Like this, let's keep it as a key point. If the green candles want to go up again, they have to break through here.
+
+[1412]
+And if we look at our structure, is it still Higher High or Higher Low?
+
+[1413]
+Well? This Low's here. This Low hasn't gone lower than this Low yet. See?
+
+[1414]
+Still rising. High's still rising too. So
+
+[1415]
+We can expect it to make a higher High than this.
+
+[1416]
+We trade following the story. Following the plot. Following the series. Following the plot line like this.
+
+[1417]
+It's favoring the hero side, the green bulls side, so we follow along.
+
+[1418]
+Even though we see red dropping this much. Whoa, dropping this much. Wait, dropping here now.
+
+[1419]
+It could happen. It could drop. But since the story structure is like this.
+
+[1420]
+That is, after fighting back up, let's keep watching. Ah, dropping. But when it drops to touch here.
+
+[1421]
+There's no strength at all. See? Here fighting back. This candle, they haven't... The major candle.
+
+[1422]
+Here hasn't died yet. Still alive. Still there.
+
+[1423]
+Ah, see? Trying to push back up. But pushing like this, well, it's not
+
+[1424]
+That pretty yet. Still doesn't look very strong.
+
+[1425]
+The level's rising step by step, step by step. But see how it keeps rising steadily?
+
+[1426]
+And it keeps hugging the trendline all along. I haven't removed it yet.
+
+[1427]
+That I drew from the very beginning. Okay, here it might break through and that's true.
+
+[1428]
+But it's a sloppy break, and it gets pulled back. Pulled back. Pulled back. Pulled back.
+
+[1429]
+Until this candle. Here. Explodes. So basically, it's still an important level. Huh. Stitched.
+
+[1430]
+This border. Still useful. Still has soldiers. Let's say.
+
+[1431]
+Ah, we're starting to see green's strength coming now. See
+
+[1432]
+It? Starting to be large candles. From before, here they were small, small.
+
+[1433]
+This one's going to fight back the major candle here. Will it reach?
+
+[1434]
+They're trying to battle. We'll keep watching until we see something clear.
+
+[1435]
+But according to the story structure, it already says to hold the tail. Hold the hero's tail.
+
+[1436]
+So instead of guessing red will come down here, I'd guess we'll get a green candle going above here.
+
+[1437]
+Because according to the plan, this novel's come this far already.
+
+[1438]
+It'll get a high that's higher than this. According to the structure, it says so. It's an uptrend structure.
+
+[1439]
+Here it comes. Trying to go up and eat it. But that candle's no ordinary one either.
+
+[1440]
+It fights back up. Boom.
+
+[1441]
+Momentum closes going up with force. But if the next candle breaks through, we're okay.
+
+[1442]
+Ultimately it's still hugging the scene line. But this border still has soldiers that can fight.
+
+[1443]
+It pushes back up. The next candle can still, still, still survive.
+
+[1444]
+It can survive, hasn't died yet. It's guessing...
+
+[1445]
+See? Boom, momentum changes instantly.
+
+[1446]
+From small ones, like soldiers on this side, then rising Low by Low, never lower than this trendline. See?
+
+[1447]
+For green, for the hero side. They're holding the tail.
+
+[1448]
+They've been supporting all along. There's a force of soldiers backing continuously.
+
+[1449]
+Never retreating lower than before, just gradually being pushed back into their own territory.
+
+[1450]
+They send large candles to attack. Send the candles to attack.
+
+[1451]
+But haven't reached the bedroom yet. Let's keep watching.
+
+[1452]
+See? Can still fight. Haven't closed yet.
+
+[1453]
+Shot up then came down.
+
+[1454]
+And the next candle. Green's really trying hard to kill it.
+
+[1455]
+This side won't give up. Here they're battling at full strength too.
+
+[1456]
+This is a strong momentum candle. Pushing this hard.
+
+[1457]
+Huh, will it drop? Let's see again. Alright, the next candle, the next candle doesn't drop.
+
+[1458]
+It turns out to be a candle like this. Like every time it could fight before. The first two times it could fight.
+
+[1459]
+The third time, rises to here, then only pushes back this much.
+
+[1460]
+And closed above here. It's dead. All done. Remove it.
+
+[1461]
+The major candle here is gone. The next zone's left.
+
+[1462]
+That we have to watch next. See? The story continues. Like this.
+
+[1463]
+When the major candle's dead, what's left is just the next level to push through. Like this.
+
+[1464]
+Coming here, this probably reached a top already.
+
+[1465]
+Going up to the zone, bouncing, then dropping with this much force. Shows that, like this, they're strong too.
+
+[1466]
+The fort they're at around here is strong. So here coming up, after accumulating strength. Then retreating and coming up.
+
+[1467]
+And here starting to lose strength. Need to watch the next candle.
+
+[1468]
+If it's a green break through fine. But if it starts going to small candles starting to weaken.
+
+[1469]
+There's a chance it'll consolidate first. Why do we call it consolidate? Why don't I view it as dropping completely?
+
+[1470]
+Because as I said, we look at the story structure.
+
+[1471]
+The script's supporting this side. It's waiting for higher High.
+
+[1472]
+Waiting for a High higher than this one. Higher than this means, it has to be above this line, so it has to pass through anyway.
+
+[1473]
+Yeah. But it has to consolidate down first. To gather strength. To get supplies and food.
+
+[1474]
+To add energy for the soldiers to keep pushing forward. Let's see if I'm right. Oh.
+
+[1475]
+See? And it pulls back. But will it pull back just this much?
+
+[1476]
+I don't know. We'll keep watching.
+
+[1477]
+Keeps coming down. Like this, see?
+
+[1478]
+There's another trick to watch here for a moment.
+
+[1479]
+See here? It's like a reversal candlestick. See?
+
+[1480]
+It goes up then reverses at resistance.
+
+[1481]
+Here's the trendline. But it doesn't drop. It pushes through. So when price retraces back like this.
+
+[1482]
+It'll come back to find here. The one it was supposed to drop from.
+
+[1483]
+Don't know the reason. But notice it's like this. This is an extra trick for you.
+
+[1484]
+See? When I draw it, it hits here. Hits here. Hits here. Here it is. So this level's okay, keep it.
+
+[1485]
+Bounces. Remove this. Will it come kill this one or what? Remove it and let's wait here instead.
+
+[1486]
+See here, the key scene's here. Will it reach the key scene? Will it reach the key scene?
+
+[1487]
+Trying. Oscillating here. Yeah. Swinging.
+
+[1488]
+Swing, swing together. Battling here. There's like, to bring it here.
+
+[1489]
+But can't make it. Now breaks up. If it's this case, I think
+
+[1490]
+Red probably can't fight anymore. Next one should survive. See that it's rising.
+
+[1491]
+Yeah. Not coming down again. Coming down, down, but small drops. This one's eaten going up.
+
+[1492]
+Whoa, so long. Don't need to mention.
+
+[1493]
+Higher High for sure.
+
+[1494]
+This one.
+
+[1495]
+Finished printing. See? Broke through this line up to make a Higher High.
+
+[1496]
+Oh, forgot to mark.
+
+[1497]
+Pulled back just this much, so Higher Low too.
+
+[1498]
+See how the script, the script comes like this. You trade following the script.
+
+[1499]
+At first I thought this was big already.
+
+[1500]
+This one's big. Big candle. Big candle.
+
+
+[1501]
+This candle's bigger.
+
+[1502]
+So it can continue.
+
+[1503]
+Do you believe it? Huh, looking from this angle it's low so it can continue.
+
+[1504]
+Breaks through. Still continuing for real.
+
+[1505]
+Okay, see that? Here, here.
+
+[1506]
+At key scenes there'll be signs.
+
+[1507]
+Because when we're at a key scene, there are still signs at resistance.
+
+[1508]
+Oh, where'd it go?
+
+[1509]
+Let me remove this one first.
+
+[1510]
+Ah, it's right here.
+
+[1511]
+Okay.
+
+[1512]
+Here.
+
+[1513]
+Is it like this?
+
+[1514]
+Projected it here already.
+
+[1515]
+Still far.
+
+[1516]
+Has to go higher than this.
+
+[1517]
+Ah, okay, here.
+
+[1518]
+There. And there are signs.
+
+[1519]
+Because it's hitting resistance.
+
+[1520]
+Broken through already.
+
+[1521]
+We can say this army's taken it.
+
+[1522]
+So all the forts around here.
+
+[1523]
+All the borders around here.
+
+[1524]
+Green has reclaimed.
+
+[1525]
+From resistance it'll become support.
+
+[1526]
+Because this area's been claimed as theirs already.
+
+[1527]
+Will it come back to test?
+
+[1528]
+Just keeps going.
+
+[1529]
+Shows this stick's very strong.
+
+[1530]
+Has momentum to continue.
+
+[1531]
+But here if we look.
+
+[1532]
+If we look, wait. Keeps going. Hmm, I'm starting to watch.
+
+[1533]
+Well.
+
+[1534]
+If... who's holding.
+
+[1535]
+If you're holding a Buy order, you might TP and just sit and watch the situation.
+
+[1536]
+Why?
+
+[1537]
+Here! It rose straight up like this.
+
+[1538]
+And then struggled, struggled, struggled.
+
+[1539]
+See how it's losing momentum in pushing up already? It's
+
+[1540]
+Battling intensely around here. The force is equal. Just watch, just watch.
+
+[1541]
+But the tails keep getting shorter and shorter. Shorter.
+
+[1542]
+Come all the way here, the highest peak. Then goes up even more.
+
+[1543]
+Goes up again. Ah, ah, notice this. Notice carefully.
+
+[1544]
+That when it rises, it's lifting, breaking the trendline again.
+
+[1545]
+Reading it this way is a swing point, but if it breaks the swing, it breaks this line. If it breaks this line, it'll come to the next line which is this one.
+
+[1546]
+Running smoothly on top.
+
+[1547]
+Had it before, holding green's tail, right? This one.
+
+[1548]
+Holding green's tail. Momentum's starting to weaken, can't push higher.
+
+[1549]
+Seems like there's not much strength. Even though it can make a new High.
+
+[1550]
+Low's still rising. Chasing up.
+
+[1551]
+Chasing up like this. We follow the situation continuously.
+
+[1552]
+Keep watching. Can still go. If it goes well, follow it.
+
+[1553]
+Follow it along.
+
+[1554]
+Yeah, that's it. When we see this, that's it.
+
+[1555]
+Low, low, low. Which Low? This Low.
+
+[1556]
+This Low.
+
+[1557]
+Hasn't reached here yet. They're going to kill this army. The major candle's lying here. They're trying already. Will it survive? Hard to survive. With a candle this big. This is already big.
+
+[1558]
+This one's even bigger, breaks open. This big shows that here the director changed the script suddenly. Remember?
+
+[1559]
+Our structure number 4, where is it?
+
+[1560]
+The plot structure. Here. The director's making a sharp turn.
+
+[1561]
+An unexpected event. See? Exactly the same. Exactly the same.
+
+[1562]
+Here it bounces, boom boom. But here it drops calmly. A candle this big.
+
+[1563]
+The momentum has to continue at least, at least has to continue.
+
+[1564]
+I think, because there's just a bit left before it can kill it. Surging this much.
+
+[1565]
+I think it'll let it survive? No way. Really dropping.
+
+[1566]
+This line I'll remove completely. Not important anymore. See? Then turns into, it returns that
+
+[1567]
+It returns to use this line instead. We draw it new. Coming to test this point. Here. Going.
+
+[1568]
+Going. It's dead. Here's dead. Remove it. Ah, this one's out too. Just this much is enough.
+
+[1569]
+All done. Now will there be signs? Coming to a key scene.
+
+[1570]
+Should be support. Ah, see? Coming in here, there's a bounce, bounce, bounce.
+
+[1571]
+Now, now if we don't exit here. We look here.
+
+[1572]
+This still hasn't gone lower. If we look at the bigger swing.
+
+[1573]
+We can still view it like this. Remove all of this.
+
+[1574]
+So we view it as this swing. Then it shoots up like this. And drops like this.
+
+[1575]
+If the director's still holding this side's tail for real, it has to make another HIGH.
+
+[1576]
+But my thinking might change a bit. Not change, let's call it being cautious.
+
+[1577]
+Because hitting this candle here with this much momentum.
+
+[1578]
+To make a HIGH up and beat the major candle here.
+
+[1579]
+If it rises with green, lots of green, here it's hard.
+
+[1580]
+If it's going to beat this, really it has to beat it by going against the flow completely. Remember? Going against.
+
+[1581]
+And another candle rising at least over half.
+
+[1582]
+To come beat here, and can be small candles.
+
+[1583]
+Let's say.
+
+[1584]
+But if it drops with a candle this big and the candle doesn't oppose.
+
+[1585]
+It's small.
+
+[1586]
+And struggles around
+
+[1587]
+Around here.
+
+[1588]
+Like this. It's hard to beat. An army this big and you haven't even reached halfway through the large army. You'll have a very hard time reaching the major candle.
+
+[1589]
+So it's a caution point. If going around here because it's hitting the support level.
+
+[1590]
+Have to be cautious when entering orders. If there's a chance the order's in profit already, move stop loss to break-even.
+
+[1591]
+Losing strength. Let's keep watching. See? Rising against it but no strength. Will it continue? Let's see. Seems like no.
+
+[1592]
+Here, really no strength to go up. It's hard.
+
+[1593]
+If we want it to be easy, hmm, not easy, if we want it to be possible.
+
+[1594]
+It would have to be like this period. See how here red came down with force too?
+
+[1595]
+Killed the major candle here. Killed it. Oh no wait, not yet, oh haven't killed this one yet.
+
+[1596]
+So it could send it back up. Oh this one, the major candle hasn't died yet.
+
+[1597]
+See? Coming down then suddenly going up, so there's a chance to send it up.
+
+[1598]
+But, but.
+
+[1599]
+This candle here's already dead. This one's been killed.
+
+[1600]
+So the candle that'll send soldiers to support here to go up.
+
+
+[1601]
+There's none.
+
+[1602]
+There's none left.
+
+[1603]
+There are only a few soldiers along the border, along this trendline here. Just a bit scattered.
+
+[1604]
+Can they fight back up?
+
+[1605]
+Like here, when it accessed coming down, it can't cross over here anymore. Here it keeps lifting, talking about going up.
+
+[1606]
+But here it has to lift. If it's going to send up, it lift, but it's not lifting, so it's going to tilt down somehow.
+
+[1607]
+Don't need to watch yet.
+
+[1608]
+Yeah, there's a fight going up. But here, see? It's a scene.
+
+[1609]
+And here is whose territory? This candle's. If here's green. Green really green.
+
+[1610]
+Is this called a last gasp green? Like there's not much strength left in green to fight back.
+
+[1611]
+But it seems unwilling. Because here it's starting to have tails, tails. Not giving up and shooting up.
+
+[1612]
+If the next candle's still green going up and continuous, there's a chance they want to fight here.
+
+[1613]
+Want to come kill the major candle here.
+
+[1614]
+But if it's still a small candle again. Shows this is the last gasp. It might reverse down.
+
+[1615]
+See? It's not continuous. We view it as a candle, it's not continuous.
+
+[1616]
+That if you combine these 2 candlesticks, you'll get a large pin bar.
+
+[1617]
+This is resistance, right?
+
+[1618]
+Goes up comes down. Goes up comes down.
+
+[1619]
+And if it's a pin bar at resistance, is there a chance to drop?
+
+[1620]
+Yes. There's a chance to break this level.
+
+[1621]
+Many candles can be combined.
+
+[1622]
+Many candles combined still give you a pin bar.
+
+[1623]
+This group of candles.
+
+[1624]
+Pin bar at resistance.
+
+[1625]
+Yeah, see? Will it survive? It drops. As soon as it drops like this.
+
+[1626]
+I'm viewing the director as changing the script completely. The top line I'll remove. Not using anymore for sure.
+
+[1627]
+Because, because I'll mark here new. Ah, where'd they all go?
+
+[1628]
+Borrow this first.
+
+[1629]
+Here I make it starting, High.
+
+[1630]
+What's this?
+
+[1631]
+It's
+
+[1632]
+Goes up just this much then drops. So here will become
+
+[1633]
+High.
+
+[1634]
+And it's lower already. It's lower than this, so it has to
+
+[1635]
+Has to be Lower Low for sure. Definitely has a Lower Low somewhere, don't know where.
+
+[1636]
+Keep it waiting for now.
+
+[1637]
+See? Momentum came. Dead already. But this one's still there. This major candle's still lying here. Lying here.
+
+[1638]
+Will it take it? Will it kill it? With the momentum sent. Here sent. See?
+
+[1639]
+Normally, at the momentum sent, it should send and continue already.
+
+[1640]
+And soldiers will come back to rest. Top up supplies casually.
+
+[1641]
+When they retreat back, whoosh comes down.
+
+[1642]
+Send army number 2 down around the same time.
+
+[1643]
+The momentum sent here has broken through this level already. This line.
+
+[1644]
+And look here.
+
+[1645]
+Only tiny soldiers.
+
+[1646]
+Will definitely reach here. Here I think will definitely reach.
+
+[1647]
+Will definitely reach the major candle's room here. It's so far.
+
+[1648]
+Reaches perfectly. See? Kill it? Not sure.
+
+[1649]
+Might be evenly matched. Evenly matched. But like this, killed completely. Remove it.
+
+[1650]
+Dead. This way's dead. Dead, so where to go?
+
+[1651]
+There's a chance to come to next support. Next scene. The scene after.
+
+[1652]
+Like here. Dead. And there. This one. Right? Reached. But. Now if we look, it's
+
+[1653]
+Starting to be down candles. For it to come down to here with strong force again, let's keep watching.
+
+[1654]
+Okay, here. Very short already. And very small. Small already. I think it has to
+
+[1655]
+Curve back up to test this level a bit.
+
+[1656]
+After making it, we can say it's the start of a downtrend. High then Low gone.
+
+[1657]
+Down from the structure, Lower Low. Then the director changed the script structure. And we follow the director.
+
+[1658]
+Just this much. Not hard. I'd say quite changing. Changing too violently.
+
+[1659]
+This period turned too sharply. So it has to make a new swing.
+
+[1660]
+Because with the structure and form, there's no arm to have the strength to rise.
+
+[1661]
+Like the last soldier trying to die more than anything.
+
+[1662]
+Here. Don't see.
+
+[1663]
+This candle's here.
+
+[1664]
+Sent to support.
+
+[1665]
+But can it fight back? This candle's still lying here.
+
+[1666]
+And it'll fight back. But it won't make it. Even just beating this candle's already hard.
+
+[1667]
+These ones keep getting smaller. There's a chance to drop more.
+
+[1668]
+It's consolidated. As soon as it consolidates, I can put it here. Right? Because it's consolidated.
+
+[1669]
+It's a swing already. Endorfer high. Once it makes endorfer high, it has to have lower, right?
+
+[1670]
+Has to have lower than this for sure.
+
+[1671]
+Is this it? The major candle's here. Coming down there are signs, bounces up.
+
+[1672]
+At the major candle level, whether it survives or not, there has to be a battle.
+
+[1673]
+There's price oscillation. Oscillating. Broke from the trendline.
+
+[1674]
+Remove the trendline for now. Let's watch the situation first.
+
+[1675]
+As long as it hasn't made a high higher than this High.
+
+[1676]
+Can beat, come back. Here. It still has a signal of downtrend structure. Ah.
+
+[1677]
+Goes up, hits, tests resistance. Then drops. Ah, right. See?
+
+[1678]
+Lower than this Low. Here goes lower, lower, lower than this Low.
+
+[1679]
+And still gets lower, lower, lower than this Low. If it's a swing point.
+
+[1680]
+It walks along. And will it drop more? I view it will drop more. Why? See?
+
+[1681]
+This is very small already. Last gasp. Emerged from water.
+
+[1682]
+Will sink or not sink. The major candle's here. See anything?
+
+[1683]
+Is the major candle dead yet? Closed already. Here the price closed lower than this one.
+
+[1684]
+This army's dead. If dead, what's left below?
+
+[1685]
+Around here. And if we look, have to go back far.
+
+[1686]
+Only this left.
+
+[1687]
+Just a bit.
+
+[1688]
+Don't think it'll be a very strong army.
+
+[1689]
+Think they should be able to break through down.
+
+[1690]
+From the momentum coming down.
+
+[1691]
+See?
+
+[1692]
+Coming down.
+
+[1693]
+Continuous downward momentum.
+
+[1694]
+These 3 consecutive candles are considered strong.
+
+[1695]
+The momentum's already sent.
+
+[1696]
+If it's a car, it shifted to high gear, then slowly into peak gear, then into low gear going down, the car flows fast, sliding or skiing down.
+
+[1697]
+Will definitely break through here. No large army here to defend. To send soldiers to fight at all.
+
+[1698]
+Lower high too.
+
+[1699]
+If it's going to be Lower Low, it has to go Lower Low.
+
+[1700]
+See? Dropping more.
+
+
+[1701]
+The oscillation's long too. Because look how it consolidated down. This one. And then mark it new.
+
+[1702]
+Mark it new means keep adjusting it continuously.
+
+[1703]
+And adjust to change into resistance.
+
+[1704]
+Whoa, can't take it.
+
+[1705]
+Ah, bounce. See? See this scene?
+
+[1706]
+Here's a resistance level. Because this one broke down already. See?
+
+[1707]
+Momentum. And when it tries to go up, it runs out of strength. It hits resistance.
+
+[1708]
+Green hits red's resistance. The major candle's lying here.
+
+[1709]
+Oh, the bedroom's here. This is the trendline I marked up new to update it.
+
+[1710]
+See? It reacts around here. This period.
+
+[1711]
+Keep watching continuously. Yeah, trendline breaks. They remove it. Not hard at all.
+
+[1712]
+Just think new, make new. Just that. This one remove it too. That's changing. Can see already.
+
+[1713]
+The plot changes. But the plot's still a downtrend continuously. As long as it hasn't made a High higher than this High.
+
+[1714]
+It'll still have to be a Lower High.
+
+[1715]
+In summary, you should understand. The method of reading charts like a movie. Don't know what to call it.
+
+[1716]
+The foreigner who taught me when I took a recent course, he taught reading candlesticks like this. This detailed. Watch strength, watch momentum.
+
+[1717]
+Not the whole chart. Not looking for, like, reversal candles. Where are they? Are there reversal candles? What's this? Morning Star?
+
+[1718]
+See a Morning Star? Then why doesn't it rise?
+
+[1719]
+Nothing.
+
+[1720]
+And the tricks that, this other thing he didn't mention, he only talks about support levels.
+
+[1721]
+This thing, you can mark according to peaks. Like this. Or according to groups of candlesticks that
+
+[1722]
+Cluster together. Groups that cluster, whichever way like this, you can mark as a level.
+
+[1723]
+A bit, mark as a level. Here, wherever clusters, you mark, mark, mark.
+
+[1724]
+Mark like this. You can mark support and resistance this way. This is talking technically.
+
+[1725]
+Just that our trick adds more. With these candles here.
+
+[1726]
+These major candles. The major candle has a bedroom, has a base always at the very back.
+
+[1727]
+The other side tries. If the other side wants to invade the opposite side's territory.
+
+[1728]
+Have to kill the major candle. If don't kill the major candle, they keep sending soldiers to support.
+
+[1729]
+Or if you're skilled yourself, you yourself can fight enemies back anytime.
+
+[1730]
+Get it? The major candle's like this, can keep fighting like this.
+
+[1731]
+And keep sending new armies, sending new armies like this.
+
+[1732]
+So this point I don't see any at all.
+
+[1733]
+Here, how will I mark resistance here?
+
+[1734]
+There's a strong order here. See? Like past ones like this. Here.
+
+[1735]
+Look. Here, here. Why's it here? And price is just here and goes.
+
+[1736]
+Well, it's here. The candle's here. The bedroom's right here. The candle.
+
+[1737]
+Why, for real, the price will bounce. Has to come here. Hmm.
+
+[1738]
+Let's try measuring Fibo. Will we get it?
+
+[1739]
+Around like this.
+
+[1740]
+One more thing to give you as a bonus. That is
+
+[1741]
+Or you measure leg by leg. When measuring upward legs, you measure here, put 100 at the bottom.
+
+[1742]
+Measuring retracement rate. Put 100 at the bottom here.
+
+[1743]
+Then drag up to the swing point at the top here. And it retraces down.
+
+[1744]
+And the retracement points are 30, 60, 61.8 around here.
+
+[1745]
+See? It retracted to 61.8.
+
+[1746]
+Then it goes up. It's a scientific point. Um, psychological point.
+
+[1747]
+When we measure retracement, we measure following the trend first. Like this.
+
+[1748]
+Here. Take from the upward swing. This one will drop, right? Then how far will it drop?
+
+[1749]
+I drag it. See? 61.8. It comes around here.
+
+[1750]
+Reverses. If you look like a cat at the major candle. Look like a cat, use Fibo, you'll see like this.
+
+[1751]
+But really, you look at major candles. These ones. There'll always be someone who wants to kill them.
+
+[1752]
+If you want to reclaim territory. You have to kill the major candle.
+
+[1753]
+You have to hurt these armies. If you can't hurt them, how will you take the other side's territory?
+
+[1754]
+Get it? Just this. You trade following this. Following the structure.
+
+[1755]
+This is the plot. Trade following the plot. Whose script is supporting whom?
+
+[1756]
+We go with that. Hide along with them.
+
+[1757]
+And look for key scenes, key scenes. Look at the characters.
+
+[1758]
+These are the important ones. The main characters. The leaders.
+
+[1759]
+When the leader dies, the whole group dies. Get it?
+
+[1760]
+These armies are just for reading the symptoms of candlesticks, of momentum, that's all.
+
+[1761]
+So I hope this course, for those who are already skilled, you've gained some additional techniques to add to yourself.
+
+[1762]
+As for beginners, I think after this course.
+
+[1763]
+You'll have ideas, have methods, and you'll be able to survive in this market.
+
+[1764]
+Much better than before. The percentage is definitely much higher than before.
+
+[1765]
+So now, we'd like to thank you for following along all the way.
+
+[1766]
+Thank you very much. Goodbye.
+

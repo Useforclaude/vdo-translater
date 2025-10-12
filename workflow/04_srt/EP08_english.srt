@@ -1,0 +1,1275 @@
+1
+00:00:00,900 --> 00:00:07,599
+Hello everyone, today we'll be talking about Money Management, or MM for short.
+
+2
+00:00:08,199 --> 00:00:29,600
+For MM, I'm focusing on just two things: Position Sizing, or the lot size you'll use when placing orders.
+
+3
+00:00:29,600 --> 00:00:41,600
+Why do we need MM? Besides having good entry points, MM is crucial because sometimes even with a bad entry, if your MM is good, your account can still grow.
+
+4
+00:00:41,600 --> 00:00:51,600
+Now let's see if you can use just MM alone without any Technical Analysis or Fundamental factors. Using only MM, some accounts can actually grow.
+
+5
+00:00:53,200 --> 00:01:01,700
+Like this example here, this is about calculating lot size.
+
+6
+00:01:02,100 --> 00:01:07,299
+We'll adjust it based on the width or cap of the Stop Loss.
+
+7
+00:01:08,799 --> 00:01:16,200
+We'll assume, it depends on us, how much we're willing to lose.
+
+8
+00:01:16,599 --> 00:01:21,599
+Let's say we use 5% in this case.
+
+9
+00:01:21,599 --> 00:01:25,700
+Stop Loss or SL, regardless of the distance, we'll only risk 5%.
+
+10
+00:01:25,700 --> 00:01:28,000
+Whether you set it tight or wide.
+
+11
+00:01:28,000 --> 00:01:31,000
+But if price moves against us and hits our SL line.
+
+12
+00:01:31,000 --> 00:01:34,000
+We'll only lose 5%, the money lost is just 5% of the account.
+
+13
+00:01:34,000 --> 00:01:36,500
+Of the account value at that time only.
+
+14
+00:01:36,500 --> 00:01:40,500
+For example, with $1,000 capital, if we're wrong, we'll lose $50.
+
+15
+00:01:40,500 --> 00:01:46,000
+Now when trading, there's one important factor in the formula.
+
+16
+00:01:46,000 --> 00:01:50,000
+As you can see in this formula, when calculating.
+
+17
+00:01:50,000 --> 00:01:53,000
+It's different for each currency pair.
+
+18
+00:01:53,000 --> 00:01:56,000
+Some pairs are the same though. What is it?
+
+19
+00:01:56,000 --> 00:02:02,000
+When we enter a lot size and price moves, when it moves there'll be numbers on the side.
+
+20
+00:02:02,000 --> 00:02:05,000
+See? The middle number.
+
+21
+00:02:05,000 --> 00:02:07,500
+Shows how many points it moved. We call them points.
+
+22
+00:02:07,500 --> 00:02:12,000
+Some people call them pips, but pips aren't the same because 1 pip equals 10 points.
+
+23
+00:02:12,000 --> 00:02:14,000
+10 points.
+
+24
+00:02:14,000 --> 00:02:20,000
+Pip value means when price moves 1 pip, based on the lot size we use, how much do we gain or lose?
+
+25
+00:02:20,000 --> 00:02:25,000
+And how do you find the pip value? Easy, just use websites that calculate it for you.
+
+26
+00:02:25,000 --> 00:02:28,000
+Brokers have tools that let us calculate.
+
+27
+00:02:28,000 --> 00:02:30,500
+Like Tickmill, just go to Tools.
+
+28
+00:02:30,500 --> 00:02:32,000
+Here, Forex Calculator.
+
+29
+00:02:32,000 --> 00:02:36,000
+It'll let you calculate various things like currency conversion.
+
+30
+00:02:36,000 --> 00:02:39,000
+Or calculate Margin, and this is the Pip Calculator.
+
+31
+00:02:39,000 --> 00:02:44,000
+For example, the currency pair, set the account as US Dollar.
+
+32
+00:02:44,000 --> 00:02:47,000
+The pair we're trading, let's say EU, a popular pair.
+
+33
+00:02:47,000 --> 00:02:49,000
+Lot size.
+
+34
+00:02:49,000 --> 00:02:53,000
+Let's say if you enter 0.1 lots, every time it moves 1 pip.
+
+35
+00:02:53,000 --> 00:02:56,000
+You gain or lose $1 per pip.
+
+36
+00:02:56,000 --> 00:03:00,000
+But if you enter 1 lot, 1 pip equals $10.
+
+37
+00:03:00,000 --> 00:03:03,000
+Or simply put, that 1 pip is 10 points.
+
+38
+00:03:03,000 --> 00:03:05,500
+Just multiply by the lot size directly.
+
+39
+00:03:05,500 --> 00:03:07,000
+If we trade 1 lot.
+
+40
+00:03:07,000 --> 00:03:09,000
+If we enter an order here.
+
+41
+00:03:09,000 --> 00:03:11,000
+And it moves to here.
+
+42
+00:03:11,000 --> 00:03:14,000
+With 1 lot, we'll make $3,916.
+
+43
+00:03:14,000 --> 00:03:16,000
+Just follow the middle number.
+
+44
+00:03:16,000 --> 00:03:18,000
+Multiply by 1 directly.
+
+45
+00:03:18,000 --> 00:03:21,000
+Because in pips it's 391 pips.
+
+46
+00:03:21,000 --> 00:03:23,000
+391 pips.
+
+47
+00:03:23,000 --> 00:03:25,000
+What about gold?
+
+48
+00:03:25,000 --> 00:03:27,500
+Click here, it's the same as EU.
+
+49
+00:03:27,500 --> 00:03:29,000
+Gold just now.
+
+50
+00:03:29,000 --> 00:03:31,500
+Earlier it was over 300 pips, right?
+
+51
+00:03:31,500 --> 00:03:34,000
+Oh, gold will be slightly less.
+
+52
+00:03:34,000 --> 00:03:35,500
+If 1 lot.
+
+53
+00:03:35,500 --> 00:03:36,500
+1 lot.
+
+54
+00:03:36,500 --> 00:03:39,000
+Earlier it would've been over 300 pips.
+
+55
+00:03:39,000 --> 00:03:40,000
+0.1.
+
+56
+00:03:40,000 --> 00:03:41,500
+It'll reduce to just this.
+
+57
+00:03:41,500 --> 00:03:43,000
+Just multiply directly.
+
+58
+00:03:43,000 --> 00:03:44,000
+Alright.
+
+59
+00:03:44,000 --> 00:03:45,000
+Let's try again.
+
+60
+00:03:45,000 --> 00:03:47,000
+Let's say UJ.
+
+61
+00:03:47,000 --> 00:03:50,000
+With UJ you'll start to see.
+
+62
+00:03:50,000 --> 00:03:55,000
+That it changes, 1 pip equals $8.9, not $10. It becomes fractional, see? UJ.
+
+63
+00:03:55,000 --> 00:04:01,000
+If you check other brokers, they calculate the same. Like XM, where is it? Here, investor calculator.
+
+64
+00:04:01,000 --> 00:04:07,000
+Where's UJ? There it is. 1 lot, click it. There, $8.89 profit per pip. See? Same, $8.89.
+
+65
+00:04:07,000 --> 00:04:11,000
+What about FBS? FBS, it'll be in the section.
+
+66
+00:04:11,000 --> 00:04:13,000
+Here.
+
+67
+00:04:13,000 --> 00:04:16,000
+FBS will have several pairs. Let's try many pairs.
+
+68
+00:04:16,000 --> 00:04:18,000
+Like this one is EU.
+
+69
+00:04:18,000 --> 00:04:19,000
+UJ.
+
+70
+00:04:19,000 --> 00:04:22,000
+Let's try an unusual pair. This one.
+
+71
+00:04:22,000 --> 00:04:24,000
+One of mine.
+
+72
+00:04:24,000 --> 00:04:28,000
+A state one. Trading a state pair, click. There.
+
+73
+00:04:28,000 --> 00:04:31,000
+See? The pip. What's this? A-C-A, CAD.
+
+74
+00:04:31,000 --> 00:04:35,000
+Australia and Canada, $0.77. EU is normal.
+
+75
+00:04:35,000 --> 00:04:39,000
+$1 per point, because it's not pips, it's points.
+
+76
+00:04:39,000 --> 00:04:42,000
+UJ $0.89 per point. If this one, see it's in pips.
+
+77
+00:04:42,000 --> 00:04:44,000
+Pips means 10. UJ in pips.
+
+78
+00:04:44,000 --> 00:04:49,000
+If you want to convert this value to be equal, it has to be in points. If converting points to pips, multiply by 10.
+
+79
+00:04:49,000 --> 00:04:53,000
+This becomes 10, this becomes 8.9, roughly like that.
+
+80
+00:04:53,000 --> 00:04:56,000
+Just a comparison. Back to our topic. Once we know, let's say I'm using UJ.
+
+81
+00:04:56,000 --> 00:05:02,000
+We want to find the lot size. We have $1,000 capital, multiply by what we're willing to lose, which is 5% risk, 5%.
+
+82
+00:05:02,000 --> 00:05:07,000
+Divide by SL. Let's say we drag SL to 100 points, divide by pip value, we'll get the lot we should enter, which is 0.56.
+
+83
+00:05:07,000 --> 00:05:09,000
+Does that make sense?
+
+84
+00:05:09,000 --> 00:05:11,000
+Other pairs are calculated the same way.
+
+85
+00:05:11,000 --> 00:05:13,000
+But there's an easier way to calculate.
+
+86
+00:05:13,000 --> 00:05:17,000
+You don't have to sit and calculate. I'll show you a tool. This is explaining the theory.
+
+87
+00:05:17,000 --> 00:05:22,000
+To help you understand how to use MM. The second important factor is this.
+
+88
+00:05:22,000 --> 00:05:28,000
+Risk-Reward. Simply put, it's the ratio of SL to TP, which is Stop Loss to Take Profit.
+
+89
+00:05:28,000 --> 00:05:33,000
+In the picture it shows a 3:1 ratio. 3, it might be written wrong here.
+
+90
+00:05:33,000 --> 00:05:38,000
+This could be 1:3 if we translate it this way. 1 is here, 3 is here. Risk 1.
+
+91
+00:05:38,000 --> 00:05:43,000
+Reward 3. So risk is 1 part, see? But when you get the reward it's 3 parts.
+
+92
+00:05:43,000 --> 00:05:49,000
+So 200 points. When TP hits, it's 3 times, 2 times 3, which is 600. So TP must be set at 600 points.
+
+93
+00:05:49,000 --> 00:05:54,000
+When you lose, it's 200. When you win, it's 600. So what's the benefit of RR? It comes into play with the system.
+
+94
+00:05:54,000 --> 00:05:59,000
+If the system you're using has about 40% accuracy, let's say.
+
+95
+00:05:59,000 --> 00:06:04,000
+Any system with 40%, less than half. Even a coin toss is 50-50, this is even lower.
+
+96
+00:06:04,000 --> 00:06:08,000
+But we protect ourselves with RR in our trading always.
+
+97
+00:06:08,000 --> 00:06:13,000
+So if accuracy is just 40%, trade 100 times, win 40. We'll lose up to 60 trades.
+
+98
+00:06:13,000 --> 00:06:16,000
+When we win, we only win 40 orders.
+
+99
+00:06:16,000 --> 00:06:19,000
+Doesn't look like it'll work.
+
+100
+00:06:19,000 --> 00:06:23,000
+But we set RR at 1:2, meaning when we lose 1, we gain 2.
+
+101
+00:06:23,000 --> 00:06:28,000
+Just 2, not going for more like 1:4 or 1:7. Just 1:2, half and half.
+
+102
+00:06:28,000 --> 00:06:33,000
+Think of it in points. So if SL is 100 points, TP must be more, or 2 times, right?
+
+103
+00:06:33,000 --> 00:06:37,000
+1:2, 2:1, sometimes looking at it I don't know which comes first.
+
+104
+00:06:37,000 --> 00:06:41,000
+Let's just say we understand that the reward must always be more than the risk.
+
+105
+00:06:41,000 --> 00:06:46,000
+So SL 100 points, TP 200 points. So if we lose 60 times, hitting TP.
+
+106
+00:06:46,000 --> 00:06:50,000
+We have to take a beating. Because we set TP far from the entry point.
+
+107
+00:06:50,000 --> 00:06:54,000
+SL distance from entry is 100 points.
+
+108
+00:06:54,000 --> 00:06:58,000
+So when it hits SL, that means it moved against us 100 points every time.
+
+109
+00:06:58,000 --> 00:07:02,000
+And it went wrong 60 times. So we'll lose a total of 6,000 points.
+
+110
+00:07:02,000 --> 00:07:07,000
+On the flip side, if we hit TP 40 times. Hit TP all 40 trades.
+
+111
+00:07:07,000 --> 00:07:12,000
+That's 8,000 points. Because it's 40 times 200 points, which equals 8,000.
+
+112
+00:07:12,000 --> 00:07:16,000
+When we subtract the losses, we're actually in profit.
+
+113
+00:07:16,000 --> 00:07:20,000
+Even though we only won 40 times, but our RR is 2:1.
+
+114
+00:07:20,000 --> 00:07:24,000
+1:2, the reward is twice.
+
+115
+00:07:24,000 --> 00:07:27,000
+Always 2 times the risk. In those 40 trades.
+
+116
+00:07:27,000 --> 00:07:31,000
+Even though we lost 60, we're still up 2,000 points.
+
+117
+00:07:31,000 --> 00:07:35,000
+Even with only 40% accuracy. So if your system.
+
+118
+00:07:35,000 --> 00:07:39,000
+Has accuracy better than 40%, try calculating if you'll be profitable.
+
+119
+00:07:39,000 --> 00:07:43,000
+That's the second thing, Risk-Reward. The first was determining lot size.
+
+120
+00:07:43,000 --> 00:07:45,000
+These two factors are crucial.
+
+121
+00:07:45,000 --> 00:07:48,000
+If you combine these two like this.
+
+122
+00:07:48,000 --> 00:07:51,000
+Blend them together, your account can grow without even being that accurate.
+
+123
+00:07:51,000 --> 00:07:55,000
+Because if we use accuracy, let's make the system a bit better than earlier.
+
+124
+00:07:55,000 --> 00:07:57,000
+60% accuracy is enough.
+
+125
+00:07:57,000 --> 00:08:00,000
+Same as before, 2:1.
+
+126
+00:08:00,000 --> 00:08:03,000
+Risk 5% of the account.
+
+127
+00:08:03,000 --> 00:08:12,000
+If starting capital is $1,000, test it for one month. Excluding weekends, that's four weeks, 5 times 4 is 20, so about 20 days.
+
+128
+00:08:12,000 --> 00:08:17,000
+With a 60% win rate. The system is 60% accurate. So if you test 100 times.
+
+129
+00:08:17,000 --> 00:08:22,000
+We'll be right 60 trades and wrong 40 trades. Wrong means hitting SL.
+
+130
+00:08:22,000 --> 00:08:27,000
+But we won't trade 100 times. We're only trading once per day.
+
+131
+00:08:27,000 --> 00:08:32,000
+Wake up in the morning until evening, enter an order whenever. I don't know when. When you see a good opportunity, you think you're right.
+
+132
+00:08:32,000 --> 00:08:37,000
+According to your system, you enter. Because the system is 60% accurate. So in 20 days.
+
+133
+00:08:37,000 --> 00:08:42,000
+We'll be right 12 days when entering orders. Lose 8 times. Hit SL 8 times.
+
+134
+00:08:42,000 --> 00:08:48,000
+Remember, when we lose, we lose 5% of the account, of the account value at that time.
+
+135
+00:08:48,000 --> 00:08:51,000
+Not always calculated from 1,000.
+
+136
+00:08:51,000 --> 00:08:54,000
+Of the account value at that moment, what's remaining.
+
+137
+00:08:54,000 --> 00:08:57,000
+So when we gain, it's 2:1.
+
+138
+00:08:57,000 --> 00:09:01,000
+Risk 5, reward goes up 5, so reward must be how much?
+
+139
+00:09:01,000 --> 00:09:05,000
+It must be 10%. 5 times 2 equals 10, right?
+
+140
+00:09:05,000 --> 00:09:10,000
+Look at the example. Day 1, entered an order, we have starting capital of $1,000. When we gain 10%.
+
+141
+00:09:10,000 --> 00:09:15,000
+Account becomes $1,100. Day 2, gain again. System is still 60% accurate, still in the winning streak.
+
+142
+00:09:15,000 --> 00:09:20,000
+It'll be 10% of 1,100, not 10% of 1,000, right?
+
+143
+00:09:20,000 --> 00:09:23,000
+It compounds, increasing more and more like this.
+
+144
+00:09:23,000 --> 00:09:28,000
+But day 3, the system starts to be wrong because there's a 40% error rate.
+
+145
+00:09:28,000 --> 00:09:33,000
+We multiply this number by 0.95, which means it loses 5%.
+
+146
+00:09:33,000 --> 00:09:35,000
+Risk comes out.
+
+147
+00:09:35,000 --> 00:09:39,000
+So from 1,200 it reduces to just over 1,100.
+
+148
+00:09:39,000 --> 00:09:43,000
+Day 4, we lose again, calculated from here, 1,149.
+
+149
+00:09:43,000 --> 00:09:46,000
+Not calculated from 1,000 continuously.
+
+150
+00:09:46,000 --> 00:09:50,000
+It reduces again, down to 1,092.
+
+151
+00:09:50,000 --> 00:09:54,000
+Close to original capital now. Lost twice. Gained twice, lost twice.
+
+152
+00:09:54,000 --> 00:09:58,000
+Then gain again. Day 5, back to gaining. It increases again.
+
+153
+00:09:58,000 --> 00:10:02,000
+It alternates between gains and losses randomly. Continuing to calculate.
+
+154
+00:10:02,000 --> 00:10:07,000
+After 1 month, or after 20 trades. Starting from an account with just $1,000.
+
+155
+00:10:07,000 --> 00:10:10,000
+It becomes $2,000. See? It can grow.
+
+156
+00:10:10,000 --> 00:10:14,000
+Even with wins and losses, but we control the RR.
+
+157
+00:10:14,000 --> 00:10:17,000
+See? Control the RR and the risk percentage we set.
+
+158
+00:10:17,000 --> 00:10:20,000
+If your RR is more accurate than this.
+
+159
+00:10:20,000 --> 00:10:25,000
+Your system is 60% accurate but your RR is higher. This system returns higher than 2:1.
+
+160
+00:10:25,000 --> 00:10:30,000
+And risk is 5% or the task is less than this, try calculating to see.
+
+161
+00:10:30,000 --> 00:10:35,000
+What the final account value will be. Now if.
+
+162
+00:10:35,000 --> 00:10:38,000
+Wait, let me make the line bigger.
+
+163
+00:10:38,000 --> 00:10:40,000
+Thicker.
+
+164
+00:10:40,000 --> 00:10:41,000
+Line size.
+
+165
+00:10:41,000 --> 00:10:42,000
+Okay.
+
+166
+00:10:42,000 --> 00:10:45,000
+What is it? It's what we'll use to enter orders.
+
+167
+00:10:45,000 --> 00:10:47,000
+The blue line.
+
+168
+00:10:47,000 --> 00:10:51,000
+This will be the line we use to enter orders. Can't see it, right?
+
+169
+00:10:51,000 --> 00:10:54,000
+Because it'll be right at the price. Here, blue.
+
+170
+00:10:54,000 --> 00:10:56,000
+The entry line. The green line.
+
+171
+00:10:56,000 --> 00:10:57,000
+Let me change it.
+
+172
+00:10:57,000 --> 00:10:58,000
+Um.
+
+173
+00:10:58,000 --> 00:10:59,000
+Let's make it.
+
+174
+00:10:59,000 --> 00:11:00,000
+Um.
+
+175
+00:11:00,000 --> 00:11:03,000
+If it's a loss, it should be red. Hit SL.
+
+176
+00:11:03,000 --> 00:11:06,000
+TP, let's keep it yellow like before.
+
+177
+00:11:06,000 --> 00:11:08,000
+Here. Right here. Okay.
+
+178
+00:11:08,000 --> 00:11:11,000
+Like this. The line. Let's set it here.
+
+179
+00:11:11,000 --> 00:11:13,000
+We open up the program.
+
+180
+00:11:13,000 --> 00:11:15,000
+Click here to make it Pending.
+
+181
+00:11:15,000 --> 00:11:17,000
+Then we can move the blue line.
+
+182
+00:11:17,000 --> 00:11:20,000
+This is the order line where we'll enter the order.
+
+183
+00:11:20,000 --> 00:11:21,000
+Let's say...
+
+184
+00:11:21,000 --> 00:11:24,000
+Which area is good? This area.
+
+185
+00:11:24,000 --> 00:11:28,000
+Let's use this area. This is, let's say we're going to buy. We'll buy.
+
+186
+00:11:28,000 --> 00:11:32,000
+Let's say the chart is moving. We haven't seen this range yet.
+
+187
+00:11:32,000 --> 00:11:37,000
+The chart moves down, down, down, then let's say it comes up to about here.
+
+188
+00:11:37,000 --> 00:11:40,000
+Then call an order in this range. Let's say enter here.
+
+189
+00:11:40,000 --> 00:11:44,000
+And it makes a low, a high, a high or low.
+
+190
+00:11:44,000 --> 00:11:48,000
+Higher high, higher low. We expect higher high.
+
+191
+00:11:48,000 --> 00:11:52,000
+If it's still an uptrend, it should be higher high.
+
+192
+00:11:52,000 --> 00:11:55,000
+And the low shouldn't be lower than this low. It must be higher.
+
+193
+00:11:55,000 --> 00:11:59,000
+The new low must not be lower than this low. It must make a high first.
+
+194
+00:11:59,000 --> 00:12:03,000
+So we buy here. If we're not wrong.
+
+195
+00:12:03,000 --> 00:12:08,000
+We can move the red line. If we move it below this line, it means this line is a buy.
+
+196
+00:12:08,000 --> 00:12:14,000
+If we move the red line above this line, the program will automatically figure out that this line is a sell.
+
+197
+00:12:14,000 --> 00:12:18,000
+Because it's higher. The Stop Loss line, when we move it.
+
+198
+00:12:18,000 --> 00:12:21,000
+Up or down between the order line.
+
+199
+00:12:21,000 --> 00:12:24,000
+Buy here. Let's say buy. Buy means going up.
+
+200
+00:12:24,000 --> 00:12:25,000
+Up.
+
+201
+00:12:25,000 --> 00:12:28,000
+One day to the top. Let's say we set it here.
+
+202
+00:12:28,000 --> 00:12:30,000
+See? It read the order.
+
+203
+00:12:30,000 --> 00:12:33,000
+Now we set the program.
+
+204
+00:12:33,000 --> 00:12:37,000
+Here, risk. Let's say we set the risk at.
+
+205
+00:12:37,000 --> 00:12:43,000
+When we lose, let's say 3% each time. 3%. 3% of the account. Let's say the account value is about this much, 3% of this amount.
+
+206
+00:12:43,000 --> 00:12:47,000
+The money we'll lose is over $400. Now let's set another one. Set it in the Indicator.
+
+207
+00:12:47,000 --> 00:12:53,000
+Let's edit this one. Look here. TP×SL. This is 1:1. Whatever RR you want to set your system to.
+
+208
+00:12:53,000 --> 00:12:59,000
+Let's say we set it at 2:1, 1:2. Whatever it is, basically TP is always 2 times SL. Edit it to the number you want.
+
+209
+00:12:59,000 --> 00:13:02,000
+Mine will be 2. Let's make it 2.
+
+210
+00:13:02,000 --> 00:13:06,000
+Then click here. See? The take profit will jump automatically.
+
+211
+00:13:06,000 --> 00:13:11,000
+So when we buy here, we have SL here. TP will be shown up front at this spot.
+
+212
+00:13:11,000 --> 00:13:15,000
+Let's say we entered and the chart doesn't reach it because we set TP, right?
+
+213
+00:13:15,000 --> 00:13:18,000
+Doesn't reach, doesn't hit SL either.
+
+214
+00:13:18,000 --> 00:13:22,000
+Returns, returns, returns. Then TP. We made money according to the value.
+
+215
+00:13:22,000 --> 00:13:26,000
+Now let me show. Enter here. Let's say no, enter here. Change to 3%.
+
+216
+00:13:26,000 --> 00:13:29,000
+Let's watch closely.
+
+217
+00:13:29,000 --> 00:13:33,000
+3%, $404. Watch closely. Earlier we entered here.
+
+218
+00:13:33,000 --> 00:13:37,000
+SL here. Change it again. Change it again. Look closely. Buy here.
+
+219
+00:13:37,000 --> 00:13:41,000
+Buy here. Same lot is here. Pull it here. This is the difference.
+
+220
+00:13:41,000 --> 00:13:46,000
+2,679 points. The distance between the order line and SL is quite a lot because this is on the Day timeframe.
+
+221
+00:13:46,000 --> 00:13:51,000
+Click here. TP will be here. This is 2 times the SL. Entered buy here.
+
+222
+00:13:51,000 --> 00:13:58,000
+Price moves, moves, moves. Because we set the principle at this low. Did it hit TP? Did it hit TP completely? Hit TP, made profit. And if it lost, it would still be 3% of the account, which is $404. Let's try again.
+
+223
+00:13:58,000 --> 00:14:04,000
+Let's say enter here. Buy here, enter another trade. Buy here. SL is quite far. Oh, it's far.
+
+224
+00:14:04,000 --> 00:14:08,000
+Scared of losing a lot. Actually, we won't lose a lot.
+
+225
+00:14:08,000 --> 00:14:12,000
+Because we calculated it already, it's 3%. No matter what, we only lose this much. Set it at the bottom. If it hits, we accept it. Something like that.
+
+226
+00:14:12,000 --> 00:14:15,000
+Then TP. TP here.
+
+227
+00:14:15,000 --> 00:14:19,000
+Buy here going up. Hit TP first. See?
+
+228
+00:14:19,000 --> 00:14:23,000
+Made profit first. But let's say, let's say TP we set higher than this.
+
+229
+00:14:23,000 --> 00:14:25,000
+Let's say. Let's say we set it around here.
+
+230
+00:14:25,000 --> 00:14:28,000
+So more than 1:2. Price goes up, up, up, up.
+
+231
+00:14:28,000 --> 00:14:33,000
+While, while. One thing everyone needs to watch when entering an order is.
+
+232
+00:14:33,000 --> 00:14:35,000
+The lot size. What lot will you enter?
+
+233
+00:14:35,000 --> 00:14:37,000
+It's right here.
+
+234
+00:14:37,000 --> 00:14:39,000
+Position Size. See?
+
+235
+00:14:39,000 --> 00:14:44,000
+If you enter an order here, Stop Loss is here, you enter 0.22 lots.
+
+236
+00:14:44,000 --> 00:14:49,000
+TP 1:2, at TP 2 times. It hits here, you'll make.
+
+237
+00:14:49,000 --> 00:14:55,000
+How much? If it hits, if it hits. Wait. High 0.22 in.
+
+238
+00:14:55,000 --> 00:15:00,000
+This range, you'll get the reward here. About $800.
+
+239
+00:15:00,000 --> 00:15:05,000
+About $800. If it hits SL, $400.
+
+240
+00:15:05,000 --> 00:15:10,000
+See? About 2 times. But this $400 is 3% of the account, of the account value itself.
+
+241
+00:15:10,000 --> 00:15:15,000
+Now the opposite, enter sell here, same thing.
+
+242
+00:15:15,000 --> 00:15:19,000
+But SL, you're scared it might hit but if.
+
+243
+00:15:19,000 --> 00:15:23,000
+It'll really go up, it shouldn't be lower than this low. You choose to drag SL down lower than this.
+
+244
+00:15:23,000 --> 00:15:27,000
+See the distance changed? Click, where should TP be?
+
+245
+00:15:27,000 --> 00:15:31,000
+Should be here. But the order you entered is at the exact same point.
+
+246
+00:15:31,000 --> 00:15:35,000
+Just changed SL to be closer. You enter at this lot.
+
+247
+00:15:35,000 --> 00:15:38,000
+0.1. Earlier it was 0.22.
+
+248
+00:15:38,000 --> 00:15:42,000
+This became 0.1. But when TP hits.
+
+249
+00:15:42,000 --> 00:15:46,000
+Goes down, doesn't hit SL, goes up and hits TP. You get the same amount.
+
+250
+00:15:46,000 --> 00:15:51,000
+$809. But if this hits, you still lose the same, which is $404. It calculates everything.
+
+251
+00:15:51,000 --> 00:15:54,000
+This one. See? Let's enter a different point. Let's try sell.
+
+252
+00:15:54,000 --> 00:15:56,000
+Let's say sell here.
+
+253
+00:15:56,000 --> 00:15:59,000
+Here. Where? Here.
+
+254
+00:15:59,000 --> 00:16:03,000
+Several. SL is here, the red line. If you sell, you must put the red line above the order line.
+
+255
+00:16:03,000 --> 00:16:07,000
+Let's say set it here. TP. Click here, it'll jump. TP is here.
+
+256
+00:16:07,000 --> 00:16:12,000
+The SL distance is how much? Don't know. Can't see. But if it hits, it's this, over $400.
+
+257
+00:16:12,000 --> 00:16:17,000
+No matter what, we lose over $400. Entered already. Then price moves back and forth, playing sell.
+
+258
+00:16:17,000 --> 00:16:21,000
+Comes to about the original order line. Oh well, might as well close manually. Might think that. Goes up.
+
+259
+00:16:21,000 --> 00:16:26,000
+But it's okay. Let's wait it out. If it hits, it hits. Because we set it to only lose 3% of the account.
+
+260
+00:16:26,000 --> 00:16:31,000
+Let's see. Price starts to swing, loses momentum. Price goes down, hits TP. Made $800.
+
+261
+00:16:31,000 --> 00:16:35,000
+Let's try again. Let's say very confident. Won't set it this far. Entered order here, right?
+
+262
+00:16:35,000 --> 00:16:38,000
+Set it at the bottom. Super confident. If it hits, it hits.
+
+263
+00:16:38,000 --> 00:16:42,000
+Then where will TP be? TP is here. Short trade. Enter order, plan to win immediately.
+
+264
+00:16:42,000 --> 00:16:47,000
+Lot increases to 0.4 immediately. Boom. Hit, made $800.
+
+265
+00:16:47,000 --> 00:16:52,000
+It hit first. Let's say it didn't hit. Let's say it came here, then went up and hit here. Still lose $404.
+
+266
+00:16:52,000 --> 00:16:56,000
+Very scared. Really scared. Use this high.
+
+267
+00:16:56,000 --> 00:17:00,000
+Over 6,000 points. Enter order here. Where's TP?
+
+268
+00:17:00,000 --> 00:17:04,000
+TP is very far. There. See the yellow?
+
+269
+00:17:04,000 --> 00:17:07,000
+Here. Where did we enter earlier? Here.
+
+270
+00:17:07,000 --> 00:17:11,000
+Just wait. Move with it. Hit SL first. Lose $400.
+
+271
+00:17:11,000 --> 00:17:15,000
+Because the lot entered from here is 0.05.
+
+272
+00:17:15,000 --> 00:17:19,000
+At first entered 0.4, now only entering 0.05.
+
+273
+00:17:19,000 --> 00:17:24,000
+So when it reverses back and hits, we only lose 3% risk percentage.
+
+274
+00:17:24,000 --> 00:17:27,000
+If in dollar terms, it's $400, same as before.
+
+275
+00:17:27,000 --> 00:17:32,000
+But let's say it doesn't hit. Let's say it doesn't hit, moves, then goes down. Let's say it touches here. Boom.
+
+276
+00:17:32,000 --> 00:17:36,000
+You make $809, same every time.
+
+277
+00:17:36,000 --> 00:17:39,000
+So this is lot calculation.
+
+278
+00:17:39,000 --> 00:17:42,000
+Which it calculates based on the SL distance you set.
+
+279
+00:17:42,000 --> 00:17:45,000
+This became 0.1. If you set it this close.
+
+280
+00:17:45,000 --> 00:17:48,000
+Enter 0.2 lots.
+
+281
+00:17:48,000 --> 00:17:50,000
+Where's TP?
+
+282
+00:17:50,000 --> 00:17:53,000
+TP is here. Enter here.
+
+283
+00:17:53,000 --> 00:17:57,000
+Move to SL then TP first. Made money first.
+
+284
+00:17:57,000 --> 00:17:59,000
+See?
+
+285
+00:17:59,000 --> 00:18:05,000
+Keep doing this. If you're confident, you can go change the value. Change.
+
+286
+00:18:05,000 --> 00:18:10,000
+The value to make TP be how many times. Let's say make it 3 times.
+
+287
+00:18:10,000 --> 00:18:15,000
+Think it's very accurate. Great system. Can go far. Then come change.
+
+288
+00:18:15,000 --> 00:18:17,000
+Or. Click.
+
+289
+00:18:17,000 --> 00:18:22,000
+Further than before. Earlier was 1:2. This is 3 times. Made more money, $1,200.
+
+290
+00:18:22,000 --> 00:18:26,000
+But when you lose, lose the same, over $400.
+
+291
+00:18:26,000 --> 00:18:29,000
+All of this is calculated from current account value.
+
+292
+00:18:29,000 --> 00:18:33,000
+It integrates with the principles we learned earlier.
+
+293
+00:18:33,000 --> 00:18:35,000
+Now, what else is there?
+
+294
+00:18:35,000 --> 00:18:42,000
+Oh, this is because I chose pending, so I can move the entry point anywhere. But when you trade for real, it has to be at the current price. Just click here to make it instant.
+
+295
+00:18:42,000 --> 00:18:44,000
+Alright.
+
+296
+00:18:44,000 --> 00:18:49,000
+The line will be at the current price line where it's moving. Ready to enter the order, just click enter order.
+
+297
+00:18:49,000 --> 00:18:54,000
+Then set SL. But we can drag this SL, we can always drag it manually.
+
+298
+00:18:54,000 --> 00:18:58,000
+Drag it. Let's say we'll sell. Let's say it'll go down. Sell, put it.
+
+299
+00:18:58,000 --> 00:19:02,000
+Let's say put it at this candle. More than a thousand points.
+
+300
+00:19:02,000 --> 00:19:08,000
+Same risk, 3% as set. Where should TP be? Click. Boom. It's 3 times. Here, it's here. So it has to move down here to hit TP.
+
+301
+00:19:08,000 --> 00:19:14,000
+Made $1,200 if it hits TP with 0.26 lots. But if scared it'll swing around here, scared it'll touch.
+
+302
+00:19:14,000 --> 00:19:18,000
+Goes up a bit more. So for safety, where will TP go?
+
+303
+00:19:18,000 --> 00:19:24,000
+It's here. But if it hits SL, still lose 3%, $400 same. If it hits TP.
+
+304
+00:19:24,000 --> 00:19:29,000
+Still make $1,200 same. But lot changed to 0.12 instead when entering.
+
+305
+00:19:29,000 --> 00:19:32,000
+At this point. Hope you understand.
+
+306
+00:19:32,000 --> 00:19:36,000
+About MM. I'll upload the tool for you.
+
+307
+00:19:36,000 --> 00:19:41,000
+I should upload it. If you can't install it, you can click.
+
+308
+00:19:41,000 --> 00:19:45,000
+Here. Open this. Opens up.
+
+309
+00:19:45,000 --> 00:19:49,000
+You just drag the file you downloaded and drop it in here. Then close the window.
+
+310
+00:19:49,000 --> 00:19:53,000
+Go close the program. Open again. Or you don't have to close the program. Refresh.
+
+311
+00:19:53,000 --> 00:19:57,000
+Then. The name of it is. I'll tell you the name.
+
+312
+00:19:57,000 --> 00:20:02,000
+The name is this one. Let's say we closed it. Pull it in. Then set the values.
+
+313
+00:20:02,000 --> 00:20:06,000
+Like I said earlier. Nothing difficult. Okay.
+
+314
+00:20:06,000 --> 00:20:10,000
+Okay. Hope it's understandable and somewhat useful regarding MM to use.
+
+315
+00:20:10,000 --> 00:20:13,000
+Your account can grow. Use good MM.
+
+316
+00:20:13,000 --> 00:20:17,000
+Even if your system isn't very accurate, it can still grow. See?
+
+317
+00:20:17,000 --> 00:20:20,000
+Okay. Thank you very much. Goodbye.
+
+318
+00:20:20,000 --> 00:20:22,000
+(End of segment - no speech)
+
+319
+00:20:22,000 --> 00:20:24,000
+(End of segment - no speech)

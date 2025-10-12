@@ -1,0 +1,2488 @@
+[1] 1.04s - 1.58s
+Hello everyone.
+
+[2] 2.56s - 4.80s
+In this Part, we'll continue with
+
+[3] 5.26s - 7.96s
+Price Action, focusing on Support and Resistance.
+
+[4] 9.16s - 13.16s
+After we've learned and understood about candlesticks
+
+[5] 13.50s - 14.10s
+from
+
+[6] 15.00s - 15.90s
+the previous Parts
+
+[7] 16.64s - 20.30s
+whether it's reading Momentum, reading candlesticks like we're telling a story
+
+[8] 20.80s - 23.50s
+like scenes in a movie
+
+[9] 24.40s - 27.42s
+battlefield, or whatever comparison you want to make.
+
+[10] 27.62s - 29.52s
+Now let's continue with Support and Resistance.
+
+[11] 29.52s - 32.44s
+This will make reading our charts
+
+[12] 32.44s - 34.32s
+or Price Action, which is
+
+[13] 34.62s - 37.34s
+the action of price, the movement of price
+
+[14] 37.80s - 39.52s
+much clearer than reading
+
+[15] 40.52s - 43.10s
+candlesticks alone.
+
+[16] 44.46s - 45.98s
+Let's get started.
+
+[17] 47.74s - 50.70s
+Price Action isn't just about Support and Resistance.
+
+[18] 50.70s - 54.30s
+There are about 3-5 patterns.
+
+[19] 54.30s - 58.82s
+I'll show you the really interesting ones.
+
+[20] 61.66s - 63.42s
+First of all, Support and Resistance
+
+[21] 63.42s - 68.58s
+Type 1: Horizontal.
+
+[22] 68.58s - 71.06s
+The word horizontal, a horizontal level like this.
+
+[23] 74.08s - 81.72s
+First, view it as a price zone. The concept is to see it as a price zone, not as a single line or single price.
+
+[24] 81.72s - 84.60s
+View it as a price range, as a zone, covering an area.
+
+[25] 85.54s - 91.58s
+If it's above, we call it Resistance. If it's below the price, we call it Support.
+
+[26] 91.58s - 96.74s
+The meaning, if we go by pure theory, it would be too much. Let's keep it short.
+
+[27] 97.46s - 103.88s
+Resistance, to translate it simply in Price Action or price terms, it resists
+
+[28] 103.88s - 107.20s
+and prevents it from going up. Simple. It's like a wall.
+
+[29] 108.10s - 125.26s
+It's like a barrier. When price comes up and hits it, there's resistance.
+
+[30] 125.26s - 129.48s
+Or a price wall. As for Support, the meaning is literal.
+
+[31] 129.64s - 135.16s
+It supports and prevents it from going down. That's the concept. Resistance prevents upward movement.
+
+[32] 136.00s - 142.14s
+If Support means it supports and prevents downward movement. Now, how do we create Support
+
+[33] 142.14s - 146.46s
+and Resistance levels? Look at Swing Points.
+
+[34] 146.68s - 150.68s
+The term Swing Point means it goes up then goes down.
+
+[35] 151.16s - 154.28s
+If it's in the middle of price movement like this, we won't use it.
+
+[36] 155.52s - 156.84s
+Use where it reverses.
+
+[37] 156.84s - 160.12s
+Because it means it must have hit something, couldn't continue
+
+[38] 160.12s - 162.44s
+and had to go in the other direction. Right?
+
+[39] 163.20s - 166.28s
+Like these, it hits then continues on.
+
+[40] 166.28s - 172.30s
+We won't use these as Support or Resistance. When it can't continue and bounces back
+
+[41] 172.30s - 179.48s
+hits and bounces back, we'll use these. Like this, can't continue, reverses down. Comes down, can't
+
+[42] 179.48s - 184.70s
+continue, reverses up. Every Swing Point like this, we'll use as Support or Resistance.
+
+[43] 185.52s - 189.00s
+If it's above, it definitely resists upward movement. Above must be Resistance.
+
+[44] 189.22s - 191.66s
+Below, it supports and prevents downward movement, so it must be Support.
+
+[45] 193.58s - 200.00s
+And as I said from the start, count it as a zone, not drawing a single line as a price.
+
+[46] 203.08s - 208.56s
+Support and Resistance, according to their meaning, is resisting and preventing downward movement.
+
+[47] 208.56s - 213.36s
+This means Resistance often has price reversals
+
+[48] 213.36s - 215.80s
+when it's been rising, rising, rising
+
+[49] 215.80s - 217.88s
+and when it hits, it reverses down.
+
+[50] 218.72s - 220.18s
+Support is the same.
+
+[51] 221.10s - 223.32s
+It keeps dropping, dropping, dropping down.
+
+[52] 223.32s - 225.70s
+When it hits Support, it supports and prevents downward movement.
+
+[53] 225.70s - 227.34s
+According to the concept's name.
+
+[54] 227.34s - 230.46s
+Support, it means there's a chance
+
+[55] 230.46s - 233.12s
+let's use the word "chance." There's a chance it will reverse upward.
+
+[56] 233.44s - 236.54s
+Away from the original direction that was coming down to hit Support.
+
+[57] 236.96s - 239.68s
+As for Resistance, away from the original direction that was coming up to hit Resistance
+
+[58] 239.68s - 241.80s
+which is the opposite direction, which is down.
+
+[59] 242.88s - 245.14s
+There's usually a price reversal by
+
+[60] 245.70s - 247.48s
+reading it together with candlesticks.
+
+[61] 248.62s - 249.50s
+See? Pinbar.
+
+[62] 250.32s - 252.40s
+Pinbar going down, right? Down.
+
+[63] 253.54s - 256.86s
+This one's a group, but if you combine them, it becomes a Pinbar too.
+
+[64] 257.36s - 261.64s
+In the principle of combining candlesticks that we learned in the earlier Parts.
+
+[65] 262.12s - 268.20s
+Therefore, Support and Resistance, we'll use them together with candlesticks that show buying or selling pressure.
+
+[66] 269.38s - 274.20s
+If the candlesticks we know, that we learned in the candlestick Part
+
+[67] 274.20s - 284.38s
+if we encounter them in the middle of the chart, they won't really produce results according to their names, like reversal candlesticks and such.
+
+[68] 284.38s - 296.24s
+Candlesticks will have clear effects only when they're found in areas that are Support or Resistance zones. Only then will they clearly produce those expected results.
+
+[69] 299.18s - 308.04s
+Which case? Like coming down and encountering a candle like this. This isn't a Pinbar. Where is it?
+
+[70] 311.48s - 315.66s
+And if it's not in a Support or Resistance zone, like this
+
+[71] 315.66s - 322.48s
+Pinbar shows buying pressure returning. Dropping, dropping, dropping, but why doesn't it reverse back up like this?
+
+[72] 323.00s - 326.54s
+Because it's in the middle of a trend. It's not in a Support or Resistance area.
+
+[73] 326.54s - 330.10s
+Like this, see? When it's here, it goes up.
+
+[74] 330.82s - 335.32s
+See? It produces clearer effects. Simply put.
+
+[75] 339.00s - 342.48s
+Another concept of Support and Resistance you need to know is
+
+[76] 343.12s - 346.92s
+originally, if it's above like this, price moves up and hits it.
+
+[77] 348.04s - 352.86s
+Coming from below up to hit above, that's called Resistance. Right?
+
+[78] 353.48s - 360.10s
+But whenever Resistance is broken through upward, when price breaks through upward
+
+[79] 360.84s - 365.78s
+it immediately switches from Resistance, its role changes, to become Support.
+
+[80] 365.78s - 372.08s
+From originally resisting upward movement, preventing upward movement
+
+[81] 372.08s - 376.30s
+when it breaks through, simply put, the resistance couldn't hold, it broke.
+
+[82] 376.82s - 379.98s
+Breaks up. When it reverses back down
+
+[83] 380.52s - 383.86s
+what used to be Resistance will change to become Support, supporting and preventing downward movement.
+
+[84] 383.86s - 386.56s
+In the same level, same zone.
+
+[85] 386.94s - 389.82s
+Comes down. Retest, simply put, comes down to test.
+
+[86] 391.94s - 394.58s
+Resisted upward movement, got broken through, damaged.
+
+[87] 394.96s - 398.26s
+Therefore, it's no longer Resistance because it's below the price.
+
+[88] 398.26s - 401.48s
+It becomes Support, according to its name. Supports and prevents downward movement.
+
+[89] 401.48s - 405.00s
+So it becomes a reversal point to continue.
+
+[90] 405.24s - 407.58s
+It will change its role. Like this one is Support.
+
+[91] 408.08s - 412.02s
+Supports preventing downward movement, bounces up. Supports preventing downward movement, bounces up.
+
+[92] 412.72s - 415.58s
+Finally, it gets destroyed. From Support it becomes Resistance.
+
+[93] 415.96s - 419.28s
+Price comes back up to retest, comes up to hit again.
+
+[94] 419.74s - 423.52s
+So originally it supported preventing downward movement.
+
+[95] 423.52s - 427.20s
+When it's damaged and broken, it means it got broken through downward.
+
+[96] 427.20s - 430.12s
+It will change its role to become Resistance preventing upward movement.
+
+[97] 430.48s - 434.10s
+Come here. Understand the concept and remember it.
+
+[98] 434.64s - 435.56s
+Then it drops.
+
+[99] 437.36s - 438.60s
+Here, this is Support.
+
+[100] 439.20s - 442.84s
+This breaks down. Support changes to Resistance.
+
+[101] 443.76s - 446.36s
+Comes up to hit, and the same point that used to be Support before
+
+[102] 446.36s - 449.32s
+now resists preventing upward movement, then drops.
+
+[103] 449.32s - 454.58s
+Down. This is the role of Support and Resistance.
+
+[104] 455.48s - 457.88s
+Like in this picture, it's also Support and Resistance.
+
+[105] 458.30s - 460.78s
+But it's like the trend we've been seeing.
+
+[106] 460.78s - 464.10s
+It's a trend.
+
+[107] 464.10s - 466.00s
+This might be a clearer trend.
+
+[108] 466.00s - 467.42s
+Going up step by step like stairs.
+
+[109] 468.54s - 470.44s
+Hits, then hits and drops.
+
+[110] 470.64s - 472.46s
+This is Support, bounces up.
+
+[111] 472.46s - 479.76s
+Goes and breaks through, right? Breaks through, then hits a new barrier, which might have existed before.
+
+[112] 479.76s - 487.84s
+It drops. When it comes down here, what was this? It was Resistance, got broken through, switches its role to become Support, supports preventing downward movement.
+
+[113] 488.16s - 494.30s
+It continues up. This one used to resist, couldn't hold, got broken through. Reverses down, it supports preventing downward movement.
+
+[114] 494.30s - 502.62s
+Changes role. Breaks through again, goes up to hit Resistance, comes down to hit Support, that's how its steps continue like this.
+
+[115] 505.28s - 512.50s
+And the principle for drawing good Support and Resistance is to start from the larger timeframe down.
+
+[116] 512.94s - 518.22s
+Like this will be a weekly timeframe, a weekly chart, weekly graph, this is Resistance.
+
+[117] 518.22s - 522.38s
+See? It's a major level. Go ahead and draw it. It's a zone, a Support zone.
+
+[118] 522.38s - 528.38s
+When it zooms down to daily, if it moves up and hits here, and forms a reversal candlestick pattern
+
+[119] 528.38s - 533.46s
+like this, it's around this area that belongs to
+
+[120] 533.46s - 536.74s
+a larger timeframe. Therefore, it will be thick, solid, as a
+
+[121] 536.74s - 539.40s
+strong Resistance. Using the word "strong," how many points?
+
+[122] 539.40s - 544.04s
+Count them. One, two, three, four, five. The word "strong" means there's
+
+[123] 544.04s - 546.44s
+it's been hit multiple times already, whether Support or Resistance.
+
+[124] 546.44s - 549.14s
+Using the term hit multiple times, price has hit and crashed into it.
+
+[125] 549.42s - 552.62s
+But couldn't break through. If it's Resistance, couldn't break up.
+
+[126] 552.62s - 554.18s
+If it's Support, couldn't break down.
+
+[127] 554.18s - 557.22s
+That shows the level is even stronger.
+
+[128] 557.24s - 562.32s
+This is why it drops so much, so far, after hitting Resistance.
+
+[129] 563.38s - 570.62s
+Let's look at a real chart for a bit. A real chart. Look at the points.
+
+[130] 571.44s - 575.50s
+This head, draw it like this. This is horizontal.
+
+[131] 575.50s - 579.24s
+Our horizontal lines, we're talking about horizontal, so draw them.
+
+[132] 581.06s - 589.06s
+This is drawing from what we see. But if we do it properly, know the history first.
+
+[133] 590.38s - 594.26s
+Suppose I'm comfortable trading the 1-hour timeframe.
+
+[134] 595.06s - 599.14s
+I'll take the larger one to control first, which is 4-hour.
+
+[135] 601.76s - 607.24s
+This is the point where it swung, came down then reversed up forming a tail showing returning strength.
+
+[136] 607.70s - 613.06s
+Then go back to the past. See? There's this point where it came down and went up.
+
+[137] 614.22s - 620.26s
+Here it hit and went up. This shows this level works. So we draw it for the 4-hour.
+
+[138] 622.28s - 627.14s
+Where else? Like here it has bounces. This is interesting. See?
+
+[139] 627.72s - 632.68s
+Comes up, hits and drops. What role did it play, remember?
+
+[140] 632.68s - 636.68s
+It was Resistance, resisted upward movement. Finally the Resistance broke, broke through.
+
+[141] 636.88s - 640.66s
+Reverses back. What is it now? From Resistance it changed to Support.
+
+[142] 640.66s - 646.00s
+Supports preventing downward movement. Can't go down, so it goes up. See?
+
+[143] 646.70s - 650.12s
+But there's another thing I mentioned, don't forget.
+
+[144] 650.12s - 652.42s
+We don't look at it as a single line.
+
+[145] 652.42s - 656.20s
+Not taking this price, a single price. It's not this price that is Support or Resistance.
+
+[146] 657.02s - 660.34s
+We take it as a zone. Like this, if you draw it as a zone
+
+[147] 661.58s - 663.76s
+it becomes clearer like this. See?
+
+[148] 664.70s - 667.88s
+This, it touches the zone, touches the zone, touches the zone a bit.
+
+[149] 667.88s - 682.40s
+And finally it stays. And comes down touching the zone.
+
+[150] 682.40s - 688.82s
+Resistance is here, this zone. You can combine them all this way, combine them all.
+
+[151] 689.38s - 693.66s
+Like this. It hits and drops, hits and drops, hits and drops. See?
+
+[152] 694.74s - 699.36s
+So we mark it like this. After marking on the larger timeframe
+
+[153] 700.10s - 704.94s
+we'll break it down to smaller timeframes, well, smaller ones
+
+[154] 705.00s - 707.70s
+and mark what we just saw. Look at the left side.
+
+[155] 707.70s - 710.36s
+This is our left side. Here's where the current price is running on the chart.
+
+[156] 710.66s - 712.70s
+So we look back at the past.
+
+[157] 712.70s - 715.92s
+The points where it clearly bounced up. Here.
+
+[158] 715.92s - 734.98s
+We mark and set them up.
+
+[159] 734.98s - 738.72s
+If the line is above the price, that means it's Resistance.
+
+[160] 739.06s - 748.48s
+Therefore, if price breaks through this Resistance upward
+
+[161] 750.74s - 754.28s
+Breaks through. Price runs, boom, breaks up.
+
+[162] 755.10s - 760.20s
+Where will it go next? It'll be clear, right? There's nothing blocking it anymore.
+
+[163] 760.48s - 764.30s
+Price will keep running until it hits the next Resistance.
+
+[164] 766.32s - 768.34s
+The next level.
+
+[165] 769.74s - 773.14s
+When price goes up and hits it, we need to watch at that moment to see if price
+
+[166] 773.74s - 776.56s
+will hit and pass through, or if it doesn't pass then
+
+[167] 778.18s - 780.92s
+it'll reverse down. Look at the candlesticks.
+
+[168] 781.42s - 783.88s
+Reverses back down. Look, this is the old Resistance.
+
+[169] 784.26s - 787.42s
+Already broken through. It becomes Support. Comes down to test Support.
+
+[170] 788.70s - 790.42s
+Right here. Boom.
+
+[171] 793.38s - 796.66s
+Comes to test if it holds.
+
+[172] 797.38s - 800.40s
+Right. It holds.
+
+[173] 800.62s - 804.22s
+It holds. If it holds, price returns.
+
+[174] 805.60s - 806.46s
+Goes back up.
+
+[175] 809.12s - 812.86s
+If there's a lot of buying pressure, it might break through this Resistance.
+
+[176] 812.86s - 816.24s
+Could break out. Break out like this, could go far.
+
+[177] 816.84s - 822.32s
+If it breaks, where will it go? To the next Resistance. Right here.
+
+[178] 825.50s - 830.22s
+Goes and hits it. Resistance does its job resisting upward movement. Then it'll curve down again.
+
+[179] 830.22s - 833.80s
+It'll reverse downward again. It'll keep going like this.
+
+[180] 835.20s - 839.84s
+Understand now? Support and Resistance in horizontal form.
+
+[181] 839.84s - 843.58s
+You mark where you see repeated points.
+
+[182] 843.58s - 847.10s
+Like three or so. For example, when I mark here, did I mark this correctly?
+
+[183] 847.10s - 851.58s
+We haven't seen what's behind yet. Based on what we see now, it should hit this line.
+
+[184] 852.30s - 858.92s
+This is Support, comes down and bounces, comes down and bounces up, breaks through, breaks through, comes back. This level must become Resistance, right?
+
+[185] 858.92s - 864.14s
+And it comes up here. It resists down, resists down, resists down. Finally
+
+[186] 864.14s - 869.72s
+it breaks down. All the way here. Reached this major Support zone.
+
+[187] 870.14s - 874.64s
+Very clear Support. When it hits, see? It holds and prevents it from dropping.
+
+[188] 874.64s - 879.14s
+It holds and bounces up like this. See? Now if it can break through
+
+[189] 879.14s - 883.46s
+Boom, breaks down. Down. It reverses back up and hits this zone.
+
+[190] 883.46s - 886.66s
+This Resistance zone. Originally it was Support. Already broken.
+
+[191] 886.66s - 892.02s
+Change its name. It becomes Resistance. It resists, prevents upward movement. So it drops.
+
+[192] 892.02s - 899.04s
+Price drops. Hits there and drops out. Here. Now if we try to look back
+
+[193] 899.04s - 907.08s
+Let me look back. Here, here, here, here, here. See? Hit here again. This zone again.
+
+[194] 907.08s - 911.46s
+This zone again. See? Hits and drops. Comes down and hits. Here and goes up. Bounces, bounces, bounces.
+
+[195] 911.46s - 917.00s
+Until it's able to break through. Here it reverses up to hit again. Here. See? Here.
+
+[196] 917.00s - 921.82s
+About this much is good enough. Looks like it broke through a bit, but couldn't continue.
+
+[197] 921.82s - 926.92s
+So it drops like this. Still counts because like I said, Support and Resistance aren't viewed as a single price line.
+
+[198] 926.92s - 930.94s
+It's a Price Zone. Like this. Like this. See?
+
+[199] 932.00s - 936.70s
+Here. Here. We didn't know before. We don't know what's behind. We mark what we see now.
+
+[200] 936.70s - 940.02s
+Based on current data, these 3 points didn't break. Mark here first.
+
+[201] 941.40s - 946.52s
+Here too. Right. Once we mark it, it misses. After it misses, we look back to see if this level is really strong.
+
+[202] 947.50s - 952.82s
+It all checks out. This is a zone, see? It doesn't reach exactly, but remember it's a zone.
+
+[203] 952.82s - 956.08s
+It's a Price Zone. So it drops like this.
+
+[204] 956.58s - 960.24s
+Therefore, this line should be fairly strong.
+
+[205] 960.54s - 962.96s
+Therefore, if price, or here, comes up to hit here
+
+[206] 963.90s - 969.32s
+we analyze or consider the trend
+
+[207] 969.32s - 972.08s
+that there's a chance it won't break on the first try.
+
+[208] 972.42s - 974.32s
+Might reverse back first.
+
+[209] 975.48s - 977.14s
+Come to form new patterns, then go up.
+
+[210] 977.56s - 981.00s
+This is the point where we'll consider buying or selling pressure
+
+[211] 981.00s - 985.24s
+to see who wins, who dominates more, from what we learned about
+
+[212] 985.72s - 989.56s
+about reading candlesticks. We look at it together with
+
+[213] 989.56s - 991.84s
+this right here. We'll see a clearer picture than when we first
+
+[214] 991.84s - 1010.98s
+learned about candlesticks. We read them candle by candle.
+
+[215] 1011.80s - 1018.64s
+Like before, we read by going up, until we reach here. Reading here, it's strong. Selling pressure is strong. Probably won't hold.
+
+[216] 1018.64s - 1025.14s
+Reading down, up, up, down, and so on. Reading continuously, there was no, basically no focal point.
+
+[217] 1025.74s - 1029.20s
+There might be a percentage that makes our reading and analysis of candlesticks
+
+[218] 1029.20s - 1032.48s
+or buying/selling pressure or Momentum
+
+[219] 1033.28s - 1035.84s
+less accurate. But if combined with Support and Resistance
+
+[220] 1035.84s - 1038.82s
+it's a level we already know that it must play an important role where
+
+[221] 1039.04s - 1041.04s
+price must do something in these zones.
+
+[222] 1041.92s - 1042.82s
+If we compare it to
+
+[223] 1042.82s - 1048.14s
+like comparing to the candlestick lessons we learned, Momentum as a battlefield
+
+[224] 1048.14s - 1051.90s
+there are 2 cities fighting each other, to seize territory
+
+[225] 1051.90s - 1053.84s
+who can enter whose territory more
+
+[226] 1054.24s - 1059.04s
+Support and Resistance are like city walls or checkpoint walls.
+
+[227] 1059.56s - 1062.88s
+So when it's a checkpoint wall, that means the wall must have who?
+
+[228] 1063.54s - 1066.88s
+Must have soldiers guarding, obstacles blocking, right?
+
+[229] 1066.88s - 1070.88s
+So we need to look at the forces battling there to see if they can destroy the wall.
+
+[230] 1070.88s - 1075.00s
+This side, the city on this side, if it's an uptrend going up to hit Resistance, we need to see if
+
+[231] 1075.58s - 1079.54s
+the army attacking, coming to assault, does it have strong or weak forces?
+
+[232] 1079.54s - 1085.30s
+Is it at full strength or is it weakening? Against the army waiting to defend on the wall
+
+[233] 1085.30s - 1089.94s
+at this level that already exists. Will this side be able to resist?
+
+[234] 1090.48s - 1095.82s
+Can they push the enemy back? We'll know step by step.
+
+[235] 1096.08s - 1099.70s
+Instead of reading candlesticks continuously from what we learned about Momentum
+
+[236] 1099.70s - 1101.92s
+which already gives us information as a story
+
+[237] 1101.92s - 1105.54s
+if we understand from the previous lessons, from previous parts
+
+[238] 1105.54s - 1108.98s
+we can already read Momentum and candlesticks as a continuous story.
+
+[239] 1108.98s - 1112.16s
+When we combine it with Support and Resistance as zones
+
+[240] 1113.36s - 1118.80s
+it tells us exactly which points we should focus our reading on more.
+
+[241] 1119.14s - 1123.28s
+Instead of reading through dozens of candles, which might be confusing
+
+[242] 1123.46s - 1127.32s
+information might be wrong or inaccurate. But if we already know the positions we need to focus on
+
+[243] 1127.32s - 1130.98s
+we just read buying or selling pressure at the moments when there are Support and Resistance
+
+[244] 1131.36s - 1135.20s
+positions like these instead. It'll save us more time.
+
+[245] 1135.58s - 1139.90s
+But if you want the overall picture or want to analyze more deeply
+
+[246] 1141.22s - 1143.90s
+we read like we read before
+
+[247] 1143.90s - 1146.88s
+from previous lessons, read through the entire set, read continuously
+
+[248] 1147.24s - 1152.04s
+but at points where you encounter Support and Resistance, analyze more specifically
+
+[249] 1153.94s - 1155.22s
+whether it will go or not go.
+
+[250] 1155.86s - 1161.08s
+Because if it goes, it must go to the next level. Each level basically tells us, besides preventing upward movement
+
+
+[251] 1167.20s - 1172.26s
+like I said before, this is the city wall. If the forces attack and break through
+
+[252] 1172.90s - 1178.62s
+the next wall is here. Now you ask, what happens in this zone?
+
+[253] 1178.62s - 1180.96s
+It doesn't do much. The troops just keep advancing
+
+[254] 1180.96s - 1185.78s
+to attack the next wall or next city. That's it, to seize the new city and keep attacking forward.
+
+[255] 1186.98s - 1190.28s
+If we compare it to warfare, it's exactly like this. It's normal.
+
+[256] 1190.28s - 1193.54s
+In the function of Support like this, it holds price from dropping
+
+[257] 1193.54s - 1199.10s
+so if it drops through, it broke this wall already, so it must go attack the next city wall which is the next zone.
+
+[258] 1199.92s - 1202.78s
+Send the soldiers. When soldiers reach the next wall zone
+
+[259] 1202.78s - 1220.26s
+the troops from this side send forces to fight, to fight and reclaim the territory back.
+
+[260] 1220.26s - 1222.54s
+That's why they defend to prevent us from entering their territory too.
+
+[261] 1223.26s - 1225.36s
+Hit, hit, hit, down, down
+
+[262] 1226.10s - 1227.14s
+So we analyze like this.
+
+[263] 1227.74s - 1228.66s
+If it drops, where does it go?
+
+[264] 1228.66s - 1233.12s
+If the forces from below try to push up and lose
+
+[265] 1234.60s - 1236.78s
+they'll retreat as normal. If we go fight
+
+[266] 1237.92s - 1240.06s
+and we lose, or we can't fight anymore, we're exhausted
+
+[267] 1240.94s - 1241.82s
+where do we have to go?
+
+[268] 1242.76s - 1244.98s
+We have to return to our base, return to our army camp.
+
+[269] 1245.46s - 1249.08s
+The question is, if we fight here and can't hold, we must return to Support level where it was before
+
+[270] 1249.08s - 1253.20s
+like we go back, go rest first. It already won here before, we're defending here
+
+[271] 1253.20s - 1274.96s
+right? This is considered their city wall. But fighting here doesn't work anymore.
+
+[272] 1274.96s - 1281.16s
+When the army advances this big, like a wall appears, it protects the zone.
+
+[273] 1281.16s - 1285.46s
+Taking that zone becomes the zone they're holding, according to the size of their candle.
+
+[274] 1285.86s - 1291.54s
+When price hits and can't break through, encountered this level before, they retreat back.
+
+[275] 1293.52s - 1296.98s
+See this huge candle? Remember?
+
+[276] 1298.32s - 1303.72s
+If suddenly there are small candles and then a big candle appears from the start
+
+[277] 1303.72s - 1310.74s
+that's it, the trend will go in the big candle's direction for a while. So see? When it comes, it goes this way again.
+
+[278] 1310.74s - 1318.64s
+It sends forces this way again. Like it can't fight back, right? So it keeps sending the same army here.
+
+[279] 1318.64s - 1333.70s
+They move the army, move the army here, attack, attack inward, attack until the defending forces can't hold anymore.
+
+[280] 1333.70s - 1353.24s
+Keep going continuously.
+
+[281] 1353.66s - 1357.92s
+See? It's like in this area, after breaking through for a while
+
+[282] 1357.92s - 1361.08s
+in this area they have new forces forming a wall right here.
+
+[283] 1361.08s - 1364.48s
+How did this happen? If you look back at this line, this line
+
+[284] 1366.38s - 1368.10s
+See here? It bounces back.
+
+[285] 1370.36s - 1374.64s
+This is this zone. Hit then drop, struggling here, hit
+
+[286] 1376.54s - 1377.48s
+This one
+
+[287] 1377.48s - 1384.50s
+This shows they still have military forces waiting
+
+[288] 1386.56s - 1393.10s
+waiting to fight. That's why it must bounce. The army is coming. Simply put, they might be tired from traveling.
+
+[289] 1393.62s - 1396.98s
+Momentum starts decreasing, the big candles start getting smaller and smaller and smaller.
+
+[290] 1398.18s - 1402.94s
+Trying their best to push but in the end might start weakening.
+
+[291] 1402.94s - 1409.92s
+Then small green candles gradually creep up, and finally defeat this army.
+
+[292] 1410.36s - 1415.54s
+See? Price manages to close above this one. So keep fighting. Fight to where?
+
+[293] 1416.08s - 1419.22s
+Fight back to where they just crossed over the city wall here.
+
+[294] 1419.22s - 1432.92s
+This first checkpoint wall. Come here, then go back up to reclaim it.
+
+[295] 1432.92s - 1436.46s
+Make it ours again, so the enemy doesn't reclaim it.
+
+[296] 1436.46s - 1440.66s
+Hit then drop, hit then drop, hit then drop, trying to reclaim it.
+
+[297] 1440.66s - 1445.98s
+Still can't reclaim it yet of course, because here it's still considered in the period of
+
+[298] 1447.02s - 1452.02s
+sideways. Still fighting each other on this level. Here might be winning a bit
+
+[299] 1452.24s - 1456.08s
+then shifts to the next Resistance level, which is here. Still fighting.
+
+[300] 1456.08s - 1461.36s
+It's just the strength of Momentum, candlesticks, like we've read before
+
+[301] 1462.70s - 1470.34s
+it'll make analysis easier, clearer, increase your trading percentage even more.
+
+[302] 1470.34s - 1472.20s
+Let's continue watching.
+
+[303] 1475.58s - 1478.92s
+Next up is Dynamic Support and Resistance, or the sloped type.
+
+[304] 1478.92s - 1490.68s
+Earlier, Support and Resistance were horizontal, right? Now the sloped type, how is it? It's trendlines basically.
+
+[305] 1491.46s - 1498.08s
+Let me open a new one, let's say this one works.
+
+[306] 1506.86s - 1507.28s
+Let's continue.
+
+[307] 1507.28s - 1508.26s
+This one I like Fuji.
+
+[308] 1509.38s - 1516.54s
+We can look at this one.
+
+[309] 1517.56s - 1520.00s
+At first, this one already went like this.
+
+[310] 1520.20s - 1521.32s
+See, it's a zone?
+
+[311] 1522.34s - 1523.30s
+The horizontal one.
+
+[312] 1523.30s - 1527.70s
+Bouncing for a long period because if you know
+
+[313] 1527.92s - 1530.40s
+it switches roles, from Support to Resistance.
+
+[314] 1531.70s - 1534.30s
+Goes up, hits, drops. See?
+
+[315] 1535.20s - 1537.96s
+Now we move to the horizontal type, we already know that.
+
+[316] 1538.86s - 1544.10s
+Let's do the sloped type, the one with slope like this.
+
+[317] 1545.36s - 1545.96s
+Draw like this.
+
+[318] 1550.26s - 1554.56s
+If it's a downtrend, we'll draw from the peak downward like this.
+
+[319] 1556.08s - 1559.68s
+Then create a channel to make it parallel, let it run like this.
+
+[320] 1561.28s - 1567.40s
+You'll see it becomes Support and Resistance in diagonal form like this.
+
+[321] 1570.96s - 1575.82s
+It's on top, it's a downtrend. So along this line
+
+[322] 1576.80s - 1580.38s
+it must be Resistance.
+
+[323] 1580.66s - 1583.88s
+Below, when it's below it becomes Support.
+
+[324] 1586.82s - 1589.82s
+When price comes to hit the lower line it becomes Support.
+
+[325] 1592.82s - 1594.54s
+This one first, Support like this.
+
+[326] 1610.38s - 1612.22s
+Here, right here
+
+[327] 1615.30s - 1624.62s
+Around here, see?
+
+[328] 1625.66s - 1629.38s
+When we draw trendlines, we'll draw two clear points first.
+
+[329] 1629.38s - 1630.50s
+Use this as point one.
+
+[330] 1631.52s - 1634.02s
+Point two, take a nearby point, nearby peak.
+
+[331] 1634.50s - 1636.50s
+This one might be a bit off, skip it.
+
+[332] 1647.04s - 1651.86s
+We take this point and this point, these two points, then let the rest run.
+
+[333] 1655.70s - 1660.54s
+For this we create a parallel channel at points it passed through before.
+
+[334] 1662.56s - 1667.72s
+The top will be Resistance. Price runs down, reverses back up.
+
+[335] 1668.48s - 1673.56s
+Sometimes price reverses back and forth, we might not see on the horizontal axis
+
+[336] 1673.56s - 1678.04s
+why it bounces. Like here it might be struggling, not clear.
+
+[337] 1678.28s - 1684.94s
+Why does it drop? But actually here there's a little bit.
+
+[338] 1688.04s - 1697.20s
+Around here. They're fighting. Try looking back, is there anything? It's still not clear.
+
+[339] 1698.80s - 1704.12s
+Actually we can kind of see it in another technique which we'll cover later, which is Fibo.
+
+[340] 1704.76s - 1711.28s
+It happens to drop and retrace to around 55%, then it drops. But today we'll talk about it later.
+
+[341] 1712.38s - 1715.78s
+But since it already happened, we take the point where it occurred, this swing
+
+[342] 1716.48s - 1720.82s
+and this swing, connect them together and extend it out.
+
+[343] 1721.46s - 1725.52s
+It becomes a channel. Make the bottom parallel to be Support.
+
+[344] 1725.52s - 1726.98s
+We have Resistance already, now we'll have Support.
+
+[345] 1727.22s - 1733.02s
+That's why when price runs to hit Support or the diagonal line, it goes up.
+
+[346] 1734.86s - 1740.44s
+Hits, goes up, hits, hits. Goes down, down, down, down, down, down, hits again, then goes up. See?
+
+[347] 1740.44s - 1744.96s
+Because if we want to know, wait, what's on the horizontal level that makes it go up?
+
+[348] 1744.96s - 1750.80s
+It has to go up here. We can try observing this line.
+
+[349] 1759.30s - 1765.84s
+This line, this line, horizontal. Oh okay, because when it reverses back below, there's still a point where it must bounce.
+
+[350] 1770.74s - 1776.70s
+And it also has this line, so we can consider this one quite strong because there are 2 overlapping lines.
+
+[351] 1777.84s - 1784.48s
+Two stories, two types of Support and Resistance switching roles.
+
+[352] 1784.48s - 1789.64s
+Switching roles. In an uptrend, is there an uptrend? Yeah, uptrend first.
+
+[353] 1789.64s - 1793.08s
+This one here, then we take this point, this Low.
+
+[354] 1796.50s - 1797.66s
+The clear one would be like this one.
+
+[355] 1800.74s - 1802.04s
+Let's zoom in a bit more.
+
+[356] 1803.82s - 1804.78s
+Want to make it clearer.
+
+[357] 1809.88s - 1810.96s
+Draw a channel there.
+
+[358] 1812.88s - 1817.94s
+The bottom will become Support.
+
+[359] 1821.26s - 1822.74s
+At this point we'll take it as point 2.
+
+[360] 1822.74s - 1825.20s
+So we don't know if it's Support yet.
+
+[361] 1825.40s - 1829.30s
+We have to wait for this formation to happen first, then we can draw it like this.
+
+[362] 1829.50s - 1831.68s
+Once we draw it like this, it means we've got the top.
+
+[363] 1832.10s - 1834.24s
+So the top has to become Resistance, right?
+
+[364] 1835.66s - 1838.46s
+So when price runs from this point up,
+
+[365] 1839.08s - 1842.16s
+pretty strong momentum too, runs up strongly, and this green candle,
+
+[366] 1842.16s - 1845.98s
+this long and big, boom! Hits Resistance.
+
+[367] 1847.30s - 1850.64s
+Still can't break through. That's why it curves down.
+
+[368] 1851.32s - 1854.14s
+Ah! Tests again, still can't break through.
+
+[369] 1854.14s - 1856.88s
+This one's like the final strike, boom!
+
+[370] 1857.62s - 1858.80s
+But you see,
+
+[371] 1858.80s - 1860.18s
+if we read by Momentum and candlesticks,
+
+[372] 1861.22s - 1864.20s
+it shows there's selling pressure, an Engulfing back.
+
+[373] 1864.20s - 1866.72s
+The other side won't let it go through, simply put.
+
+[374] 1867.18s - 1869.68s
+So it reverses back because it's a Resistance zone.
+
+[375] 1870.68s - 1874.20s
+Same thing, even though it's diagonal, we can still count it as a zone.
+
+[376] 1876.52s - 1878.74s
+Take the closing prices and the shadows, we can draw it.
+
+[377] 1880.74s - 1882.90s
+So it reverses back into the Channel.
+
+[378] 1883.76s - 1884.28s
+Like this.
+
+[379] 1886.42s - 1888.70s
+Then it comes down here, tests.
+
+[380] 1888.70s - 1891.44s
+Tests Support, bounces up.
+
+[381] 1891.44s - 1893.26s
+Goes up, comes back down to test again.
+
+[382] 1894.12s - 1903.52s
+Down here, tests, bounces, tests.
+
+[383] 1904.08s - 1913.44s
+See? It keeps testing Support.
+
+[384] 1914.44s - 1918.10s
+This shows the diagonal line we drew
+
+[385] 1918.10s - 1923.50s
+is acting as Support.
+
+[386] 1923.50s - 1927.50s
+When price hits it, it bounces.
+
+[387] 1927.50s - 1932.60s
+But look at this area,
+
+[388] 1932.60s - 1938.30s
+when it breaks below Support,
+
+[389] 1938.86s - 1939.80s
+this Support line
+
+[390] 1941.96s - 1946.66s
+will switch to become Resistance.
+
+[391] 1946.66s - 1950.76s
+See? Once it breaks below,
+
+[392] 1951.68s - 1954.90s
+it tests from below, can't break through.
+
+[393] 1954.90s - 1958.44s
+Tests again, can't break through.
+
+[394] 1961.50s - 1965.90s
+This means the diagonal line switched roles
+
+[395] 1967.00s - 1972.02s
+from Support to Resistance.
+
+[396] 1972.96s - 1976.74s
+Same concept as horizontal Support/Resistance,
+
+[397] 1978.84s - 1982.62s
+just on a diagonal.
+
+[398] 1982.96s - 1988.54s
+So whether it's horizontal or diagonal,
+
+[399] 1989.38s - 1994.34s
+Support and Resistance can switch roles.
+
+[400] 1996.16s - 2004.20s
+This is what we call dynamic Support and Resistance.
+
+[401] 2005.48s - 2012.18s
+Because it has a slope, it's not flat.
+
+[402] 2013.94s - 2017.56s
+It moves with the trend.
+
+[403] 2018.40s - 2020.30s
+That's why we call it dynamic.
+
+[404] 2023.08s - 2024.40s
+Alright, so this is trendlines and channels.
+
+[405] 2026.20s - 2029.80s
+Very useful for drawing Support and Resistance
+
+[406] 2029.80s - 2036.42s
+that moves with price.
+
+[407] 2037.74s - 2042.92s
+Now let's look at
+
+[408] 2043.72s - 2048.94s
+another tool, which is
+
+[409] 2050.18s - 2056.66s
+Fibonacci.
+
+[410] 2058.00s - 2061.60s
+Fibonacci, or Fibo for short,
+
+[411] 2061.60s - 2068.66s
+is a tool we use to find
+
+[412] 2068.66s - 2072.44s
+Support and Resistance zones too.
+
+[413] 2073.04s - 2086.64s
+But it's based on percentages
+
+[414] 2086.64s - 2088.78s
+of the price movement.
+
+[415] 2089.30s - 2092.20s
+The key levels are
+
+[416] 2093.84s - 2095.02s
+23.6%, 38.2%, 50%,
+
+[417] 2096.86s - 2099.26s
+61.8%, and 78.6%.
+
+[418] 2099.26s - 2101.70s
+The most important is 61.8%,
+
+[419] 2101.96s - 2102.64s
+also called the Golden Ratio.
+
+[420] 2104.38s - 2106.04s
+We use Fibo to measure
+
+[421] 2107.00s - 2108.34s
+where price might pull back to.
+
+[422] 2109.34s - 2112.18s
+Let me show you how.
+
+[423] 2117.90s - 2121.00s
+In an uptrend,
+
+[424] 2130.04s - 2134.06s
+we draw from Low to High.
+
+[425] 2134.82s - 2139.60s
+Like this swing here,
+
+[426] 2139.60s - 2146.80s
+from this Low
+
+[427] 2146.80s - 2148.42s
+to this High.
+
+[428] 2152.44s - 2158.80s
+Then when price pulls back,
+
+[429] 2170.44s - 2176.62s
+we watch those Fibo levels
+
+[430] 2177.80s - 2183.14s
+to see where it might bounce.
+
+[431] 2185.00s - 2190.30s
+If it bounces at 38.2% or 50%,
+
+[432] 2191.64s - 2193.80s
+that's a shallow pullback.
+
+[433] 2194.62s - 2198.16s
+If it goes to 61.8%,
+
+[434] 2199.82s - 2203.28s
+that's a deeper pullback.
+
+[435] 2204.08s - 2207.30s
+If it breaks 61.8%,
+
+[436] 2208.18s - 2211.52s
+the trend might be weakening.
+
+[437] 2212.22s - 2214.06s
+In a downtrend, we do the opposite.
+
+[438] 2215.20s - 2218.46s
+Draw from High to Low.
+
+[439] 2218.76s - 2220.10s
+Then watch for Resistance when it bounces.
+
+[440] 2222.28s - 2227.96s
+Let's see an example.
+
+[441] 2231.30s - 2235.00s
+Here's an uptrend.
+
+[442] 2235.00s - 2240.72s
+We draw Fibo from Low to High.
+
+[443] 2241.56s - 2245.92s
+Click the Fibo tool,
+
+[444] 2245.92s - 2248.64s
+click at the Low,
+
+[445] 2248.64s - 2252.20s
+drag to the High.
+
+[446] 2252.20s - 2270.70s
+There, we get the levels.
+
+[447] 2272.24s - 2275.30s
+Now watch when price pulls back,
+
+[448] 2276.40s - 2282.38s
+where does it bounce?
+
+[449] 2284.18s - 2285.46s
+Look, it bounces right at 50%.
+
+[450] 2287.06s - 2287.66s
+like this tail
+
+[451] 2289.08s - 2290.72s
+they allow you to draw it like this
+
+[452] 2291.20s - 2294.34s
+you can draw the trendline because this is a swing point, see? Price came down then went up
+
+[453] 2294.62s - 2295.56s
+came down and went up
+
+[454] 2296.50s - 2299.18s
+so you're allowed to draw and test it, because it's like
+
+[455] 2299.18s - 2301.74s
+it's a scare candle, reversed back down...
+
+[456] 2301.98s - 2306.40s
+went up, there's still no closing price that went beyond this line downward
+
+[457] 2306.74s - 2309.72s
+this is what we call discretionary, acceptable
+
+[458] 2311.56s - 2312.74s
+something like this is acceptable
+
+[459] 2312.74s - 2315.74s
+looks like it'll break through the trendline upward
+
+[460] 2316.26s - 2317.56s
+but it didn't actually break
+
+[461] 2318.50s - 2319.02s
+see, it wicked up
+
+[462] 2319.78s - 2323.98s
+then reversed back down
+
+[463] 2324.52s - 2328.62s
+so this is considered
+
+[464] 2328.62s - 2331.20s
+acceptable, within discretion
+
+[465] 2331.20s - 2336.66s
+But if it clearly breaks through
+
+[466] 2336.66s - 2343.78s
+like breaking way up here
+
+[467] 2344.44s - 2345.82s
+then coming back down
+
+[468] 2346.30s - 2352.58s
+that wouldn't count anymore
+
+[469] 2352.58s - 2355.88s
+understand?
+
+[470] 2356.56s - 2360.12s
+So this is
+
+[471] 2360.24s - 2364.00s
+the trendline concept
+
+[472] 2365.30s - 2371.20s
+Drawing trendlines is about
+
+[473] 2371.20s - 2377.14s
+finding swing points
+
+[474] 2377.78s - 2383.24s
+When you connect swing points
+
+[475] 2383.60s - 2389.20s
+you get a trendline
+
+[476] 2389.20s - 2391.90s
+Once you have a trendline, you can
+
+[477] 2392.66s - 2397.40s
+use it to analyze price movement
+
+[478] 2397.40s - 2401.28s
+Like we'll wait for price to test this line
+
+[479] 2401.68s - 2412.34s
+when it comes to test
+
+[480] 2412.34s - 2414.50s
+if it bounces, we can trade it
+
+[481] 2415.08s - 2418.48s
+or wait for it to break through
+
+[482] 2419.34s - 2422.78s
+if it breaks, we trade the breakout
+
+[483] 2422.78s - 2424.98s
+That's how we use trendlines
+
+[484] 2426.84s - 2428.98s
+Next, let's look at
+
+[485] 2430.22s - 2442.32s
+channels
+
+[486] 2443.50s - 2449.22s
+Channels are drawn by
+
+[487] 2449.22s - 2458.94s
+taking the trendline concept
+
+[488] 2460.28s - 2462.58s
+and adding a parallel line
+
+[489] 2462.58s - 2469.34s
+Like when we have an uptrend
+
+[490] 2469.92s - 2476.84s
+we draw the trendline at the bottom
+
+[491] 2476.84s - 2485.14s
+connecting swing lows
+
+[492] 2493.80s - 2502.50s
+Then we draw a parallel line
+
+[493] 2504.78s - 2511.20s
+at the swing highs
+
+[494] 2511.20s - 2512.28s
+This creates a channel
+
+[495] 2520.28s - 2523.94s
+Price moves within this channel
+
+[496] 2526.64s - 2530.78s
+bouncing between the upper and lower lines
+
+[497] 2530.78s - 2538.22s
+When we see a channel like this
+
+[498] 2538.22s - 2542.10s
+we can trade it
+
+[499] 2543.88s - 2550.38s
+Buy at the lower line
+
+[500] 2550.38s - 2556.76s
+sell at the upper line
+
+[501] 2557.58s - 2567.54s
+or wait for a breakout
+
+[502] 2568.32s - 2578.66s
+If price breaks above the channel
+
+[503] 2578.66s - 2589.50s
+that's a bullish breakout
+
+[504] 2590.68s - 2598.16s
+If it breaks below
+
+[505] 2602.16s - 2611.02s
+that's a bearish breakout
+
+[506] 2611.36s - 2616.06s
+Let's look at an example
+
+[507] 2616.66s - 2619.56s
+Here's a clear uptrend channel
+
+[508] 2619.98s - 2625.46s
+See how price
+
+[509] 2625.46s - 2628.58s
+keeps bouncing between the lines
+
+[510] 2628.58s - 2631.96s
+touches the bottom line
+
+[511] 2632.78s - 2636.98s
+bounces up
+
+[512] 2638.00s - 2638.78s
+goes to the top line
+
+[513] 2641.58s - 2646.20s
+bounces down
+
+[514] 2646.98s - 2649.64s
+This creates a trading range
+
+[515] 2651.66s - 2652.50s
+within the channel
+
+[516] 2653.40s - 2656.06s
+We can use this to plan our trades
+
+[517] 2656.84s - 2660.70s
+When price comes to the bottom
+
+[518] 2660.70s - 2664.06s
+we look for buy signals
+
+[519] 2664.18s - 2669.66s
+When it reaches the top
+
+[520] 2669.68s - 2673.88s
+we look for sell signals
+
+[521] 2673.88s - 2678.50s
+or take profit
+
+[522] 2678.84s - 2682.10s
+Now let's see
+
+[523] 2683.86s - 2687.72s
+a downtrend channel
+
+[524] 2690.64s - 2694.44s
+In a downtrend
+
+[525] 2695.28s - 2699.00s
+we draw the trendline at the top
+
+[526] 2699.68s - 2704.14s
+connecting swing highs
+
+[527] 2704.86s - 2712.56s
+Then add a parallel line
+
+[528] 2712.86s - 2716.48s
+at the swing lows
+
+[529] 2718.44s - 2722.68s
+Price moves down within this channel
+
+[530] 2722.94s - 2730.68s
+Same concept, just inverted
+
+[531] 2738.60s - 2746.36s
+We can sell at the top line
+
+[532] 2748.64s - 2753.88s
+buy back at the bottom line
+
+[533] 2756.78s - 2762.82s
+or wait for a breakout
+
+[534] 2765.04s - 2770.34s
+The key thing about channels is
+
+[535] 2770.92s - 2774.12s
+they help us see
+
+[536] 2774.46s - 2780.96s
+the range price is moving in
+
+[537] 2780.96s - 2800.32s
+and plan our entries and exits
+
+[538] 2800.32s - 2805.46s
+Now an important point
+
+[539] 2805.46s - 2807.52s
+about drawing channels
+
+[540] 2809.08s - 2813.60s
+Sometimes you'll see
+
+[541] 2814.98s - 2819.04s
+the channel isn't perfect
+
+[542] 2819.38s - 2824.84s
+Price might wick outside
+
+[543] 2824.84s - 2828.76s
+but not close outside
+
+[544] 2828.76s - 2833.42s
+That's still okay
+
+[545] 2833.64s - 2840.48s
+We use discretion here too
+
+[546] 2841.16s - 2845.22s
+As long as the closes
+
+[547] 2846.68s - 2847.62s
+stay within the channel
+
+[548] 2851.22s - 2852.10s
+we can still consider it valid
+
+[549] 2852.46s - 2855.20s
+Just like with trendlines
+
+[550] 2852.46s - 2855.20s
+If we explain the theory in detail, it'd be really long
+
+[551] 2856.90s - 2859.52s
+It's one of the
+
+[552] 2859.52s - 2864.24s
+technical tools
+
+[553] 2864.84s - 2869.42s
+that acts as psychological Support
+
+[554] 2869.42s - 2873.26s
+It has specific ratios
+
+[555] 2873.26s - 2876.98s
+The important ones are these
+
+[556] 2877.32s - 2879.84s
+38.2%, 50%, and 61.8%
+
+[557] 2881.50s - 2883.88s
+So when price moves up
+
+[558] 2885.30s - 2888.90s
+If it pulls back, there are 3 lines
+
+[559] 2888.90s - 2892.36s
+where price has a chance to bounce as Support or Resistance levels from Fibo
+
+[560] 2892.90s - 2896.52s
+So let's say price moves up like this
+
+[561] 2896.98s - 2900.76s
+When it pulls back
+
+[562] 2900.76s - 2902.46s
+It might bounce at 38.2%
+
+[563] 2902.76s - 2909.26s
+or 50%
+
+[564] 2911.14s - 2914.44s
+or 61.8%
+
+[565] 2915.48s - 2918.98s
+These are considered
+
+[566] 2918.98s - 2922.84s
+psychological levels
+
+[567] 2924.06s - 2930.04s
+that traders pay attention to
+
+[568] 2931.10s - 2933.86s
+It's like
+
+[569] 2935.50s - 2939.84s
+when price reaches these Fibonacci levels
+
+[570] 2941.04s - 2944.28s
+traders will watch to see if it'll bounce or break through
+
+[571] 2944.98s - 2949.32s
+But this is just a tool
+
+[572] 2949.66s - 2955.00s
+We still need to combine it with other things we've learned
+
+[573] 2955.00s - 2958.82s
+like candlestick patterns
+
+[574] 2959.40s - 2962.44s
+price structure
+
+[575] 2962.90s - 2965.84s
+to confirm
+
+[576] 2966.74s - 2970.00s
+whether it'll really bounce at that level or not
+
+[577] 2970.00s - 2973.54s
+Alright, so Fibonacci
+
+[578] 2974.82s - 2976.00s
+is one popular tool
+
+[579] 2980.68s - 2984.28s
+that many traders use
+
+[580] 2984.28s - 2988.40s
+Okay, next
+
+[581] 2989.80s - 2993.64s
+We'll talk about Trendlines
+
+[582] 2994.30s - 2996.60s
+Trendlines
+
+[583] 2998.08s - 3006.74s
+are lines we draw
+
+[584] 3006.74s - 3010.94s
+to connect price swing points
+
+[585] 3010.94s - 3014.58s
+For an uptrend
+
+[586] 3016.14s - 3018.32s
+we connect the lows
+
+[587] 3020.28s - 3023.58s
+the bottom points
+
+[588] 3023.96s - 3026.08s
+When we draw a line connecting them
+
+[589] 3026.08s - 3030.58s
+it becomes an uptrend line
+
+[590] 3031.16s - 3033.22s
+For a downtrend
+
+[591] 3033.92s - 3034.92s
+we connect the highs
+
+[592] 3040.60s - 3043.14s
+the top points
+
+[593] 3043.90s - 3050.98s
+When price comes to test this line
+
+[594] 3050.98s - 3058.96s
+it often bounces
+
+[595] 3058.96s - 3064.86s
+So the trendline acts as Support or Resistance
+
+[596] 3065.22s - 3068.42s
+For example, if we draw an uptrend line
+
+[597] 3068.42s - 3074.16s
+Each time price pulls back to touch this line
+
+[598] 3075.08s - 3079.56s
+it tends to bounce up
+
+[599] 3079.56s - 3084.32s
+If it breaks through this trendline
+
+[600] 3084.32s - 3086.34s
+it signals that the trend might be changing
+
+[601] 3088.82s - 3092.48s
+might be weakening
+
+[602] 3092.48s - 3096.72s
+So trendlines
+
+[603] 3096.72s - 3101.32s
+are very important tools
+
+[604] 3101.54s - 3108.36s
+for identifying trend direction
+
+[605] 3109.78s - 3112.64s
+and finding entry points
+
+[606] 3112.88s - 3115.14s
+Okay, next we have Channels
+
+[607] 3115.14s - 3116.82s
+Channels
+
+[608] 3117.34s - 3119.68s
+are when we draw parallel lines
+
+[609] 3120.48s - 3122.32s
+both top and bottom
+
+[610] 3122.32s - 3124.74s
+The bottom line is Support
+
+[611] 3125.94s - 3127.50s
+The top line is Resistance
+
+[612] 3129.08s - 3131.40s
+Price will oscillate
+
+[613] 3132.38s - 3141.14s
+bounce between these two lines
+
+[614] 3141.14s - 3149.62s
+When it hits the bottom, it bounces up
+
+[615] 3150.44s - 3156.92s
+When it hits the top, it bounces down
+
+[616] 3157.26s - 3162.52s
+This is called trading in a channel
+
+[617] 3162.52s - 3169.44s
+If price breaks out of the channel
+
+[618] 3179.62s - 3182.78s
+either breaking the top resistance
+
+[619] 3183.06s - 3186.74s
+or breaking the bottom support
+
+[620] 3189.66s - 3194.64s
+it signals a potential trend change
+
+[621] 3195.02s - 3199.02s
+or strong momentum in that direction
+
+[622] 3200.04s - 3206.54s
+So channels
+
+[623] 3230.18s - 3235.98s
+are great for range trading
+
+[624] 3236.72s - 3241.46s
+buying at support, selling at resistance
+
+[625] 3242.50s - 3248.06s
+Alright, these are the basic tools
+
+[626] 3248.44s - 3251.28s
+for finding Support and Resistance
+
+[627] 3253.36s - 3258.16s
+Whether it's horizontal levels
+
+[628] 3259.30s - 3287.62s
+Fibonacci retracement
+
+[629] 3288.16s - 3290.04s
+Trendlines
+
+[630] 3290.04s - 3296.54s
+or Channels
+
+[631] 3296.54s - 3302.96s
+They all serve the same purpose
+
+[632] 3304.18s - 3309.58s
+helping us find where price might
+
+[633] 3311.12s - 3314.70s
+bounce or reverse
+
+[634] 3316.44s - 3318.22s
+But remember
+
+[635] 3319.10s - 3321.04s
+these aren't 100% accurate
+
+[636] 3321.88s - 3325.28s
+Sometimes price breaks through
+
+[637] 3326.44s - 3329.70s
+Sometimes it bounces
+
+[638] 3329.70s - 3331.56s
+We need to combine them with
+
+[639] 3331.56s - 3335.20s
+candlestick patterns
+
+[640] 3335.20s - 3339.44s
+price structure
+
+[641] 3339.44s - 3343.24s
+and other confirmations
+
+[642] 3343.24s - 3347.06s
+to make better trading decisions
+
+[643] 3347.06s - 3361.54s
+Don't rely on just one tool
+
+[644] 3361.54s - 3365.52s
+Use multiple confirmations
+
+[645] 3365.52s - 3370.02s
+That'll increase our probability of success
+
+[646] 3370.16s - 3372.34s
+Okay, now let's look at
+
+[647] 3372.34s - 3377.30s
+some real chart examples
+
+[648] 3377.30s - 3384.86s
+so you can see how these work in practice
+
+[649] 3384.86s - 3389.18s
+Here we can see
+
+[650] 3390.78s - 3395.54s
+This is a clear uptrend
+
+[651] 3396.12s - 3400.12s
+Price keeps making higher highs
+
+[652] 3401.82s - 3407.22s
+and higher lows
+
+[653] 3412.68s - 3418.92s
+If we draw a trendline
+
+[654] 3419.78s - 3425.88s
+connecting these lows
+
+[655] 3433.90s - 3442.28s
+You'll see price respects this line
+
+[656] 3452.76s - 3455.66s
+Each pullback touches the trendline and bounces
+
+[657] 3455.66s - 3455.86s
+This shows the trend is still strong
+
+[658] 3455.88s - 3456.72s
+But look here
+
+[659] 3459.62s - 3461.76s
+When price breaks below the trendline
+
+[660] 3463.46s - 3464.48s
+it signals trend weakness
+
+[661] 3465.84s - 3467.58s
+After the break, price starts moving sideways
+
+[662] 3468.04s - 3469.52s
+or even reverses
+
+[663] 3473.22s - 3473.84s
+So trendline breaks
+
+[664] 3474.78s - 3475.22s
+are important signals to watch
+
+[665] 3476.16s - 3477.90s
+Here's another example
+
+[666] 3481.98s - 3482.48s
+This is a channel
+
+[667] 3485.18s - 3485.86s
+Price is bouncing between
+
+[668] 3485.86s - 3512.98s
+the upper resistance line
+
+[669] 3514.90s - 3520.12s
+and the lower support line
+
+[670] 3520.94s - 3534.44s
+Each time it touches the bottom, it bounces up
+
+[671] 3539.62s - 3550.96s
+Each time it touches the top, it bounces down
+
+[672] 3552.24s - 3555.58s
+Very clear pattern
+
+[673] 3555.58s - 3559.90s
+If we trade this channel
+
+[674] 3561.02s - 3566.32s
+we'd buy near the bottom support
+
+[675] 3566.76s - 3571.64s
+and sell near the top resistance
+
+[676] 3571.86s - 3574.88s
+But watch what happens here
+
+[677] 3575.22s - 3579.04s
+Price breaks above the channel
+
+[678] 3580.16s - 3585.34s
+That's a breakout signal
+
+[679] 3585.34s - 3586.94s
+After breaking out, price continues moving strongly upward
+
+[680] 3588.40s - 3592.18s
+This is why channel breakouts
+
+[681] 3592.18s - 3595.08s
+are important trading opportunities
+
+[682] 3596.10s - 3603.58s
+Now let's look at Fibonacci
+
+[683] 3604.66s - 3613.70s
+Here price made a strong move up
+
+[684] 3615.72s - 3623.90s
+Then it started pulling back
+
+[685] 3625.62s - 3628.28s
+If we draw Fibonacci from the low to the high
+
+[686] 3628.76s - 3630.76s
+We can see the retracement levels
+
+[687] 3631.26s - 3634.18s
+Look here, price pulled back
+
+[688] 3634.18s - 3636.84s
+and bounced right at the 61.8% level
+
+[689] 3637.64s - 3641.62s
+This is a common Fibo level
+
+[690] 3642.18s - 3643.82s
+where price often finds support
+
+[691] 3645.88s - 3647.58s
+After bouncing at 61.8%
+
+[692] 3647.58s - 3650.02s
+price continued moving up
+
+[693] 3650.02s - 3652.98s
+resuming the uptrend
+
+[694] 3653.46s - 3656.22s
+This shows how Fibonacci levels
+
+[695] 3656.22s - 3658.84s
+can help us find good entry points
+
+[696] 3658.84s - 3661.78s
+during pullbacks in a trend
+
+[697] 3661.78s - 3664.64s
+Alright, so these are practical examples
+
+[698] 3664.64s - 3669.50s
+of how to use these tools
+
+[699] 3669.50s - 3674.46s
+Now you can practice finding these patterns
+
+[700] 3679.14s - 3682.36s
+can't break through, meaning it can't push higher
+
+[701] 3682.36s - 3686.90s
+So here we might think, well, it might not make it
+
+[702] 3687.54s - 3691.80s
+Maybe it'll drop back down first? Let's wait and see? Or what?
+
+[703] 3692.16s - 3694.92s
+But we see another candlestick trying to break through
+
+[704] 3694.92s - 3698.32s
+Alright, so when it breaks through, we see the role switches
+
+[705] 3699.28s - 3702.72s
+from what was Resistance, now acting as Support
+
+[706] 3703.86s - 3710.48s
+See? When it breaks through, the role reverses
+
+[707] 3710.48s - 3715.58s
+supporting from below
+
+[708] 3715.58s - 3719.08s
+Then it bounces up again
+
+[709] 3719.42s - 3725.16s
+continuing the upward move
+
+[710] 3725.16s - 3730.36s
+Alright, so this shows how Support and Resistance
+
+[711] 3730.36s - 3733.94s
+can switch roles
+
+[712] 3733.94s - 3736.28s
+This concept is very important
+
+[713] 3738.08s - 3740.90s
+for understanding price movement
+
+[714] 3741.82s - 3743.16s
+Now let's look at another example
+
+[715] 3743.46s - 3744.42s
+This one combines multiple concepts
+
+[716] 3745.56s - 3747.92s
+Here we have a trendline
+
+[717] 3748.52s - 3751.28s
+which is diagonal Support
+
+[718] 3752.20s - 3753.92s
+The price keeps testing this line
+
+[719] 3754.26s - 3756.44s
+bouncing up each time
+
+[720] 3757.30s - 3759.48s
+This shows the trendline is strong
+
+[721] 3759.48s - 3762.06s
+because it's been tested multiple times
+
+[722] 3762.06s - 3767.74s
+Now look what happens when it breaks
+
+[723] 3767.74s - 3771.28s
+The trendline switches from Support
+
+[724] 3772.26s - 3777.38s
+to become Resistance
+
+[725] 3777.56s - 3778.22s
+See how the price tries to go back up
+
+[726] 3780.12s - 3785.04s
+but gets rejected at the old trendline
+
+[727] 3785.26s - 3791.48s
+This is a perfect example of role reversal
+
+[728] 3791.48s - 3794.84s
+The same line that was supporting
+
+[729] 3794.84s - 3798.20s
+is now resisting
+
+[730] 3798.20s - 3802.24s
+Alright, let's talk about channels
+
+[731] 3803.38s - 3815.02s
+A channel has two parallel lines
+
+[732] 3815.02s - 3819.86s
+The lower line is Support
+
+[733] 3819.86s - 3825.42s
+The upper line is Resistance
+
+[734] 3825.42s - 3831.76s
+The price moves between these two lines
+
+[735] 3831.76s - 3836.34s
+bouncing from Support to Resistance
+
+[736] 3837.40s - 3866.32s
+and back down again
+
+[737] 3866.32s - 3868.76s
+This is called channel trading
+
+[738] 3868.76s - 3873.98s
+When the price is at the bottom
+
+[739] 3874.90s - 3878.98s
+touching Support, we can buy
+
+[740] 3881.18s - 3882.38s
+When it reaches the top
+
+[741] 3884.50s - 3886.78s
+touching Resistance, we can sell
+
+[742] 3887.56s - 3890.84s
+This works as long as the channel holds
+
+[743] 3891.62s - 3894.18s
+But what happens if it breaks out?
+
+[744] 3894.92s - 3897.58s
+If it breaks above the upper line
+
+[745] 3898.26s - 3899.50s
+that Resistance becomes Support
+
+[746] 3899.50s - 3902.32s
+The same role reversal concept
+
+[747] 3902.32s - 3903.98s
+we've been talking about
+
+[748] 3904.80s - 3908.36s
+Now, there's one more thing
+
+[749] 3908.58s - 3914.24s
+about Support and Resistance zones
+
+[750] 3914.24s - 3918.34s
+Remember, we don't draw them as single lines
+
+[751] 3918.70s - 3924.90s
+We draw them as zones or areas
+
+[752] 3927.16s - 3941.90s
+Because the price doesn't respect exact levels
+
+[753] 3941.90s - 3952.04s
+It moves in zones
+
+[754] 3953.94s - 3963.02s
+So when you're drawing Support and Resistance
+
+[755] 3964.80s - 3967.20s
+don't try to be too precise
+
+[756] 3969.08s - 3972.74s
+Draw zones instead
+
+[757] 3973.74s - 3977.68s
+This gives you more flexibility
+
+[758] 3977.68s - 3982.08s
+and better accuracy
+
+[759] 3982.48s - 3987.00s
+Alright, let's look at some practical examples
+
+[760] 3988.22s - 3996.96s
+on real charts
+
+[761] 3997.56s - 4007.94s
+Here's a chart showing horizontal Support
+
+[762] 4014.28s - 4020.80s
+You can see the price bouncing multiple times
+
+[763] 4020.80s - 4026.38s
+from this zone
+
+[764] 4026.38s - 4030.48s
+Each bounce makes the Support stronger
+
+[765] 4030.48s - 4033.88s
+because more traders recognize it
+
+[766] 4033.88s - 4038.04s
+Now look at this Resistance zone
+
+[767] 4038.34s - 4042.94s
+The price tries to break through
+
+[768] 4046.34s - 4053.34s
+but gets pushed back down
+
+[769] 4054.20s - 4059.68s
+several times
+
+[770] 4060.02s - 4067.80s
+This shows the Resistance is strong
+
+[771] 4069.10s - 4078.04s
+Until finally, it breaks through
+
+[772] 4082.78s - 4085.22s
+with a strong bullish candlestick
+
+[773] 4091.00s - 4095.28s
+Now watch what happens next
+
+[774] 4095.72s - 4098.44s
+The price pulls back
+
+[775] 4099.14s - 4103.32s
+to retest the old Resistance
+
+[776] 4103.50s - 4108.42s
+which is now acting as Support
+
+[777] 4108.42s - 4110.58s
+This is a classic retest pattern
+
+[778] 4113.04s - 4116.16s
+and a great trading opportunity
+
+[779] 4117.50s - 4120.24s
+If you see a Pinbar here
+
+[780] 4120.56s - 4124.24s
+at the old Resistance turned Support
+
+[781] 4124.24s - 4126.66s
+that's a high-probability setup
+
+[782] 4126.66s - 4128.98s
+combining candlestick patterns with Support and Resistance
+
+[783] 4130.50s - 4132.94s
+This is what we call confluence
+
+[784] 4134.20s - 4137.70s
+when multiple signals line up
+
+[785] 4137.70s - 4144.84s
+Alright, so to summarize
+
+[786] 4144.84s - 4147.72s
+Support and Resistance are price zones
+
+[787] 4147.72s - 4153.72s
+not exact lines
+
+[788] 4154.42s - 4159.66s
+They can switch roles when broken
+
+[789] 4159.66s - 4164.50s
+Support becomes Resistance
+
+[790] 4164.50s - 4167.02s
+Resistance becomes Support
+
+[791] 4167.02s - 4172.00s
+The more times a level is tested
+
+[792] 4173.50s - 4176.30s
+the stronger it becomes
+
+[793] 4176.30s - 4181.72s
+We can use them with candlestick patterns
+
+[794] 4181.72s - 4185.28s
+for better trading decisions
+
+[795] 4185.28s - 4189.24s
+Support and Resistance work on all timeframes
+
+[796] 4189.24s - 4193.92s
+from 1-minute charts to monthly charts
+
+[797] 4193.92s - 4197.80s
+The concept is the same
+
+[798] 4197.80s - 4202.14s
+just on different scales
+
+[799] 4202.14s - 4205.80s
+Now, when you're analyzing charts
+
+[800] 4205.80s - 4209.26s
+start with higher timeframes first
+
+[801] 4209.26s - 4215.46s
+like weekly or 4-hour charts
+
+[802] 4215.90s - 4220.44s
+to find the major Support and Resistance zones
+
+[803] 4221.86s - 4225.52s
+Then drill down to lower timeframes
+
+[804] 4225.52s - 4229.32s
+to find your entry points
+
+[805] 4229.32s - 4232.92s
+This top-down approach
+
+[806] 4232.92s - 4235.10s
+gives you better perspective
+
+[807] 4235.10s - 4240.64s
+of the overall market structure
+
+[808] 4241.74s - 4244.42s
+Alright, we've covered a lot today
+
+[809] 4247.40s - 4252.94s
+about Support and Resistance
+
+[810] 4252.94s - 4254.22s
+This is Part 2 of Price Action
+
+[811] 4256.40s - 4260.90s
+In Part 1, we learned about candlesticks
+
+[812] 4260.90s - 4266.14s
+Now in Part 2, we've learned Support and Resistance
+
+[813] 4267.14s - 4273.46s
+These two components together
+
+[814] 4273.46s - 4277.96s
+form the foundation of Price Action trading
+
+[815] 4277.96s - 4282.64s
+When you combine candlestick patterns
+
+[816] 4282.64s - 4285.06s
+with Support and Resistance zones
+
+[817] 4285.06s - 4290.44s
+you'll have a powerful trading system
+
+[818] 4291.50s - 4296.56s
+The key is to practice
+
+[819] 4296.56s - 4299.96s
+looking at many charts
+
+[820] 4302.04s - 4305.44s
+identifying these levels
+
+[821] 4305.44s - 4309.98s
+and watching how price reacts
+
+[822] 4309.98s - 4326.54s
+Over time, you'll develop
+
+[823] 4326.54s - 4330.76s
+an eye for these patterns
+
+[824] 4330.76s - 4334.10s
+and you'll start recognizing them quickly
+
+[825] 4334.34s - 4336.92s
+Remember, Support and Resistance
+
+[826] 4336.92s - 4340.32s
+are the most important tools in Price Action
+
+[827] 4340.32s - 4345.70s
+and when you find these simple patterns, that's it
+
+[828] 4345.70s - 4348.56s
+there's consistent profit opportunity
+
+[829] 4349.34s - 4350.58s
+Thank you very much. Goodbye.
+

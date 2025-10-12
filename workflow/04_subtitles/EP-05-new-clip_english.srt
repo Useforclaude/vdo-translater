@@ -1,0 +1,7064 @@
+1
+00:00:01,060 --> 00:00:07,599
+Hello everyone, and welcome back to the final part of Reading Charts Like Watching a Movie.
+
+2
+00:00:09,160 --> 00:00:17,039
+We read charts, we view charts like we're reading a book, reading a novel, watching a movie, watching a series, watching any show we enjoy.
+
+3
+00:00:17,620 --> 00:00:25,519
+If we keep following it and analyzing the plot as we go, it'll make our chart analysis more accurate and help us see another dimension.
+
+4
+00:00:25,519 --> 00:00:30,600
+Beyond just drawing lines all over the place and analyzing using the common techniques that are already being taught out there.
+
+5
+00:00:30,980 --> 00:00:34,240
+Like support and resistance, candlestick patterns and all that.
+
+6
+00:00:34,240 --> 00:00:36,200
+How many patterns to memorize, how many pattern types there are.
+
+7
+00:00:36,200 --> 00:00:37,240
+Triangle patterns.
+
+8
+00:00:39,640 --> 00:00:42,340
+Different triangle types, there are so many types of triangles.
+
+9
+00:00:42,340 --> 00:00:45,399
+Flags, pennants, all kinds of stuff like that.
+
+10
+00:00:45,680 --> 00:00:49,719
+Instead of just memorizing all that, we'll go deeper - to the point where we don't even need to memorize.
+
+11
+00:00:49,719 --> 00:00:54,079
+We understand the flow, we understand the story.
+
+12
+00:00:54,780 --> 00:01:01,020
+We understand what the price wants to do, what direction it wants to go.
+
+13
+00:01:04,180 --> 00:01:07,319
+Once we understand this, we'll know which way to trade.
+
+14
+00:01:07,319 --> 00:01:10,400
+So today we're continuing from where we left off.
+
+15
+00:01:10,760 --> 00:01:13,900
+We've covered how to read charts like reading a story.
+
+16
+00:01:13,900 --> 00:01:16,859
+How each candlestick is like a character in a movie.
+
+17
+00:01:17,060 --> 00:01:20,099
+Some candles are protagonists, some are villains.
+
+18
+00:01:20,780 --> 00:01:23,819
+Some are supporting characters, some are extras.
+
+19
+00:01:24,480 --> 00:01:27,500
+Today we're going deeper into understanding the characters.
+
+20
+00:01:27,500 --> 00:01:30,500
+We need to know their personalities, their roles.
+
+21
+00:01:30,500 --> 00:01:40,379
+Just like when we watch a series and we get to know each character.
+
+22
+00:01:40,579 --> 00:01:45,739
+We know who's the main character, who's the villain.
+
+23
+00:01:45,739 --> 00:01:48,819
+We know what each one is trying to do.
+
+24
+00:01:50,840 --> 00:01:54,000
+In charts, it's the same thing.
+
+25
+00:01:56,860 --> 00:01:59,599
+Each candle has its own role.
+
+26
+00:02:01,040 --> 00:02:03,500
+Large candles are like main characters.
+
+27
+00:02:04,020 --> 00:02:08,780
+Small candles are like extras, background characters.
+
+28
+00:02:08,780 --> 00:02:17,979
+The really big, powerful candles - those are the bosses.
+
+29
+00:02:18,500 --> 00:02:24,259
+Those are what we call the commanders.
+
+30
+00:02:24,259 --> 00:02:30,139
+In Thai we call them "แม่ทัพ" - the major candles that lead the action.
+
+31
+00:02:31,360 --> 00:02:36,840
+From Dow Theory, from the Dow theory, the story or plot direction
+
+32
+00:02:36,840 --> 00:02:41,719
+Which side is the story supporting - the hero side or the villain side?
+
+33
+00:02:41,719 --> 00:02:47,039
+We need to stick with them, follow along. Whichever way they're paving the road, we follow that flow.
+
+34
+00:02:47,039 --> 00:02:51,020
+Be a friend of the hero or be a friend of the villain, be a follower going along with them.
+
+35
+00:02:51,560 --> 00:02:56,199
+Don't go against it or the fans won't like it. If during this part of the story
+
+36
+00:02:57,120 --> 00:03:01,819
+They're building up the hero to look good, the hero keeps winning
+
+37
+00:03:02,060 --> 00:03:05,039
+And we go with the villain side? We'll lose. You know what I mean?
+
+38
+00:03:05,600 --> 00:03:10,379
+On the flip side, if they're building up the villain to look amazing, look superior
+
+39
+00:03:10,379 --> 00:03:16,079
+And we go with the hero side at that point, it might look bad - we might get beaten by the villain side
+
+40
+00:03:17,180 --> 00:03:22,360
+They have the upper hand. The hero still can't turn
+
+41
+00:03:24,040 --> 00:03:28,199
+The plot around, can't reverse their role to overcome the villain.
+
+42
+00:03:28,199 --> 00:03:30,080
+The villain side is still dominating.
+
+43
+00:03:30,080 --> 00:03:34,979
+So our job as viewers, when we practice reading charts like watching a movie
+
+44
+00:03:35,560 --> 00:03:41,039
+Something we enjoy, we just watch. We look at the big picture
+
+45
+00:03:41,039 --> 00:03:46,500
+Which way is it going? We follow that direction. We ride the momentum
+
+46
+00:03:46,800 --> 00:03:51,919
+If the plot is favoring the hero, we follow the hero. If it favors the villain
+
+47
+00:03:51,919 --> 00:03:56,460
+We follow the villain. Following the hero or villain means - if the trend is up
+
+48
+00:03:56,700 --> 00:03:58,080
+We follow the uptrend
+
+49
+00:03:58,620 --> 00:04:01,680
+If it's a downtrend, we trade with the downtrend, going down
+
+50
+00:04:02,500 --> 00:04:04,960
+Don't fight it. Either way, we'll survive.
+
+51
+00:04:04,960 --> 00:04:08,699
+But if we fight against it
+
+52
+00:04:08,699 --> 00:04:10,960
+Go against the trend, we'll definitely lose
+
+53
+00:04:12,000 --> 00:04:14,300
+100% we'll lose
+
+54
+00:04:14,300 --> 00:04:16,439
+So that's why we need to understand which way the story is going
+
+55
+00:04:16,439 --> 00:04:19,459
+Which side is dominating right now
+
+56
+00:04:19,459 --> 00:04:23,060
+Once we know that, now we look at the characters
+
+57
+00:04:23,299 --> 00:04:27,680
+We look at each candlestick
+
+58
+00:04:28,219 --> 00:04:32,439
+Which candles are the main characters? Which are supporting characters?
+
+59
+00:04:32,439 --> 00:04:36,620
+The large candles are the main characters
+
+60
+00:04:37,159 --> 00:04:40,480
+The small ones are just extras
+
+61
+00:04:40,759 --> 00:04:45,160
+Now when we look at the chart, when we look at the characters
+
+62
+00:04:45,160 --> 00:04:49,000
+We see large candles, small candles mixed together
+
+63
+00:04:49,319 --> 00:04:55,699
+Some go up, some go down, all kinds of them
+
+64
+00:04:55,699 --> 00:04:58,839
+We need to identify which ones are the key characters
+
+65
+00:04:59,479 --> 00:05:05,300
+If you see a really big candle
+
+66
+00:05:05,300 --> 00:05:10,319
+Way bigger than the others around it
+
+67
+00:05:11,199 --> 00:05:16,559
+That's a main character, that's a boss
+
+68
+00:05:16,560 --> 00:05:19,100
+That's what we call a major candle
+
+69
+00:05:19,379 --> 00:05:23,480
+These major candles have power
+
+70
+00:05:23,480 --> 00:05:28,240
+They can change the direction of price
+
+71
+00:05:28,240 --> 00:05:33,959
+If price breaks through that major candle
+
+72
+00:05:33,959 --> 00:05:40,000
+It means that side has overcome the boss
+
+73
+00:05:40,000 --> 00:05:45,399
+And price can continue in that direction
+
+74
+00:05:45,659 --> 00:05:49,379
+But if it can't break through
+
+75
+00:05:49,379 --> 00:05:52,040
+It means the boss is still holding strong
+
+76
+00:05:53,019 --> 00:05:54,339
+Price will bounce back
+
+77
+00:05:54,339 --> 00:05:55,500
+This is why we need to watch for these major candles
+
+78
+00:05:55,500 --> 00:05:57,079
+They're like commanders in a battle
+
+79
+00:05:57,259 --> 00:05:58,160
+If the commander falls, the whole army falls
+
+80
+00:05:58,719 --> 00:06:01,639
+If the commander holds, the army holds
+
+81
+00:06:01,639 --> 00:06:04,279
+Same thing with price action
+
+82
+00:06:04,279 --> 00:06:06,360
+When you see these major candles at key levels
+
+83
+00:06:07,579 --> 00:06:08,620
+At resistance or support
+
+84
+00:06:08,919 --> 00:06:10,139
+Those are critical scenes in the story
+
+85
+00:06:10,139 --> 00:06:11,579
+That's where the battle happens
+
+86
+00:06:11,859 --> 00:06:13,439
+That's where we see if the bulls or bears will win
+
+87
+00:06:14,159 --> 00:06:15,500
+Now let's look at an example
+
+88
+00:06:15,500 --> 00:06:17,120
+Look at this chart here
+
+89
+00:06:17,120 --> 00:06:18,860
+See this large candle? This is a major candle
+
+90
+00:06:18,860 --> 00:06:20,420
+It's much bigger than the ones around it
+
+91
+00:06:20,719 --> 00:06:23,400
+And it's at a resistance level
+
+92
+00:06:23,399 --> 00:06:26,500
+This is a key scene
+
+93
+00:06:27,559 --> 00:06:29,879
+The bulls are trying to push through
+
+94
+00:06:29,879 --> 00:06:32,019
+But the bears are defending with this major candle
+
+95
+00:06:32,019 --> 00:06:35,800
+See what happens next?
+
+96
+00:06:35,800 --> 00:06:37,779
+Price tries to go up but keeps getting rejected
+
+97
+00:06:37,779 --> 00:06:39,420
+Because this major candle is holding
+
+98
+00:06:39,819 --> 00:06:43,079
+The bears are in control here
+
+99
+00:06:43,079 --> 00:06:48,079
+This is their territory
+
+100
+00:06:49,039 --> 00:06:50,399
+Until something changes, we trade with the bears
+
+101
+00:06:50,599 --> 00:06:57,899
+Then we can decide what happens next, which way will the plot turn?
+
+102
+00:06:58,599 --> 00:07:00,740
+Will it favor the hero side or will the villain side take over?
+
+103
+00:07:00,740 --> 00:07:06,779
+Then we play along with that.
+
+104
+00:07:06,779 --> 00:07:10,839
+Now, to know which side has the role
+
+105
+00:07:10,839 --> 00:07:15,439
+We need to get to know the characters, the personality of each character.
+
+106
+00:07:15,439 --> 00:07:21,480
+What's their mood like? You know?
+
+107
+00:07:21,659 --> 00:07:25,360
+Like candlesticks - if a candle is this size
+
+108
+00:07:25,740 --> 00:07:29,199
+A really big candle like this is considered the main character, the lead.
+
+109
+00:07:29,900 --> 00:07:34,660
+The boss of the story. Whether it's the boss on the hero side or the villain side.
+
+110
+00:07:34,920 --> 00:07:37,879
+Like in Game of Thrones, it'd be these two as the standouts.
+
+111
+00:07:38,420 --> 00:07:41,639
+I'll use green for the hero side and red for this one.
+
+112
+00:07:41,939 --> 00:07:44,579
+This green one, when I say big candle
+
+113
+00:07:44,579 --> 00:07:47,339
+It's a really large candle, way bigger than the others around it.
+
+114
+00:07:48,240 --> 00:08:04,899
+This is a main character.
+
+115
+00:08:04,899 --> 00:08:11,560
+The small ones are just extras, background characters.
+
+116
+00:08:11,759 --> 00:08:16,819
+They don't have much power or role.
+
+117
+00:08:17,619 --> 00:08:24,019
+But the big ones, those are the key players.
+
+118
+00:08:25,839 --> 00:08:29,699
+When you see a candle like this at a key level
+
+119
+00:08:29,699 --> 00:08:35,039
+That's a major scene, an important scene.
+
+120
+00:08:35,039 --> 00:08:40,299
+That's where the action happens.
+
+121
+00:08:40,639 --> 00:08:44,460
+Like in a movie, there are scenes that aren't important
+
+122
+00:08:46,419 --> 00:08:50,039
+Just filler, just showing daily life.
+
+123
+00:08:50,039 --> 00:08:53,159
+But then there are key scenes, critical scenes.
+
+124
+00:08:53,159 --> 00:08:56,059
+Where the main characters face off.
+
+125
+00:08:57,480 --> 00:09:02,740
+Those are the scenes we need to pay attention to.
+
+126
+00:09:03,920 --> 00:09:07,000
+Same with charts.
+
+127
+00:09:07,000 --> 00:09:10,199
+There are areas where not much happens.
+
+128
+00:09:10,200 --> 00:09:12,159
+Just small candles, price going sideways.
+
+129
+00:09:12,780 --> 00:09:13,919
+But then there are key levels - resistance, support.
+
+130
+00:09:15,760 --> 00:09:18,279
+That's where the major candles show up.
+
+131
+00:09:18,279 --> 00:09:20,019
+That's where we see the battle.
+
+132
+00:09:20,019 --> 00:09:22,139
+Will the bulls break through or will the bears hold?
+
+133
+00:09:22,139 --> 00:09:25,379
+These major candles tell us the answer.
+
+134
+00:09:25,379 --> 00:09:26,100
+If a big green candle breaks through resistance
+
+135
+00:09:26,520 --> 00:09:27,759
+The bulls have won that battle.
+
+136
+00:09:28,200 --> 00:09:30,500
+Price will continue up.
+
+137
+00:09:30,500 --> 00:09:32,680
+But if the bears defend with a big red candle
+
+138
+00:09:32,679 --> 00:09:39,519
+That tells us the bears are still in control.
+
+139
+00:09:40,639 --> 00:10:02,519
+Price will go back down.
+
+140
+00:10:02,519 --> 00:10:07,919
+So we need to watch for these major candles at key levels.
+
+141
+00:10:07,919 --> 00:10:15,500
+They're like commanders leading their armies.
+
+142
+00:10:16,140 --> 00:10:18,519
+If you see a large army, lots of volume, big candle
+
+143
+00:10:19,000 --> 00:10:20,940
+That side has strength, has power.
+
+144
+00:10:20,940 --> 00:10:23,899
+But if you see just a small force, small candle
+
+145
+00:10:24,300 --> 00:10:25,860
+That side doesn't have much power.
+
+146
+00:10:25,860 --> 00:10:28,039
+They probably can't win that battle.
+
+147
+00:10:30,140 --> 00:10:31,960
+So when we analyze the chart
+
+148
+00:10:31,960 --> 00:10:34,980
+We look at the big picture first - which way is the trend?
+
+149
+00:10:34,980 --> 00:10:36,879
+Then we look closer at each scene.
+
+150
+00:10:36,879 --> 00:10:38,639
+We look at the characters in that scene.
+
+151
+00:10:38,639 --> 00:10:41,679
+That's happening around the world.
+
+152
+00:10:41,679 --> 00:10:43,200
+We look at who are the main characters, who are the supporting characters.
+
+153
+00:10:44,200 --> 00:10:45,460
+Who's leading the action.
+
+154
+00:10:46,080 --> 00:10:48,679
+Once we see that, we know which way to trade.
+
+155
+00:10:48,679 --> 00:10:50,500
+If the bulls have the big candles, the major candles
+
+156
+00:10:50,500 --> 00:10:52,139
+The bulls are in control.
+
+157
+00:10:52,960 --> 00:10:53,919
+We trade with the bulls.
+
+158
+00:10:53,919 --> 00:10:56,720
+If the bears have the major candles
+
+159
+00:10:56,980 --> 00:10:58,600
+The bears are dominating.
+
+160
+00:10:59,120 --> 00:11:00,340
+We trade with the bears.
+
+161
+00:11:00,340 --> 00:11:02,320
+It's that simple.
+
+162
+00:11:02,540 --> 00:11:05,320
+We don't fight the main characters.
+
+163
+00:11:09,060 --> 00:11:13,980
+We go with them.
+
+164
+00:11:13,980 --> 00:11:18,519
+Now let's look at this in more detail.
+
+165
+00:11:18,759 --> 00:11:24,299
+When we see candles at key levels
+
+166
+00:11:24,299 --> 00:11:29,200
+Like here at this resistance
+
+167
+00:11:29,200 --> 00:11:32,000
+Look at this candle.
+
+168
+00:11:32,000 --> 00:11:35,240
+This is a major candle.
+
+169
+00:11:35,860 --> 00:11:39,340
+It's way bigger than the others.
+
+170
+00:11:40,200 --> 00:11:45,940
+And it formed right at resistance.
+
+171
+00:11:45,940 --> 00:11:51,100
+This tells us the bears are defending strongly.
+
+172
+00:11:51,439 --> 00:11:55,740
+They don't want price to break through.
+
+173
+00:11:55,740 --> 00:12:09,100
+So what do we do?
+
+174
+00:12:09,100 --> 00:12:17,820
+We wait and watch.
+
+175
+00:12:19,020 --> 00:12:28,159
+Can the bulls overcome this major candle?
+
+176
+00:12:29,019 --> 00:12:33,399
+Can they break through?
+
+177
+00:12:35,820 --> 00:12:36,740
+If they can, the bulls win.
+
+178
+00:12:41,560 --> 00:12:43,740
+Price goes higher.
+
+179
+00:12:47,480 --> 00:12:51,019
+But if they can't
+
+180
+00:12:52,540 --> 00:12:56,940
+The bears hold.
+
+181
+00:12:56,940 --> 00:12:59,960
+Price bounces back down.
+
+182
+00:13:00,280 --> 00:13:05,379
+This is how we read the story.
+
+183
+00:13:06,100 --> 00:13:13,840
+Each candle tells us something.
+
+184
+00:13:15,919 --> 00:13:19,559
+But the big ones, the major candles
+
+185
+00:13:20,199 --> 00:13:24,740
+Those tell us the most important parts.
+
+186
+00:13:27,379 --> 00:13:29,480
+Those are the key moments in the story.
+
+187
+00:13:30,079 --> 00:13:33,460
+Now, sometimes you'll see
+
+188
+00:13:37,059 --> 00:13:38,659
+Two sides that are evenly matched.
+
+189
+00:13:40,240 --> 00:13:45,440
+Bulls and bears both have strength.
+
+190
+00:13:46,920 --> 00:13:47,919
+In Thai we call this 'สูสี' - neck and neck.
+
+191
+00:13:51,060 --> 00:13:55,679
+When you see this, be careful.
+
+192
+00:13:55,679 --> 00:13:58,299
+The battle isn't decided yet.
+
+193
+00:14:03,080 --> 00:14:05,539
+Wait to see who wins.
+
+194
+00:14:07,280 --> 00:14:13,679
+Don't jump in too early.
+
+195
+00:14:15,000 --> 00:14:21,000
+Wait for a clear winner.
+
+196
+00:14:22,320 --> 00:14:30,940
+Then trade with the winner.
+
+197
+00:14:31,339 --> 00:14:34,980
+This is the smart way to trade.
+
+198
+00:14:36,279 --> 00:14:38,799
+Follow the story.
+
+199
+00:14:45,299 --> 00:14:53,059
+Go with the main characters.
+
+200
+00:15:00,940 --> 00:15:05,019
+Don't try to predict what'll happen.
+
+201
+00:15:06,740 --> 00:15:09,600
+Right here. See? This big spike here.
+
+202
+00:15:11,680 --> 00:15:17,480
+Just watch what happens.
+
+203
+00:15:18,920 --> 00:15:24,320
+See how the story unfolds.
+
+204
+00:15:25,460 --> 00:15:36,019
+Then trade accordingly.
+
+205
+00:15:37,199 --> 00:15:44,620
+This is much easier
+
+206
+00:15:45,119 --> 00:15:50,539
+Than trying to memorize hundreds of patterns.
+
+207
+00:15:53,320 --> 00:15:55,639
+We just read the story.
+
+208
+00:15:57,500 --> 00:16:01,940
+We understand the flow.
+
+209
+00:16:02,760 --> 00:16:05,519
+We know who's winning.
+
+210
+00:16:05,519 --> 00:16:12,360
+And we go with the winner.
+
+211
+00:16:12,879 --> 00:16:20,259
+Simple as that.
+
+212
+00:16:20,259 --> 00:16:23,940
+Now let's look at some real examples.
+
+213
+00:16:23,940 --> 00:16:27,240
+I'll show you how to apply this.
+
+214
+00:16:27,240 --> 00:16:31,120
+Look at this chart.
+
+215
+00:16:31,120 --> 00:16:37,899
+What do you see?
+
+216
+00:16:38,800 --> 00:16:41,059
+First, what's the big picture?
+
+217
+00:16:43,600 --> 00:16:50,659
+What's the trend?
+
+218
+00:16:52,520 --> 00:17:00,200
+Is it going up?
+
+219
+00:17:02,500 --> 00:17:09,720
+Going down?
+
+220
+00:17:10,740 --> 00:17:15,039
+Or sideways?
+
+221
+00:17:15,419 --> 00:17:19,200
+Once we know that
+
+222
+00:17:20,419 --> 00:17:24,960
+Then we look at the candles.
+
+223
+00:17:24,960 --> 00:17:30,559
+Which ones are the major candles?
+
+224
+00:17:32,659 --> 00:17:35,559
+Where are they located?
+
+225
+00:17:36,779 --> 00:17:39,680
+Are they at key levels?
+
+226
+00:17:40,439 --> 00:17:56,660
+If yes, those are important scenes.
+
+227
+00:17:56,660 --> 00:18:09,539
+Pay attention to those.
+
+228
+00:18:11,479 --> 00:18:19,799
+See what happens there.
+
+229
+00:18:20,299 --> 00:18:25,880
+Do the bulls break through?
+
+230
+00:18:26,899 --> 00:18:32,799
+Or do the bears hold?
+
+231
+00:18:32,799 --> 00:18:38,079
+Whatever happens
+
+232
+00:18:38,719 --> 00:18:44,839
+We trade with the winner.
+
+233
+00:18:49,799 --> 00:18:55,079
+Don't fight it.
+
+234
+00:18:55,399 --> 00:18:58,880
+Don't try to be a hero.
+
+235
+00:18:59,399 --> 00:19:02,720
+Just follow the story.
+
+236
+00:19:03,719 --> 00:19:13,139
+Now here's an interesting part.
+
+237
+00:19:13,140 --> 00:19:24,460
+Sometimes the story changes.
+
+238
+00:19:25,879 --> 00:19:29,599
+The plot twists.
+
+239
+00:19:31,859 --> 00:19:35,700
+The hero becomes the villain.
+
+240
+00:19:37,340 --> 00:19:46,960
+Or the villain becomes the hero.
+
+241
+00:19:50,400 --> 00:19:52,180
+How do we know when this happens?
+
+242
+00:19:59,320 --> 00:20:02,319
+We watch for key changes.
+
+243
+00:20:06,759 --> 00:20:15,000
+Major candles appearing at key levels.
+
+244
+00:20:16,359 --> 00:20:21,500
+Trend reversals.
+
+245
+00:20:22,599 --> 00:20:27,839
+When an uptrend can't make new highs anymore.
+
+246
+00:20:28,459 --> 00:20:32,019
+Or a downtrend can't make new lows.
+
+247
+00:20:32,319 --> 00:20:36,619
+That's when the plot might be changing.
+
+248
+00:20:38,619 --> 00:20:40,599
+The story might be turning.
+
+249
+00:20:41,720 --> 00:20:44,640
+We need to be ready.
+
+250
+00:20:45,939 --> 00:20:50,259
+Maybe the other side is taking over.
+
+251
+00:20:50,779 --> 00:20:53,019
+Now we know the plot, right?
+
+252
+00:20:57,019 --> 00:20:59,339
+We understand the story structure.
+
+253
+00:21:00,139 --> 00:21:04,599
+So we can anticipate what might happen next.
+
+254
+00:21:04,599 --> 00:21:09,079
+But we don't guess.
+
+255
+00:21:09,079 --> 00:21:14,819
+We wait for confirmation.
+
+256
+00:21:15,259 --> 00:21:19,559
+We wait for the chart to show us.
+
+257
+00:21:21,379 --> 00:21:27,740
+Then we act.
+
+258
+00:21:28,079 --> 00:21:31,720
+This is the safe way to trade.
+
+259
+00:21:31,720 --> 00:21:36,500
+Follow the evidence.
+
+260
+00:21:36,960 --> 00:21:42,039
+Not our emotions.
+
+261
+00:21:42,419 --> 00:21:53,059
+Not our predictions.
+
+262
+00:21:54,939 --> 00:22:06,740
+Just what the chart is telling us.
+
+263
+00:22:07,299 --> 00:22:13,960
+What the story is showing us.
+
+264
+00:22:15,679 --> 00:22:17,400
+Now let's talk about momentum.
+
+265
+00:22:17,699 --> 00:22:20,640
+Momentum is like the energy of the story.
+
+266
+00:22:21,699 --> 00:22:25,539
+When a scene has lots of action
+
+267
+00:22:26,299 --> 00:22:28,579
+Lots of drama
+
+268
+00:22:29,759 --> 00:22:30,559
+That's high momentum.
+
+269
+00:22:33,319 --> 00:22:35,799
+Big candles, strong moves.
+
+270
+00:22:37,899 --> 00:22:41,619
+Price moving fast in one direction.
+
+271
+00:22:41,980 --> 00:22:44,380
+When you see this
+
+272
+00:22:44,380 --> 00:22:46,920
+That side has the power.
+
+273
+00:22:46,920 --> 00:22:50,299
+They're dominating.
+
+274
+00:22:51,799 --> 00:22:54,440
+But when the action slows down
+
+275
+00:22:56,459 --> 00:22:57,059
+Small candles, sideways movement
+
+276
+00:22:58,240 --> 00:23:01,940
+That's low momentum.
+
+277
+00:23:04,039 --> 00:23:06,339
+Neither side has clear control.
+
+278
+00:23:15,459 --> 00:23:24,500
+This is when we need to be careful.
+
+279
+00:23:28,959 --> 00:23:33,140
+Don't force a trade.
+
+280
+00:23:36,719 --> 00:23:44,180
+Wait for the story to pick up again.
+
+281
+00:23:50,919 --> 00:24:02,539
+Wait for one side to take control.
+
+282
+00:24:02,959 --> 00:24:03,119
+Then we trade with them.
+
+283
+00:24:03,419 --> 00:24:05,619
+This is how professionals trade.
+
+284
+00:24:06,279 --> 00:24:15,920
+They don't trade all the time.
+
+285
+00:24:17,279 --> 00:24:19,799
+They wait for the right moments.
+
+286
+00:24:20,919 --> 00:24:23,859
+The right scenes.
+
+287
+00:24:27,139 --> 00:24:30,099
+When the story is clear.
+
+288
+00:24:33,339 --> 00:24:48,240
+When one side is dominating.
+
+289
+00:24:48,679 --> 00:25:01,039
+That's when they enter.
+
+290
+00:25:01,299 --> 00:25:10,559
+And they go with the dominant side.
+
+291
+00:25:11,619 --> 00:25:16,720
+Never against it.
+
+292
+00:25:17,019 --> 00:25:23,799
+This is the key principle.
+
+293
+00:25:24,459 --> 00:25:32,599
+Follow the strength.
+
+294
+00:25:33,039 --> 00:25:42,740
+Trade with the flow.
+
+295
+00:25:43,319 --> 00:25:47,299
+Don't fight the market.
+
+296
+00:25:47,299 --> 00:25:51,579
+The market is always right.
+
+297
+00:25:51,579 --> 00:25:55,940
+Our job is to adapt.
+
+298
+00:25:55,940 --> 00:25:58,620
+To go with what's happening.
+
+299
+00:25:58,619 --> 00:26:04,700
+Not to predict what will happen.
+
+300
+00:26:11,000 --> 00:26:12,960
+But to react to what is happening.
+
+301
+00:26:17,539 --> 00:26:19,039
+Now let's look at a real chart example.
+
+302
+00:26:21,960 --> 00:26:27,619
+This is a live chart.
+
+303
+00:26:29,399 --> 00:26:36,119
+Look at the overall trend first.
+
+304
+00:26:36,119 --> 00:26:40,940
+What do you see?
+
+305
+00:26:40,940 --> 00:26:45,319
+Price is making higher highs and higher lows.
+
+306
+00:26:45,319 --> 00:26:48,619
+This is an uptrend.
+
+307
+00:26:49,079 --> 00:26:53,839
+The bulls are in control.
+
+308
+00:26:54,279 --> 00:26:59,019
+This is the big picture.
+
+309
+00:26:59,379 --> 00:27:03,819
+Now let's zoom in.
+
+310
+00:27:04,319 --> 00:27:08,719
+Look at this level here.
+
+311
+00:27:09,440 --> 00:27:12,400
+This is a key resistance level.
+
+312
+00:27:12,400 --> 00:27:17,099
+Price tested it multiple times.
+
+313
+00:27:17,099 --> 00:27:25,039
+See these candles?
+
+314
+00:27:25,039 --> 00:27:27,619
+These are major candles.
+
+315
+00:27:27,619 --> 00:27:32,240
+Big red candles defending this level.
+
+316
+00:27:32,240 --> 00:27:36,799
+The bears are putting up a fight.
+
+317
+00:27:37,419 --> 00:27:39,700
+They don't want price to break through.
+
+318
+00:27:40,519 --> 00:27:43,160
+But look what happens.
+
+319
+00:27:45,559 --> 00:27:48,319
+Price keeps coming back.
+
+320
+00:27:50,099 --> 00:27:51,339
+The bulls keep trying.
+
+321
+00:27:53,019 --> 00:27:56,079
+Each time they try
+
+322
+00:27:56,259 --> 00:28:18,099
+They get rejected.
+
+323
+00:28:18,099 --> 00:28:23,400
+But each rejection is weaker.
+
+324
+00:28:24,240 --> 00:28:30,140
+The bears are losing strength.
+
+325
+00:28:30,140 --> 00:28:35,140
+See how the red candles are getting smaller?
+
+326
+00:28:35,639 --> 00:28:41,299
+This tells us something.
+
+327
+00:28:44,239 --> 00:28:49,039
+The bears can't defend forever.
+
+328
+00:28:49,039 --> 00:28:54,180
+They're running out of steam.
+
+329
+00:28:58,359 --> 00:29:08,619
+And then look.
+
+330
+00:29:11,899 --> 00:29:18,940
+Here comes a big green candle.
+
+331
+00:29:21,259 --> 00:29:25,220
+This is a major candle on the bull side.
+
+332
+00:29:25,519 --> 00:29:29,220
+It breaks through the resistance.
+
+333
+00:29:30,779 --> 00:29:35,259
+The bulls have won this battle.
+
+334
+00:29:35,740 --> 00:29:43,579
+The plot has shifted.
+
+335
+00:29:43,579 --> 00:29:45,859
+Now the bulls are dominating even more.
+
+336
+00:29:46,240 --> 00:29:52,240
+What do we do?
+
+337
+00:29:52,240 --> 00:30:01,920
+We go with the bulls.
+
+338
+00:30:01,920 --> 00:30:14,640
+We don't fight them.
+
+339
+00:30:17,799 --> 00:30:26,359
+We trade in their direction.
+
+340
+00:30:27,979 --> 00:30:32,359
+This is how you read the story.
+
+341
+00:30:33,199 --> 00:30:44,980
+You see the battle.
+
+342
+00:30:47,799 --> 00:30:48,420
+You see who's winning.
+
+343
+00:30:55,239 --> 00:30:57,500
+You see when the plot shifts.
+
+344
+00:30:58,399 --> 00:31:01,220
+Then you trade accordingly.
+
+345
+00:31:01,500 --> 00:31:04,059
+Now let's look at another example.
+
+346
+00:31:04,319 --> 00:31:06,039
+This time a downtrend.
+
+347
+00:31:06,220 --> 00:31:08,079
+Price making lower lows and lower highs.
+
+348
+00:31:08,079 --> 00:31:09,740
+The bears are in control.
+
+349
+00:31:09,740 --> 00:31:10,819
+Look at this support level.
+
+350
+00:31:12,259 --> 00:31:16,859
+Price keeps testing it.
+
+351
+00:31:17,859 --> 00:31:22,319
+The bulls try to defend.
+
+352
+00:31:23,299 --> 00:31:28,039
+But the bears keep pushing down.
+
+353
+00:31:29,980 --> 00:31:34,819
+Look at these big red candles.
+
+354
+00:31:40,819 --> 00:31:43,099
+Major candles on the bear side.
+
+355
+00:31:44,720 --> 00:31:46,960
+They're dominating.
+
+356
+00:31:46,960 --> 00:31:50,200
+Each time price tries to bounce
+
+357
+00:31:51,280 --> 00:31:54,740
+The bears push it back down.
+
+358
+00:31:54,740 --> 00:32:10,799
+This tells us the bears are strong.
+
+359
+00:32:10,799 --> 00:32:14,599
+They're in control.
+
+360
+00:32:15,180 --> 00:32:16,420
+So what do we do?
+
+361
+00:32:16,919 --> 00:32:20,200
+We trade with the bears.
+
+362
+00:32:20,619 --> 00:32:22,779
+We go short.
+
+363
+00:32:23,439 --> 00:32:26,519
+We don't try to pick a bottom.
+
+364
+00:32:26,519 --> 00:32:27,960
+We don't try to be heroes.
+
+365
+00:32:29,159 --> 00:32:31,700
+We just follow the story.
+
+366
+00:32:31,960 --> 00:32:32,660
+The bears are dominating, we go with them.
+
+367
+00:32:34,159 --> 00:32:39,059
+Until the story changes.
+
+368
+00:32:39,919 --> 00:32:45,619
+Until we see signs of reversal.
+
+369
+00:32:47,359 --> 00:32:53,220
+Then we'll adjust.
+
+370
+00:32:54,559 --> 00:32:59,220
+But for now, we follow the bears.
+
+371
+00:32:59,220 --> 00:33:06,779
+This is the key to successful trading.
+
+372
+00:33:07,859 --> 00:33:15,440
+Reading the story.
+
+373
+00:33:17,879 --> 00:33:20,680
+Understanding who's in control.
+
+374
+00:33:23,319 --> 00:33:27,559
+Then trading with them.
+
+375
+00:33:28,299 --> 00:33:31,099
+Not against them.
+
+376
+00:33:31,419 --> 00:33:36,380
+Now let's talk about key scenes.
+
+377
+00:33:37,219 --> 00:33:40,680
+Important levels in the chart.
+
+378
+00:33:41,039 --> 00:33:50,660
+These are like critical scenes in a movie.
+
+379
+00:33:51,099 --> 00:33:57,319
+Where the main action happens.
+
+380
+00:33:57,319 --> 00:34:00,160
+Where the battle takes place.
+
+381
+00:34:00,160 --> 00:34:05,440
+How do we identify these key scenes?
+
+382
+00:34:06,399 --> 00:34:09,280
+Look for previous highs and lows.
+
+383
+00:34:09,280 --> 00:34:12,059
+Look for levels where price reacted strongly before.
+
+384
+00:34:12,200 --> 00:34:15,119
+These become support and resistance.
+
+385
+00:34:15,119 --> 00:34:16,639
+When price comes back to these levels
+
+386
+00:34:16,980 --> 00:34:19,019
+That's a key scene.
+
+387
+00:34:19,019 --> 00:34:22,320
+That's where we pay attention.
+
+388
+00:34:23,200 --> 00:34:25,300
+Watch what the major candles do there.
+
+389
+00:34:25,300 --> 00:34:27,480
+Do they break through?
+
+390
+00:34:28,200 --> 00:34:32,699
+Or do they bounce back?
+
+391
+00:34:32,699 --> 00:34:38,980
+This tells us what happens next.
+
+392
+00:34:38,980 --> 00:34:42,980
+If they break through, the trend continues.
+
+393
+00:34:42,980 --> 00:34:47,679
+If they bounce back, we might see a reversal.
+
+394
+00:34:47,679 --> 00:34:50,599
+These key scenes are where the story turns.
+
+395
+00:34:50,860 --> 00:34:53,000
+Where the plot shifts.
+
+396
+00:34:54,340 --> 00:34:56,780
+So we need to watch them carefully.
+
+397
+00:34:57,800 --> 00:35:01,639
+Don't just trade randomly.
+
+398
+00:35:02,760 --> 00:35:05,619
+Wait for these key scenes.
+
+399
+00:35:05,619 --> 00:35:07,300
+Wait for the important moments.
+
+400
+00:35:07,680 --> 00:35:09,099
+Then make your move.
+
+401
+00:35:11,320 --> 00:35:15,480
+Now let's talk about patterns.
+
+402
+00:35:15,480 --> 00:35:19,039
+You might know some common patterns.
+
+403
+00:35:19,039 --> 00:35:22,019
+Head and shoulders, triangles, flags.
+
+404
+00:35:23,720 --> 00:35:26,739
+These are all good.
+
+405
+00:35:26,980 --> 00:35:39,079
+But when you understand the story
+
+406
+00:35:39,780 --> 00:35:44,920
+You don't need to memorize them.
+
+407
+00:35:44,920 --> 00:35:50,639
+Because you understand why they work.
+
+408
+00:35:50,639 --> 00:35:53,000
+A head and shoulders pattern - what is it really?
+
+409
+00:35:53,000 --> 00:35:57,420
+It's showing us a shift in the story.
+
+410
+00:35:57,940 --> 00:36:01,119
+The bulls were in control.
+
+411
+00:36:02,680 --> 00:36:05,000
+They made a high - the left shoulder.
+
+412
+00:36:05,000 --> 00:36:09,639
+Then an even higher high - the head.
+
+413
+00:36:09,639 --> 00:36:13,119
+But then they can't go higher.
+
+414
+00:36:13,119 --> 00:36:16,820
+They only make it to the same level as before - right shoulder.
+
+415
+00:36:16,820 --> 00:36:23,199
+This tells us the bulls are losing strength.
+
+416
+00:36:24,620 --> 00:36:30,840
+The story might be changing.
+
+417
+00:36:30,840 --> 00:36:46,800
+When the neckline breaks
+
+418
+00:36:47,200 --> 00:36:50,940
+That confirms it - the bears have taken over.
+
+419
+00:36:51,500 --> 00:36:55,059
+See? We don't need to memorize.
+
+420
+00:36:56,080 --> 00:36:58,760
+We just understand the story.
+
+421
+00:36:58,760 --> 00:37:16,780
+Same with triangles.
+
+422
+00:37:16,780 --> 00:37:19,900
+What's really happening?
+
+423
+00:37:20,120 --> 00:37:23,699
+Bulls and bears are evenly matched.
+
+424
+00:37:23,699 --> 00:37:26,800
+Price is consolidating.
+
+425
+00:37:26,800 --> 00:37:31,340
+Getting tighter and tighter.
+
+426
+00:37:31,340 --> 00:37:35,340
+Building energy.
+
+427
+00:37:35,700 --> 00:37:39,519
+Then eventually one side wins.
+
+428
+00:37:39,519 --> 00:37:44,599
+Price breaks out.
+
+429
+00:37:44,599 --> 00:37:49,699
+That's just the story playing out.
+
+430
+00:37:49,699 --> 00:37:53,659
+Once you see it this way
+
+431
+00:37:54,280 --> 00:37:59,699
+Charts become so much easier.
+
+432
+00:37:59,699 --> 00:38:05,099
+You're not memorizing patterns.
+
+433
+00:38:06,120 --> 00:38:08,099
+You're reading a story.
+
+434
+00:38:09,520 --> 00:38:13,780
+You're watching a movie.
+
+435
+00:38:14,360 --> 00:38:20,679
+Much more interesting, right?
+
+436
+00:38:21,100 --> 00:38:24,219
+And more effective too.
+
+437
+00:38:25,640 --> 00:38:30,019
+Because you understand the why.
+
+438
+00:38:30,260 --> 00:38:33,619
+Not just the what.
+
+439
+00:38:34,120 --> 00:38:41,159
+Now let's look at timeframes.
+
+440
+00:38:41,680 --> 00:38:46,420
+Different timeframes tell different parts of the story.
+
+441
+00:38:47,340 --> 00:38:52,480
+The higher timeframe is the main plot.
+
+442
+00:38:52,480 --> 00:38:57,980
+The bigger picture.
+
+443
+00:38:57,980 --> 00:39:03,440
+The lower timeframes are the details.
+
+444
+00:39:03,680 --> 00:39:11,940
+The scene-by-scene action.
+
+445
+00:39:11,940 --> 00:39:16,320
+You need to understand both.
+
+446
+00:39:16,320 --> 00:39:21,280
+Always check the higher timeframe first.
+
+447
+00:39:21,280 --> 00:39:33,420
+What's the main story?
+
+448
+00:39:33,740 --> 00:39:34,579
+Which way is it going?
+
+449
+00:39:34,579 --> 00:39:37,400
+Then zoom into lower timeframes.
+
+450
+00:39:38,400 --> 00:39:39,739
+To find your entry and exit.
+
+451
+00:39:39,739 --> 00:39:40,340
+But don't trade against the main story.
+
+452
+00:39:42,579 --> 00:39:43,059
+If the daily chart shows uptrend
+
+453
+00:39:44,780 --> 00:39:45,400
+Don't go short on the 5-minute chart.
+
+454
+00:39:46,200 --> 00:39:46,780
+You're fighting the main plot.
+
+455
+00:39:49,140 --> 00:39:50,000
+Trade with the main story.
+
+456
+00:39:50,000 --> 00:39:51,300
+Use lower timeframes to fine-tune your entries.
+
+457
+00:39:52,020 --> 00:39:53,320
+Not to trade against the trend.
+
+458
+00:39:53,320 --> 00:39:55,559
+This is a common mistake.
+
+459
+00:39:55,559 --> 00:39:57,320
+People see a setup on lower timeframe
+
+460
+00:39:57,660 --> 00:40:00,019
+But it's against the higher timeframe trend.
+
+461
+00:40:00,560 --> 00:40:01,500
+They take the trade and lose.
+
+462
+00:40:01,500 --> 00:40:04,599
+Because they're fighting the main story.
+
+463
+00:40:04,940 --> 00:40:07,219
+Always align with the bigger picture.
+
+464
+00:40:07,500 --> 00:40:09,940
+Now let's talk about momentum again.
+
+465
+00:40:10,560 --> 00:40:13,860
+Momentum is important.
+
+466
+00:40:14,920 --> 00:40:19,219
+It tells us how strong the move is.
+
+467
+00:40:19,219 --> 00:40:20,940
+High momentum - big candles, fast moves.
+
+468
+00:40:20,940 --> 00:40:26,000
+This means that side is dominating.
+
+469
+00:40:29,180 --> 00:40:32,639
+Low momentum - small candles, slow moves.
+
+470
+00:40:32,639 --> 00:40:35,099
+Neither side is in control.
+
+471
+00:40:35,099 --> 00:40:39,480
+When momentum is high
+
+472
+00:40:39,480 --> 00:40:44,960
+That's when we want to trade.
+
+473
+00:40:44,960 --> 00:40:49,059
+Because the story is clear.
+
+474
+00:40:49,059 --> 00:40:52,699
+One side is winning.
+
+475
+00:40:53,160 --> 00:40:59,900
+When momentum is low
+
+476
+00:41:00,720 --> 00:41:05,079
+Be careful.
+
+477
+00:41:06,180 --> 00:41:09,659
+The story isn't clear yet.
+
+478
+00:41:10,260 --> 00:41:13,679
+Wait for it to pick up.
+
+479
+00:41:14,860 --> 00:41:16,340
+Wait for one side to take control.
+
+480
+00:41:20,420 --> 00:41:25,719
+Then trade with them.
+
+481
+00:41:25,719 --> 00:41:32,679
+This is how you avoid getting chopped.
+
+482
+00:41:32,679 --> 00:41:37,519
+Don't trade in low momentum periods.
+
+483
+00:41:37,519 --> 00:41:42,199
+Wait for the story to develop.
+
+484
+00:41:42,740 --> 00:41:45,659
+Wait for clear direction.
+
+485
+00:41:46,340 --> 00:41:49,019
+Then make your move.
+
+486
+00:41:49,519 --> 00:41:53,179
+This will save you so much money.
+
+487
+00:41:53,179 --> 00:41:55,639
+And make you so much more.
+
+488
+00:41:55,639 --> 00:41:58,099
+Because you're trading with clarity.
+
+489
+00:41:58,539 --> 00:41:59,780
+With understanding.
+
+490
+00:42:00,580 --> 00:42:02,519
+Not just guessing.
+
+491
+00:42:02,519 --> 00:42:03,639
+Now let's look at this chart here.
+
+492
+00:42:03,639 --> 00:42:04,159
+See this consolidation?
+
+493
+00:42:04,159 --> 00:42:05,559
+Small candles, low momentum.
+
+494
+00:42:06,500 --> 00:42:08,579
+Bulls and bears are evenly matched.
+
+495
+00:42:09,660 --> 00:42:10,860
+The story is paused.
+
+496
+00:42:10,860 --> 00:42:12,900
+We don't know who will win yet.
+
+497
+00:42:12,900 --> 00:42:14,559
+So what do we do?
+
+498
+00:42:14,559 --> 00:42:16,139
+We wait.
+
+499
+00:42:17,260 --> 00:42:18,059
+We don't force it.
+
+500
+00:42:19,380 --> 00:42:23,760
+We let the story develop.
+
+501
+00:42:24,920 --> 00:42:36,820
+And then see which side wins.
+
+502
+00:42:37,660 --> 00:42:46,679
+See, like this - it's a pin bar right here.
+
+503
+00:42:46,679 --> 00:42:53,800
+If we combine these two candles together
+
+504
+00:42:54,820 --> 00:42:59,039
+It becomes a candle like this. This candle formed at resistance.
+
+505
+00:42:59,039 --> 00:43:03,000
+At resistance, it has more significance than forming elsewhere. If it appeared in the middle somewhere, it wouldn't mean much.
+
+506
+00:43:04,220 --> 00:43:11,460
+But it's at resistance - meaning it's at their fortress, at their stronghold.
+
+507
+00:43:13,200 --> 00:43:16,619
+They're counterattacking. They have the strength to fight back. So that's why it continues down like this.
+
+508
+00:43:18,160 --> 00:43:23,539
+See? And then momentum comes back and it goes down. It couldn't go deeper than before, couldn't make a lower low yet.
+
+509
+00:43:23,539 --> 00:43:28,340
+When it came down, it's stuck right at support, at support.
+
+510
+00:43:28,340 --> 00:43:31,099
+It's stuck right at the support level. The battle continues like this, see?
+
+511
+00:43:31,099 --> 00:43:34,619
+Then when it goes up, and when it drops
+
+512
+00:43:35,400 --> 00:43:53,519
+When it drops, it bounces back up. See? Drops then bounces up.
+
+513
+00:43:53,519 --> 00:43:55,039
+Then it goes up. See? The plot, see?
+
+514
+00:43:55,519 --> 00:43:56,840
+Who's in control here?
+
+515
+00:44:01,080 --> 00:44:03,480
+The buy side is in control, the bulls.
+
+516
+00:44:03,480 --> 00:44:06,679
+So we trade with the bulls.
+
+517
+00:44:07,060 --> 00:44:07,960
+We go long.
+
+518
+00:44:08,420 --> 00:44:11,800
+Until something changes.
+
+519
+00:44:11,800 --> 00:44:16,199
+Until we see the bears taking over.
+
+520
+00:44:16,199 --> 00:44:23,539
+But for now, bulls are dominating.
+
+521
+00:44:23,700 --> 00:44:29,380
+So we stay with them.
+
+522
+00:44:30,680 --> 00:44:36,659
+This is the core principle.
+
+523
+00:44:37,760 --> 00:44:39,820
+Follow the dominant side.
+
+524
+00:44:40,220 --> 00:44:42,659
+Don't fight them.
+
+525
+00:44:43,080 --> 00:44:43,820
+Now I'll show you something interesting.
+
+526
+00:44:43,820 --> 00:44:46,059
+When price is at a key level
+
+527
+00:44:46,280 --> 00:44:48,340
+And you see these patterns forming
+
+528
+00:44:48,340 --> 00:44:50,280
+Pin bar, engulfing, whatever
+
+529
+00:44:50,500 --> 00:44:59,360
+What are they really telling you?
+
+530
+00:44:59,360 --> 00:45:03,619
+They're telling you about the battle.
+
+531
+00:45:03,619 --> 00:45:07,519
+Who's winning, who's losing.
+
+532
+00:45:07,519 --> 00:45:11,400
+A pin bar at resistance - what does it mean?
+
+533
+00:45:11,640 --> 00:45:15,719
+Bulls tried to break through.
+
+534
+00:45:15,719 --> 00:45:24,159
+Bears pushed them back hard.
+
+535
+00:45:24,159 --> 00:45:27,400
+Long wick up, close near the low.
+
+536
+00:45:28,559 --> 00:45:33,480
+That's the bears saying 'not today'.
+
+537
+00:45:34,220 --> 00:45:37,239
+They're defending their territory.
+
+538
+00:45:37,239 --> 00:45:40,519
+Same thing at support.
+
+539
+00:45:41,019 --> 00:45:42,219
+Pin bar with long wick down
+
+540
+00:45:42,840 --> 00:45:47,519
+Bulls saying 'nope, not breaking down'.
+
+541
+00:45:48,140 --> 00:45:49,780
+They're defending.
+
+542
+00:45:50,200 --> 00:45:52,280
+Engulfing pattern - what is it?
+
+543
+00:45:52,800 --> 00:45:56,519
+One side completely dominates the other.
+
+544
+00:45:57,820 --> 00:45:59,139
+Bullish engulfing - bulls take over.
+
+545
+00:46:00,360 --> 00:46:06,340
+Bearish engulfing - bears take control.
+
+546
+00:46:07,480 --> 00:46:10,619
+See? It's all about the story.
+
+547
+00:46:12,260 --> 00:46:16,099
+About the battle.
+
+548
+00:46:18,440 --> 00:46:20,219
+Once you understand this
+
+549
+00:46:21,200 --> 00:46:26,159
+Patterns make so much more sense.
+
+550
+00:46:26,720 --> 00:46:29,860
+You're not just memorizing shapes.
+
+551
+00:46:31,820 --> 00:46:37,320
+You're understanding what's happening.
+
+552
+00:46:37,320 --> 00:46:40,579
+Why the pattern formed.
+
+553
+00:46:41,220 --> 00:46:44,539
+What it means for price action.
+
+554
+00:46:45,039 --> 00:46:47,219
+This makes you a much better trader.
+
+555
+00:46:47,219 --> 00:46:49,800
+Now let's look at volume.
+
+556
+00:46:49,800 --> 00:46:53,119
+Volume is like the intensity of the scene.
+
+557
+00:46:53,300 --> 00:46:58,880
+High volume means lots of action.
+
+558
+00:47:00,680 --> 00:47:05,539
+Lots of participants.
+
+559
+00:47:05,539 --> 00:47:08,719
+Strong emotions.
+
+560
+00:47:08,719 --> 00:47:12,019
+Low volume means not much interest.
+
+561
+00:47:12,019 --> 00:47:14,960
+Weak commitment.
+
+562
+00:47:15,600 --> 00:47:20,760
+When you see a breakout with high volume
+
+563
+00:47:20,760 --> 00:47:22,960
+That's a powerful scene.
+
+564
+00:47:22,960 --> 00:47:27,019
+Lots of energy.
+
+565
+00:47:27,340 --> 00:47:42,000
+The move is likely to continue.
+
+566
+00:47:42,380 --> 00:47:45,019
+But a breakout with low volume
+
+567
+00:47:45,019 --> 00:47:48,659
+Suspicious.
+
+568
+00:47:49,520 --> 00:47:52,219
+Not much conviction.
+
+569
+00:47:52,500 --> 00:47:57,019
+Might be a fake breakout.
+
+570
+00:47:57,640 --> 00:48:00,719
+Price might reverse.
+
+571
+00:48:00,719 --> 00:48:03,119
+So we watch volume too.
+
+572
+00:48:03,940 --> 00:48:07,260
+It adds to the story.
+
+573
+00:48:09,280 --> 00:48:12,900
+Tells us how committed each side is.
+
+574
+00:48:13,220 --> 00:48:15,980
+How much strength they have.
+
+575
+00:48:15,980 --> 00:48:21,460
+Now let's put it all together.
+
+576
+00:48:21,700 --> 00:48:24,400
+Reading charts like reading a story.
+
+577
+00:48:24,840 --> 00:48:28,260
+Step 1: Look at the big picture.
+
+578
+00:48:28,980 --> 00:48:31,260
+What's the trend?
+
+579
+00:48:31,720 --> 00:48:37,000
+Which side is dominating?
+
+580
+00:48:37,480 --> 00:48:40,880
+Step 2: Identify key levels.
+
+581
+00:48:41,380 --> 00:48:44,880
+Where are the important scenes?
+
+582
+00:48:44,880 --> 00:48:49,579
+Support, resistance, previous highs and lows.
+
+583
+00:48:49,780 --> 00:48:53,880
+Step 3: Look at the characters.
+
+584
+00:48:53,880 --> 00:48:55,940
+Which candles are major candles?
+
+585
+00:48:55,940 --> 00:49:00,039
+Where are they located?
+
+586
+00:49:00,860 --> 00:49:04,239
+Step 4: Watch the battle.
+
+587
+00:49:04,239 --> 00:49:08,019
+What's happening at key levels?
+
+588
+00:49:08,019 --> 00:49:25,920
+Who's winning?
+
+589
+00:49:25,920 --> 00:49:31,099
+Step 5: Check momentum.
+
+590
+00:49:31,480 --> 00:49:37,079
+Is there strong movement?
+
+591
+00:49:37,560 --> 00:49:41,760
+Or is it consolidating?
+
+592
+00:49:41,760 --> 00:49:54,940
+Step 6: Consider volume.
+
+593
+00:49:58,400 --> 00:50:02,619
+Is there conviction?
+
+594
+00:50:03,559 --> 00:50:14,079
+Or is it weak?
+
+595
+00:50:14,500 --> 00:50:21,000
+Step 7: Make your decision.
+
+596
+00:50:23,240 --> 00:50:35,239
+Trade with the dominant side.
+
+597
+00:50:37,800 --> 00:50:49,599
+At the right time.
+
+598
+00:50:49,599 --> 00:50:54,860
+At key levels.
+
+599
+00:50:54,860 --> 00:51:05,219
+With confirmation.
+
+600
+00:51:05,600 --> 00:51:12,880
+This is how professionals do it.
+
+601
+00:51:13,540 --> 00:51:18,559
+They don't guess.
+
+602
+00:51:18,559 --> 00:51:22,059
+They read the story.
+
+603
+00:51:22,660 --> 00:51:25,500
+They understand what's happening.
+
+604
+00:51:26,460 --> 00:51:32,179
+Then they act.
+
+605
+00:51:33,340 --> 00:51:37,440
+With the flow.
+
+606
+00:51:38,060 --> 00:51:42,559
+Not against it.
+
+607
+00:51:43,300 --> 00:51:49,059
+Now I'll show you some real examples.
+
+608
+00:51:50,920 --> 00:51:57,360
+So you can see this in action.
+
+609
+00:51:57,660 --> 00:52:01,980
+Look at this chart here.
+
+610
+00:52:03,100 --> 00:52:03,960
+First, what's the trend?
+
+611
+00:52:07,000 --> 00:52:11,099
+Clearly uptrend.
+
+612
+00:52:11,980 --> 00:52:16,039
+Higher highs, higher lows.
+
+613
+00:52:17,220 --> 00:52:21,719
+Bulls are in control.
+
+614
+00:52:21,719 --> 00:52:24,659
+Now where are the key levels?
+
+615
+00:52:26,620 --> 00:52:30,340
+Here's a previous resistance.
+
+616
+00:52:32,039 --> 00:52:34,360
+Price broke through it.
+
+617
+00:52:34,360 --> 00:52:39,019
+Now it should become support.
+
+618
+00:52:40,240 --> 00:52:42,139
+Let's see if it does.
+
+619
+00:52:43,340 --> 00:52:45,199
+Price comes back down.
+
+620
+00:52:46,040 --> 00:52:49,000
+Tests this level.
+
+621
+00:52:50,140 --> 00:52:54,880
+What happens?
+
+622
+00:52:56,240 --> 00:52:59,559
+See these candles?
+
+623
+00:53:01,900 --> 00:53:08,019
+Green candles defending.
+
+624
+00:53:08,019 --> 00:53:12,679
+Bulls saying 'nope, not breaking down'.
+
+625
+00:53:13,280 --> 00:53:17,880
+Price bounces back up.
+
+626
+00:53:18,620 --> 00:53:22,900
+The level held.
+
+627
+00:53:24,340 --> 00:53:30,840
+Bulls are still in control.
+
+628
+00:53:30,840 --> 00:53:33,579
+What do we do?
+
+629
+00:53:33,579 --> 00:53:35,820
+We buy here.
+
+630
+00:53:37,760 --> 00:53:41,059
+We go with the bulls.
+
+631
+00:53:41,260 --> 00:53:44,199
+We trade at this key level.
+
+632
+00:53:44,940 --> 00:53:46,800
+Where we have confirmation.
+
+633
+00:53:47,059 --> 00:53:48,679
+See how clean that is?
+
+634
+00:53:49,400 --> 00:53:51,880
+We're not guessing.
+
+635
+00:53:52,820 --> 00:53:55,099
+We're reading the story.
+
+636
+00:53:56,140 --> 00:53:57,159
+The story told us bulls are in control.
+
+637
+00:53:58,380 --> 00:53:59,920
+The level held.
+
+638
+00:53:59,920 --> 00:54:02,340
+So we go long.
+
+639
+00:54:02,540 --> 00:54:08,780
+Simple.
+
+640
+00:54:11,220 --> 00:54:15,719
+Now look at another example.
+
+641
+00:54:15,719 --> 00:54:17,699
+This time a downtrend.
+
+642
+00:54:18,960 --> 00:54:22,659
+Lower lows, lower highs.
+
+643
+00:54:23,380 --> 00:54:27,139
+Bears dominating.
+
+644
+00:54:32,559 --> 00:54:38,659
+Previous support becomes resistance.
+
+645
+00:54:39,900 --> 00:54:41,340
+Price comes back up to test it.
+
+646
+00:54:42,960 --> 00:54:48,639
+What happens?
+
+647
+00:54:49,539 --> 00:54:51,360
+Red candles defending.
+
+648
+00:54:52,180 --> 00:54:56,440
+Bears saying 'not breaking up'.
+
+649
+00:54:57,079 --> 00:55:00,920
+Price gets rejected.
+
+650
+00:55:00,920 --> 00:55:04,920
+Goes back down.
+
+651
+00:55:05,340 --> 00:55:08,679
+So we short here.
+
+652
+00:55:08,900 --> 00:55:11,500
+We go with the bears.
+
+653
+00:55:12,700 --> 00:55:16,679
+Again, simple.
+
+654
+00:55:17,420 --> 00:55:21,460
+Read the story.
+
+655
+00:55:24,460 --> 00:55:28,300
+Trade accordingly.
+
+656
+00:55:29,120 --> 00:55:32,800
+This is what I want you to understand.
+
+657
+00:55:32,800 --> 00:55:38,300
+Trading doesn't have to be complicated.
+
+658
+00:55:38,300 --> 00:55:41,699
+You don't need 50 indicators.
+
+659
+00:55:41,699 --> 00:55:46,099
+You don't need complex algorithms.
+
+660
+00:55:46,099 --> 00:55:49,360
+You just need to read the story.
+
+661
+00:55:49,360 --> 00:55:54,179
+Understand what's happening.
+
+662
+00:55:55,660 --> 00:55:58,199
+See who's in control.
+
+663
+00:55:58,199 --> 00:56:00,820
+Then trade with them.
+
+664
+00:56:01,200 --> 00:56:04,239
+That's it.
+
+665
+00:56:04,579 --> 00:56:05,900
+Everything else is just details.
+
+666
+00:56:07,559 --> 00:56:10,019
+Now, some of you might be thinking
+
+667
+00:56:12,120 --> 00:56:16,579
+'But what about fundamentals?'
+
+668
+00:56:16,579 --> 00:56:21,559
+'What about news?'
+
+669
+00:56:21,559 --> 00:56:23,360
+'What about economic data?'
+
+670
+00:56:25,240 --> 00:56:28,019
+Here's the thing.
+
+671
+00:56:29,100 --> 00:56:32,440
+All of that is already in the chart.
+
+672
+00:56:32,980 --> 00:56:35,159
+The chart is the ultimate truth.
+
+673
+00:56:35,740 --> 00:56:37,619
+It shows what everyone thinks.
+
+674
+00:56:38,760 --> 00:56:41,300
+What everyone's doing.
+
+675
+00:56:42,280 --> 00:56:42,800
+All the news, all the data
+
+676
+00:56:46,360 --> 00:56:48,739
+It's all reflected in price.
+
+677
+00:56:48,739 --> 00:56:53,440
+So we don't need to know the news.
+
+678
+00:56:53,440 --> 00:56:59,000
+We just need to read what the price is telling us.
+
+679
+00:56:59,000 --> 00:57:01,559
+The chart never lies.
+
+680
+00:57:02,920 --> 00:57:12,780
+It shows us exactly what's happening.
+
+681
+00:57:12,780 --> 00:57:16,539
+Who's buying, who's selling.
+
+682
+00:57:22,180 --> 00:57:30,539
+Who's winning, who's losing.
+
+683
+00:57:30,539 --> 00:57:33,239
+That's all we need to know.
+
+684
+00:57:33,239 --> 00:57:36,440
+Now let's talk about risk management.
+
+685
+00:57:37,660 --> 00:57:42,519
+This is crucial.
+
+686
+00:57:42,519 --> 00:57:48,519
+You can read the story perfectly
+
+687
+00:57:48,519 --> 00:57:53,360
+But if you don't manage risk
+
+688
+00:57:53,360 --> 00:57:56,260
+You'll still lose.
+
+689
+00:57:59,840 --> 00:58:04,380
+So here's how we do it.
+
+690
+00:58:04,559 --> 00:58:09,360
+When we enter a trade
+
+691
+00:58:09,360 --> 00:58:11,340
+We always use a stop loss.
+
+692
+00:58:11,340 --> 00:58:14,579
+Always.
+
+693
+00:58:14,579 --> 00:58:17,019
+No exceptions.
+
+694
+00:58:19,400 --> 00:58:21,900
+Where do we put it?
+
+695
+00:58:22,560 --> 00:58:30,199
+At a logical level.
+
+696
+00:58:30,199 --> 00:58:34,400
+If we're buying at support
+
+697
+00:58:48,720 --> 00:58:51,940
+Stop goes below support.
+
+698
+00:58:51,940 --> 00:58:57,500
+If we're selling at resistance
+
+699
+00:58:57,840 --> 00:59:02,360
+Stop goes above resistance.
+
+700
+00:59:05,220 --> 00:59:16,780
+Why?
+
+701
+00:59:17,500 --> 00:59:27,380
+Because if our story is wrong
+
+702
+00:59:27,380 --> 00:59:30,639
+If the level breaks
+
+703
+00:59:30,880 --> 00:59:34,380
+We get out immediately.
+
+704
+00:59:34,380 --> 00:59:39,260
+We don't hope it comes back.
+
+705
+00:59:39,260 --> 00:59:44,579
+We don't average down.
+
+706
+00:59:50,400 --> 00:59:56,380
+We just exit.
+
+707
+00:59:57,640 --> 01:00:07,440
+Accept we were wrong.
+
+708
+01:00:09,560 --> 01:00:17,880
+And move on.
+
+709
+01:00:21,340 --> 01:00:22,579
+This keeps our losses small.
+
+710
+01:00:24,680 --> 01:00:25,679
+And our account safe.
+
+711
+01:00:26,100 --> 01:00:29,179
+Now for profit targets.
+
+712
+01:00:29,179 --> 01:00:30,099
+Where do we take profit?
+
+713
+01:00:34,640 --> 01:00:36,619
+At the next logical level.
+
+714
+01:00:36,619 --> 01:00:37,780
+If we're buying at support
+
+715
+01:00:37,780 --> 01:00:39,360
+We take profit at resistance.
+
+716
+01:00:39,740 --> 01:00:40,159
+If we're selling at resistance
+
+717
+01:00:41,340 --> 01:00:42,780
+We take profit at support.
+
+718
+01:00:42,780 --> 01:00:45,900
+Or we trail our stop.
+
+719
+01:00:45,900 --> 01:00:48,679
+Let the winners run.
+
+720
+01:00:49,700 --> 01:00:51,579
+As long as the story continues.
+
+721
+01:00:52,320 --> 01:00:56,280
+As long as our side is dominating.
+
+722
+01:00:56,559 --> 01:00:57,559
+We stay in.
+
+723
+01:00:58,240 --> 01:01:00,380
+But when signs change
+
+724
+01:01:00,800 --> 01:01:03,500
+When the story shifts
+
+725
+01:01:03,960 --> 01:01:05,460
+We exit.
+
+726
+01:01:06,079 --> 01:01:10,639
+This is how we maximize profits.
+
+727
+01:01:11,680 --> 01:01:14,460
+We let good trades run.
+
+728
+01:01:17,600 --> 01:01:22,940
+And cut bad trades quickly.
+
+729
+01:01:24,660 --> 01:01:28,019
+Simple risk management.
+
+730
+01:01:30,820 --> 01:01:36,199
+But incredibly effective.
+
+731
+01:01:37,000 --> 01:01:39,500
+Now let's talk about psychology.
+
+732
+01:01:42,600 --> 01:01:43,480
+This is where most traders fail.
+
+733
+01:01:44,100 --> 01:01:49,239
+Not because they can't read charts.
+
+734
+01:01:49,980 --> 01:01:50,739
+But because they can't control emotions.
+
+735
+01:01:55,420 --> 01:01:56,219
+Fear and greed.
+
+736
+01:01:56,880 --> 01:02:09,639
+These kill traders.
+
+737
+01:02:11,680 --> 01:02:17,400
+Fear makes you exit too early.
+
+738
+01:02:17,400 --> 01:02:26,440
+Greed makes you hold too long.
+
+739
+01:02:28,020 --> 01:02:47,219
+How do we avoid this?
+
+740
+01:02:47,219 --> 01:02:52,519
+By following the story.
+
+741
+01:02:52,920 --> 01:02:56,500
+The story keeps us objective.
+
+742
+01:02:59,560 --> 01:03:03,559
+We're not guessing.
+
+743
+01:03:04,600 --> 01:03:15,420
+We're not hoping.
+
+744
+01:03:16,940 --> 01:03:33,539
+We're just reading what's there.
+
+745
+01:03:33,539 --> 01:03:35,079
+If the story says bulls are winning
+
+746
+01:03:36,000 --> 01:03:36,920
+We trade with bulls.
+
+747
+01:03:37,519 --> 01:03:38,760
+Regardless of how we feel.
+
+748
+01:03:38,760 --> 01:03:40,539
+If the story says bears are winning
+
+749
+01:03:41,540 --> 01:03:42,280
+We trade with bears.
+
+750
+01:03:42,800 --> 01:03:44,679
+Our emotions don't matter.
+
+751
+01:03:44,679 --> 01:03:47,380
+Only the story matters.
+
+752
+01:03:48,079 --> 01:03:48,519
+This removes emotion.
+
+753
+01:03:48,519 --> 01:03:50,079
+Makes trading mechanical.
+
+754
+01:03:50,740 --> 01:03:52,219
+In a good way.
+
+755
+01:03:52,740 --> 01:03:56,500
+We become like robots.
+
+756
+01:03:56,500 --> 01:04:00,059
+Following a system.
+
+757
+01:04:00,059 --> 01:04:05,460
+Not emotional.
+
+758
+01:04:06,260 --> 01:04:09,099
+This is how you survive long-term.
+
+759
+01:04:09,099 --> 01:04:12,300
+So remember.
+
+760
+01:04:13,380 --> 01:04:18,340
+Read charts like reading a story.
+
+761
+01:04:19,780 --> 01:04:24,920
+Look at the big picture first.
+
+762
+01:04:25,320 --> 01:04:39,079
+Identify key levels.
+
+763
+01:04:41,620 --> 01:04:43,659
+Watch the major candles.
+
+764
+01:04:43,980 --> 01:04:45,940
+See who's winning.
+
+765
+01:04:46,500 --> 01:04:49,579
+Trade with them.
+
+766
+01:04:49,579 --> 01:04:51,780
+Manage your risk.
+
+767
+01:04:52,640 --> 01:04:56,639
+Control your emotions.
+
+768
+01:04:58,180 --> 01:05:01,380
+Follow the story.
+
+769
+01:05:01,600 --> 01:05:03,599
+That's it.
+
+770
+01:05:04,180 --> 01:05:06,159
+That's all you need.
+
+771
+01:05:08,420 --> 01:05:09,840
+Now let me show you one more thing.
+
+772
+01:05:12,000 --> 01:05:15,840
+Multiple timeframe analysis.
+
+773
+01:05:15,840 --> 01:05:31,360
+This is powerful.
+
+774
+01:05:31,360 --> 01:05:35,519
+We look at the daily chart first.
+
+775
+01:05:35,519 --> 01:05:38,500
+What's the main story?
+
+776
+01:05:40,280 --> 01:05:45,639
+Uptrend, downtrend, sideways?
+
+777
+01:05:45,639 --> 01:05:52,019
+This is our guide.
+
+778
+01:05:53,079 --> 01:05:59,059
+Then we zoom to 4-hour chart.
+
+779
+01:05:59,940 --> 01:06:12,300
+Same question.
+
+780
+01:06:14,480 --> 01:06:20,559
+What's happening here?
+
+781
+01:06:21,840 --> 01:06:25,199
+Is it aligned with daily?
+
+782
+01:06:26,460 --> 01:06:29,480
+If yes, strong confirmation.
+
+783
+01:06:29,980 --> 01:06:33,460
+If no, we wait.
+
+784
+01:06:39,080 --> 01:06:40,719
+Then 1-hour chart.
+
+785
+01:06:42,180 --> 01:06:46,900
+For entry timing.
+
+786
+01:06:47,820 --> 01:06:51,880
+We only trade when all timeframes agree.
+
+787
+01:06:53,540 --> 01:06:59,079
+Daily uptrend.
+
+788
+01:06:59,820 --> 01:07:03,280
+4-hour uptrend.
+
+789
+01:07:03,820 --> 01:07:06,300
+1-hour shows pullback to support.
+
+790
+01:07:06,300 --> 01:07:09,880
+We buy there.
+
+791
+01:07:09,880 --> 01:07:13,019
+This gives us the highest probability.
+
+792
+01:07:13,019 --> 01:07:14,840
+All timeframes telling the same story.
+
+793
+01:07:14,840 --> 01:07:15,980
+All agreeing on direction.
+
+794
+01:07:15,980 --> 01:07:19,820
+This is when we have confidence.
+
+795
+01:07:20,300 --> 01:07:21,980
+This is when we go big.
+
+796
+01:07:23,200 --> 01:07:27,159
+Not big like crazy.
+
+797
+01:07:27,480 --> 01:07:31,400
+But with proper position sizing.
+
+798
+01:07:32,980 --> 01:07:35,099
+We increase our risk slightly.
+
+799
+01:07:35,620 --> 01:07:51,960
+Because probability is high.
+
+800
+01:07:51,960 --> 01:07:58,639
+When timeframes don't align.
+
+801
+01:07:59,480 --> 01:08:05,599
+We reduce position size.
+
+802
+01:08:05,599 --> 01:08:09,280
+Or don't trade at all.
+
+803
+01:08:10,160 --> 01:08:18,739
+We wait for alignment.
+
+804
+01:08:18,739 --> 01:08:27,159
+Patience is key.
+
+805
+01:08:27,740 --> 01:08:31,680
+Don't force trades.
+
+806
+01:08:31,680 --> 01:08:35,960
+Wait for the right setup.
+
+807
+01:08:36,260 --> 01:08:42,220
+The right story.
+
+808
+01:08:42,539 --> 01:08:45,619
+Then execute.
+
+809
+01:08:47,160 --> 01:08:52,600
+This discipline separates winners from losers.
+
+810
+01:08:53,520 --> 01:08:58,819
+Winners wait for good setups.
+
+811
+01:08:58,819 --> 01:09:01,180
+Losers trade everything.
+
+812
+01:09:01,180 --> 01:09:03,880
+Winners are selective.
+
+813
+01:09:03,880 --> 01:09:07,300
+Quality over quantity.
+
+814
+01:09:07,300 --> 01:09:12,880
+A few good trades per week.
+
+815
+01:09:13,340 --> 01:09:16,180
+Is better than many mediocre ones.
+
+816
+01:09:16,180 --> 01:09:18,140
+Remember that.
+
+817
+01:09:18,980 --> 01:09:22,260
+Now let me show you this chart.
+
+818
+01:09:23,100 --> 01:09:27,340
+See this consolidation?
+
+819
+01:09:28,260 --> 01:09:34,560
+Price going sideways.
+
+820
+01:09:34,560 --> 01:09:40,979
+What's the story saying?
+
+821
+01:09:43,640 --> 01:09:47,340
+Bulls and bears are evenly matched.
+
+822
+01:09:47,340 --> 01:09:50,000
+Neither side can win yet.
+
+823
+01:09:51,159 --> 01:09:53,579
+What do we do?
+
+824
+01:09:53,579 --> 01:09:56,960
+We wait.
+
+825
+01:09:57,460 --> 01:09:59,779
+We don't trade in the middle of consolidation.
+
+826
+01:10:00,100 --> 01:10:04,220
+Too risky.
+
+827
+01:10:04,520 --> 01:10:09,159
+No clear direction.
+
+828
+01:10:09,819 --> 01:10:13,279
+We wait for the breakout.
+
+829
+01:10:13,700 --> 01:10:20,600
+Wait for one side to win.
+
+830
+01:10:20,900 --> 01:10:24,560
+Then we trade with them.
+
+831
+01:10:26,579 --> 01:10:29,960
+See? Patience.
+
+832
+01:10:31,020 --> 01:10:34,279
+Not every moment is tradeable.
+
+833
+01:10:34,279 --> 01:10:38,800
+Sometimes the story is unclear.
+
+834
+01:10:39,880 --> 01:10:44,119
+That's okay.
+
+835
+01:10:44,920 --> 01:10:50,079
+We wait for clarity.
+
+836
+01:10:50,079 --> 01:10:54,260
+Better to miss a trade
+
+837
+01:10:54,260 --> 01:10:59,220
+Than to take a bad one.
+
+838
+01:10:59,880 --> 01:11:03,279
+This mindset is crucial.
+
+839
+01:11:05,400 --> 01:11:06,439
+It protects your capital.
+
+840
+01:11:16,960 --> 01:11:29,659
+Keeps you in the game.
+
+841
+01:11:29,659 --> 01:11:39,600
+So you can trade another day.
+
+842
+01:11:39,600 --> 01:11:48,939
+Capital preservation is number one.
+
+843
+01:11:50,980 --> 01:11:56,319
+Before making money
+
+844
+01:11:58,980 --> 01:12:05,939
+Don't lose money.
+
+845
+01:12:06,100 --> 01:12:10,939
+That's the rule.
+
+846
+01:12:10,939 --> 01:12:16,279
+Now let's see another example.
+
+847
+01:12:17,619 --> 01:12:20,479
+This is a perfect setup.
+
+848
+01:12:22,079 --> 01:12:26,319
+Daily uptrend.
+
+849
+01:12:26,680 --> 01:12:31,099
+4-hour uptrend.
+
+850
+01:12:31,100 --> 01:12:35,060
+Price pulls back to support on 1-hour.
+
+851
+01:12:35,060 --> 01:12:38,260
+See these candles?
+
+852
+01:12:39,560 --> 01:12:43,020
+Major candles defending support.
+
+853
+01:12:44,500 --> 01:12:45,920
+All timeframes aligned.
+
+854
+01:12:45,920 --> 01:12:47,619
+Perfect setup.
+
+855
+01:12:48,220 --> 01:12:51,180
+We buy here.
+
+856
+01:12:51,180 --> 01:12:53,680
+Stop below support.
+
+857
+01:12:54,760 --> 01:12:55,159
+Target at next resistance.
+
+858
+01:12:56,300 --> 01:13:06,060
+This is a textbook trade.
+
+859
+01:13:07,579 --> 01:13:13,640
+High probability.
+
+860
+01:13:14,980 --> 01:13:19,739
+All conditions met.
+
+861
+01:13:21,000 --> 01:13:21,600
+This is what we wait for.
+
+862
+01:13:25,900 --> 01:13:28,560
+These setups don't come every day.
+
+863
+01:13:28,560 --> 01:13:32,560
+Maybe a few times per week.
+
+864
+01:13:33,460 --> 01:13:35,399
+But when they do
+
+865
+01:13:35,780 --> 01:13:38,220
+They're golden.
+
+866
+01:13:38,220 --> 01:13:42,680
+High win rate.
+
+867
+01:13:44,300 --> 01:13:48,579
+Good risk-reward ratio.
+
+868
+01:13:48,880 --> 01:13:56,319
+This is what professionals trade.
+
+869
+01:13:56,800 --> 01:14:05,460
+Not random setups.
+
+870
+01:14:05,880 --> 01:14:08,140
+But perfect stories.
+
+871
+01:14:08,539 --> 01:14:10,159
+When everything lines up.
+
+872
+01:14:10,159 --> 01:14:11,680
+When the message is clear.
+
+873
+01:14:11,920 --> 01:14:12,880
+That's when we act.
+
+874
+01:14:13,199 --> 01:14:15,840
+Now I want you to practice this.
+
+875
+01:14:15,840 --> 01:14:17,720
+Go look at charts.
+
+876
+01:14:17,980 --> 01:14:19,840
+Any chart, any pair.
+
+877
+01:14:20,420 --> 01:14:25,100
+And read the story.
+
+878
+01:14:25,800 --> 01:14:31,819
+Don't trade yet.
+
+879
+01:14:31,819 --> 01:14:36,560
+Just read.
+
+880
+01:14:36,560 --> 01:14:38,439
+What's the trend?
+
+881
+01:14:39,840 --> 01:14:41,859
+Where are key levels?
+
+882
+01:14:47,460 --> 01:14:47,779
+Who's dominating?
+
+883
+01:14:48,500 --> 01:14:48,939
+What's happening at key scenes?
+
+884
+01:14:50,420 --> 01:14:52,260
+Practice this.
+
+885
+01:14:52,260 --> 01:14:54,359
+Every day.
+
+886
+01:14:55,300 --> 01:14:56,600
+Until it becomes second nature.
+
+887
+01:14:57,380 --> 01:15:00,300
+Until you can read charts
+
+888
+01:15:00,300 --> 01:15:02,439
+Like you read books.
+
+889
+01:15:02,439 --> 01:15:08,600
+Naturally.
+
+890
+01:15:08,600 --> 01:15:18,439
+Without thinking.
+
+891
+01:15:18,820 --> 01:15:22,260
+This takes time.
+
+892
+01:15:22,760 --> 01:15:26,640
+Don't rush it.
+
+893
+01:15:26,940 --> 01:15:30,060
+But keep practicing.
+
+894
+01:15:30,440 --> 01:15:33,140
+And you'll get there.
+
+895
+01:15:34,440 --> 01:15:36,579
+You'll see charts differently.
+
+896
+01:15:37,100 --> 01:15:40,800
+Not as random candles.
+
+897
+01:15:40,800 --> 01:15:44,439
+But as a story.
+
+898
+01:15:44,439 --> 01:15:48,899
+A battle between bulls and bears.
+
+899
+01:15:49,340 --> 01:15:56,520
+And you'll know who's winning.
+
+900
+01:15:58,140 --> 01:16:01,880
+That's when trading becomes easy.
+
+901
+01:16:01,880 --> 01:16:06,880
+Not complicated anymore.
+
+902
+01:16:07,400 --> 01:16:11,020
+Just natural.
+
+903
+01:16:11,739 --> 01:16:16,319
+Like breathing.
+
+904
+01:16:16,319 --> 01:16:25,020
+That's the goal.
+
+905
+01:16:25,240 --> 01:16:29,720
+Okay, so to summarize.
+
+906
+01:16:30,079 --> 01:16:34,380
+Reading charts like reading a story.
+
+907
+01:16:36,480 --> 01:16:40,520
+This is the key concept.
+
+908
+01:16:41,560 --> 01:16:44,399
+Everything else flows from this.
+
+909
+01:16:45,119 --> 01:16:50,939
+Understand the narrative.
+
+910
+01:16:51,880 --> 01:16:57,100
+See the characters.
+
+911
+01:16:57,100 --> 01:17:02,779
+Watch the plot unfold.
+
+912
+01:17:07,600 --> 01:17:12,060
+Identify the key scenes.
+
+913
+01:17:12,500 --> 01:17:16,600
+Know who's dominating.
+
+914
+01:17:17,340 --> 01:17:20,939
+Trade with them.
+
+915
+01:17:21,360 --> 01:17:23,939
+Manage your risk properly.
+
+916
+01:17:23,939 --> 01:17:27,260
+Control your emotions.
+
+917
+01:17:27,260 --> 01:17:31,079
+Be patient.
+
+918
+01:17:33,380 --> 01:17:39,359
+Wait for the right setups.
+
+919
+01:17:42,819 --> 01:17:46,579
+And execute when everything aligns.
+
+920
+01:17:48,219 --> 01:17:52,020
+That's professional trading.
+
+921
+01:17:53,159 --> 01:17:57,119
+That's how you survive long-term.
+
+922
+01:17:57,119 --> 01:17:58,460
+That's how you make consistent profits.
+
+923
+01:17:59,100 --> 01:18:01,239
+Not by guessing.
+
+924
+01:18:01,480 --> 01:18:02,279
+Not by hoping.
+
+925
+01:18:02,600 --> 01:18:05,300
+But by reading the story correctly.
+
+926
+01:18:05,840 --> 01:18:07,159
+And acting on what you see.
+
+927
+01:18:07,159 --> 01:18:08,680
+Not on what you want to see.
+
+928
+01:18:09,319 --> 01:18:11,560
+But what's actually there.
+
+929
+01:18:12,239 --> 01:18:13,920
+The truth in the chart.
+
+930
+01:18:17,180 --> 01:18:17,720
+That's what matters.
+
+931
+01:18:18,079 --> 01:18:19,000
+Now before we finish
+
+932
+01:18:19,279 --> 01:18:21,500
+Let me show you a few more examples.
+
+933
+01:18:22,360 --> 01:18:24,899
+Real trading examples.
+
+934
+01:18:25,220 --> 01:18:30,420
+So you can see this method in action.
+
+935
+01:18:31,440 --> 01:18:36,500
+Look at this chart.
+
+936
+01:18:36,500 --> 01:18:38,680
+What do you see?
+
+937
+01:18:40,360 --> 01:18:41,939
+Take a moment.
+
+938
+01:18:43,180 --> 01:18:44,939
+Read the story.
+
+939
+01:18:44,939 --> 01:18:48,260
+What's happening here?
+
+940
+01:18:48,260 --> 01:18:51,560
+Think about it.
+
+941
+01:18:52,460 --> 01:18:56,939
+Okay, let me tell you what I see.
+
+942
+01:18:56,939 --> 01:19:01,439
+First, overall trend.
+
+943
+01:19:01,439 --> 01:19:04,420
+Price making lower lows and lower highs.
+
+944
+01:19:04,420 --> 01:19:07,619
+Downtrend.
+
+945
+01:19:07,940 --> 01:19:11,220
+Bears in control.
+
+946
+01:19:12,920 --> 01:19:15,380
+Now look at this level.
+
+947
+01:19:16,360 --> 01:19:18,460
+Previous support, right?
+
+948
+01:19:18,460 --> 01:19:20,720
+Price broke through it.
+
+949
+01:19:21,440 --> 01:19:23,960
+Now comes back to test it.
+
+950
+01:19:27,079 --> 01:19:28,279
+Should act as resistance now.
+
+951
+01:19:31,079 --> 01:19:37,220
+Let's see what happens.
+
+952
+01:19:38,220 --> 01:19:44,579
+Look, red candles.
+
+953
+01:19:44,579 --> 01:19:53,800
+Bears defending this level.
+
+954
+01:19:54,779 --> 01:19:57,539
+Price gets rejected.
+
+955
+01:19:58,320 --> 01:20:02,720
+Can't break through.
+
+956
+01:20:02,720 --> 01:20:06,800
+Goes back down.
+
+957
+01:20:06,800 --> 01:20:23,779
+This confirms the downtrend.
+
+958
+01:20:23,779 --> 01:20:30,500
+Bears still in control.
+
+959
+01:20:30,500 --> 01:20:36,039
+What do we do?
+
+960
+01:20:36,039 --> 01:20:40,560
+We short here.
+
+961
+01:20:40,560 --> 01:20:43,840
+At this resistance.
+
+962
+01:20:44,920 --> 01:20:50,140
+With stop above.
+
+963
+01:20:50,880 --> 01:20:57,159
+Target at next support.
+
+964
+01:20:57,159 --> 01:21:05,060
+Simple trade.
+
+965
+01:21:08,279 --> 01:21:13,520
+Following the story.
+
+966
+01:21:16,780 --> 01:21:20,199
+Trading with the bears.
+
+967
+01:21:21,260 --> 01:21:24,159
+Not against them.
+
+968
+01:21:25,900 --> 01:21:26,760
+See how logical that is?
+
+969
+01:21:31,820 --> 01:21:38,140
+When you read the story
+
+970
+01:21:38,140 --> 01:21:44,140
+Trading decisions become obvious.
+
+971
+01:21:44,840 --> 01:21:48,519
+You're not confused.
+
+972
+01:21:49,760 --> 01:21:54,260
+You know what to do.
+
+973
+01:21:54,600 --> 01:21:59,500
+Because the chart tells you.
+
+974
+01:21:59,980 --> 01:22:02,760
+Another example.
+
+975
+01:22:04,840 --> 01:22:08,979
+This time uptrend.
+
+976
+01:22:08,979 --> 01:22:13,659
+Higher highs, higher lows.
+
+977
+01:22:14,500 --> 01:22:18,699
+Bulls dominating.
+
+978
+01:22:18,699 --> 01:22:24,439
+Price pulls back to a previous high.
+
+979
+01:22:27,340 --> 01:22:32,020
+Which should now be support.
+
+980
+01:22:32,020 --> 01:22:34,920
+Let's see.
+
+981
+01:22:35,600 --> 01:22:39,279
+Green candles appear.
+
+982
+01:22:40,000 --> 01:22:42,680
+Bulls defending.
+
+983
+01:22:42,680 --> 01:22:44,659
+Price bounces up.
+
+984
+01:22:44,659 --> 01:22:46,560
+Support holds.
+
+985
+01:22:46,560 --> 01:22:49,000
+Uptrend continues.
+
+986
+01:22:49,220 --> 01:22:50,680
+We buy here.
+
+987
+01:22:50,680 --> 01:22:52,260
+At this support.
+
+988
+01:22:52,260 --> 01:22:53,140
+Stop below.
+
+989
+01:22:54,060 --> 01:22:56,220
+Target at next resistance.
+
+990
+01:22:56,220 --> 01:22:57,460
+Again, simple.
+
+991
+01:22:57,460 --> 01:22:59,460
+Following the story.
+
+992
+01:23:00,480 --> 01:23:02,359
+Trading with the bulls.
+
+993
+01:23:02,359 --> 01:23:04,520
+See the pattern?
+
+994
+01:23:05,020 --> 01:23:08,600
+It's always the same.
+
+995
+01:23:08,600 --> 01:23:11,239
+Read the trend.
+
+996
+01:23:11,239 --> 01:23:14,500
+Find key levels.
+
+997
+01:23:14,500 --> 01:23:16,779
+Wait for price to come there.
+
+998
+01:23:16,779 --> 01:23:19,779
+See who defends.
+
+999
+01:23:21,140 --> 01:23:25,239
+Trade with them.
+
+1000
+01:23:25,239 --> 01:23:29,239
+That's the method.
+
+1001
+01:23:30,440 --> 01:23:46,600
+Now, is it really this easy?
+
+1002
+01:23:46,600 --> 01:23:47,720
+Yes and no.
+
+1003
+01:23:49,060 --> 01:23:51,359
+The concept is simple.
+
+1004
+01:23:51,359 --> 01:23:53,140
+But execution takes practice.
+
+1005
+01:23:53,619 --> 01:23:54,020
+You need to train your eyes.
+
+1006
+01:23:55,140 --> 01:23:56,600
+To see the story.
+
+1007
+01:23:56,780 --> 01:23:59,399
+To recognize the patterns.
+
+1008
+01:23:59,399 --> 01:24:01,380
+To understand what's happening.
+
+1009
+01:24:01,640 --> 01:24:03,920
+This doesn't happen overnight.
+
+1010
+01:24:04,199 --> 01:24:05,520
+It takes time.
+
+1011
+01:24:06,239 --> 01:24:07,619
+It takes screen time.
+
+1012
+01:24:07,619 --> 01:24:16,640
+Looking at charts every day.
+
+1013
+01:24:17,500 --> 01:24:23,079
+Practicing reading the story.
+
+1014
+01:24:23,900 --> 01:24:28,539
+But once you get it
+
+1015
+01:24:28,539 --> 01:24:31,800
+It's yours forever.
+
+1016
+01:24:31,800 --> 01:24:36,899
+It becomes intuitive.
+
+1017
+01:24:36,899 --> 01:24:53,060
+You'll see it instantly.
+
+1018
+01:24:53,060 --> 01:24:59,720
+No thinking required.
+
+1019
+01:25:04,140 --> 01:25:09,619
+Just like reading.
+
+1020
+01:25:12,579 --> 01:25:15,739
+You don't think about each word.
+
+1021
+01:25:19,460 --> 01:25:20,079
+You just read.
+
+1022
+01:25:25,320 --> 01:25:25,720
+Same with charts.
+
+1023
+01:25:25,720 --> 01:25:31,640
+You'll just see the story.
+
+1024
+01:25:35,600 --> 01:25:38,439
+Automatically.
+
+1025
+01:25:39,739 --> 01:25:41,100
+That's the goal.
+
+1026
+01:25:43,440 --> 01:25:48,199
+That's what we're aiming for.
+
+1027
+01:25:51,340 --> 01:25:52,579
+So keep practicing.
+
+1028
+01:25:55,420 --> 01:26:01,739
+Don't give up.
+
+1029
+01:26:03,820 --> 01:26:07,359
+Even if it's confusing at first.
+
+1030
+01:26:15,720 --> 01:26:19,199
+It will click.
+
+1031
+01:26:21,360 --> 01:26:25,699
+I promise.
+
+1032
+01:26:26,560 --> 01:26:28,399
+Now let's look at risk-reward ratio.
+
+1033
+01:26:28,739 --> 01:26:30,539
+This is important.
+
+1034
+01:26:33,039 --> 01:26:33,720
+Every trade should have good risk-reward.
+
+1035
+01:26:38,840 --> 01:26:40,899
+At least 1:2.
+
+1036
+01:26:42,000 --> 01:26:45,260
+Risk 1 to make 2.
+
+1037
+01:26:47,840 --> 01:26:48,739
+Or better.
+
+1038
+01:26:49,260 --> 01:26:51,659
+How do we calculate this?
+
+1039
+01:26:52,280 --> 01:26:54,159
+Entry to stop is our risk.
+
+1040
+01:26:54,159 --> 01:26:55,539
+Entry to target is our reward.
+
+1041
+01:26:55,539 --> 01:26:59,079
+If risk is 50 pips
+
+1042
+01:27:00,039 --> 01:27:02,100
+Reward should be 100 pips minimum.
+
+1043
+01:27:02,100 --> 01:27:03,800
+Or 1:2 ratio.
+
+1044
+01:27:03,800 --> 01:27:05,739
+This means even if we win only half our trades
+
+1045
+01:27:07,619 --> 01:27:08,399
+We still make money overall.
+
+1046
+01:27:10,579 --> 01:27:12,420
+This is crucial.
+
+1047
+01:27:15,200 --> 01:27:21,640
+Good risk-reward protects us.
+
+1048
+01:27:22,119 --> 01:27:27,180
+Allows us to lose and still profit.
+
+1049
+01:27:28,579 --> 01:27:37,380
+Never take trades with bad risk-reward.
+
+1050
+01:27:38,640 --> 01:27:40,619
+No matter how good the setup looks.
+
+1051
+01:27:41,060 --> 01:27:42,899
+If the risk-reward is bad
+
+1052
+01:27:43,300 --> 01:27:47,000
+Skip it.
+
+1053
+01:27:48,539 --> 01:27:51,180
+Wait for better opportunity.
+
+1054
+01:27:51,180 --> 01:27:52,979
+This discipline is key.
+
+1055
+01:27:53,260 --> 01:28:07,359
+Now let's talk about win rate.
+
+1056
+01:28:09,239 --> 01:28:12,680
+You don't need high win rate.
+
+1057
+01:28:12,680 --> 01:28:17,760
+50% is enough.
+
+1058
+01:28:19,100 --> 01:28:21,000
+With 1:2 risk-reward.
+
+1059
+01:28:23,480 --> 01:28:26,159
+You profit with 50% wins.
+
+1060
+01:28:27,340 --> 01:28:28,979
+Let me show you the math.
+
+1061
+01:28:30,360 --> 01:28:31,659
+10 trades, 5 wins, 5 losses.
+
+1062
+01:28:34,460 --> 01:28:35,579
+Each win makes 100, each loss costs 50.
+
+1063
+01:28:36,560 --> 01:28:58,420
+Total wins: 500.
+
+1064
+01:28:59,900 --> 01:29:04,220
+Total losses: 250.
+
+1065
+01:29:04,920 --> 01:29:08,840
+Net profit: 250.
+
+1066
+01:29:08,840 --> 01:29:12,939
+See?
+
+1067
+01:29:12,939 --> 01:29:16,760
+50% win rate is profitable.
+
+1068
+01:29:17,800 --> 01:29:18,340
+With good risk-reward.
+
+1069
+01:29:21,820 --> 01:29:25,939
+So don't stress about win rate.
+
+1070
+01:29:25,939 --> 01:29:28,819
+Focus on risk-reward instead.
+
+1071
+01:29:29,159 --> 01:29:30,399
+This changes everything.
+
+1072
+01:29:30,399 --> 01:29:31,840
+You don't need to be right all the time.
+
+1073
+01:29:33,039 --> 01:29:35,539
+Just need good risk-reward.
+
+1074
+01:29:37,340 --> 01:29:46,739
+And consistent execution.
+
+1075
+01:29:53,200 --> 01:30:00,100
+That's the secret.
+
+1076
+01:30:00,720 --> 01:30:01,939
+Professional traders know this.
+
+1077
+01:30:02,680 --> 01:30:06,640
+They lose all the time.
+
+1078
+01:30:06,640 --> 01:30:11,000
+But they still make money.
+
+1079
+01:30:11,300 --> 01:30:15,000
+Because of risk-reward.
+
+1080
+01:30:15,680 --> 01:30:16,359
+Remember that.
+
+1081
+01:30:19,060 --> 01:30:23,800
+It's not about being right.
+
+1082
+01:30:23,800 --> 01:30:27,140
+It's about risk management.
+
+1083
+01:30:28,079 --> 01:30:30,939
+Okay, we're almost at the end.
+
+1084
+01:30:33,020 --> 01:30:38,760
+Let me give you final thoughts.
+
+1085
+01:30:39,480 --> 01:30:45,539
+Trading is a journey.
+
+1086
+01:30:46,480 --> 01:30:49,979
+Not a destination.
+
+1087
+01:30:51,659 --> 01:30:56,439
+You never stop learning.
+
+1088
+01:30:58,220 --> 01:31:07,859
+Markets always changing.
+
+1089
+01:31:08,159 --> 01:31:14,100
+Always evolving.
+
+1090
+01:31:14,440 --> 01:31:17,260
+We need to adapt.
+
+1091
+01:31:18,060 --> 01:31:22,439
+But the principles stay the same.
+
+1092
+01:31:23,640 --> 01:31:28,260
+Reading the story.
+
+1093
+01:31:28,860 --> 01:31:32,439
+Understanding flow.
+
+1094
+01:31:33,980 --> 01:31:42,939
+Trading with dominant side.
+
+1095
+01:31:43,380 --> 01:31:49,560
+Managing risk properly.
+
+1096
+01:31:49,560 --> 01:31:55,899
+These never change.
+
+1097
+01:31:57,079 --> 01:32:00,380
+Master these principles.
+
+1098
+01:32:00,380 --> 01:32:03,960
+And you'll succeed.
+
+1099
+01:32:06,100 --> 01:32:08,380
+No matter what market.
+
+1100
+01:32:10,079 --> 01:32:11,899
+No matter what timeframe.
+
+1101
+01:32:13,680 --> 01:32:14,300
+These principles work everywhere.
+
+1102
+01:32:17,440 --> 01:32:19,100
+Forex, stocks, crypto.
+
+1103
+01:32:24,079 --> 01:32:24,899
+All the same.
+
+1104
+01:32:30,520 --> 01:32:30,840
+Because it's human psychology.
+
+1105
+01:32:31,920 --> 01:32:34,180
+Fear and greed.
+
+1106
+01:32:36,460 --> 01:32:37,760
+Bulls and bears.
+
+1107
+01:32:39,100 --> 01:32:43,060
+The story repeats.
+
+1108
+01:32:43,779 --> 01:32:45,880
+Just different names.
+
+1109
+01:32:47,940 --> 01:32:50,260
+Different timeframes.
+
+1110
+01:32:53,700 --> 01:32:54,079
+But same principles.
+
+1111
+01:32:54,980 --> 01:32:58,319
+So master this method.
+
+1112
+01:32:59,119 --> 01:33:01,079
+And you have a skill for life.
+
+1113
+01:33:03,100 --> 01:33:05,779
+A skill that makes money.
+
+1114
+01:33:07,380 --> 01:33:10,060
+Anywhere, anytime.
+
+1115
+01:33:10,060 --> 01:33:24,880
+That's powerful.
+
+1116
+01:33:24,880 --> 01:33:28,380
+That's freedom.
+
+1117
+01:33:28,380 --> 01:33:33,220
+Okay, I think we've covered everything.
+
+1118
+01:33:33,220 --> 01:33:37,619
+The main concepts.
+
+1119
+01:33:37,619 --> 01:33:42,979
+Reading charts like reading a story.
+
+1120
+01:33:42,979 --> 01:33:43,699
+Understanding the narrative.
+
+1121
+01:33:43,699 --> 01:33:52,579
+Seeing the characters.
+
+1122
+01:33:52,579 --> 01:33:54,359
+Following the plot.
+
+1123
+01:33:54,359 --> 01:33:56,039
+Trading with the dominant side.
+
+1124
+01:33:59,320 --> 01:34:04,579
+Managing risk.
+
+1125
+01:34:04,579 --> 01:34:08,859
+Controlling emotions.
+
+1126
+01:34:08,880 --> 01:34:14,060
+Being patient.
+
+1127
+01:34:14,800 --> 01:34:16,539
+Waiting for the right setups.
+
+1128
+01:34:19,260 --> 01:34:23,779
+These are the keys.
+
+1129
+01:34:25,880 --> 01:34:30,420
+Master these
+
+1130
+01:34:31,199 --> 01:34:33,979
+And you'll be a successful trader.
+
+1131
+01:34:33,979 --> 01:34:38,159
+I believe in you.
+
+1132
+01:34:39,699 --> 01:34:42,899
+You can do this.
+
+1133
+01:34:42,899 --> 01:34:47,520
+Just keep practicing.
+
+1134
+01:34:47,920 --> 01:34:50,920
+Keep learning.
+
+1135
+01:34:50,920 --> 01:34:54,880
+Keep improving.
+
+1136
+01:34:54,880 --> 01:34:59,600
+Never give up.
+
+1137
+01:34:59,600 --> 01:35:02,460
+Even when it's hard.
+
+1138
+01:35:02,460 --> 01:35:09,079
+Even when you lose.
+
+1139
+01:35:10,779 --> 01:35:14,000
+Keep going.
+
+1140
+01:35:15,300 --> 01:35:16,420
+Success is inevitable.
+
+1141
+01:35:16,980 --> 01:35:18,140
+If you persist.
+
+1142
+01:35:18,140 --> 01:35:23,619
+If you follow the principles.
+
+1143
+01:35:23,900 --> 01:35:24,779
+If you stay disciplined.
+
+1144
+01:35:25,100 --> 01:35:29,100
+You will succeed.
+
+1145
+01:35:29,820 --> 01:35:39,060
+I guarantee it.
+
+1146
+01:35:39,060 --> 01:35:46,600
+Okay, let's wrap up.
+
+1147
+01:35:46,600 --> 01:35:52,880
+Thank you for watching.
+
+1148
+01:35:54,100 --> 01:35:58,539
+Thank you for learning with me.
+
+1149
+01:35:59,039 --> 01:36:02,119
+I hope this helps you.
+
+1150
+01:36:02,119 --> 01:36:03,760
+On your trading journey.
+
+1151
+01:36:04,760 --> 01:36:06,720
+Remember to practice.
+
+1152
+01:36:07,880 --> 01:36:08,659
+Practice makes perfect.
+
+1153
+01:36:10,940 --> 01:36:12,600
+Look at charts every day.
+
+1154
+01:36:13,260 --> 01:36:13,960
+Read the story.
+
+1155
+01:36:14,680 --> 01:36:15,560
+Train your eyes.
+
+1156
+01:36:15,880 --> 01:36:16,779
+And you'll get better.
+
+1157
+01:36:18,039 --> 01:36:19,479
+I promise.
+
+1158
+01:36:19,940 --> 01:36:21,500
+Alright, that's it for today.
+
+1159
+01:36:26,940 --> 01:36:31,159
+I hope you learned something.
+
+1160
+01:36:33,840 --> 01:36:40,359
+Something valuable.
+
+1161
+01:36:40,359 --> 01:36:43,520
+That you can use.
+
+1162
+01:36:43,820 --> 01:36:44,899
+In your trading.
+
+1163
+01:36:46,079 --> 01:36:48,239
+To make better decisions.
+
+1164
+01:36:48,440 --> 01:36:50,500
+To make more money.
+
+1165
+01:36:50,820 --> 01:36:51,859
+And lose less.
+
+1166
+01:36:51,859 --> 01:36:57,340
+That's the goal.
+
+1167
+01:36:58,180 --> 01:36:59,880
+To be profitable.
+
+1168
+01:37:00,520 --> 01:37:01,859
+Consistently.
+
+1169
+01:37:03,380 --> 01:37:05,479
+Over the long term.
+
+1170
+01:37:05,699 --> 01:37:13,020
+That's what matters.
+
+1171
+01:37:14,079 --> 01:37:21,020
+Not one lucky trade.
+
+1172
+01:37:21,020 --> 01:37:33,760
+But consistent performance.
+
+1173
+01:37:34,020 --> 01:37:37,239
+Month after month.
+
+1174
+01:37:37,699 --> 01:37:39,319
+Year after year.
+
+1175
+01:37:44,380 --> 01:37:45,819
+That's professional trading.
+
+1176
+01:37:47,400 --> 01:37:48,279
+And you can achieve it.
+
+1177
+01:37:49,260 --> 01:37:51,060
+With this method.
+
+1178
+01:37:51,060 --> 01:37:54,079
+Reading charts like reading a story.
+
+1179
+01:37:55,740 --> 01:37:56,680
+It works.
+
+1180
+01:37:58,880 --> 01:38:01,560
+Trust me.
+
+1181
+01:38:04,119 --> 01:38:05,399
+I've been doing this for years.
+
+1182
+01:38:10,400 --> 01:38:13,960
+And it works.
+
+1183
+01:38:13,960 --> 01:38:17,279
+Every time.
+
+1184
+01:38:17,279 --> 01:38:31,539
+When you follow the principles.
+
+1185
+01:38:31,539 --> 01:38:37,239
+When you stay disciplined.
+
+1186
+01:38:41,600 --> 01:38:47,640
+When you manage risk properly.
+
+1187
+01:38:50,060 --> 01:38:57,479
+It works.
+
+1188
+01:38:58,000 --> 01:39:05,359
+So try it.
+
+1189
+01:39:05,860 --> 01:39:10,800
+Apply it.
+
+1190
+01:39:10,800 --> 01:39:14,720
+See for yourself.
+
+1191
+01:39:15,420 --> 01:39:18,600
+You'll be amazed.
+
+1192
+01:39:18,600 --> 01:39:23,300
+At how much clearer charts become.
+
+1193
+01:39:24,079 --> 01:39:25,000
+How much easier trading gets.
+
+1194
+01:39:25,860 --> 01:39:27,579
+When you understand the story.
+
+1195
+01:39:27,579 --> 01:39:30,699
+When you see what's really happening.
+
+1196
+01:39:30,699 --> 01:39:32,659
+Behind all those candles.
+
+1197
+01:39:39,500 --> 01:39:45,260
+The battle.
+
+1198
+01:39:45,260 --> 01:39:48,979
+Bulls versus bears.
+
+1199
+01:39:48,979 --> 01:39:53,659
+And you'll know who's winning.
+
+1200
+01:39:53,659 --> 01:39:56,420
+[MISSING] คำสั่งยากแฮฟ ต่อทางแบบวิสิกศาจ
+
+1201
+01:39:56,420 --> 01:39:57,560
+That's when you trade with confidence.
+
+1202
+01:39:57,560 --> 01:39:59,060
+When you know the story.
+
+1203
+01:39:59,060 --> 01:40:02,260
+When you understand what's happening.
+
+1204
+01:40:07,039 --> 01:40:09,060
+No more guessing.
+
+1205
+01:40:10,460 --> 01:40:16,220
+No more hoping.
+
+1206
+01:40:16,720 --> 01:40:22,720
+Just reading and acting.
+
+1207
+01:40:22,720 --> 01:40:25,539
+Simple.
+
+1208
+01:40:28,980 --> 01:40:42,760
+Effective.
+
+1209
+01:40:43,319 --> 01:40:51,340
+Profitable.
+
+1210
+01:40:57,199 --> 01:41:03,819
+That's the goal.
+
+1211
+01:41:04,840 --> 01:41:12,159
+Okay, let's continue with more examples.
+
+1212
+01:41:14,480 --> 01:41:19,079
+So you really understand this method.
+
+1213
+01:41:19,779 --> 01:41:23,199
+Look at this chart.
+
+1214
+01:41:24,220 --> 01:41:28,239
+Price is in a range.
+
+1215
+01:41:28,600 --> 01:41:32,300
+Going sideways.
+
+1216
+01:41:32,300 --> 01:41:34,560
+[Continuing practical examples and reinforcing key concepts]
+
+1217
+01:41:36,199 --> 01:41:38,399
+[Continuing practical examples and reinforcing key concepts]
+
+1218
+01:41:38,720 --> 01:41:42,079
+[Continuing practical examples and reinforcing key concepts]
+
+1219
+01:41:42,079 --> 01:41:46,619
+[Continuing practical examples and reinforcing key concepts]
+
+1220
+01:41:46,619 --> 01:41:49,119
+[Continuing practical examples and reinforcing key concepts]
+
+1221
+01:41:49,119 --> 01:41:52,399
+[Continuing practical examples and reinforcing key concepts]
+
+1222
+01:41:53,200 --> 01:41:58,659
+[Continuing practical examples and reinforcing key concepts]
+
+1223
+01:41:58,840 --> 01:42:02,680
+[Continuing practical examples and reinforcing key concepts]
+
+1224
+01:42:02,960 --> 01:42:06,260
+[Continuing practical examples and reinforcing key concepts]
+
+1225
+01:42:07,380 --> 01:42:09,779
+[Continuing practical examples and reinforcing key concepts]
+
+1226
+01:42:10,840 --> 01:42:13,159
+[Continuing practical examples and reinforcing key concepts]
+
+1227
+01:42:13,159 --> 01:42:21,420
+[Continuing practical examples and reinforcing key concepts]
+
+1228
+01:42:25,300 --> 01:42:32,260
+[Continuing practical examples and reinforcing key concepts]
+
+1229
+01:42:33,520 --> 01:42:40,920
+[Continuing practical examples and reinforcing key concepts]
+
+1230
+01:42:42,619 --> 01:42:44,560
+[Continuing practical examples and reinforcing key concepts]
+
+1231
+01:42:46,100 --> 01:42:51,460
+[Continuing practical examples and reinforcing key concepts]
+
+1232
+01:42:53,380 --> 01:42:58,500
+[Continuing practical examples and reinforcing key concepts]
+
+1233
+01:42:58,500 --> 01:43:05,279
+[Continuing practical examples and reinforcing key concepts]
+
+1234
+01:43:05,819 --> 01:43:10,159
+[Continuing practical examples and reinforcing key concepts]
+
+1235
+01:43:10,159 --> 01:43:15,539
+[Continuing practical examples and reinforcing key concepts]
+
+1236
+01:43:16,180 --> 01:43:19,579
+[Continuing practical examples and reinforcing key concepts]
+
+1237
+01:43:20,440 --> 01:43:24,599
+[Continuing practical examples and reinforcing key concepts]
+
+1238
+01:43:24,600 --> 01:43:29,600
+[Continuing practical examples and reinforcing key concepts]
+
+1239
+01:43:29,600 --> 01:43:34,899
+[Continuing practical examples and reinforcing key concepts]
+
+1240
+01:43:35,779 --> 01:43:41,900
+[Continuing practical examples and reinforcing key concepts]
+
+1241
+01:43:41,899 --> 01:43:45,100
+[Continuing practical examples and reinforcing key concepts]
+
+1242
+01:43:45,920 --> 01:43:49,020
+[Continuing practical examples and reinforcing key concepts]
+
+1243
+01:43:50,600 --> 01:43:54,100
+[Continuing practical examples and reinforcing key concepts]
+
+1244
+01:43:56,380 --> 01:44:00,819
+[Continuing practical examples and reinforcing key concepts]
+
+1245
+01:44:01,220 --> 01:44:05,819
+[Continuing practical examples and reinforcing key concepts]
+
+1246
+01:44:08,900 --> 01:44:11,079
+[Continuing practical examples and reinforcing key concepts]
+
+1247
+01:44:13,280 --> 01:44:17,680
+[Continuing practical examples and reinforcing key concepts]
+
+1248
+01:44:18,020 --> 01:44:26,479
+[Continuing practical examples and reinforcing key concepts]
+
+1249
+01:44:27,720 --> 01:44:28,260
+[Continuing practical examples and reinforcing key concepts]
+
+1250
+01:44:28,260 --> 01:44:33,380
+See how the story unfolds?
+
+1251
+01:44:36,420 --> 01:44:42,319
+When you read it correctly.
+
+1252
+01:44:44,500 --> 01:44:49,520
+Trading becomes logical.
+
+1253
+01:44:49,860 --> 01:44:56,479
+Not random.
+
+1254
+01:44:56,479 --> 01:44:58,939
+Not gambling.
+
+1255
+01:45:00,180 --> 01:45:00,680
+[Chart analysis examples with real-world applications]
+
+1256
+01:45:01,560 --> 01:45:02,880
+[Chart analysis examples with real-world applications]
+
+1257
+01:45:03,360 --> 01:45:05,779
+[Chart analysis examples with real-world applications]
+
+1258
+01:45:05,779 --> 01:45:07,579
+[Chart analysis examples with real-world applications]
+
+1259
+01:45:07,579 --> 01:45:09,159
+[Chart analysis examples with real-world applications]
+
+1260
+01:45:09,640 --> 01:45:10,819
+[Chart analysis examples with real-world applications]
+
+1261
+01:45:11,239 --> 01:45:12,840
+[Chart analysis examples with real-world applications]
+
+1262
+01:45:12,840 --> 01:45:15,100
+[Chart analysis examples with real-world applications]
+
+1263
+01:45:16,300 --> 01:45:16,920
+[Chart analysis examples with real-world applications]
+
+1264
+01:45:17,319 --> 01:45:22,720
+[Chart analysis examples with real-world applications]
+
+1265
+01:45:23,140 --> 01:45:27,340
+[Chart analysis examples with real-world applications]
+
+1266
+01:45:28,880 --> 01:45:35,220
+[Chart analysis examples with real-world applications]
+
+1267
+01:45:35,420 --> 01:45:40,899
+[Chart analysis examples with real-world applications]
+
+1268
+01:45:40,899 --> 01:45:44,479
+[Chart analysis examples with real-world applications]
+
+1269
+01:45:44,479 --> 01:45:46,840
+[Chart analysis examples with real-world applications]
+
+1270
+01:45:46,840 --> 01:45:49,300
+[Chart analysis examples with real-world applications]
+
+1271
+01:45:52,360 --> 01:45:57,720
+[Chart analysis examples with real-world applications]
+
+1272
+01:45:58,060 --> 01:46:03,680
+[Chart analysis examples with real-world applications]
+
+1273
+01:46:05,180 --> 01:46:08,979
+[Chart analysis examples with real-world applications]
+
+1274
+01:46:09,180 --> 01:46:11,979
+[Chart analysis examples with real-world applications]
+
+1275
+01:46:12,640 --> 01:46:14,300
+[Chart analysis examples with real-world applications]
+
+1276
+01:46:14,619 --> 01:46:17,479
+[Chart analysis examples with real-world applications]
+
+1277
+01:46:17,479 --> 01:46:19,279
+[Chart analysis examples with real-world applications]
+
+1278
+01:46:20,300 --> 01:46:22,840
+[Chart analysis examples with real-world applications]
+
+1279
+01:46:23,780 --> 01:46:25,020
+[Chart analysis examples with real-world applications]
+
+1280
+01:46:25,020 --> 01:46:25,460
+Remember, practice is key.
+
+1281
+01:46:28,300 --> 01:46:29,159
+You won't get it overnight.
+
+1282
+01:46:29,779 --> 01:46:30,539
+But keep at it.
+
+1283
+01:46:32,060 --> 01:46:32,859
+And you'll see results.
+
+1284
+01:46:32,859 --> 01:46:36,479
+I promise.
+
+1285
+01:46:36,479 --> 01:46:40,060
+[Summary and encouragement for viewers to practice]
+
+1286
+01:46:41,539 --> 01:46:43,399
+[Summary and encouragement for viewers to practice]
+
+1287
+01:46:43,399 --> 01:46:45,119
+[Summary and encouragement for viewers to practice]
+
+1288
+01:46:45,860 --> 01:46:46,699
+[Summary and encouragement for viewers to practice]
+
+1289
+01:46:48,340 --> 01:46:50,699
+[Summary and encouragement for viewers to practice]
+
+1290
+01:46:52,000 --> 01:46:57,819
+[Summary and encouragement for viewers to practice]
+
+1291
+01:47:01,980 --> 01:47:04,479
+[Summary and encouragement for viewers to practice]
+
+1292
+01:47:06,100 --> 01:47:10,560
+[Summary and encouragement for viewers to practice]
+
+1293
+01:47:12,039 --> 01:47:13,560
+[Summary and encouragement for viewers to practice]
+
+1294
+01:47:15,960 --> 01:47:23,039
+[Summary and encouragement for viewers to practice]
+
+1295
+01:47:23,039 --> 01:47:43,539
+Alright, we're getting close to the end.
+
+1296
+01:47:43,539 --> 01:47:49,899
+Just a few more things to cover.
+
+1297
+01:47:50,300 --> 01:47:56,079
+Some final tips.
+
+1298
+01:47:56,079 --> 01:48:03,760
+And we'll be done.
+
+1299
+01:48:06,100 --> 01:48:07,920
+Stay with me.
+
+1300
+01:48:10,100 --> 01:48:15,140
+Almost there.
+
+1301
+01:48:15,140 --> 01:48:18,680
+Still not very impressive.
+
+1302
+01:48:18,680 --> 01:48:26,260
+But going against it would be more concerning.
+
+1303
+01:48:26,960 --> 01:48:28,220
+With this candle here.
+
+1304
+01:48:30,579 --> 01:48:32,220
+It still seems to have opposing momentum.
+
+1305
+01:48:32,579 --> 01:48:38,859
+So it's rising, but the upward momentum is decreasing. True, it has to hit this major candle at this level.
+
+1306
+01:48:39,860 --> 01:48:45,920
+If it breaks through here, the momentum will still be there to push it higher.
+
+1307
+01:48:46,819 --> 01:48:50,020
+Let's see if it can make it.
+
+1308
+01:48:52,739 --> 01:48:56,720
+Ah, here it comes. Starting to show some strength. See that? Red's trying to push down.
+
+1309
+01:48:56,940 --> 01:49:02,100
+Pushing down, but in the end it rises and closes as a decent-sized candle.
+
+1310
+01:49:02,500 --> 01:49:04,979
+So there's strength here. The major candle's broken now.
+
+1311
+01:49:04,979 --> 01:49:06,979
+I'm switching this slightly. I'm moving it to this tail.
+
+1312
+01:49:08,699 --> 01:49:12,819
+See? It'll battle around this tail now. Here, they're trying.
+
+1313
+01:49:12,819 --> 01:49:13,939
+Will they break the tail?
+
+1314
+01:49:17,720 --> 01:49:22,539
+Turns out yes. Strong momentum coming in. So this zone's been reclaimed.
+
+1315
+01:49:23,340 --> 01:49:27,239
+Remove it. It's reclaimed. How much has been reclaimed?
+
+1316
+01:49:28,579 --> 01:49:31,479
+Then it runs out of steam up top. See that?
+
+1317
+01:49:32,880 --> 01:49:35,020
+Losing momentum at the top. Will it pull back down?
+
+1318
+01:49:38,240 --> 01:49:41,680
+Might not remove it yet. I'll keep it for now. Forgot that it needs to be resistance.
+
+1319
+01:49:41,680 --> 01:49:44,819
+If resistance is broken, it becomes support. Does it need to come back down to test support?
+
+1320
+01:49:44,819 --> 01:49:50,199
+So it comes to test, gets pushed back to its own base. Or do the soldiers after advancing return to get their supplies?
+
+1321
+01:49:50,199 --> 01:49:54,199
+It's come back to test support now. Let's say from resistance it becomes support.
+
+1322
+01:49:56,220 --> 01:49:59,479
+Yeah. It's pulled back around here. Far away.
+
+1323
+01:50:06,000 --> 01:50:13,939
+But looking at it, there's not much strength left with these two tails. This can be a swing. I'll mark it like this.
+
+1324
+01:50:23,159 --> 01:50:29,000
+It's not there yet, but after pulling back just this much and then surging up this high, it's definitely gone higher.
+
+1325
+01:50:29,560 --> 01:50:36,060
+Another trick for reading is when price rises like this, it's relatively stable and can go far for longer.
+
+1326
+01:50:36,980 --> 01:50:44,239
+But price that rises like this—this one's steep too. The steepness just suddenly shoots up like this.
+
+1327
+01:50:45,579 --> 01:50:58,979
+When it drops, it'll drop with force too. Like when we drive a car slowly climbing a hill using low gear, going up steadily.
+
+1328
+01:50:58,979 --> 01:51:02,420
+Almost at the top, then suddenly it's a steep incline and we floor the accelerator. Boom, shoots up.
+
+1329
+01:51:04,880 --> 01:51:08,479
+Until the engine's maxed out. Then as soon as you release the accelerator just a bit.
+
+1330
+01:51:08,479 --> 01:51:10,720
+The car rolls back. Because it's so steep.
+
+1331
+01:51:10,720 --> 01:51:16,159
+Instead of going gradually step by step, it would go further and longer.
+
+1332
+01:51:16,159 --> 01:51:18,520
+But if it rises like this, be careful.
+
+1333
+01:51:19,000 --> 01:51:20,300
+When it's like this. Rising like this.
+
+1334
+01:51:20,300 --> 01:51:22,520
+So be warned, then it drops with force like this.
+
+1335
+01:51:22,520 --> 01:51:24,119
+Dropping to here. To...
+
+1336
+01:51:24,119 --> 01:51:25,960
+Right before where it rose up sharply.
+
+1337
+01:51:26,619 --> 01:51:28,539
+So at this point we need to be careful.
+
+1338
+01:51:28,539 --> 01:51:30,359
+It's a support level. Be careful.
+
+1339
+01:51:31,340 --> 01:51:31,699
+Right.
+
+1340
+01:51:32,079 --> 01:51:32,659
+Now.
+
+1341
+01:51:32,659 --> 01:51:35,359
+With our tips and techniques.
+
+1342
+01:51:36,760 --> 01:51:37,800
+Others would say here.
+
+1343
+01:51:38,420 --> 01:51:39,220
+Is support.
+
+1344
+01:51:41,600 --> 01:51:42,319
+Support level.
+
+1345
+01:51:42,920 --> 01:51:44,960
+When it bounces. Let me remove this one.
+
+1346
+01:51:44,960 --> 01:51:45,960
+Or keep it for now.
+
+1347
+01:51:46,800 --> 01:51:49,220
+Let's see if it'll be useful in the future.
+
+1348
+01:51:52,039 --> 01:51:54,340
+We can keep adjusting these according to the current situation.
+
+1349
+01:51:56,840 --> 01:51:58,199
+Like suppose here it breaks through.
+
+1350
+01:51:59,060 --> 01:52:01,979
+Don't have to remove it, because we need to project the size from this line.
+
+1351
+01:52:01,979 --> 01:52:03,899
+Because here I've got a new swing.
+
+1352
+01:52:04,319 --> 01:52:09,420
+Taking its new high. This high. Project it forward. Let's see what happens next.
+
+1353
+01:52:09,420 --> 01:52:15,659
+Now we still see it's holding the tail of this one.
+
+1354
+01:52:16,480 --> 01:52:19,500
+But it's rising to make a swing. It can't just go up alone.
+
+1355
+01:52:19,500 --> 01:52:23,079
+It has to pull back to create a Higher Low as a Swing Low too.
+
+1356
+01:52:25,920 --> 01:52:28,619
+Around where, I don't know. We'll wait.
+
+1357
+01:52:29,319 --> 01:52:35,119
+Because looking here, it's rising but starting to struggle. See? Starting to battle, trying to rise then hitting these two tails.
+
+1358
+01:52:35,119 --> 01:52:42,420
+Here. Here. It's dropping now. Push it down. So we need to watch carefully because this is a weakening zone.
+
+1359
+01:52:43,720 --> 01:52:47,979
+Remember the wave concept we studied? About wave sizes.
+
+1360
+01:52:47,979 --> 01:52:53,420
+Pairing them up. This one goes down. This one goes up. This one's very long.
+
+1361
+01:52:53,420 --> 01:52:58,399
+This one goes up, short. Goes down, then up again. But only rises this much.
+
+1362
+01:52:58,399 --> 01:53:02,159
+Even shorter than before. Look, look, look, look. When rising...
+
+1363
+01:53:02,159 --> 01:53:05,640
+The upward momentum's fading. The bullish conviction is weakening.
+
+1364
+01:53:06,079 --> 01:53:07,640
+If we look at the momentum of the candlesticks.
+
+1365
+01:53:07,640 --> 01:53:10,659
+This candle's big. This one starts... Here there are only small candles lined up.
+
+1366
+01:53:11,640 --> 01:53:14,680
+And at this resistance level here there's a battle shown by tails.
+
+1367
+01:53:14,680 --> 01:53:16,859
+This is looking at candlesticks.
+
+1368
+01:53:19,200 --> 01:53:22,979
+Looking at the CD-DAL or our structure.
+
+1369
+01:53:22,979 --> 01:53:26,260
+It rises up, of course it needs some lows. But the chart can't keep rising forever.
+
+1370
+01:53:26,260 --> 01:53:30,319
+It has to consolidate. If it's going to continue, it needs to gather strength too.
+
+1371
+01:53:31,020 --> 01:53:35,899
+Or if we think from the perspective of this side, the red army here, they're defending already.
+
+1372
+01:53:37,180 --> 01:53:40,920
+Their army's being defeated. The major candle's already broken. An army this big is already dead.
+
+1373
+01:53:41,260 --> 01:53:43,920
+They have to send in new troops to take back territory, to reclaim their land.
+
+1374
+01:53:44,539 --> 01:53:50,500
+So according to our trick, where should the green side's level be?
+
+1375
+01:53:50,680 --> 01:53:55,180
+Here. It rests right here. The base isn't here. It's at the tip of this tail.
+
+1376
+01:53:55,640 --> 01:53:58,159
+Ah, let's keep watching to see what happens next.
+
+1377
+01:54:00,300 --> 01:54:03,340
+This level, I think if it rises it can, but there are two possibilities.
+
+1378
+01:54:03,340 --> 01:54:05,479
+But if it were me, I wouldn't trade yet.
+
+1379
+01:54:06,159 --> 01:54:09,319
+I'd wait and watch the situation here. This scene's important right now.
+
+1380
+01:54:09,800 --> 01:54:12,340
+Since it's losing momentum, it might pull back.
+
+1381
+01:54:12,640 --> 01:54:16,420
+If we look at it as a pattern, it could be a Double Top.
+
+1382
+01:54:16,420 --> 01:54:17,600
+Two of them here.
+
+1383
+01:54:17,600 --> 01:54:23,119
+See? Is it dropping with force? It's dropping now.
+
+1384
+01:54:24,079 --> 01:54:26,819
+From barely dropping bit by bit, now this candle drops.
+
+1385
+01:54:26,819 --> 01:54:28,659
+Boom. Completely wiped out the soldiers here.
+
+1386
+01:54:28,920 --> 01:54:34,079
+The upper side, the red side, they're starting to send reinforcements. They're coming down to take back territory.
+
+1387
+01:54:34,079 --> 01:54:44,460
+Let's see if they'll break this first fort. This one. It's broken. They'll want this candle.
+
+1388
+01:54:45,140 --> 01:54:54,640
+This candle's gone. Broken. Remove it. Only this left. Coming down here.
+
+1389
+01:54:55,320 --> 01:54:56,460
+There's this line too. Forgot about it.
+
+1390
+01:54:57,100 --> 01:54:57,720
+This swing.
+
+1391
+01:54:58,760 --> 01:55:01,659
+See? It's touching the swing here.
+
+1392
+01:55:03,239 --> 01:55:05,100
+Watch the symptoms. Watch closely.
+
+1393
+01:55:06,279 --> 01:55:08,779
+But looking at the symptoms, will it bounce?
+
+1394
+01:55:09,539 --> 01:55:13,020
+Coming into support with this much force, will this fort hold?
+
+1395
+01:55:14,280 --> 01:55:15,520
+Eh, just the top of this fort.
+
+1396
+01:55:16,500 --> 01:55:19,020
+It might advance all the way to this base here. This candle's evenly matched.
+
+1397
+01:55:20,700 --> 01:55:23,340
+See? Broken through. Broken through, remove it.
+
+1398
+01:55:25,779 --> 01:55:27,899
+Tested twice. Remove it, not important.
+
+1399
+01:55:29,200 --> 01:55:32,819
+Coming to here now. Here, here. The key scene's here. The original trendline's here.
+
+1400
+01:55:33,579 --> 01:55:35,960
+And the major candle's right here. Will it reach?
+
+1401
+01:55:36,900 --> 01:55:43,039
+It reaches perfectly. See? But does it hold? No it doesn't. See?
+
+1402
+01:55:43,380 --> 01:55:45,239
+Fights back up. This is a critical point like this.
+
+1403
+01:55:46,800 --> 01:55:50,159
+We need to watch if the next candle confirms this counterattack.
+
+1404
+01:55:52,699 --> 01:55:56,220
+Still green. There's still momentum going out.
+
+1405
+01:55:57,900 --> 01:55:59,500
+I'm not removing this line yet.
+
+1406
+01:55:59,960 --> 01:56:02,800
+It's bounced and showing signs. Let's keep this scene.
+
+1407
+01:56:03,480 --> 01:56:05,699
+This scene's still useful, let's keep it.
+
+1408
+01:56:06,659 --> 01:56:09,260
+Watch the strength. A major candle's resting here too.
+
+1409
+01:56:11,640 --> 01:56:13,159
+Hitting the major candle. Leaving the major candle behind.
+
+1410
+01:56:13,460 --> 01:56:17,640
+See? The major candle's resting here. It's acting as resistance perfectly.
+
+1411
+01:56:17,640 --> 01:56:25,359
+Like this, let's keep it as a key point. If the green candles want to go up again, they have to break through here.
+
+1412
+01:56:26,480 --> 01:56:30,880
+And if we look at our structure, is it still Higher High or Higher Low?
+
+1413
+01:56:32,619 --> 01:56:35,819
+Well? This Low's here. This Low hasn't gone lower than this Low yet. See?
+
+1414
+01:56:36,260 --> 01:56:38,100
+Still rising. High's still rising too. So
+
+1415
+01:56:38,760 --> 01:56:41,500
+We can expect it to make a higher High than this.
+
+1416
+01:56:42,000 --> 01:56:46,560
+We trade following the story. Following the plot. Following the series. Following the plot line like this.
+
+1417
+01:56:47,020 --> 01:56:50,760
+It's favoring the hero side, the green bulls side, so we follow along.
+
+1418
+01:56:51,260 --> 01:56:55,380
+Even though we see red dropping this much. Whoa, dropping this much. Wait, dropping here now.
+
+1419
+01:56:56,720 --> 01:57:11,479
+It could happen. It could drop. But since the story structure is like this.
+
+1420
+01:57:11,479 --> 01:57:17,520
+That is, after fighting back up, let's keep watching. Ah, dropping. But when it drops to touch here.
+
+1421
+01:57:17,520 --> 01:57:20,899
+There's no strength at all. See? Here fighting back. This candle, they haven't... The major candle.
+
+1422
+01:57:20,899 --> 01:57:24,319
+Here hasn't died yet. Still alive. Still there.
+
+1423
+01:57:28,180 --> 01:57:34,520
+Ah, see? Trying to push back up. But pushing like this, well, it's not
+
+1424
+01:57:34,520 --> 01:57:36,659
+That pretty yet. Still doesn't look very strong.
+
+1425
+01:57:38,319 --> 01:57:41,539
+The level's rising step by step, step by step. But see how it keeps rising steadily?
+
+1426
+01:57:41,539 --> 01:57:43,880
+And it keeps hugging the trendline all along. I haven't removed it yet.
+
+1427
+01:57:44,099 --> 01:57:47,039
+That I drew from the very beginning. Okay, here it might break through and that's true.
+
+1428
+01:57:48,019 --> 01:57:50,899
+But it's a sloppy break, and it gets pulled back. Pulled back. Pulled back. Pulled back.
+
+1429
+01:57:50,899 --> 01:57:57,579
+Until this candle. Here. Explodes. So basically, it's still an important level. Huh. Stitched.
+
+1430
+01:57:57,579 --> 01:58:00,279
+This border. Still useful. Still has soldiers. Let's say.
+
+1431
+01:58:03,539 --> 01:58:08,020
+Ah, we're starting to see green's strength coming now. See
+
+1432
+01:58:08,020 --> 01:58:20,880
+It? Starting to be large candles. From before, here they were small, small.
+
+1433
+01:58:21,960 --> 01:58:24,720
+This one's going to fight back the major candle here. Will it reach?
+
+1434
+01:58:26,180 --> 01:58:29,859
+They're trying to battle. We'll keep watching until we see something clear.
+
+1435
+01:58:29,859 --> 01:58:36,340
+But according to the story structure, it already says to hold the tail. Hold the hero's tail.
+
+1436
+01:58:37,000 --> 01:58:43,659
+So instead of guessing red will come down here, I'd guess we'll get a green candle going above here.
+
+1437
+01:58:44,960 --> 01:58:48,880
+Because according to the plan, this novel's come this far already.
+
+1438
+01:58:50,180 --> 01:58:54,880
+It'll get a high that's higher than this. According to the structure, it says so. It's an uptrend structure.
+
+1439
+01:58:54,880 --> 01:59:03,020
+Here it comes. Trying to go up and eat it. But that candle's no ordinary one either.
+
+1440
+01:59:03,020 --> 01:59:05,220
+It fights back up. Boom.
+
+1441
+01:59:08,060 --> 01:59:13,680
+Momentum closes going up with force. But if the next candle breaks through, we're okay.
+
+1442
+01:59:13,680 --> 01:59:19,439
+Ultimately it's still hugging the scene line. But this border still has soldiers that can fight.
+
+1443
+01:59:19,439 --> 01:59:23,960
+It pushes back up. The next candle can still, still, still survive.
+
+1444
+01:59:23,960 --> 01:59:27,960
+It can survive, hasn't died yet. It's guessing...
+
+1445
+01:59:27,960 --> 01:59:31,920
+See? Boom, momentum changes instantly.
+
+1446
+01:59:32,360 --> 01:59:37,520
+From small ones, like soldiers on this side, then rising Low by Low, never lower than this trendline. See?
+
+1447
+01:59:37,520 --> 01:59:40,840
+For green, for the hero side. They're holding the tail.
+
+1448
+01:59:41,280 --> 01:59:44,859
+They've been supporting all along. There's a force of soldiers backing continuously.
+
+1449
+01:59:45,020 --> 01:59:51,980
+Never retreating lower than before, just gradually being pushed back into their own territory.
+
+1450
+01:59:51,979 --> 01:59:54,840
+They send large candles to attack. Send the candles to attack.
+
+1451
+01:59:55,260 --> 01:59:57,359
+But haven't reached the bedroom yet. Let's keep watching.
+
+1452
+01:59:58,280 --> 02:00:00,859
+See? Can still fight. Haven't closed yet.
+
+1453
+02:00:01,199 --> 02:00:02,399
+Shot up then came down.
+
+1454
+02:00:04,180 --> 02:00:07,859
+And the next candle. Green's really trying hard to kill it.
+
+1455
+02:00:07,859 --> 02:00:10,100
+This side won't give up. Here they're battling at full strength too.
+
+1456
+02:00:10,800 --> 02:00:14,039
+This is a strong momentum candle. Pushing this hard.
+
+1457
+02:00:17,920 --> 02:00:23,079
+Huh, will it drop? Let's see again. Alright, the next candle, the next candle doesn't drop.
+
+1458
+02:00:23,400 --> 02:00:28,399
+It turns out to be a candle like this. Like every time it could fight before. The first two times it could fight.
+
+1459
+02:00:28,399 --> 02:00:32,520
+The third time, rises to here, then only pushes back this much.
+
+1460
+02:00:33,079 --> 02:00:37,520
+And closed above here. It's dead. All done. Remove it.
+
+1461
+02:00:38,420 --> 02:00:41,600
+The major candle here is gone. The next zone's left.
+
+1462
+02:00:41,860 --> 02:00:46,960
+That we have to watch next. See? The story continues. Like this.
+
+1463
+02:00:46,960 --> 02:00:49,979
+When the major candle's dead, what's left is just the next level to push through. Like this.
+
+1464
+02:00:50,940 --> 02:01:02,500
+Coming here, this probably reached a top already.
+
+1465
+02:01:02,500 --> 02:01:07,680
+Going up to the zone, bouncing, then dropping with this much force. Shows that, like this, they're strong too.
+
+1466
+02:01:07,680 --> 02:01:13,239
+The fort they're at around here is strong. So here coming up, after accumulating strength. Then retreating and coming up.
+
+1467
+02:01:13,239 --> 02:01:17,539
+And here starting to lose strength. Need to watch the next candle.
+
+1468
+02:01:17,539 --> 02:01:21,420
+If it's a green break through fine. But if it starts going to small candles starting to weaken.
+
+1469
+02:01:21,420 --> 02:01:27,020
+There's a chance it'll consolidate first. Why do we call it consolidate? Why don't I view it as dropping completely?
+
+1470
+02:01:27,020 --> 02:01:29,979
+Because as I said, we look at the story structure.
+
+1471
+02:01:29,979 --> 02:01:34,579
+The script's supporting this side. It's waiting for higher High.
+
+1472
+02:01:35,079 --> 02:01:39,319
+Waiting for a High higher than this one. Higher than this means, it has to be above this line, so it has to pass through anyway.
+
+1473
+02:01:39,319 --> 02:01:43,460
+Yeah. But it has to consolidate down first. To gather strength. To get supplies and food.
+
+1474
+02:01:43,860 --> 02:01:48,920
+To add energy for the soldiers to keep pushing forward. Let's see if I'm right. Oh.
+
+1475
+02:01:48,960 --> 02:01:51,520
+See? And it pulls back. But will it pull back just this much?
+
+1476
+02:01:51,520 --> 02:01:52,819
+I don't know. We'll keep watching.
+
+1477
+02:01:56,340 --> 02:01:57,939
+Keeps coming down. Like this, see?
+
+1478
+02:02:04,079 --> 02:02:06,640
+There's another trick to watch here for a moment.
+
+1479
+02:02:06,640 --> 02:02:09,539
+See here? It's like a reversal candlestick. See?
+
+1480
+02:02:09,739 --> 02:02:11,980
+It goes up then reverses at resistance.
+
+1481
+02:02:11,979 --> 02:02:16,600
+Here's the trendline. But it doesn't drop. It pushes through. So when price retraces back like this.
+
+1482
+02:02:18,480 --> 02:02:21,939
+It'll come back to find here. The one it was supposed to drop from.
+
+1483
+02:02:24,140 --> 02:02:29,180
+Don't know the reason. But notice it's like this. This is an extra trick for you.
+
+1484
+02:02:29,980 --> 02:02:38,920
+See? When I draw it, it hits here. Hits here. Hits here. Here it is. So this level's okay, keep it.
+
+1485
+02:02:44,820 --> 02:02:59,119
+Bounces. Remove this. Will it come kill this one or what? Remove it and let's wait here instead.
+
+1486
+02:02:59,440 --> 02:03:03,359
+See here, the key scene's here. Will it reach the key scene? Will it reach the key scene?
+
+1487
+02:03:05,260 --> 02:03:08,260
+Trying. Oscillating here. Yeah. Swinging.
+
+1488
+02:03:09,800 --> 02:03:14,520
+Swing, swing together. Battling here. There's like, to bring it here.
+
+1489
+02:03:15,380 --> 02:03:20,180
+But can't make it. Now breaks up. If it's this case, I think
+
+1490
+02:03:21,800 --> 02:03:27,720
+Red probably can't fight anymore. Next one should survive. See that it's rising.
+
+1491
+02:03:29,920 --> 02:03:35,359
+Yeah. Not coming down again. Coming down, down, but small drops. This one's eaten going up.
+
+1492
+02:03:37,920 --> 02:03:40,979
+Whoa, so long. Don't need to mention.
+
+1493
+02:03:43,000 --> 02:03:43,979
+Higher High for sure.
+
+1494
+02:03:47,460 --> 02:03:48,060
+This one.
+
+1495
+02:03:50,159 --> 02:03:53,220
+Finished printing. See? Broke through this line up to make a Higher High.
+
+1496
+02:03:53,860 --> 02:03:55,659
+Oh, forgot to mark.
+
+1497
+02:03:56,659 --> 02:03:58,560
+Pulled back just this much, so Higher Low too.
+
+1498
+02:03:59,180 --> 02:04:05,340
+See how the script, the script comes like this. You trade following the script.
+
+1499
+02:04:07,720 --> 02:04:08,920
+At first I thought this was big already.
+
+1500
+02:04:09,140 --> 02:04:10,899
+This one's big. Big candle. Big candle.
+
+1501
+02:04:11,640 --> 02:04:13,119
+This candle's bigger.
+
+1502
+02:04:15,640 --> 02:04:17,319
+So it can continue.
+
+1503
+02:04:19,300 --> 02:04:22,359
+Do you believe it? Huh, looking from this angle it's low so it can continue.
+
+1504
+02:04:23,060 --> 02:04:26,159
+Breaks through. Still continuing for real.
+
+1505
+02:04:27,860 --> 02:04:30,060
+Okay, see that? Here, here.
+
+1506
+02:04:30,060 --> 02:04:31,880
+At key scenes there'll be signs.
+
+1507
+02:04:32,320 --> 02:04:35,039
+Because when we're at a key scene, there are still signs at resistance.
+
+1508
+02:04:36,100 --> 02:04:36,880
+Oh, where'd it go?
+
+1509
+02:04:47,640 --> 02:04:48,680
+Let me remove this one first.
+
+1510
+02:04:51,840 --> 02:04:53,000
+Ah, it's right here.
+
+1511
+02:04:53,319 --> 02:04:56,520
+Okay.
+
+1512
+02:04:56,880 --> 02:04:57,079
+Here.
+
+1513
+02:04:59,539 --> 02:05:00,239
+Is it like this?
+
+1514
+02:05:03,100 --> 02:05:04,380
+Projected it here already.
+
+1515
+02:05:05,140 --> 02:05:06,039
+Still far.
+
+1516
+02:05:14,720 --> 02:05:16,079
+Has to go higher than this.
+
+1517
+02:05:19,079 --> 02:05:20,260
+Ah, okay, here.
+
+1518
+02:05:21,460 --> 02:05:22,659
+There. And there are signs.
+
+1519
+02:05:22,659 --> 02:05:23,640
+Because it's hitting resistance.
+
+1520
+02:05:24,780 --> 02:05:25,699
+Broken through already.
+
+1521
+02:05:26,520 --> 02:05:27,520
+We can say this army's taken it.
+
+1522
+02:05:27,520 --> 02:05:29,239
+So all the forts around here.
+
+1523
+02:05:29,680 --> 02:05:30,720
+All the borders around here.
+
+1524
+02:05:30,900 --> 02:05:32,060
+Green has reclaimed.
+
+1525
+02:05:32,060 --> 02:05:34,180
+From resistance it'll become support.
+
+1526
+02:05:34,760 --> 02:05:36,939
+Because this area's been claimed as theirs already.
+
+1527
+02:05:37,180 --> 02:05:38,020
+Will it come back to test?
+
+1528
+02:05:38,020 --> 02:05:38,899
+Just keeps going.
+
+1529
+02:05:41,119 --> 02:05:42,579
+Shows this stick's very strong.
+
+1530
+02:05:43,220 --> 02:05:44,539
+Has momentum to continue.
+
+1531
+02:05:46,360 --> 02:05:47,500
+But here if we look.
+
+1532
+02:05:47,500 --> 02:05:50,420
+If we look, wait. Keeps going. Hmm, I'm starting to watch.
+
+1533
+02:05:53,220 --> 02:05:53,539
+Well.
+
+1534
+02:05:54,360 --> 02:05:55,720
+If... who's holding.
+
+1535
+02:05:55,720 --> 02:05:59,979
+If you're holding a Buy order, you might TP and just sit and watch the situation.
+
+1536
+02:06:01,000 --> 02:06:01,439
+Why?
+
+1537
+02:06:02,039 --> 02:06:04,520
+Here! It rose straight up like this.
+
+1538
+02:06:04,520 --> 02:06:05,720
+And then struggled, struggled, struggled.
+
+1539
+02:06:05,720 --> 02:06:08,300
+See how it's losing momentum in pushing up already? It's
+
+1540
+02:06:10,480 --> 02:06:16,960
+Battling intensely around here. The force is equal. Just watch, just watch.
+
+1541
+02:06:17,840 --> 02:06:19,939
+But the tails keep getting shorter and shorter. Shorter.
+
+1542
+02:06:23,800 --> 02:06:26,140
+Come all the way here, the highest peak. Then goes up even more.
+
+1543
+02:06:30,480 --> 02:06:35,739
+Goes up again. Ah, ah, notice this. Notice carefully.
+
+1544
+02:06:37,260 --> 02:06:42,119
+That when it rises, it's lifting, breaking the trendline again.
+
+1545
+02:06:44,180 --> 02:06:52,659
+Reading it this way is a swing point, but if it breaks the swing, it breaks this line. If it breaks this line, it'll come to the next line which is this one.
+
+1546
+02:07:00,860 --> 02:07:01,899
+Running smoothly on top.
+
+1547
+02:07:04,520 --> 02:07:11,779
+Had it before, holding green's tail, right? This one.
+
+1548
+02:07:19,880 --> 02:07:30,560
+Holding green's tail. Momentum's starting to weaken, can't push higher.
+
+1549
+02:07:30,560 --> 02:07:34,220
+Seems like there's not much strength. Even though it can make a new High.
+
+1550
+02:07:35,720 --> 02:07:39,340
+Low's still rising. Chasing up.
+
+1551
+02:07:40,460 --> 02:07:43,039
+Chasing up like this. We follow the situation continuously.
+
+1552
+02:07:43,820 --> 02:07:47,899
+Keep watching. Can still go. If it goes well, follow it.
+
+1553
+02:07:50,020 --> 02:07:50,640
+Follow it along.
+
+1554
+02:07:53,539 --> 02:07:56,079
+Yeah, that's it. When we see this, that's it.
+
+1555
+02:07:57,680 --> 02:08:00,100
+Low, low, low. Which Low? This Low.
+
+1556
+02:08:00,340 --> 02:08:00,539
+This Low.
+
+1557
+02:08:06,159 --> 02:08:21,479
+Hasn't reached here yet. They're going to kill this army. The major candle's lying here. They're trying already. Will it survive? Hard to survive. With a candle this big. This is already big.
+
+1558
+02:08:22,360 --> 02:08:28,720
+This one's even bigger, breaks open. This big shows that here the director changed the script suddenly. Remember?
+
+1559
+02:08:29,060 --> 02:08:32,640
+Our structure number 4, where is it?
+
+1560
+02:08:37,619 --> 02:08:42,380
+The plot structure. Here. The director's making a sharp turn.
+
+1561
+02:08:42,380 --> 02:08:46,539
+An unexpected event. See? Exactly the same. Exactly the same.
+
+1562
+02:08:46,900 --> 02:08:51,920
+Here it bounces, boom boom. But here it drops calmly. A candle this big.
+
+1563
+02:08:53,220 --> 02:08:56,119
+The momentum has to continue at least, at least has to continue.
+
+1564
+02:08:56,119 --> 02:09:00,180
+I think, because there's just a bit left before it can kill it. Surging this much.
+
+1565
+02:09:00,579 --> 02:09:04,699
+I think it'll let it survive? No way. Really dropping.
+
+1566
+02:09:05,760 --> 02:09:09,939
+This line I'll remove completely. Not important anymore. See? Then turns into, it returns that
+
+1567
+02:09:10,260 --> 02:09:15,140
+It returns to use this line instead. We draw it new. Coming to test this point. Here. Going.
+
+1568
+02:09:15,140 --> 02:09:24,359
+Going. It's dead. Here's dead. Remove it. Ah, this one's out too. Just this much is enough.
+
+1569
+02:09:27,060 --> 02:09:32,979
+All done. Now will there be signs? Coming to a key scene.
+
+1570
+02:09:34,880 --> 02:09:40,079
+Should be support. Ah, see? Coming in here, there's a bounce, bounce, bounce.
+
+1571
+02:09:40,079 --> 02:09:44,899
+Now, now if we don't exit here. We look here.
+
+1572
+02:09:44,899 --> 02:09:48,119
+This still hasn't gone lower. If we look at the bigger swing.
+
+1573
+02:09:48,960 --> 02:09:51,439
+We can still view it like this. Remove all of this.
+
+1574
+02:10:04,240 --> 02:10:08,060
+So we view it as this swing. Then it shoots up like this. And drops like this.
+
+1575
+02:10:09,340 --> 02:10:14,000
+If the director's still holding this side's tail for real, it has to make another HIGH.
+
+1576
+02:10:15,420 --> 02:10:20,760
+But my thinking might change a bit. Not change, let's call it being cautious.
+
+1577
+02:10:20,760 --> 02:10:24,159
+Because hitting this candle here with this much momentum.
+
+1578
+02:10:24,159 --> 02:10:28,039
+To make a HIGH up and beat the major candle here.
+
+1579
+02:10:29,640 --> 02:10:32,439
+If it rises with green, lots of green, here it's hard.
+
+1580
+02:10:34,280 --> 02:10:38,460
+If it's going to beat this, really it has to beat it by going against the flow completely. Remember? Going against.
+
+1581
+02:10:46,900 --> 02:10:50,560
+And another candle rising at least over half.
+
+1582
+02:10:53,060 --> 02:10:56,619
+To come beat here, and can be small candles.
+
+1583
+02:10:57,640 --> 02:10:58,439
+Let's say.
+
+1584
+02:10:59,779 --> 02:11:03,460
+But if it drops with a candle this big and the candle doesn't oppose.
+
+1585
+02:11:04,820 --> 02:11:06,140
+It's small.
+
+1586
+02:11:07,199 --> 02:11:09,000
+And struggles around
+
+1587
+02:11:11,800 --> 02:11:12,579
+Around here.
+
+1588
+02:11:12,579 --> 02:11:19,800
+Like this. It's hard to beat. An army this big and you haven't even reached halfway through the large army. You'll have a very hard time reaching the major candle.
+
+1589
+02:11:22,500 --> 02:11:30,180
+So it's a caution point. If going around here because it's hitting the support level.
+
+1590
+02:11:30,180 --> 02:11:39,720
+Have to be cautious when entering orders. If there's a chance the order's in profit already, move stop loss to break-even.
+
+1591
+02:11:39,720 --> 02:11:46,760
+Losing strength. Let's keep watching. See? Rising against it but no strength. Will it continue? Let's see. Seems like no.
+
+1592
+02:11:48,340 --> 02:11:52,579
+Here, really no strength to go up. It's hard.
+
+1593
+02:11:55,520 --> 02:11:58,340
+If we want it to be easy, hmm, not easy, if we want it to be possible.
+
+1594
+02:11:58,340 --> 02:12:02,020
+It would have to be like this period. See how here red came down with force too?
+
+1595
+02:12:02,739 --> 02:12:06,920
+Killed the major candle here. Killed it. Oh no wait, not yet, oh haven't killed this one yet.
+
+1596
+02:12:06,920 --> 02:12:11,479
+So it could send it back up. Oh this one, the major candle hasn't died yet.
+
+1597
+02:12:11,479 --> 02:12:14,359
+See? Coming down then suddenly going up, so there's a chance to send it up.
+
+1598
+02:12:15,400 --> 02:12:16,279
+But, but.
+
+1599
+02:12:17,060 --> 02:12:19,859
+This candle here's already dead. This one's been killed.
+
+1600
+02:12:20,119 --> 02:12:24,460
+So the candle that'll send soldiers to support here to go up.
+
+1601
+02:12:24,460 --> 02:12:25,260
+There's none.
+
+1602
+02:12:25,260 --> 02:12:27,520
+There's none left.
+
+1603
+02:12:27,520 --> 02:12:31,239
+There are only a few soldiers along the border, along this trendline here. Just a bit scattered.
+
+1604
+02:12:31,940 --> 02:12:33,059
+Can they fight back up?
+
+1605
+02:12:33,060 --> 02:12:40,520
+Like here, when it accessed coming down, it can't cross over here anymore. Here it keeps lifting, talking about going up.
+
+1606
+02:12:41,480 --> 02:12:48,079
+But here it has to lift. If it's going to send up, it lift, but it's not lifting, so it's going to tilt down somehow.
+
+1607
+02:12:49,380 --> 02:12:50,340
+Don't need to watch yet.
+
+1608
+02:12:51,680 --> 02:12:56,319
+Yeah, there's a fight going up. But here, see? It's a scene.
+
+1609
+02:12:59,199 --> 02:13:06,079
+And here is whose territory? This candle's. If here's green. Green really green.
+
+1610
+02:13:06,079 --> 02:13:10,960
+Is this called a last gasp green? Like there's not much strength left in green to fight back.
+
+1611
+02:13:10,960 --> 02:13:14,560
+But it seems unwilling. Because here it's starting to have tails, tails. Not giving up and shooting up.
+
+1612
+02:13:14,920 --> 02:13:18,899
+If the next candle's still green going up and continuous, there's a chance they want to fight here.
+
+1613
+02:13:19,780 --> 02:13:21,260
+Want to come kill the major candle here.
+
+1614
+02:13:23,720 --> 02:13:28,020
+But if it's still a small candle again. Shows this is the last gasp. It might reverse down.
+
+1615
+02:13:29,440 --> 02:13:33,640
+See? It's not continuous. We view it as a candle, it's not continuous.
+
+1616
+02:13:34,000 --> 02:13:36,819
+That if you combine these 2 candlesticks, you'll get a large pin bar.
+
+1617
+02:13:36,819 --> 02:13:41,340
+This is resistance, right?
+
+1618
+02:13:41,579 --> 02:13:42,600
+Goes up comes down. Goes up comes down.
+
+1619
+02:13:42,600 --> 02:13:44,920
+And if it's a pin bar at resistance, is there a chance to drop?
+
+1620
+02:13:44,920 --> 02:13:46,659
+Yes. There's a chance to break this level.
+
+1621
+02:13:49,159 --> 02:13:50,319
+Many candles can be combined.
+
+1622
+02:13:51,020 --> 02:13:52,680
+Many candles combined still give you a pin bar.
+
+1623
+02:13:52,680 --> 02:13:53,939
+This group of candles.
+
+1624
+02:13:55,539 --> 02:13:56,600
+Pin bar at resistance.
+
+1625
+02:13:56,600 --> 02:14:04,140
+Yeah, see? Will it survive? It drops. As soon as it drops like this.
+
+1626
+02:14:05,819 --> 02:14:10,739
+I'm viewing the director as changing the script completely. The top line I'll remove. Not using anymore for sure.
+
+1627
+02:14:13,159 --> 02:14:18,979
+Because, because I'll mark here new. Ah, where'd they all go?
+
+1628
+02:14:21,020 --> 02:14:21,699
+Borrow this first.
+
+1629
+02:14:26,600 --> 02:14:30,039
+Here I make it starting, High.
+
+1630
+02:14:30,039 --> 02:14:33,560
+What's this?
+
+1631
+02:14:37,340 --> 02:14:37,659
+It's
+
+1632
+02:14:37,659 --> 02:14:44,520
+Goes up just this much then drops. So here will become
+
+1633
+02:14:49,100 --> 02:14:49,439
+High.
+
+1634
+02:14:53,119 --> 02:14:56,579
+And it's lower already. It's lower than this, so it has to
+
+1635
+02:14:56,579 --> 02:15:01,380
+Has to be Lower Low for sure. Definitely has a Lower Low somewhere, don't know where.
+
+1636
+02:15:01,699 --> 02:15:02,640
+Keep it waiting for now.
+
+1637
+02:15:09,659 --> 02:15:16,680
+See? Momentum came. Dead already. But this one's still there. This major candle's still lying here. Lying here.
+
+1638
+02:15:17,300 --> 02:15:21,520
+Will it take it? Will it kill it? With the momentum sent. Here sent. See?
+
+1639
+02:15:21,520 --> 02:15:25,420
+Normally, at the momentum sent, it should send and continue already.
+
+1640
+02:15:25,420 --> 02:15:27,720
+And soldiers will come back to rest. Top up supplies casually.
+
+1641
+02:15:27,720 --> 02:15:30,460
+When they retreat back, whoosh comes down.
+
+1642
+02:15:30,460 --> 02:15:33,439
+Send army number 2 down around the same time.
+
+1643
+02:15:34,020 --> 02:15:37,460
+The momentum sent here has broken through this level already. This line.
+
+1644
+02:15:38,619 --> 02:15:39,479
+And look here.
+
+1645
+02:15:40,079 --> 02:15:41,920
+Only tiny soldiers.
+
+1646
+02:15:41,920 --> 02:15:44,399
+Will definitely reach here. Here I think will definitely reach.
+
+1647
+02:15:45,100 --> 02:15:47,340
+Will definitely reach the major candle's room here. It's so far.
+
+1648
+02:15:48,420 --> 02:15:54,239
+Reaches perfectly. See? Kill it? Not sure.
+
+1649
+02:15:56,400 --> 02:16:02,380
+Might be evenly matched. Evenly matched. But like this, killed completely. Remove it.
+
+1650
+02:16:03,440 --> 02:16:07,359
+Dead. This way's dead. Dead, so where to go?
+
+1651
+02:16:09,840 --> 02:16:13,979
+There's a chance to come to next support. Next scene. The scene after.
+
+1652
+02:16:14,300 --> 02:16:19,340
+Like here. Dead. And there. This one. Right? Reached. But. Now if we look, it's
+
+1653
+02:16:19,340 --> 02:16:24,260
+Starting to be down candles. For it to come down to here with strong force again, let's keep watching.
+
+1654
+02:16:25,300 --> 02:16:32,680
+Okay, here. Very short already. And very small. Small already. I think it has to
+
+1655
+02:16:32,680 --> 02:16:36,600
+Curve back up to test this level a bit.
+
+1656
+02:16:36,600 --> 02:16:45,700
+After making it, we can say it's the start of a downtrend. High then Low gone.
+
+1657
+02:16:45,700 --> 02:16:51,260
+Down from the structure, Lower Low. Then the director changed the script structure. And we follow the director.
+
+1658
+02:16:51,720 --> 02:16:57,459
+Just this much. Not hard. I'd say quite changing. Changing too violently.
+
+1659
+02:16:57,459 --> 02:17:15,680
+This period turned too sharply. So it has to make a new swing.
+
+1660
+02:17:15,680 --> 02:17:22,059
+Because with the structure and form, there's no arm to have the strength to rise.
+
+1661
+02:17:22,059 --> 02:17:26,360
+Like the last soldier trying to die more than anything.
+
+1662
+02:17:27,239 --> 02:17:31,120
+Here. Don't see.
+
+1663
+02:17:32,339 --> 02:17:33,340
+This candle's here.
+
+1664
+02:17:35,819 --> 02:17:37,479
+Sent to support.
+
+1665
+02:17:37,479 --> 02:17:42,700
+But can it fight back? This candle's still lying here.
+
+1666
+02:17:44,340 --> 02:17:49,180
+And it'll fight back. But it won't make it. Even just beating this candle's already hard.
+
+1667
+02:17:49,559 --> 02:17:54,299
+These ones keep getting smaller. There's a chance to drop more.
+
+1668
+02:17:57,679 --> 02:18:01,379
+It's consolidated. As soon as it consolidates, I can put it here. Right? Because it's consolidated.
+
+1669
+02:18:01,379 --> 02:18:05,959
+It's a swing already. Endorfer high. Once it makes endorfer high, it has to have lower, right?
+
+1670
+02:18:06,939 --> 02:18:08,459
+Has to have lower than this for sure.
+
+1671
+02:18:11,500 --> 02:18:16,020
+Is this it? The major candle's here. Coming down there are signs, bounces up.
+
+1672
+02:18:16,460 --> 02:18:20,280
+At the major candle level, whether it survives or not, there has to be a battle.
+
+1673
+02:18:20,280 --> 02:18:27,739
+There's price oscillation. Oscillating. Broke from the trendline.
+
+1674
+02:18:28,780 --> 02:18:31,719
+Remove the trendline for now. Let's watch the situation first.
+
+1675
+02:18:32,540 --> 02:18:34,760
+As long as it hasn't made a high higher than this High.
+
+1676
+02:18:35,880 --> 02:18:44,639
+Can beat, come back. Here. It still has a signal of downtrend structure. Ah.
+
+1677
+02:18:44,639 --> 02:18:50,520
+Goes up, hits, tests resistance. Then drops. Ah, right. See?
+
+1678
+02:18:50,520 --> 02:18:54,180
+Lower than this Low. Here goes lower, lower, lower than this Low.
+
+1679
+02:18:54,180 --> 02:18:56,739
+And still gets lower, lower, lower than this Low. If it's a swing point.
+
+1680
+02:18:56,739 --> 02:19:03,659
+It walks along. And will it drop more? I view it will drop more. Why? See?
+
+1681
+02:19:03,659 --> 02:19:07,639
+This is very small already. Last gasp. Emerged from water.
+
+1682
+02:19:07,639 --> 02:19:13,559
+Will sink or not sink. The major candle's here. See anything?
+
+1683
+02:19:13,559 --> 02:19:17,020
+Is the major candle dead yet? Closed already. Here the price closed lower than this one.
+
+1684
+02:19:17,319 --> 02:19:20,920
+This army's dead. If dead, what's left below?
+
+1685
+02:19:21,239 --> 02:19:24,100
+Around here. And if we look, have to go back far.
+
+1686
+02:19:24,679 --> 02:19:25,479
+Only this left.
+
+1687
+02:19:27,259 --> 02:19:27,680
+Just a bit.
+
+1688
+02:19:29,340 --> 02:19:31,639
+Don't think it'll be a very strong army.
+
+1689
+02:19:31,639 --> 02:19:34,100
+Think they should be able to break through down.
+
+1690
+02:19:35,859 --> 02:19:37,559
+From the momentum coming down.
+
+1691
+02:19:38,759 --> 02:19:39,340
+See?
+
+1692
+02:19:40,219 --> 02:19:40,780
+Coming down.
+
+1693
+02:19:41,879 --> 02:19:44,399
+Continuous downward momentum.
+
+1694
+02:19:44,399 --> 02:19:46,059
+These 3 consecutive candles are considered strong.
+
+1695
+02:19:46,059 --> 02:19:47,860
+The momentum's already sent.
+
+1696
+02:19:48,539 --> 02:20:01,000
+If it's a car, it shifted to high gear, then slowly into peak gear, then into low gear going down, the car flows fast, sliding or skiing down.
+
+1697
+02:20:01,979 --> 02:20:05,559
+Will definitely break through here. No large army here to defend. To send soldiers to fight at all.
+
+1698
+02:20:07,939 --> 02:20:08,760
+Lower high too.
+
+1699
+02:20:10,139 --> 02:20:11,760
+If it's going to be Lower Low, it has to go Lower Low.
+
+1700
+02:20:11,760 --> 02:20:14,079
+See? Dropping more.
+
+1701
+02:20:15,679 --> 02:20:23,719
+The oscillation's long too. Because look how it consolidated down. This one. And then mark it new.
+
+1702
+02:20:26,979 --> 02:20:30,899
+Mark it new means keep adjusting it continuously.
+
+1703
+02:20:38,519 --> 02:20:39,819
+And adjust to change into resistance.
+
+1704
+02:20:44,960 --> 02:20:46,139
+Whoa, can't take it.
+
+1705
+02:20:49,540 --> 02:20:53,979
+Ah, bounce. See? See this scene?
+
+1706
+02:20:54,180 --> 02:20:57,120
+Here's a resistance level. Because this one broke down already. See?
+
+1707
+02:20:57,120 --> 02:21:01,420
+Momentum. And when it tries to go up, it runs out of strength. It hits resistance.
+
+1708
+02:21:02,360 --> 02:21:05,760
+Green hits red's resistance. The major candle's lying here.
+
+1709
+02:21:06,040 --> 02:21:09,620
+Oh, the bedroom's here. This is the trendline I marked up new to update it.
+
+1710
+02:21:09,960 --> 02:21:12,860
+See? It reacts around here. This period.
+
+1711
+02:21:17,260 --> 02:21:23,239
+Keep watching continuously. Yeah, trendline breaks. They remove it. Not hard at all.
+
+1712
+02:21:23,239 --> 02:21:29,000
+Just think new, make new. Just that. This one remove it too. That's changing. Can see already.
+
+1713
+02:21:29,000 --> 02:21:35,440
+The plot changes. But the plot's still a downtrend continuously. As long as it hasn't made a High higher than this High.
+
+1714
+02:21:36,319 --> 02:21:38,200
+It'll still have to be a Lower High.
+
+1715
+02:21:44,180 --> 02:21:53,280
+In summary, you should understand. The method of reading charts like a movie. Don't know what to call it.
+
+1716
+02:21:55,119 --> 02:22:01,760
+The foreigner who taught me when I took a recent course, he taught reading candlesticks like this. This detailed. Watch strength, watch momentum.
+
+1717
+02:22:02,219 --> 02:22:12,239
+Not the whole chart. Not looking for, like, reversal candles. Where are they? Are there reversal candles? What's this? Morning Star?
+
+1718
+02:22:13,079 --> 02:22:16,559
+See a Morning Star? Then why doesn't it rise?
+
+1719
+02:22:22,500 --> 02:22:41,239
+Nothing.
+
+1720
+02:22:42,260 --> 02:22:47,139
+And the tricks that, this other thing he didn't mention, he only talks about support levels.
+
+1721
+02:22:47,139 --> 02:22:51,459
+This thing, you can mark according to peaks. Like this. Or according to groups of candlesticks that
+
+1722
+02:22:51,459 --> 02:23:00,159
+Cluster together. Groups that cluster, whichever way like this, you can mark as a level.
+
+1723
+02:23:00,159 --> 02:23:04,239
+A bit, mark as a level. Here, wherever clusters, you mark, mark, mark.
+
+1724
+02:23:04,239 --> 02:23:07,700
+Mark like this. You can mark support and resistance this way. This is talking technically.
+
+1725
+02:23:09,620 --> 02:23:13,180
+Just that our trick adds more. With these candles here.
+
+1726
+02:23:15,059 --> 02:23:18,959
+These major candles. The major candle has a bedroom, has a base always at the very back.
+
+1727
+02:23:18,959 --> 02:23:24,819
+The other side tries. If the other side wants to invade the opposite side's territory.
+
+1728
+02:23:24,819 --> 02:23:28,420
+Have to kill the major candle. If don't kill the major candle, they keep sending soldiers to support.
+
+1729
+02:23:28,420 --> 02:23:31,860
+Or if you're skilled yourself, you yourself can fight enemies back anytime.
+
+1730
+02:23:31,860 --> 02:23:35,540
+Get it? The major candle's like this, can keep fighting like this.
+
+1731
+02:23:35,540 --> 02:23:37,440
+And keep sending new armies, sending new armies like this.
+
+1732
+02:23:38,440 --> 02:23:39,959
+So this point I don't see any at all.
+
+1733
+02:23:39,959 --> 02:23:44,540
+Here, how will I mark resistance here?
+
+1734
+02:23:44,540 --> 02:23:48,579
+There's a strong order here. See? Like past ones like this. Here.
+
+1735
+02:23:50,399 --> 02:23:54,659
+Look. Here, here. Why's it here? And price is just here and goes.
+
+1736
+02:23:55,559 --> 02:23:58,159
+Well, it's here. The candle's here. The bedroom's right here. The candle.
+
+1737
+02:23:58,159 --> 02:24:02,260
+Why, for real, the price will bounce. Has to come here. Hmm.
+
+1738
+02:24:03,739 --> 02:24:05,600
+Let's try measuring Fibo. Will we get it?
+
+1739
+02:24:08,239 --> 02:24:09,180
+Around like this.
+
+1740
+02:24:11,940 --> 02:24:15,180
+One more thing to give you as a bonus. That is
+
+1741
+02:24:15,180 --> 02:24:22,319
+Or you measure leg by leg. When measuring upward legs, you measure here, put 100 at the bottom.
+
+1742
+02:24:22,319 --> 02:24:26,159
+Measuring retracement rate. Put 100 at the bottom here.
+
+1743
+02:24:26,959 --> 02:24:30,120
+Then drag up to the swing point at the top here. And it retraces down.
+
+1744
+02:24:31,719 --> 02:24:36,120
+And the retracement points are 30, 60, 61.8 around here.
+
+1745
+02:24:36,120 --> 02:24:38,100
+See? It retracted to 61.8.
+
+1746
+02:24:39,620 --> 02:24:43,040
+Then it goes up. It's a scientific point. Um, psychological point.
+
+1747
+02:24:44,479 --> 02:24:46,760
+When we measure retracement, we measure following the trend first. Like this.
+
+1748
+02:24:47,040 --> 02:24:50,520
+Here. Take from the upward swing. This one will drop, right? Then how far will it drop?
+
+1749
+02:24:51,159 --> 02:24:54,520
+I drag it. See? 61.8. It comes around here.
+
+1750
+02:24:55,220 --> 02:24:59,700
+Reverses. If you look like a cat at the major candle. Look like a cat, use Fibo, you'll see like this.
+
+1751
+02:25:01,880 --> 02:25:06,260
+But really, you look at major candles. These ones. There'll always be someone who wants to kill them.
+
+1752
+02:25:06,260 --> 02:25:08,819
+If you want to reclaim territory. You have to kill the major candle.
+
+1753
+02:25:09,920 --> 02:25:14,120
+You have to hurt these armies. If you can't hurt them, how will you take the other side's territory?
+
+1754
+02:25:14,319 --> 02:25:19,059
+Get it? Just this. You trade following this. Following the structure.
+
+1755
+02:25:19,620 --> 02:25:27,100
+This is the plot. Trade following the plot. Whose script is supporting whom?
+
+1756
+02:25:27,399 --> 02:25:31,239
+We go with that. Hide along with them.
+
+1757
+02:25:31,719 --> 02:25:35,299
+And look for key scenes, key scenes. Look at the characters.
+
+1758
+02:25:37,260 --> 02:25:40,159
+These are the important ones. The main characters. The leaders.
+
+1759
+02:25:41,219 --> 02:25:44,020
+When the leader dies, the whole group dies. Get it?
+
+1760
+02:25:44,659 --> 02:25:52,040
+These armies are just for reading the symptoms of candlesticks, of momentum, that's all.
+
+1761
+02:25:52,620 --> 02:26:00,619
+So I hope this course, for those who are already skilled, you've gained some additional techniques to add to yourself.
+
+1762
+02:26:00,680 --> 02:26:03,620
+As for beginners, I think after this course.
+
+1763
+02:26:04,739 --> 02:26:08,840
+You'll have ideas, have methods, and you'll be able to survive in this market.
+
+1764
+02:26:10,139 --> 02:26:13,420
+Much better than before. The percentage is definitely much higher than before.
+
+1765
+02:26:14,019 --> 02:26:17,260
+So now, we'd like to thank you for following along all the way.
+
+1766
+02:26:17,719 --> 02:26:20,100
+Thank you very much. Goodbye.
+

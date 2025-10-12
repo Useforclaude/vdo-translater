@@ -1,0 +1,27 @@
+{
+  "terms": [
+    {
+      "thai": "พินบาร์",
+      "english": "Pin bar",
+      "category": "price_action",
+      "priority": 1,
+      "description": null,
+      "context": null,
+      "spoken_variations": [
+        "พิน บาร์",
+        "ปินบาร์"
+      ],
+      "metadata": {}
+    },
+    {
+      "thai": "โมเมนตัม",
+      "english": "Momentum",
+      "category": "technical",
+      "priority": 2,
+      "description": null,
+      "context": null,
+      "spoken_variations": [],
+      "metadata": {}
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+# ========================================
+# Python Virtual Environment
+# ========================================
+.venv/
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+
+# ========================================
+# Environment & API Keys (NEVER COMMIT!)
+# ========================================
+.env
+.env.*
+*.key
+*secret*
+*password*
+credentials.json
+config_private.py
+
+# ========================================
+# Claude Code & AI Assistants
+# ========================================
+.claude/
+.cursor/
+.aider*
+
+# ========================================
+# Logs & Temporary Files
+# ========================================
+logs/
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# ========================================
+# Cache & Checkpoints (Local Only)
+# ========================================
+.cache/
+*.cache
+.checkpoints/
+temp_*
+tmp_*
+
+# ========================================
+# Output & Generated Files (Selectively Include)
+# ========================================
+# Include: workflow/01_transcripts/*.json (transcripts)
+# Include: workflow/03_translated/*.txt (translations)
+# Include: workflow/04_subtitles/*.srt (final SRT)
+# Exclude: Large intermediate files
+
+output/*.mp3
+output/*.wav
+output/*.mp4
+output/*.avi
+
+# ========================================
+# Archive (Large Files, Keep Local)
+# ========================================
+archive/
+
+# ========================================
+# OS & Editor Files
+# ========================================
+.DS_Store
+Thumbs.db
+*.bak
+*.backup
+.idea/
+.vscode/
+*.sublime-*
+
+# ========================================
+# Large Media Files (Download Separately)
+# ========================================
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wav
+*.flac
+# Exception: Keep small sample files
+!samples/*.mp4
+!tests/fixtures/*.mp4
+
+# ========================================
+# Whisper Model Cache (Download Separately)
+# ========================================
+*.pt
+models/
+
+# ========================================
+# Notebook Checkpoints
+# ========================================
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ========================================
+# Build & Distribution
+# ========================================
+build/
+dist/
+*.egg-info/
+*.egg
+
+# ========================================
+# Documentation Build
+# ========================================
+docs/_build/
+docs/.doctrees/
+
+# ========================================
+# Testing
+# ========================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ========================================
+# Project-Specific Exclusions
+# ========================================
+
+# EXCLUDE: Large transcript files (27MB - download separately)
+workflow/01_transcripts/*.json
+
+# INCLUDE: Keep checkpoint files for session continuity
+!workflow/.translation_checkpoint*.txt
+!workflow/.context_summary*.txt
+
+# INCLUDE: Translated work products (must keep!)
+!workflow/03_translated/*.txt
+!workflow/04_subtitles/*.srt
+!workflow/04_final_srt/*.srt
+!workflow/04_srt/*.srt
+
+# INCLUDE: Analysis and documentation
+!workflow/*.md
+!workflow/README.md
+!workflow/DATA_README.md

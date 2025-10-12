@@ -1,0 +1,956 @@
+[Segment 0] 0.9s - 7.6s
+Hello everyone, today we'll be talking about Money Management, or MM for short.
+
+[Segment 1] 8.2s - 29.6s
+For MM, I'm focusing on just two things: Position Sizing, or the lot size you'll use when placing orders.
+
+[Segment 2] 29.6s - 41.6s
+Why do we need MM? Besides having good entry points, MM is crucial because sometimes even with a bad entry, if your MM is good, your account can still grow.
+
+[Segment 3] 41.6s - 51.6s
+Now let's see if you can use just MM alone without any Technical Analysis or Fundamental factors. Using only MM, some accounts can actually grow.
+
+[Segment 4] 53.2s - 61.7s
+Like this example here, this is about calculating lot size.
+
+[Segment 5] 62.1s - 67.3s
+We'll adjust it based on the width or cap of the Stop Loss.
+
+[Segment 6] 68.8s - 76.2s
+We'll assume, it depends on us, how much we're willing to lose.
+
+[Segment 7] 76.6s - 81.6s
+Let's say we use 5% in this case.
+
+[Segment 8] 81.6s - 85.7s
+Stop Loss or SL, regardless of the distance, we'll only risk 5%.
+
+[Segment 9] 85.7s - 88.0s
+Whether you set it tight or wide.
+
+[Segment 10] 88.0s - 91.0s
+But if price moves against us and hits our SL line.
+
+[Segment 11] 91.0s - 94.0s
+We'll only lose 5%, the money lost is just 5% of the account.
+
+[Segment 12] 94.0s - 96.5s
+Of the account value at that time only.
+
+[Segment 13] 96.5s - 100.5s
+For example, with $1,000 capital, if we're wrong, we'll lose $50.
+
+[Segment 14] 100.5s - 106.0s
+Now when trading, there's one important factor in the formula.
+
+[Segment 15] 106.0s - 110.0s
+As you can see in this formula, when calculating.
+
+[Segment 16] 110.0s - 113.0s
+It's different for each currency pair.
+
+[Segment 17] 113.0s - 116.0s
+Some pairs are the same though. What is it?
+
+[Segment 18] 116.0s - 122.0s
+When we enter a lot size and price moves, when it moves there'll be numbers on the side.
+
+[Segment 19] 122.0s - 125.0s
+See? The middle number.
+
+[Segment 20] 125.0s - 127.5s
+Shows how many points it moved. We call them points.
+
+[Segment 21] 127.5s - 132.0s
+Some people call them pips, but pips aren't the same because 1 pip equals 10 points.
+
+[Segment 22] 132.0s - 134.0s
+10 points.
+
+[Segment 23] 134.0s - 140.0s
+Pip value means when price moves 1 pip, based on the lot size we use, how much do we gain or lose?
+
+[Segment 24] 140.0s - 145.0s
+And how do you find the pip value? Easy, just use websites that calculate it for you.
+
+[Segment 25] 145.0s - 148.0s
+Brokers have tools that let us calculate.
+
+[Segment 26] 148.0s - 150.5s
+Like Tickmill, just go to Tools.
+
+[Segment 27] 150.5s - 152.0s
+Here, Forex Calculator.
+
+[Segment 28] 152.0s - 156.0s
+It'll let you calculate various things like currency conversion.
+
+[Segment 29] 156.0s - 159.0s
+Or calculate Margin, and this is the Pip Calculator.
+
+[Segment 30] 159.0s - 164.0s
+For example, the currency pair, set the account as US Dollar.
+
+[Segment 31] 164.0s - 167.0s
+The pair we're trading, let's say EU, a popular pair.
+
+[Segment 32] 167.0s - 169.0s
+Lot size.
+
+[Segment 33] 169.0s - 173.0s
+Let's say if you enter 0.1 lots, every time it moves 1 pip.
+
+[Segment 34] 173.0s - 176.0s
+You gain or lose $1 per pip.
+
+[Segment 35] 176.0s - 180.0s
+But if you enter 1 lot, 1 pip equals $10.
+
+[Segment 36] 180.0s - 183.0s
+Or simply put, that 1 pip is 10 points.
+
+[Segment 37] 183.0s - 185.5s
+Just multiply by the lot size directly.
+
+[Segment 38] 185.5s - 187.0s
+If we trade 1 lot.
+
+[Segment 39] 187.0s - 189.0s
+If we enter an order here.
+
+[Segment 40] 189.0s - 191.0s
+And it moves to here.
+
+[Segment 41] 191.0s - 194.0s
+With 1 lot, we'll make $3,916.
+
+[Segment 42] 194.0s - 196.0s
+Just follow the middle number.
+
+[Segment 43] 196.0s - 198.0s
+Multiply by 1 directly.
+
+[Segment 44] 198.0s - 201.0s
+Because in pips it's 391 pips.
+
+[Segment 45] 201.0s - 203.0s
+391 pips.
+
+[Segment 46] 203.0s - 205.0s
+What about gold?
+
+[Segment 47] 205.0s - 207.5s
+Click here, it's the same as EU.
+
+[Segment 48] 207.5s - 209.0s
+Gold just now.
+
+[Segment 49] 209.0s - 211.5s
+Earlier it was over 300 pips, right?
+
+[Segment 50] 211.5s - 214.0s
+Oh, gold will be slightly less.
+
+[Segment 51] 214.0s - 215.5s
+If 1 lot.
+
+[Segment 52] 215.5s - 216.5s
+1 lot.
+
+[Segment 53] 216.5s - 219.0s
+Earlier it would've been over 300 pips.
+
+[Segment 54] 219.0s - 220.0s
+0.1.
+
+[Segment 55] 220.0s - 221.5s
+It'll reduce to just this.
+
+[Segment 56] 221.5s - 223.0s
+Just multiply directly.
+
+[Segment 57] 223.0s - 224.0s
+Alright.
+
+[Segment 58] 224.0s - 225.0s
+Let's try again.
+
+[Segment 59] 225.0s - 227.0s
+Let's say UJ.
+
+[Segment 60] 227.0s - 230.0s
+With UJ you'll start to see.
+
+[Segment 61] 230.0s - 235.0s
+That it changes, 1 pip equals $8.9, not $10. It becomes fractional, see? UJ.
+
+[Segment 62] 235.0s - 241.0s
+If you check other brokers, they calculate the same. Like XM, where is it? Here, investor calculator.
+
+[Segment 63] 241.0s - 247.0s
+Where's UJ? There it is. 1 lot, click it. There, $8.89 profit per pip. See? Same, $8.89.
+
+[Segment 64] 247.0s - 251.0s
+What about FBS? FBS, it'll be in the section.
+
+[Segment 65] 251.0s - 253.0s
+Here.
+
+[Segment 66] 253.0s - 256.0s
+FBS will have several pairs. Let's try many pairs.
+
+[Segment 67] 256.0s - 258.0s
+Like this one is EU.
+
+[Segment 68] 258.0s - 259.0s
+UJ.
+
+[Segment 69] 259.0s - 262.0s
+Let's try an unusual pair. This one.
+
+[Segment 70] 262.0s - 264.0s
+One of mine.
+
+[Segment 71] 264.0s - 268.0s
+A state one. Trading a state pair, click. There.
+
+[Segment 72] 268.0s - 271.0s
+See? The pip. What's this? A-C-A, CAD.
+
+[Segment 73] 271.0s - 275.0s
+Australia and Canada, $0.77. EU is normal.
+
+[Segment 74] 275.0s - 279.0s
+$1 per point, because it's not pips, it's points.
+
+[Segment 75] 279.0s - 282.0s
+UJ $0.89 per point. If this one, see it's in pips.
+
+[Segment 76] 282.0s - 284.0s
+Pips means 10. UJ in pips.
+
+[Segment 77] 284.0s - 289.0s
+If you want to convert this value to be equal, it has to be in points. If converting points to pips, multiply by 10.
+
+[Segment 78] 289.0s - 293.0s
+This becomes 10, this becomes 8.9, roughly like that.
+
+[Segment 79] 293.0s - 296.0s
+Just a comparison. Back to our topic. Once we know, let's say I'm using UJ.
+
+[Segment 80] 296.0s - 302.0s
+We want to find the lot size. We have $1,000 capital, multiply by what we're willing to lose, which is 5% risk, 5%.
+
+[Segment 81] 302.0s - 307.0s
+Divide by SL. Let's say we drag SL to 100 points, divide by pip value, we'll get the lot we should enter, which is 0.56.
+
+[Segment 82] 307.0s - 309.0s
+Does that make sense?
+
+[Segment 83] 309.0s - 311.0s
+Other pairs are calculated the same way.
+
+[Segment 84] 311.0s - 313.0s
+But there's an easier way to calculate.
+
+[Segment 85] 313.0s - 317.0s
+You don't have to sit and calculate. I'll show you a tool. This is explaining the theory.
+
+[Segment 86] 317.0s - 322.0s
+To help you understand how to use MM. The second important factor is this.
+
+[Segment 87] 322.0s - 328.0s
+Risk-Reward. Simply put, it's the ratio of SL to TP, which is Stop Loss to Take Profit.
+
+[Segment 88] 328.0s - 333.0s
+In the picture it shows a 3:1 ratio. 3, it might be written wrong here.
+
+[Segment 89] 333.0s - 338.0s
+This could be 1:3 if we translate it this way. 1 is here, 3 is here. Risk 1.
+
+[Segment 90] 338.0s - 343.0s
+Reward 3. So risk is 1 part, see? But when you get the reward it's 3 parts.
+
+[Segment 91] 343.0s - 349.0s
+So 200 points. When TP hits, it's 3 times, 2 times 3, which is 600. So TP must be set at 600 points.
+
+[Segment 92] 349.0s - 354.0s
+When you lose, it's 200. When you win, it's 600. So what's the benefit of RR? It comes into play with the system.
+
+[Segment 93] 354.0s - 359.0s
+If the system you're using has about 40% accuracy, let's say.
+
+[Segment 94] 359.0s - 364.0s
+Any system with 40%, less than half. Even a coin toss is 50-50, this is even lower.
+
+[Segment 95] 364.0s - 368.0s
+But we protect ourselves with RR in our trading always.
+
+[Segment 96] 368.0s - 373.0s
+So if accuracy is just 40%, trade 100 times, win 40. We'll lose up to 60 trades.
+
+[Segment 97] 373.0s - 376.0s
+When we win, we only win 40 orders.
+
+[Segment 98] 376.0s - 379.0s
+Doesn't look like it'll work.
+
+[Segment 99] 379.0s - 383.0s
+But we set RR at 1:2, meaning when we lose 1, we gain 2.
+
+[Segment 100] 383.0s - 388.0s
+Just 2, not going for more like 1:4 or 1:7. Just 1:2, half and half.
+
+[Segment 101] 388.0s - 393.0s
+Think of it in points. So if SL is 100 points, TP must be more, or 2 times, right?
+
+[Segment 102] 393.0s - 397.0s
+1:2, 2:1, sometimes looking at it I don't know which comes first.
+
+[Segment 103] 397.0s - 401.0s
+Let's just say we understand that the reward must always be more than the risk.
+
+[Segment 104] 401.0s - 406.0s
+So SL 100 points, TP 200 points. So if we lose 60 times, hitting TP.
+
+[Segment 105] 406.0s - 410.0s
+We have to take a beating. Because we set TP far from the entry point.
+
+[Segment 106] 410.0s - 414.0s
+SL distance from entry is 100 points.
+
+[Segment 107] 414.0s - 418.0s
+So when it hits SL, that means it moved against us 100 points every time.
+
+[Segment 108] 418.0s - 422.0s
+And it went wrong 60 times. So we'll lose a total of 6,000 points.
+
+[Segment 109] 422.0s - 427.0s
+On the flip side, if we hit TP 40 times. Hit TP all 40 trades.
+
+[Segment 110] 427.0s - 432.0s
+That's 8,000 points. Because it's 40 times 200 points, which equals 8,000.
+
+[Segment 111] 432.0s - 436.0s
+When we subtract the losses, we're actually in profit.
+
+[Segment 112] 436.0s - 440.0s
+Even though we only won 40 times, but our RR is 2:1.
+
+[Segment 113] 440.0s - 444.0s
+1:2, the reward is twice.
+
+[Segment 114] 444.0s - 447.0s
+Always 2 times the risk. In those 40 trades.
+
+[Segment 115] 447.0s - 451.0s
+Even though we lost 60, we're still up 2,000 points.
+
+[Segment 116] 451.0s - 455.0s
+Even with only 40% accuracy. So if your system.
+
+[Segment 117] 455.0s - 459.0s
+Has accuracy better than 40%, try calculating if you'll be profitable.
+
+[Segment 118] 459.0s - 463.0s
+That's the second thing, Risk-Reward. The first was determining lot size.
+
+[Segment 119] 463.0s - 465.0s
+These two factors are crucial.
+
+[Segment 120] 465.0s - 468.0s
+If you combine these two like this.
+
+[Segment 121] 468.0s - 471.0s
+Blend them together, your account can grow without even being that accurate.
+
+[Segment 122] 471.0s - 475.0s
+Because if we use accuracy, let's make the system a bit better than earlier.
+
+[Segment 123] 475.0s - 477.0s
+60% accuracy is enough.
+
+[Segment 124] 477.0s - 480.0s
+Same as before, 2:1.
+
+[Segment 125] 480.0s - 483.0s
+Risk 5% of the account.
+
+[Segment 126] 483.0s - 492.0s
+If starting capital is $1,000, test it for one month. Excluding weekends, that's four weeks, 5 times 4 is 20, so about 20 days.
+
+[Segment 127] 492.0s - 497.0s
+With a 60% win rate. The system is 60% accurate. So if you test 100 times.
+
+[Segment 128] 497.0s - 502.0s
+We'll be right 60 trades and wrong 40 trades. Wrong means hitting SL.
+
+[Segment 129] 502.0s - 507.0s
+But we won't trade 100 times. We're only trading once per day.
+
+[Segment 130] 507.0s - 512.0s
+Wake up in the morning until evening, enter an order whenever. I don't know when. When you see a good opportunity, you think you're right.
+
+[Segment 131] 512.0s - 517.0s
+According to your system, you enter. Because the system is 60% accurate. So in 20 days.
+
+[Segment 132] 517.0s - 522.0s
+We'll be right 12 days when entering orders. Lose 8 times. Hit SL 8 times.
+
+[Segment 133] 522.0s - 528.0s
+Remember, when we lose, we lose 5% of the account, of the account value at that time.
+
+[Segment 134] 528.0s - 531.0s
+Not always calculated from 1,000.
+
+[Segment 135] 531.0s - 534.0s
+Of the account value at that moment, what's remaining.
+
+[Segment 136] 534.0s - 537.0s
+So when we gain, it's 2:1.
+
+[Segment 137] 537.0s - 541.0s
+Risk 5, reward goes up 5, so reward must be how much?
+
+[Segment 138] 541.0s - 545.0s
+It must be 10%. 5 times 2 equals 10, right?
+
+[Segment 139] 545.0s - 550.0s
+Look at the example. Day 1, entered an order, we have starting capital of $1,000. When we gain 10%.
+
+[Segment 140] 550.0s - 555.0s
+Account becomes $1,100. Day 2, gain again. System is still 60% accurate, still in the winning streak.
+
+[Segment 141] 555.0s - 560.0s
+It'll be 10% of 1,100, not 10% of 1,000, right?
+
+[Segment 142] 560.0s - 563.0s
+It compounds, increasing more and more like this.
+
+[Segment 143] 563.0s - 568.0s
+But day 3, the system starts to be wrong because there's a 40% error rate.
+
+[Segment 144] 568.0s - 573.0s
+We multiply this number by 0.95, which means it loses 5%.
+
+[Segment 145] 573.0s - 575.0s
+Risk comes out.
+
+[Segment 146] 575.0s - 579.0s
+So from 1,200 it reduces to just over 1,100.
+
+[Segment 147] 579.0s - 583.0s
+Day 4, we lose again, calculated from here, 1,149.
+
+[Segment 148] 583.0s - 586.0s
+Not calculated from 1,000 continuously.
+
+[Segment 149] 586.0s - 590.0s
+It reduces again, down to 1,092.
+
+[Segment 150] 590.0s - 594.0s
+Close to original capital now. Lost twice. Gained twice, lost twice.
+
+[Segment 151] 594.0s - 598.0s
+Then gain again. Day 5, back to gaining. It increases again.
+
+[Segment 152] 598.0s - 602.0s
+It alternates between gains and losses randomly. Continuing to calculate.
+
+[Segment 153] 602.0s - 607.0s
+After 1 month, or after 20 trades. Starting from an account with just $1,000.
+
+[Segment 154] 607.0s - 610.0s
+It becomes $2,000. See? It can grow.
+
+[Segment 155] 610.0s - 614.0s
+Even with wins and losses, but we control the RR.
+
+[Segment 156] 614.0s - 617.0s
+See? Control the RR and the risk percentage we set.
+
+[Segment 157] 617.0s - 620.0s
+If your RR is more accurate than this.
+
+[Segment 158] 620.0s - 625.0s
+Your system is 60% accurate but your RR is higher. This system returns higher than 2:1.
+
+[Segment 159] 625.0s - 630.0s
+And risk is 5% or the task is less than this, try calculating to see.
+
+[Segment 160] 630.0s - 635.0s
+What the final account value will be. Now if.
+
+[Segment 161] 635.0s - 638.0s
+Wait, let me make the line bigger.
+
+[Segment 162] 638.0s - 640.0s
+Thicker.
+
+[Segment 163] 640.0s - 641.0s
+Line size.
+
+[Segment 164] 641.0s - 642.0s
+Okay.
+
+[Segment 165] 642.0s - 645.0s
+What is it? It's what we'll use to enter orders.
+
+[Segment 166] 645.0s - 647.0s
+The blue line.
+
+[Segment 167] 647.0s - 651.0s
+This will be the line we use to enter orders. Can't see it, right?
+
+[Segment 168] 651.0s - 654.0s
+Because it'll be right at the price. Here, blue.
+
+[Segment 169] 654.0s - 656.0s
+The entry line. The green line.
+
+[Segment 170] 656.0s - 657.0s
+Let me change it.
+
+[Segment 171] 657.0s - 658.0s
+Um.
+
+[Segment 172] 658.0s - 659.0s
+Let's make it.
+
+[Segment 173] 659.0s - 660.0s
+Um.
+
+[Segment 174] 660.0s - 663.0s
+If it's a loss, it should be red. Hit SL.
+
+[Segment 175] 663.0s - 666.0s
+TP, let's keep it yellow like before.
+
+[Segment 176] 666.0s - 668.0s
+Here. Right here. Okay.
+
+[Segment 177] 668.0s - 671.0s
+Like this. The line. Let's set it here.
+
+[Segment 178] 671.0s - 673.0s
+We open up the program.
+
+[Segment 179] 673.0s - 675.0s
+Click here to make it Pending.
+
+[Segment 180] 675.0s - 677.0s
+Then we can move the blue line.
+
+[Segment 181] 677.0s - 680.0s
+This is the order line where we'll enter the order.
+
+[Segment 182] 680.0s - 681.0s
+Let's say...
+
+[Segment 183] 681.0s - 684.0s
+Which area is good? This area.
+
+[Segment 184] 684.0s - 688.0s
+Let's use this area. This is, let's say we're going to buy. We'll buy.
+
+[Segment 185] 688.0s - 692.0s
+Let's say the chart is moving. We haven't seen this range yet.
+
+[Segment 186] 692.0s - 697.0s
+The chart moves down, down, down, then let's say it comes up to about here.
+
+[Segment 187] 697.0s - 700.0s
+Then call an order in this range. Let's say enter here.
+
+[Segment 188] 700.0s - 704.0s
+And it makes a low, a high, a high or low.
+
+[Segment 189] 704.0s - 708.0s
+Higher high, higher low. We expect higher high.
+
+[Segment 190] 708.0s - 712.0s
+If it's still an uptrend, it should be higher high.
+
+[Segment 191] 712.0s - 715.0s
+And the low shouldn't be lower than this low. It must be higher.
+
+[Segment 192] 715.0s - 719.0s
+The new low must not be lower than this low. It must make a high first.
+
+[Segment 193] 719.0s - 723.0s
+So we buy here. If we're not wrong.
+
+[Segment 194] 723.0s - 728.0s
+We can move the red line. If we move it below this line, it means this line is a buy.
+
+[Segment 195] 728.0s - 734.0s
+If we move the red line above this line, the program will automatically figure out that this line is a sell.
+
+[Segment 196] 734.0s - 738.0s
+Because it's higher. The Stop Loss line, when we move it.
+
+[Segment 197] 738.0s - 741.0s
+Up or down between the order line.
+
+[Segment 198] 741.0s - 744.0s
+Buy here. Let's say buy. Buy means going up.
+
+[Segment 199] 744.0s - 745.0s
+Up.
+
+[Segment 200] 745.0s - 748.0s
+One day to the top. Let's say we set it here.
+
+[Segment 201] 748.0s - 750.0s
+See? It read the order.
+
+[Segment 202] 750.0s - 753.0s
+Now we set the program.
+
+[Segment 203] 753.0s - 757.0s
+Here, risk. Let's say we set the risk at.
+
+[Segment 204] 757.0s - 763.0s
+When we lose, let's say 3% each time. 3%. 3% of the account. Let's say the account value is about this much, 3% of this amount.
+
+[Segment 205] 763.0s - 767.0s
+The money we'll lose is over $400. Now let's set another one. Set it in the Indicator.
+
+[Segment 206] 767.0s - 773.0s
+Let's edit this one. Look here. TP×SL. This is 1:1. Whatever RR you want to set your system to.
+
+[Segment 207] 773.0s - 779.0s
+Let's say we set it at 2:1, 1:2. Whatever it is, basically TP is always 2 times SL. Edit it to the number you want.
+
+[Segment 208] 779.0s - 782.0s
+Mine will be 2. Let's make it 2.
+
+[Segment 209] 782.0s - 786.0s
+Then click here. See? The take profit will jump automatically.
+
+[Segment 210] 786.0s - 791.0s
+So when we buy here, we have SL here. TP will be shown up front at this spot.
+
+[Segment 211] 791.0s - 795.0s
+Let's say we entered and the chart doesn't reach it because we set TP, right?
+
+[Segment 212] 795.0s - 798.0s
+Doesn't reach, doesn't hit SL either.
+
+[Segment 213] 798.0s - 802.0s
+Returns, returns, returns. Then TP. We made money according to the value.
+
+[Segment 214] 802.0s - 806.0s
+Now let me show. Enter here. Let's say no, enter here. Change to 3%.
+
+[Segment 215] 806.0s - 809.0s
+Let's watch closely.
+
+[Segment 216] 809.0s - 813.0s
+3%, $404. Watch closely. Earlier we entered here.
+
+[Segment 217] 813.0s - 817.0s
+SL here. Change it again. Change it again. Look closely. Buy here.
+
+[Segment 218] 817.0s - 821.0s
+Buy here. Same lot is here. Pull it here. This is the difference.
+
+[Segment 219] 821.0s - 826.0s
+2,679 points. The distance between the order line and SL is quite a lot because this is on the Day timeframe.
+
+[Segment 220] 826.0s - 831.0s
+Click here. TP will be here. This is 2 times the SL. Entered buy here.
+
+[Segment 221] 831.0s - 838.0s
+Price moves, moves, moves. Because we set the principle at this low. Did it hit TP? Did it hit TP completely? Hit TP, made profit. And if it lost, it would still be 3% of the account, which is $404. Let's try again.
+
+[Segment 222] 838.0s - 844.0s
+Let's say enter here. Buy here, enter another trade. Buy here. SL is quite far. Oh, it's far.
+
+[Segment 223] 844.0s - 848.0s
+Scared of losing a lot. Actually, we won't lose a lot.
+
+[Segment 224] 848.0s - 852.0s
+Because we calculated it already, it's 3%. No matter what, we only lose this much. Set it at the bottom. If it hits, we accept it. Something like that.
+
+[Segment 225] 852.0s - 855.0s
+Then TP. TP here.
+
+[Segment 226] 855.0s - 859.0s
+Buy here going up. Hit TP first. See?
+
+[Segment 227] 859.0s - 863.0s
+Made profit first. But let's say, let's say TP we set higher than this.
+
+[Segment 228] 863.0s - 865.0s
+Let's say. Let's say we set it around here.
+
+[Segment 229] 865.0s - 868.0s
+So more than 1:2. Price goes up, up, up, up.
+
+[Segment 230] 868.0s - 873.0s
+While, while. One thing everyone needs to watch when entering an order is.
+
+[Segment 231] 873.0s - 875.0s
+The lot size. What lot will you enter?
+
+[Segment 232] 875.0s - 877.0s
+It's right here.
+
+[Segment 233] 877.0s - 879.0s
+Position Size. See?
+
+[Segment 234] 879.0s - 884.0s
+If you enter an order here, Stop Loss is here, you enter 0.22 lots.
+
+[Segment 235] 884.0s - 889.0s
+TP 1:2, at TP 2 times. It hits here, you'll make.
+
+[Segment 236] 889.0s - 895.0s
+How much? If it hits, if it hits. Wait. High 0.22 in.
+
+[Segment 237] 895.0s - 900.0s
+This range, you'll get the reward here. About $800.
+
+[Segment 238] 900.0s - 905.0s
+About $800. If it hits SL, $400.
+
+[Segment 239] 905.0s - 910.0s
+See? About 2 times. But this $400 is 3% of the account, of the account value itself.
+
+[Segment 240] 910.0s - 915.0s
+Now the opposite, enter sell here, same thing.
+
+[Segment 241] 915.0s - 919.0s
+But SL, you're scared it might hit but if.
+
+[Segment 242] 919.0s - 923.0s
+It'll really go up, it shouldn't be lower than this low. You choose to drag SL down lower than this.
+
+[Segment 243] 923.0s - 927.0s
+See the distance changed? Click, where should TP be?
+
+[Segment 244] 927.0s - 931.0s
+Should be here. But the order you entered is at the exact same point.
+
+[Segment 245] 931.0s - 935.0s
+Just changed SL to be closer. You enter at this lot.
+
+[Segment 246] 935.0s - 938.0s
+0.1. Earlier it was 0.22.
+
+[Segment 247] 938.0s - 942.0s
+This became 0.1. But when TP hits.
+
+[Segment 248] 942.0s - 946.0s
+Goes down, doesn't hit SL, goes up and hits TP. You get the same amount.
+
+[Segment 249] 946.0s - 951.0s
+$809. But if this hits, you still lose the same, which is $404. It calculates everything.
+
+[Segment 250] 951.0s - 954.0s
+This one. See? Let's enter a different point. Let's try sell.
+
+[Segment 251] 954.0s - 956.0s
+Let's say sell here.
+
+[Segment 252] 956.0s - 959.0s
+Here. Where? Here.
+
+[Segment 253] 959.0s - 963.0s
+Several. SL is here, the red line. If you sell, you must put the red line above the order line.
+
+[Segment 254] 963.0s - 967.0s
+Let's say set it here. TP. Click here, it'll jump. TP is here.
+
+[Segment 255] 967.0s - 972.0s
+The SL distance is how much? Don't know. Can't see. But if it hits, it's this, over $400.
+
+[Segment 256] 972.0s - 977.0s
+No matter what, we lose over $400. Entered already. Then price moves back and forth, playing sell.
+
+[Segment 257] 977.0s - 981.0s
+Comes to about the original order line. Oh well, might as well close manually. Might think that. Goes up.
+
+[Segment 258] 981.0s - 986.0s
+But it's okay. Let's wait it out. If it hits, it hits. Because we set it to only lose 3% of the account.
+
+[Segment 259] 986.0s - 991.0s
+Let's see. Price starts to swing, loses momentum. Price goes down, hits TP. Made $800.
+
+[Segment 260] 991.0s - 995.0s
+Let's try again. Let's say very confident. Won't set it this far. Entered order here, right?
+
+[Segment 261] 995.0s - 998.0s
+Set it at the bottom. Super confident. If it hits, it hits.
+
+[Segment 262] 998.0s - 1002.0s
+Then where will TP be? TP is here. Short trade. Enter order, plan to win immediately.
+
+[Segment 263] 1002.0s - 1007.0s
+Lot increases to 0.4 immediately. Boom. Hit, made $800.
+
+[Segment 264] 1007.0s - 1012.0s
+It hit first. Let's say it didn't hit. Let's say it came here, then went up and hit here. Still lose $404.
+
+[Segment 265] 1012.0s - 1016.0s
+Very scared. Really scared. Use this high.
+
+[Segment 266] 1016.0s - 1020.0s
+Over 6,000 points. Enter order here. Where's TP?
+
+[Segment 267] 1020.0s - 1024.0s
+TP is very far. There. See the yellow?
+
+[Segment 268] 1024.0s - 1027.0s
+Here. Where did we enter earlier? Here.
+
+[Segment 269] 1027.0s - 1031.0s
+Just wait. Move with it. Hit SL first. Lose $400.
+
+[Segment 270] 1031.0s - 1035.0s
+Because the lot entered from here is 0.05.
+
+[Segment 271] 1035.0s - 1039.0s
+At first entered 0.4, now only entering 0.05.
+
+[Segment 272] 1039.0s - 1044.0s
+So when it reverses back and hits, we only lose 3% risk percentage.
+
+[Segment 273] 1044.0s - 1047.0s
+If in dollar terms, it's $400, same as before.
+
+[Segment 274] 1047.0s - 1052.0s
+But let's say it doesn't hit. Let's say it doesn't hit, moves, then goes down. Let's say it touches here. Boom.
+
+[Segment 275] 1052.0s - 1056.0s
+You make $809, same every time.
+
+[Segment 276] 1056.0s - 1059.0s
+So this is lot calculation.
+
+[Segment 277] 1059.0s - 1062.0s
+Which it calculates based on the SL distance you set.
+
+[Segment 278] 1062.0s - 1065.0s
+This became 0.1. If you set it this close.
+
+[Segment 279] 1065.0s - 1068.0s
+Enter 0.2 lots.
+
+[Segment 280] 1068.0s - 1070.0s
+Where's TP?
+
+[Segment 281] 1070.0s - 1073.0s
+TP is here. Enter here.
+
+[Segment 282] 1073.0s - 1077.0s
+Move to SL then TP first. Made money first.
+
+[Segment 283] 1077.0s - 1079.0s
+See?
+
+[Segment 284] 1079.0s - 1085.0s
+Keep doing this. If you're confident, you can go change the value. Change.
+
+[Segment 285] 1085.0s - 1090.0s
+The value to make TP be how many times. Let's say make it 3 times.
+
+[Segment 286] 1090.0s - 1095.0s
+Think it's very accurate. Great system. Can go far. Then come change.
+
+[Segment 287] 1095.0s - 1097.0s
+Or. Click.
+
+[Segment 288] 1097.0s - 1102.0s
+Further than before. Earlier was 1:2. This is 3 times. Made more money, $1,200.
+
+[Segment 289] 1102.0s - 1106.0s
+But when you lose, lose the same, over $400.
+
+[Segment 290] 1106.0s - 1109.0s
+All of this is calculated from current account value.
+
+[Segment 291] 1109.0s - 1113.0s
+It integrates with the principles we learned earlier.
+
+[Segment 292] 1113.0s - 1115.0s
+Now, what else is there?
+
+[Segment 293] 1115.0s - 1122.0s
+Oh, this is because I chose pending, so I can move the entry point anywhere. But when you trade for real, it has to be at the current price. Just click here to make it instant.
+
+[Segment 294] 1122.0s - 1124.0s
+Alright.
+
+[Segment 295] 1124.0s - 1129.0s
+The line will be at the current price line where it's moving. Ready to enter the order, just click enter order.
+
+[Segment 296] 1129.0s - 1134.0s
+Then set SL. But we can drag this SL, we can always drag it manually.
+
+[Segment 297] 1134.0s - 1138.0s
+Drag it. Let's say we'll sell. Let's say it'll go down. Sell, put it.
+
+[Segment 298] 1138.0s - 1142.0s
+Let's say put it at this candle. More than a thousand points.
+
+[Segment 299] 1142.0s - 1148.0s
+Same risk, 3% as set. Where should TP be? Click. Boom. It's 3 times. Here, it's here. So it has to move down here to hit TP.
+
+[Segment 300] 1148.0s - 1154.0s
+Made $1,200 if it hits TP with 0.26 lots. But if scared it'll swing around here, scared it'll touch.
+
+[Segment 301] 1154.0s - 1158.0s
+Goes up a bit more. So for safety, where will TP go?
+
+[Segment 302] 1158.0s - 1164.0s
+It's here. But if it hits SL, still lose 3%, $400 same. If it hits TP.
+
+[Segment 303] 1164.0s - 1169.0s
+Still make $1,200 same. But lot changed to 0.12 instead when entering.
+
+[Segment 304] 1169.0s - 1172.0s
+At this point. Hope you understand.
+
+[Segment 305] 1172.0s - 1176.0s
+About MM. I'll upload the tool for you.
+
+[Segment 306] 1176.0s - 1181.0s
+I should upload it. If you can't install it, you can click.
+
+[Segment 307] 1181.0s - 1185.0s
+Here. Open this. Opens up.
+
+[Segment 308] 1185.0s - 1189.0s
+You just drag the file you downloaded and drop it in here. Then close the window.
+
+[Segment 309] 1189.0s - 1193.0s
+Go close the program. Open again. Or you don't have to close the program. Refresh.
+
+[Segment 310] 1193.0s - 1197.0s
+Then. The name of it is. I'll tell you the name.
+
+[Segment 311] 1197.0s - 1202.0s
+The name is this one. Let's say we closed it. Pull it in. Then set the values.
+
+[Segment 312] 1202.0s - 1206.0s
+Like I said earlier. Nothing difficult. Okay.
+
+[Segment 313] 1206.0s - 1210.0s
+Okay. Hope it's understandable and somewhat useful regarding MM to use.
+
+[Segment 314] 1210.0s - 1213.0s
+Your account can grow. Use good MM.
+
+[Segment 315] 1213.0s - 1217.0s
+Even if your system isn't very accurate, it can still grow. See?
+
+[Segment 316] 1217.0s - 1220.0s
+Okay. Thank you very much. Goodbye.
+
+[Segment 317] 1220.0s - 1222.0s
+(End of segment - no speech)
+
+[Segment 318] 1222.0s - 1224.0s
+(End of segment - no speech)
