@@ -4,14 +4,35 @@
 # ========================================
 
 # ========================================
-# STEP 1: One-time Setup (First time only)
+# STEP 0: Install/Update Dependencies (First time only)
 # ========================================
 
-# Navigate to project
-cd /notebooks/video-translater
+# Install or update gdown
+pip install --upgrade gdown
 
-# Install gdown (if not installed)
-pip install gdown
+# Verify installation
+gdown --version
+which gdown
+
+# (Optional) Install in project venv
+cd /notebooks/vdo-translater
+.venv/bin/pip install --upgrade gdown
+
+# ========================================
+# STEP 1: Navigate to Project & Update Code
+# ========================================
+
+cd /notebooks/vdo-translater
+
+# Pull latest code from GitHub
+git pull origin main
+
+# Fix line endings if needed (CRLF → LF)
+sed -i 's/\r$//' scripts/download_videos.sh scripts/paperspace_transcribe.sh
+
+# Verify scripts are executable
+chmod +x scripts/*.sh
+ls -lh scripts/download_videos.sh
 
 
 # ========================================
