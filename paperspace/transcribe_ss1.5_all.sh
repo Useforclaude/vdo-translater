@@ -65,9 +65,19 @@ transcribe_video() {
         echo "Using: System Python (no .venv found)"
     fi
 
+    # Determine device (GPU if available, CPU otherwise)
+    DEVICE_ARG=""
+    if command -v nvidia-smi &> /dev/null && nvidia-smi &> /dev/null; then
+        DEVICE_ARG="--device cuda"
+        echo "Device: GPU (CUDA) ⚡"
+    else
+        echo "Device: CPU (slower)"
+    fi
+
     # Run transcription
     "$PYTHON_BIN" "$PROJECT_DIR/scripts/whisper_transcribe.py" \
         "$video_file" \
+        $DEVICE_ARG \
         --checkpoint-dir "$CHECKPOINT_DIR" \
         --checkpoint-interval 10 \
         --resume \
