@@ -52,8 +52,17 @@ transcribe_video() {
         return 1
     fi
 
+    # Determine Python executable (prefer .venv, fallback to system)
+    if [ -f "$PROJECT_DIR/.venv/bin/python" ]; then
+        PYTHON_BIN="$PROJECT_DIR/.venv/bin/python"
+        echo "Using: Virtual environment Python"
+    else
+        PYTHON_BIN="python3"
+        echo "Using: System Python (no .venv found)"
+    fi
+
     # Run transcription
-    "$PROJECT_DIR/.venv/bin/python" "$PROJECT_DIR/scripts/whisper_transcribe.py" \
+    "$PYTHON_BIN" "$PROJECT_DIR/scripts/whisper_transcribe.py" \
         "$video_file" \
         --checkpoint-dir "$CHECKPOINT_DIR" \
         --checkpoint-interval 10 \
@@ -85,6 +94,26 @@ main() {
     if [ ! -d "$VIDEOS_DIR" ]; then
         print_error "Videos directory not found: $VIDEOS_DIR"
         exit 1
+    fi
+
+    # Check Python and dependencies
+    if [ -f "$PROJECT_DIR/.venv/bin/python" ]; then
+        print_success "Found virtual environment"
+    else
+        print_warning "No virtual environment found, using system Python"
+        # Check if whisper is available
+        if ! python3 -c "import whisper" 2>/dev/null; then
+            print_error "Whisper not installed!"
+            echo ""
+            echo "Please install:"
+            echo "  pip install -U openai-whisper"
+            echo ""
+            echo "Or create virtual environment:"
+            echo "  python3 -m venv .venv"
+            echo "  .venv/bin/pip install -U openai-whisper ffmpeg-python tqdm"
+            exit 1
+        fi
+        print_success "System Python has Whisper installed"
     fi
 
     # Create output and checkpoint directories
@@ -126,7 +155,14 @@ main() {
 
     print_header "Merging EP-04 Parts"
 
-    "$PROJECT_DIR/.venv/bin/python" "$PROJECT_DIR/scripts/merge_transcripts.py" \
+    # Use same Python as transcription
+    if [ -f "$PROJECT_DIR/.venv/bin/python" ]; then
+        PYTHON_BIN="$PROJECT_DIR/.venv/bin/python"
+    else
+        PYTHON_BIN="python3"
+    fi
+
+    "$PYTHON_BIN" "$PROJECT_DIR/scripts/merge_transcripts.py" \
         "$OUTPUT_DIR/SS-1.5-ep04-part1_transcript.json" \
         "$OUTPUT_DIR/SS-1.5-ep04-part2_transcript.json" \
         -o "$OUTPUT_DIR/SS-1.5-ep04_transcript.json"
