@@ -42,13 +42,13 @@ print_error() {
 
 transcribe_video() {
     local video_file="$1"
-    local output_file="$2"
+    local expected_name="$2"
     local episode_label="$3"
 
     print_header "$episode_label"
 
     echo "Input:  $video_file"
-    echo "Output: $output_file"
+    echo "Output: $OUTPUT_DIR/$expected_name"
     echo "Started: $(date)"
 
     if [ ! -f "$video_file" ]; then
@@ -74,20 +74,31 @@ transcribe_video() {
         echo "Device: CPU (slower)"
     fi
 
-    # Run transcription
+    # Run transcription (output to directory, not filename!)
     "$PYTHON_BIN" "$PROJECT_DIR/scripts/whisper_transcribe.py" \
         "$video_file" \
         $DEVICE_ARG \
         --checkpoint-dir "$CHECKPOINT_DIR" \
         --checkpoint-interval 10 \
         --resume \
-        -o "$output_file"
+        -o "$OUTPUT_DIR"
 
-    if [ -f "$output_file" ]; then
-        local size=$(ls -lh "$output_file" | awk '{print $5}')
-        print_success "Completed: $output_file ($size)"
+    # Get actual output filename (based on video name)
+    local video_basename=$(basename "$video_file" .mp4)
+    local actual_file="$OUTPUT_DIR/${video_basename}_transcript.json"
+
+    # Check if file was created
+    if [ -f "$actual_file" ]; then
+        # Rename if needed
+        if [ "$actual_file" != "$OUTPUT_DIR/$expected_name" ]; then
+            mv "$actual_file" "$OUTPUT_DIR/$expected_name"
+            actual_file="$OUTPUT_DIR/$expected_name"
+        fi
+
+        local size=$(ls -lh "$actual_file" | awk '{print $5}')
+        print_success "Completed: $actual_file ($size)"
     else
-        print_error "Failed to create: $output_file"
+        print_error "Failed to create: $actual_file"
         return 1
     fi
 }
@@ -157,32 +168,32 @@ main() {
     # Transcribe all episodes
     transcribe_video \
         "$VIDEOS_DIR/SS-1.5-ep01.mp4" \
-        "$OUTPUT_DIR/SS-1.5-ep01_transcript.json" \
+        "SS-1.5-ep01_transcript.json" \
         "[1/6] Transcribing EP-01"
 
     transcribe_video \
         "$VIDEOS_DIR/SS-1.5-ep02.mp4" \
-        "$OUTPUT_DIR/SS-1.5-ep02_transcript.json" \
+        "SS-1.5-ep02_transcript.json" \
         "[2/6] Transcribing EP-02"
 
     transcribe_video \
         "$VIDEOS_DIR/SS-1.5-Ep03.mp4" \
-        "$OUTPUT_DIR/SS-1.5-ep03_transcript.json" \
+        "SS-1.5-ep03_transcript.json" \
         "[3/6] Transcribing EP-03"
 
     transcribe_video \
         "$VIDEOS_DIR/SS1.5-ep-04-part-1.mp4" \
-        "$OUTPUT_DIR/SS-1.5-ep04-part1_transcript.json" \
+        "SS-1.5-ep04-part1_transcript.json" \
         "[4/6] Transcribing EP-04 Part 1"
 
     transcribe_video \
         "$VIDEOS_DIR/SS-1.5-ep-04-part-2.mp4" \
-        "$OUTPUT_DIR/SS-1.5-ep04-part2_transcript.json" \
+        "SS-1.5-ep04-part2_transcript.json" \
         "[5/6] Transcribing EP-04 Part 2"
 
     transcribe_video \
         "$VIDEOS_DIR/SS-1.5-ep05.mp4" \
-        "$OUTPUT_DIR/SS-1.5-ep05_transcript.json" \
+        "SS-1.5-ep05_transcript.json" \
         "[6/6] Transcribing EP-05"
 
     print_header "Merging EP-04 Parts"
