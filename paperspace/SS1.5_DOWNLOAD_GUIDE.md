@@ -164,10 +164,22 @@ ls -lh
 
 ### Step 1: Start tmux Session
 
+**⭐ What is tmux?**
+- Terminal multiplexer that keeps tasks running
+- Works even when browser closes or connection drops
+- Essential for long-running tasks on Paperspace!
+
+**📖 Full tmux guide:** [docs/TMUX_GUIDE.md](../docs/TMUX_GUIDE.md)
+
 ```bash
 # Create persistent session
 tmux new -s ss1.5-transcribe
 ```
+
+**Quick tmux commands:**
+- **Detach:** `Ctrl+B` then `D` (keeps running in background)
+- **Reattach:** `tmux attach -t ss1.5-transcribe`
+- **List sessions:** `tmux ls`
 
 ### Step 2: Setup Python Environment
 

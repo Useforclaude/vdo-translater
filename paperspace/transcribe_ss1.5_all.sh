@@ -100,6 +100,24 @@ main() {
         exit 1
     fi
 
+    # Check GPU availability
+    echo ""
+    if command -v nvidia-smi &> /dev/null; then
+        if nvidia-smi &> /dev/null; then
+            GPU_NAME=$(nvidia-smi --query-gpu=name --format=csv,noheader | head -1)
+            print_success "GPU detected: $GPU_NAME"
+            echo "⚡ Will use GPU for 8-10x faster transcription!"
+        else
+            print_warning "nvidia-smi found but GPU not accessible"
+            echo "Will use CPU (slower)"
+        fi
+    else
+        print_warning "No GPU detected (nvidia-smi not found)"
+        echo "Will use CPU (8-10x slower than GPU)"
+        echo ""
+        echo "💡 TIP: If you have GPU, make sure nvidia-smi works"
+    fi
+
     # Check Python and dependencies
     if [ -f "$PROJECT_DIR/.venv/bin/python" ]; then
         print_success "Found virtual environment"
