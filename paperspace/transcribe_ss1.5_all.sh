@@ -32,6 +32,10 @@ print_success() {
     echo -e "${GREEN}✅ $1${NC}"
 }
 
+print_warning() {
+    echo -e "${YELLOW}⚠️  WARNING: $1${NC}"
+}
+
 print_error() {
     echo -e "${RED}❌ ERROR: $1${NC}"
 }
