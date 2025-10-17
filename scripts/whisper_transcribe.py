@@ -337,7 +337,7 @@ class ProgressTracker:
         self.processed_duration += seconds_processed
         self.last_update = time.time()
 
-        if self.pbar:
+        if self.pbar is not None:
             self.pbar.update(seconds_processed)
         else:
             # Fallback to simple logging
@@ -365,7 +365,7 @@ class ProgressTracker:
 
     def close(self):
         """Close progress bar"""
-        if self.pbar:
+        if self.pbar is not None:
             self.pbar.close()
 
     @staticmethod
