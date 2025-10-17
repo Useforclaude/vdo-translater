@@ -407,9 +407,9 @@ tmux new -s test
 
 ### Issue 4: Ctrl+B doesn't work
 
-**Cause:** Wrong key combination or timing
+**Cause:** Browser/terminal intercepts keyboard shortcut, or wrong timing
 
-**Solution:**
+**Solution 1: Correct Timing**
 ```
 Correct way:
 1. Press Ctrl+B together
@@ -420,11 +420,38 @@ NOT:
 1. Hold Ctrl+B+D all together (WRONG!)
 ```
 
+**Solution 2: Use Command Instead (แนะนำ!)**
+```bash
+# Inside tmux session, just type:
+tmux detach
+
+# Or shorter:
+tmux det
+```
+
+**Solution 3: Use tmux Command Mode**
+```
+1. Press Ctrl+B then :
+2. Type: detach
+3. Press Enter
+```
+
+**Solution 4: Exit Browser Restriction**
+```
+Problem: Browser catches Ctrl+B (bookmarks)
+Solutions:
+- Use Chrome/Firefox incognito mode
+- Use SSH client (PuTTY, iTerm, etc) instead of web terminal
+- Use alternative: tmux detach (command)
+```
+
 **Test:**
 ```
 Try: Ctrl+B then ?
 Should show help menu
 If works, Ctrl+B is working correctly
+
+If not working → Use: tmux detach (works 100%!)
 ```
 
 ---
@@ -713,8 +740,10 @@ bash tmux-manager.sh cleanup
 # 1. Create session
 tmux new -s name
 
-# 2. Detach
-Ctrl+B then D
+# 2. Detach (3 ways)
+Ctrl+B then D          # Keyboard shortcut
+tmux detach           # Command (works always!)
+Ctrl+B then : detach  # Command mode
 
 # 3. List sessions
 tmux ls
