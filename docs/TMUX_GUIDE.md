@@ -846,6 +846,191 @@ scp paperspace:/notebooks/video-translater/workflow/01_transcripts/*.json ./loca
 
 ---
 
+## 🔍 Checking Progress Without Entering tmux
+
+**Problem:** Want to check progress without attaching to tmux session?
+
+**Solutions:** 3 methods to monitor progress from outside tmux!
+
+---
+
+### Method 1: Check Output Files (Fastest)
+
+```bash
+# Count completed episodes
+ls -1 /notebooks/video-translater/workflow/01_transcripts/*.json 2>/dev/null | wc -l
+
+# See recent files with sizes
+ls -lth /notebooks/video-translater/workflow/01_transcripts/*.json 2>/dev/null | head -5
+
+# Check total progress
+echo "Completed files:" && \
+ls -1 /notebooks/video-translater/workflow/01_transcripts/*.json 2>/dev/null | wc -l && \
+echo "Expected: 6 episodes (5 after merge)"
+```
+
+**Example output:**
+```
+Completed files:
+4
+
+-rw-r--r-- 1 root root 2.1M Oct 17 07:15 SS1.5-ep-04-part-1_transcript.json
+-rw-r--r-- 1 root root 1.3M Oct 17 06:58 SS-1.5-ep03_transcript.json
+-rw-r--r-- 1 root root 1.5M Oct 17 06:27 SS-1.5-ep02_transcript.json
+-rw-r--r-- 1 root root 1.2M Oct 17 05:59 SS-1.5-ep01_transcript.json
+
+Progress: 4/6 episodes (67%)
+```
+
+---
+
+### Method 2: Capture tmux Output (Without Attaching)
+
+```bash
+# Get last 20 lines from tmux session
+tmux capture-pane -t ss1.5-transcribe -p | tail -20
+
+# Show only progress lines
+tmux capture-pane -t ss1.5-transcribe -p | grep -E "(Transcribing|Processing|Completed|ERROR)" | tail -5
+
+# Show current episode being processed
+tmux capture-pane -t ss1.5-transcribe -p | grep -E "\[.*\] Transcribing" | tail -1
+```
+
+**Example output:**
+```
+[4/6] Transcribing EP-04 Part 1
+Processing...
+Transcribing: 65%|███████████████▌        | 650/1000s [08:30<04:30, 1.3s/s]
+```
+
+---
+
+### Method 3: Complete Progress Check (All-in-One)
+
+```bash
+# Copy-paste this entire command
+echo "=== TRANSCRIPTION PROGRESS ===" && \
+echo "" && \
+echo "Files completed:" && \
+ls -1 /notebooks/video-translater/workflow/01_transcripts/*.json 2>/dev/null | wc -l && \
+echo "" && \
+echo "Recent files:" && \
+ls -lth /notebooks/video-translater/workflow/01_transcripts/*.json 2>/dev/null | head -5 && \
+echo "" && \
+echo "Current status:" && \
+tmux capture-pane -t ss1.5-transcribe -p 2>/dev/null | tail -10 || echo "Session not found or not in tmux"
+```
+
+**Example complete output:**
+```
+=== TRANSCRIPTION PROGRESS ===
+
+Files completed:
+4
+
+Recent files:
+-rw-r--r-- 1 root root 2.1M Oct 17 07:15 SS1.5-ep-04-part-1_transcript.json
+-rw-r--r-- 1 root root 1.3M Oct 17 06:58 SS-1.5-ep03_transcript.json
+-rw-r--r-- 1 root root 1.5M Oct 17 06:27 SS-1.5-ep02_transcript.json
+-rw-r--r-- 1 root root 1.2M Oct 17 05:59 SS-1.5-ep01_transcript.json
+
+Current status:
+[5/6] Transcribing EP-04 Part 2
+Device: GPU (CUDA) ⚡
+Processing...
+Transcribing: 45%|██████████▌         | 450/1000s [05:30<06:45, 1.36s/s]
+```
+
+---
+
+### Method 4: Watch Progress Continuously
+
+```bash
+# Auto-refresh every 5 seconds
+watch -n 5 "ls -lth /notebooks/video-translater/workflow/01_transcripts/*.json 2>/dev/null | head -5"
+
+# Or with more details
+watch -n 5 "echo 'Files:' && ls -1 /notebooks/video-translater/workflow/01_transcripts/*.json 2>/dev/null | wc -l && echo '' && tmux capture-pane -t ss1.5-transcribe -p 2>/dev/null | tail -5"
+```
+
+**Press Ctrl+C to stop watching**
+
+---
+
+### Method 5: Quick Status Script
+
+Create `check-progress.sh`:
+
+```bash
+#!/bin/bash
+
+SESSION="ss1.5-transcribe"
+OUTPUT_DIR="/notebooks/video-translater/workflow/01_transcripts"
+
+echo "=========================================="
+echo "TRANSCRIPTION PROGRESS CHECK"
+echo "=========================================="
+echo ""
+
+# Count files
+TOTAL_FILES=$(ls -1 $OUTPUT_DIR/*.json 2>/dev/null | wc -l)
+echo "Completed: $TOTAL_FILES/6 episodes"
+
+# Calculate percentage
+PERCENT=$((TOTAL_FILES * 100 / 6))
+echo "Progress: $PERCENT%"
+
+echo ""
+echo "Latest files:"
+ls -lth $OUTPUT_DIR/*.json 2>/dev/null | head -3
+
+echo ""
+echo "Current work:"
+tmux capture-pane -t $SESSION -p 2>/dev/null | grep -E "\[.*\] Transcribing" | tail -1 || echo "Session not found"
+
+echo ""
+echo "=========================================="
+```
+
+**Usage:**
+```bash
+chmod +x check-progress.sh
+./check-progress.sh
+```
+
+---
+
+### When to Use Each Method:
+
+| Method | Use When | Speed |
+|--------|----------|-------|
+| **Method 1** | Quick file count | ⚡ Fastest |
+| **Method 2** | Want to see progress bar | Fast |
+| **Method 3** | Complete overview | Medium |
+| **Method 4** | Continuous monitoring | Continuous |
+| **Method 5** | Automated checks | Scriptable |
+
+---
+
+### Quick Commands Summary:
+
+```bash
+# Quick file count
+ls -1 /notebooks/video-translater/workflow/01_transcripts/*.json | wc -l
+
+# See latest file
+ls -lt /notebooks/video-translater/workflow/01_transcripts/*.json | head -1
+
+# Capture tmux output
+tmux capture-pane -t ss1.5-transcribe -p | tail -5
+
+# Watch continuously
+watch -n 5 "ls -lth /notebooks/video-translater/workflow/01_transcripts/*.json | head -3"
+```
+
+---
+
 ## 📊 tmux vs. No tmux Comparison
 
 | Scenario | Without tmux | With tmux |
