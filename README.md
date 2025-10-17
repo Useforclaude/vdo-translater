@@ -492,4 +492,4 @@ Ctrl+B D                # Detach from session
 
 **Made with ❤️ for Thai Forex content creators**
 
-*Last updated: October 2025*
+*Last updated: October 17, 2025*

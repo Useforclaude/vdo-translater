@@ -265,4 +265,4 @@ tmux new -s whisper  # Before any long task
 
 ---
 
-**Last updated: October 2025**
+**Last updated: October 17, 2025**
