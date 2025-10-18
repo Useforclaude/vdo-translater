@@ -1,0 +1,1359 @@
+1
+00:00:01,879 --> 00:00:11,039
+Let's look at some chart examples now. We've studied the theory.
+
+2
+00:00:11,039 --> 00:00:23,760
+Starting with something simple first - support and resistance like this.
+
+3
+00:00:24,179 --> 00:00:31,760
+Price reverses like this, and there will be candlesticks.
+
+4
+00:00:34,100 --> 00:00:38,740
+Occurring at this point and this point - there are 3 types, remember?
+
+5
+00:00:38,740 --> 00:00:50,579
+The balance scale - Action and Reaction.
+
+6
+00:00:51,700 --> 00:00:56,799
+There are 3 patterns - balanced, or heavier on one side or the other.
+
+7
+00:00:56,799 --> 00:01:00,899
+Let's see how this plays out when applied to real charts.
+
+8
+00:01:01,219 --> 00:01:06,920
+Let's look at the important support and resistance points first.
+
+9
+00:01:08,780 --> 00:01:18,680
+Let me scroll and look. This point here is important support.
+
+10
+00:01:18,980 --> 00:01:19,379
+Right here.
+
+11
+00:01:19,879 --> 00:01:21,760
+Zoom in to look. Right here.
+
+12
+00:01:24,500 --> 00:01:26,000
+We'll see price bouncing back.
+
+13
+00:01:30,280 --> 00:01:31,620
+Just like the theory taught.
+
+14
+00:01:32,019 --> 00:01:36,980
+See how here it moves down like this, right?
+
+15
+00:01:37,579 --> 00:01:41,719
+But this section drops normally, and then there's a part where it becomes...
+
+16
+00:01:42,799 --> 00:01:44,939
+The high part sticking out - what's that called? Sideways.
+
+17
+00:01:46,579 --> 00:01:49,140
+It's like this, right?
+
+18
+00:01:49,439 --> 00:01:55,200
+Comes down like this, and here is the consolidation zone - Sideway, see?
+
+19
+00:01:55,200 --> 00:02:00,599
+Moving Sideway like this. We'll come back to look at this part later.
+
+20
+00:02:01,120 --> 00:02:06,219
+Let's look at other examples first. Alright, now we'll see that here...
+
+21
+00:02:06,219 --> 00:02:19,360
+This candle first - it swings down and then comes back up.
+
+22
+00:02:19,360 --> 00:02:24,099
+Looking at the Action side - the side that pushed down - and Reaction going up.
+
+23
+00:02:24,419 --> 00:02:31,340
+We have Action which is this candle, but we have no Reaction at all. See?
+
+24
+00:02:31,340 --> 00:02:37,460
+Coming back, there's no candle that exceeds this axis candle going up.
+
+25
+00:02:37,460 --> 00:02:43,699
+The axis is marked here - this is the axis. There's nothing, which means price...
+
+26
+00:02:43,699 --> 00:02:47,039
+In the direction of price movement, there's no candle that made...
+
+27
+00:02:47,039 --> 00:02:50,120
+A higher high anymore. So price obviously has to...
+
+28
+00:02:50,120 --> 00:02:54,520
+Go down, that's it. No matter what, it has to drop.
+
+29
+00:02:58,199 --> 00:03:01,259
+Now when it drops, let's see if it does the same thing here.
+
+30
+00:03:01,840 --> 00:03:06,520
+See? Here it becomes... ah, I'm going to change the marker.
+
+31
+00:03:06,520 --> 00:03:10,159
+Coming up to here, this becomes the highest point.
+
+32
+00:03:10,620 --> 00:03:13,400
+And this one here, at the end of this candle...
+
+33
+00:03:13,659 --> 00:03:18,199
+This point becomes the new axis instead. See? This is the axis candle.
+
+34
+00:03:19,300 --> 00:03:25,060
+The tip - this tip here - is at the highest price of this one.
+
+35
+00:03:25,060 --> 00:03:27,099
+Mark this candle first because you can see it, see? Right here.
+
+36
+00:03:27,099 --> 00:03:35,080
+Zoom in. Which one? Right here, see?
+
+37
+00:03:35,080 --> 00:03:40,099
+The tip is here. This becomes the axis because this is the highest swing point.
+
+38
+00:03:40,439 --> 00:03:45,180
+Now we find Action and Reaction. This line - I'll make the line...
+
+39
+00:03:45,400 --> 00:03:48,439
+Change color a bit. Because if I don't change it, the lines will look the same.
+
+40
+00:03:48,439 --> 00:03:53,900
+So it's here, and looking at this side - the green side coming up...
+
+41
+00:03:54,120 --> 00:03:57,500
+Action is the green side - is there a candle that exceeds and wins? Not this one.
+
+42
+00:03:57,500 --> 00:04:03,599
+Already there. We need opposite colors - they have to be different colors.
+
+43
+00:04:03,960 --> 00:04:10,560
+But the axis can be any color. This one here - found it.
+
+44
+00:04:10,560 --> 00:04:17,579
+Draw a line at the tip here. See how this one compares to that one?
+
+45
+00:04:17,579 --> 00:04:20,980
+This one wins. See? It dropped lower, which means...
+
+46
+00:04:21,579 --> 00:04:30,920
+Action - look - Action has more power than Reaction, so it will drop...
+
+47
+00:04:30,920 --> 00:04:34,560
+Lower than this low for sure. So price just plunges down like this.
+
+48
+00:04:34,560 --> 00:04:41,240
+Breaking down, see how it just keeps going? This one tries to go up but has no strength.
+
+49
+00:04:41,240 --> 00:04:44,699
+See? Can't rally back higher than this one.
+
+50
+00:04:45,759 --> 00:04:54,319
+Not enough power to reach this zone. But the downside force says it has more power, so it just takes price down.
+
+51
+00:04:55,319 --> 00:05:04,040
+Price drops down to this point. Can it come back up and beat this one? Let's look again.
+
+52
+00:05:05,399 --> 00:05:11,699
+This is the lowest, right? Draw down to here - the lowest tip. This is the axis, correct?
+
+53
+00:05:14,160 --> 00:05:21,100
+And find its price at the tip where it bounced up - the highest one here. Mark it.
+
+54
+00:05:22,600 --> 00:05:30,899
+So let's continue looking - the Action side is this one, the opposite side...
+
+55
+00:05:32,079 --> 00:05:33,160
+Comes up about this much.
+
+56
+00:05:33,399 --> 00:05:33,600
+Right.
+
+57
+00:05:34,480 --> 00:05:43,519
+Look at this - see how it exceeds half? Comparing them, they're evenly matched, so it can't beat this High going back up.
+
+58
+00:05:43,519 --> 00:05:50,240
+These forces trying to push back up can't make it. Just gets up about this much.
+
+59
+00:05:50,240 --> 00:05:54,779
+From Season 1, if you read Momentum, you'll already see this is the mother candle.
+
+60
+00:05:56,579 --> 00:06:00,300
+Can't come in to attack or kill the mother candle here.
+
+61
+00:06:00,620 --> 00:06:02,579
+So this army wins. This is the main force.
+
+62
+00:06:02,579 --> 00:06:04,500
+These are small forces, decoy forces, medium forces.
+
+63
+00:06:04,500 --> 00:06:05,860
+Still can't make it in the end.
+
+64
+00:06:05,860 --> 00:06:07,939
+Gets beaten back every time anyway.
+
+65
+00:06:07,939 --> 00:06:09,920
+This is if you're reading momentum.
+
+66
+00:06:09,920 --> 00:06:13,120
+If you're reading purely reversal candlestick patterns...
+
+67
+00:06:13,120 --> 00:06:15,480
+Just follow this method.
+
+68
+00:06:15,779 --> 00:06:19,259
+You can call it Action Reaction or the balance scale candlestick pattern.
+
+69
+00:06:19,860 --> 00:06:22,660
+You get this characteristic. We've seen it can't win.
+
+70
+00:06:23,079 --> 00:06:25,639
+Comes up to here, then let's move and look...
+
+71
+00:06:25,639 --> 00:06:30,560
+Does it have downward momentum to continue? The red - you'll see the red is higher.
+
+72
+00:06:31,160 --> 00:06:32,540
+I'll mark at the red candle.
+
+73
+00:06:33,240 --> 00:06:41,600
+Here. Once I mark the red candle, it's at the price that came down to the red body - not the wick.
+
+74
+00:06:41,600 --> 00:06:48,839
+And look at Action versus Reaction - moving this - make this line thinner.
+
+75
+00:06:48,839 --> 00:06:55,339
+And make it a tip line. Who has a tip? Use a tip instead.
+
+76
+00:06:55,339 --> 00:07:00,480
+Like this - this is the axis. Find the Action and Reaction buying - where is it?
+
+77
+00:07:02,199 --> 00:07:05,240
+The one exceeding on this side - this one doesn't count because it's absorbed...
+
+78
+00:07:05,240 --> 00:07:08,180
+Combined power with this one - it doesn't exceed.
+
+79
+00:07:08,180 --> 00:07:13,019
+This one exceeds, right? Count this one. Once we count it, draw a line.
+
+80
+00:07:16,060 --> 00:07:19,120
+Like this here. See how this red candle wins?
+
+81
+00:07:19,120 --> 00:07:24,480
+Which means Action force is higher, so it can break through this low going down.
+
+82
+00:07:24,480 --> 00:07:27,819
+It can break lower, so it does. Now if you're trading and you see this...
+
+83
+00:07:28,519 --> 00:07:34,240
+Instead of waiting to buy, waiting to find the buy point for a reversal, you can just follow the steps.
+
+84
+00:07:34,240 --> 00:07:40,000
+Following the steps means - let's say you saw it from which point...
+
+85
+00:07:40,000 --> 00:07:44,600
+At this point you're not sure if it will come back up, but once you see the signal here...
+
+86
+00:07:45,220 --> 00:07:49,420
+You can sell going down. And where do you place stop loss? Right here.
+
+87
+00:07:50,160 --> 00:07:54,360
+It flows down. Comes back up here - add more sells if you want, stop loss stays here.
+
+88
+00:07:56,199 --> 00:08:00,379
+Sell - it keeps selling down. Price keeps dropping because we know it will drop.
+
+89
+00:08:00,379 --> 00:08:06,980
+Because we measured the force we saw from this pattern. So it drops...
+
+90
+00:08:06,980 --> 00:08:14,160
+Down to here, down to here, then we look again. Which one becomes the new axis?
+
+91
+00:08:14,160 --> 00:08:18,180
+The lowest one is this one. See?
+
+92
+00:08:18,180 --> 00:08:23,300
+Find both prices - where's the tip here? This one. Check Action versus Reaction again.
+
+93
+00:08:23,300 --> 00:08:29,680
+Coming across to the edge. See how Action - that's right...
+
+94
+00:08:29,680 --> 00:08:34,620
+Price dropping down like this - this one here. Is there any Reaction going up?
+
+95
+00:08:34,620 --> 00:08:37,580
+Not a single winning candle here. So...
+
+96
+00:08:38,419 --> 00:08:43,120
+Price has no way to fight back and go up. No way to reverse higher.
+
+97
+00:08:43,120 --> 00:08:46,559
+It has to continue down. So it gradually seeps down further like this.
+
+98
+00:08:46,559 --> 00:08:50,600
+Until reaching this point again - it's a swing point. We're tracking swings continuously like this.
+
+99
+00:08:51,720 --> 00:08:55,620
+This swing has no upward momentum. See? It has Action but...
+
+100
+00:08:55,620 --> 00:08:59,759
+The Reaction force - meaning the bounce back or counter-reaction reflecting back...
+
+101
+00:08:59,759 --> 00:09:02,299
+Has no power. Can't reflect back out.
+
+102
+00:09:02,480 --> 00:09:06,480
+So it must follow the same direction - the Trend, following its Trend.
+
+103
+00:09:06,799 --> 00:09:09,899
+Which is downtrend. Because what does it make?
+
+104
+00:09:12,080 --> 00:09:22,679
+High, Low, Lower High, Lower Low, Lower High, Lower Low, Lower High, Lower Low.
+
+105
+00:09:23,200 --> 00:09:26,379
+In one direction - becoming a staircase stepping down continuously.
+
+106
+00:09:26,379 --> 00:09:29,480
+Until meeting this one. This one stands out.
+
+107
+00:09:30,379 --> 00:09:34,240
+Gets a new axis as this one. And is it at an important zone?
+
+108
+00:09:34,820 --> 00:09:42,480
+This is important support here because it connects with a previous point.
+
+109
+00:09:42,940 --> 00:09:44,799
+Bounces up from there - worth watching.
+
+110
+00:09:45,700 --> 00:09:51,740
+So - is it important support? Let's use it, consider it.
+
+111
+00:09:51,740 --> 00:09:59,980
+Coming down - marking the lowest point here. At...
+
+112
+00:09:59,980 --> 00:10:04,500
+Its tip here. And looking left and right - this one exceeds by a full candle.
+
+113
+00:10:04,500 --> 00:10:08,259
+Half of it is here. So this one exceeds - mark it first.
+
+114
+00:10:09,860 --> 00:10:14,879
+Like this. And this side - does this candle count? This one. See - it exceeds...
+
+115
+00:10:15,259 --> 00:10:19,899
+Half should be about here, but this doesn't reach. Which means its force...
+
+116
+00:10:19,899 --> 00:10:23,200
+These two are basically the same. They're absorbing each other's energy.
+
+117
+00:10:23,200 --> 00:10:28,019
+So we have to count this one. Count this one. There's a line - where'd the line go?
+
+118
+00:10:28,879 --> 00:10:39,580
+Three lines. Get another one. See? This one can beat that one.
+
+119
+00:10:39,580 --> 00:10:44,559
+This one. Comparing this to that one - this is higher. Close is higher.
+
+120
+00:10:45,039 --> 00:10:51,860
+The candle is higher. So in a Reaction scenario, it has more power.
+
+121
+00:10:52,500 --> 00:10:56,740
+It's starting already - this one has more power compared to that one. See?
+
+122
+00:10:57,980 --> 00:11:03,379
+Stronger than this one. Stronger than the previous one that had no Reaction side at all.
+
+123
+00:11:03,379 --> 00:11:07,320
+Which means this has higher power. So the High around this area...
+
+124
+00:11:07,500 --> 00:11:13,240
+Will be hit. Has a chance to be hit. So price can go above it.
+
+125
+00:11:13,500 --> 00:11:15,679
+Yeah. So price will run and rise up.
+
+126
+00:11:15,679 --> 00:11:23,159
+Gradually going up, and eventually comes above it for real. And consolidates. See? Consolidates then makes a new swing.
+
+127
+00:11:23,840 --> 00:11:31,700
+Look again. Check this new point - will price continue or will it drop like this? Here, clear this first.
+
+128
+00:11:41,720 --> 00:11:52,100
+So which one becomes the axis? Going down - swinging, following this. Use this one as the axis.
+
+129
+00:11:55,159 --> 00:12:01,220
+Following here, see? Balance scale. Get the balance scale shape? Go to the tip, body only.
+
+130
+00:12:05,059 --> 00:12:10,240
+At the red. This is Action, this is Reaction. See how Reaction wins? See?
+
+131
+00:12:10,240 --> 00:12:13,820
+So price continues up. The High is here already.
+
+132
+00:12:16,580 --> 00:12:20,159
+High is here. See? The connection zone like this.
+
+133
+00:12:22,019 --> 00:12:25,919
+Price rallies from here upward, running up.
+
+134
+00:12:26,600 --> 00:12:31,000
+Because here the Reaction force is higher - this is...
+
+135
+00:12:31,460 --> 00:12:38,080
+Action and Reaction. This one pushes through up, until beating this High.
+
+136
+00:12:41,000 --> 00:12:47,080
+Can it continue? Already beat the High. I said it can reach the High.
+
+137
+00:12:47,580 --> 00:12:52,740
+As for whether it consolidates after reaching the High - like this point where it beat the High then consolidated and continued...
+
+138
+00:12:52,740 --> 00:12:56,799
+Or consolidates then reverses - either is possible. We have to consider.
+
+139
+00:12:57,679 --> 00:13:02,820
+What price is hinting to us - this one, the highest is here.
+
+140
+00:13:02,820 --> 00:13:10,299
+Draw up to here, see? The highest point is here - this red candle is the axis candle.
+
+141
+00:13:10,299 --> 00:13:14,220
+See the axis candle? Look left and right the same way - looking to the left...
+
+142
+00:13:15,000 --> 00:13:21,340
+This candle no, no, no - this candle, see? Coming up, mark at this candle.
+
+143
+00:13:21,899 --> 00:13:31,840
+And looking at the right side - this is Action. Now we find the Reaction side. See? Reaction dropped, coming down this much.
+
+144
+00:13:32,320 --> 00:13:40,620
+Strong? Very strong. Came up very strong. This one said it can go up, and it did go up already. Did its job here.
+
+145
+00:13:41,000 --> 00:13:45,679
+But coming down, comparing forces with this one - looking at power, it's much higher than this.
+
+146
+00:13:45,679 --> 00:13:50,299
+So it pushes and slaps price down quite hard like this.
+
+147
+00:13:50,559 --> 00:13:54,179
+It might not just pullback and continue - it drops hard like this.
+
+148
+00:13:55,120 --> 00:13:58,779
+Drops hard, drops long and easy, almost breaks through support.
+
+149
+00:13:59,019 --> 00:14:02,500
+Broke already - yeah broke already, actually broke down. Because this one has way more strength.
+
+150
+00:14:03,740 --> 00:14:07,159
+Comparing both sides' power - between this one going up and this one going down...
+
+151
+00:14:07,159 --> 00:14:09,879
+This one has more power. See?
+
+152
+00:14:11,720 --> 00:14:14,539
+Geography is sensitive here - they win by just a little, see?
+
+153
+00:14:14,779 --> 00:14:16,860
+Win by just a little between this green and this red.
+
+154
+00:14:18,000 --> 00:14:24,259
+But this balance scale - this red versus this green - wins by a lot.
+
+155
+00:14:24,259 --> 00:14:28,759
+So this one's downward force is much stronger. Takes it down like this.
+
+156
+00:14:29,340 --> 00:14:33,059
+Once it takes it down like this, we continue watching. Clear these markers first.
+
+157
+00:14:39,580 --> 00:14:43,740
+It becomes this point. We draw across - there. Like this.
+
+158
+00:14:43,740 --> 00:14:48,200
+This one becomes the new balance scale, new axis balance scale.
+
+159
+00:14:51,679 --> 00:14:57,559
+Mark around this area. See anything? Looking back at this side - can use this one.
+
+160
+00:14:57,559 --> 00:15:02,059
+This is the Action side. And Reaction? Does it exceed half?
+
+161
+00:15:02,059 --> 00:15:07,399
+This one exceeds half, but loses to this one. See?
+
+162
+00:15:07,399 --> 00:15:13,720
+This pattern loses to this one. So it can't beat this High.
+
+163
+00:15:13,720 --> 00:15:27,000
+And it keeps dropping, dropping, dropping...
+
+164
+00:15:27,980 --> 00:15:33,220
+Gets this candle - this one. Red here - not this red.
+
+165
+00:15:33,220 --> 00:15:36,700
+This red. Small red - small because it already gave away half. Already gave away...
+
+166
+00:15:36,700 --> 00:15:40,519
+Half already. But where's the green? Green gets here. Does it have strength? Yes.
+
+167
+00:15:40,519 --> 00:15:56,980
+Stronger. See? So it will make a higher high.
+
+168
+00:15:56,980 --> 00:16:04,360
+Talking about reversal points - reversal points look like this.
+
+169
+00:16:04,360 --> 00:16:07,740
+Reversal point like this, see? Violent - going up fine then slaps down.
+
+170
+00:16:08,419 --> 00:16:12,539
+Ends in Sideway like this, then we'll talk later. This one - downtrend coming down long.
+
+171
+00:16:13,019 --> 00:16:18,460
+Meets this point, it reverses upward. Reverse in terms of becoming an uptrend going up.
+
+172
+00:16:19,379 --> 00:16:24,019
+See the subtraction? All gone. Now it's an uptrend.
+
+173
+00:16:24,019 --> 00:16:27,600
+Coming up, coming up long. Starting from here.
+
+174
+00:16:27,600 --> 00:16:30,820
+Coming up like this, then it flips back, right? Flips back to being like this.
+
+175
+00:16:31,200 --> 00:16:36,860
+Same thing. We look at it the same way. We find...
+
+176
+00:16:36,860 --> 00:16:41,860
+Following this - it will have... from the lowest point inside...
+
+177
+00:16:44,879 --> 00:16:48,899
+If counting, this one might be the one that broke through the swing.
+
+178
+00:16:48,899 --> 00:16:50,480
+But we don't use it. It's not a swing point.
+
+179
+00:16:50,480 --> 00:16:53,659
+It's not the characteristic of down then up.
+
+180
+00:16:54,019 --> 00:16:58,440
+It's just one of the candlestick formations along the way, this one.
+
+181
+00:17:01,019 --> 00:17:05,700
+Actually it might be this one. Use this one - we look at both sides.
+
+182
+00:17:06,980 --> 00:17:16,579
+Comparing them. What we get is the red candle - gets this whole side.
+
+183
+00:17:16,960 --> 00:17:20,779
+Red is this one. Green is this one. See how they can't compete?
+
+184
+00:17:21,420 --> 00:17:26,140
+This is High-derm - it can't Hi-derm through immediately.
+
+185
+00:17:26,680 --> 00:17:31,539
+See how it reaches then pullbacks down to consolidate here?
+
+186
+00:17:31,539 --> 00:17:37,640
+So the axis would be here. Price continues going up.
+
+187
+00:17:38,660 --> 00:17:43,759
+The Action side - red - versus Reaction side - green - doesn't exceed.
+
+188
+00:17:43,759 --> 00:17:48,339
+Half of it is at the midpoint. This one is at the midpoint, half.
+
+189
+00:17:48,339 --> 00:17:51,960
+Maybe doesn't quite reach, so doesn't count. We count this one. See? It can continue.
+
+190
+00:17:51,960 --> 00:17:54,259
+So it can make a higher high than this High.
+
+191
+00:17:54,259 --> 00:17:56,039
+Which means price will continue running.
+
+192
+00:17:56,039 --> 00:17:58,880
+Now we start seeing Trend because it's starting to become Low...
+
+193
+00:18:01,240 --> 00:18:04,740
+High-Low and got High-High going up already. See?
+
+194
+00:18:04,740 --> 00:18:08,099
+Going up, going up long.
+
+195
+00:18:09,940 --> 00:18:12,400
+Actually, we can compare many things. Measuring force...
+
+196
+00:18:12,400 --> 00:18:16,700
+Here is less, here is more. Measuring force here compared to...
+
+197
+00:18:16,700 --> 00:18:19,619
+Here - more. Because, see how it ran...
+
+198
+00:18:20,500 --> 00:18:35,619
+Further. This is one part - there's a clue, a hint.
+
+199
+00:18:35,619 --> 00:18:38,460
+Sitting and reading candle tiers like this can be tiring.
+
+200
+00:18:38,460 --> 00:18:40,240
+You find this period is very important anyway.
+
+201
+00:18:40,240 --> 00:18:42,079
+This one - let's be careful with this.
+
+202
+00:18:42,319 --> 00:18:45,940
+For those who studied Season 2 already - you can see the future here.
+
+203
+00:18:45,940 --> 00:18:49,680
+From this point to here, you already know where price will go next, approximately.
+
+204
+00:18:49,680 --> 00:18:51,500
+Very clearly.
+
+205
+00:18:52,240 --> 00:18:53,119
+Very clearly.
+
+206
+00:18:55,400 --> 00:18:57,119
+Price runs up to here.
+
+207
+00:18:57,119 --> 00:19:02,839
+And we move on, move on, move on - it becomes this point.
+
+208
+00:19:03,259 --> 00:19:09,940
+See? Here. Comparing them. It dropped momentarily, but actually this one...
+
+209
+00:19:09,940 --> 00:19:14,140
+Looks more like this one. But remember, whatever technique...
+
+210
+00:19:14,140 --> 00:19:25,559
+We've talked about - on the day they learned up to...
+
+211
+00:19:25,559 --> 00:19:29,180
+Higher Low. When it reaches this point, we don't know yet. It might continue dropping.
+
+212
+00:19:29,180 --> 00:19:32,400
+We might be looking at the chart. Let's say we don't know yet. We see this shape...
+
+213
+00:19:32,779 --> 00:19:36,000
+Hey, will it slap down to here? It has a chance.
+
+214
+00:19:36,420 --> 00:19:39,259
+But it doesn't slap - it comes down here then bounces back up like this.
+
+215
+00:19:39,259 --> 00:19:43,799
+We have to reconsider. Reconsider.
+
+216
+00:19:44,420 --> 00:19:47,420
+After reconsidering, it still doesn't look strong. Here it can only go up a little.
+
+217
+00:19:47,420 --> 00:19:53,420
+Compared to here it went up a lot. See here? Do you see the Action and Reaction here?
+
+218
+00:19:54,059 --> 00:20:00,240
+Coming down to here already. This green candle works. This red wins. Action wins, Reaction is small.
+
+219
+00:20:00,240 --> 00:20:04,579
+So it shouldn't go far. But it might... it might break through. It shouldn't break though.
+
+220
+00:20:04,579 --> 00:20:08,319
+But it does break. What shouldn't happen, but does happen...
+
+221
+00:20:08,319 --> 00:20:12,019
+What will happen next is - it will get pushed back down harder than before.
+
+222
+00:20:12,339 --> 00:20:15,900
+Like this. It doesn't just consolidate and continue.
+
+223
+00:20:15,900 --> 00:20:25,720
+It comes up, breaks this High - true. Breaks it - true. But eventually price gets pushed back down lower than before. See?
+
+224
+00:20:26,119 --> 00:20:31,119
+It shouldn't have made it, but it did. So it will be pushed back down harder than before anyway.
+
+225
+00:20:32,920 --> 00:20:37,819
+From the signals we read. This will slap hard because we'll see signals here already.
+
+226
+00:20:37,819 --> 00:20:43,980
+The axis. Balance scale on the other side - it slaps down on this side. Looking at this side...
+
+227
+00:20:44,619 --> 00:20:49,200
+It would be moved here, right? This is it. This side - is there anything?
+
+228
+00:20:52,119 --> 00:20:58,519
+Nothing at all. So price can't. It's hard to push through...
+
+229
+00:21:02,740 --> 00:21:06,859
+Through this zone easily. And it doesn't go through at all. See?
+
+230
+00:21:06,859 --> 00:21:11,400
+Goes up then down, down, down. Goes up then down. But gradually lifting up.
+
+231
+00:21:11,799 --> 00:21:19,740
+We gradually measure its force continuously. This point. Coming to this point.
+
+232
+00:21:19,740 --> 00:21:23,819
+Thinking red versus green - lower. Red is lower. The red one...
+
+233
+00:21:31,279 --> 00:21:34,380
+This one exceeds toward the direction. Count this one. Don't count that one. Count this.
+
+234
+00:21:35,000 --> 00:21:39,099
+And look at the green. This one doesn't count - they're absorbing each other. Same group.
+
+235
+00:21:39,099 --> 00:21:40,859
+This one breaks out quite a bit.
+
+236
+00:21:40,859 --> 00:21:43,859
+From previously small, becoming big like this.
+
+237
+00:21:43,859 --> 00:22:01,099
+So the chance to continue running until breaking through here, making a new High...
+
+238
+00:22:01,099 --> 00:22:03,759
+It still goes up. Once it goes up...
+
+239
+00:22:05,299 --> 00:22:07,480
+Then we look at the next point again.
+
+240
+00:22:08,339 --> 00:22:10,819
+This is an uptrend candle - this one is the center.
+
+241
+00:22:12,960 --> 00:22:14,460
+Right here. Mark at this point.
+
+242
+00:22:15,299 --> 00:22:16,539
+So this side - what do we count?
+
+243
+00:22:16,539 --> 00:22:19,940
+Count this one, right? Green is Action, and red is Reaction.
+
+244
+00:22:20,359 --> 00:22:21,000
+It's small.
+
+245
+00:22:22,119 --> 00:22:25,579
+It's small. So it might drop a bit then continue.
+
+246
+00:22:25,920 --> 00:22:26,079
+Coming...
+
+247
+00:22:26,940 --> 00:22:42,920
+So it drops down but can't go lower than the previous low because Reaction is small. This side has small Reaction, so it pullbacks down but can't go lower than the previous low. It becomes this low - it doesn't go lower. Comes down about this much. Still lifting - the low keeps lifting up like this.
+
+248
+00:22:43,519 --> 00:22:45,319
+Higher Low, Higher Low, Higher Low.
+
+249
+00:22:47,019 --> 00:22:49,220
+But what we'll see next is...
+
+250
+00:22:49,220 --> 00:22:50,859
+From this point onward...
+
+251
+00:22:51,119 --> 00:22:53,799
+The uptrend from here on...
+
+252
+00:22:53,799 --> 00:22:57,079
+It's stuck - no Reaction force anymore.
+
+253
+00:22:57,079 --> 00:23:00,700
+Coming down like this - no more Reaction.
+
+254
+00:23:01,079 --> 00:23:03,619
+Becomes having Action but Reaction side, see?
+
+255
+00:23:03,619 --> 00:23:05,140
+No green candle exceeding this one.
+
+256
+00:23:05,140 --> 00:23:08,380
+Going up - just one tiny bit. Nothing.
+
+257
+00:23:08,799 --> 00:23:12,299
+It won't be like when it was coming up during this period - wherever you touch...
+
+258
+00:23:12,299 --> 00:23:17,640
+There's still green. Even if it had little power - Reaction small means returns are small, or can't push through...
+
+259
+00:23:17,640 --> 00:23:21,039
+Then has to come down to form again. It will have its patterns continuously.
+
+260
+00:23:21,039 --> 00:23:26,019
+Like this side, like this pattern, see? This red one - it's very similar to this.
+
+261
+00:23:26,019 --> 00:23:30,319
+See this red? Is there a green mark? No. So it doesn't push through.
+
+262
+00:23:30,599 --> 00:23:51,019
+Actually this one might be indicating that the trend is about to end.
+
+263
+00:23:51,019 --> 00:23:56,759
+It's forcing it. Forcing already. Same here - looks like it should've ended here.
+
+264
+00:23:58,619 --> 00:24:04,059
+From Season 2 perspective, you'll already see it should've ended here. Should've dropped from here.
+
+265
+00:24:04,259 --> 00:24:09,759
+If we read the chart, it should start dropping. But it's forcing, it goes up.
+
+266
+00:24:12,420 --> 00:24:15,279
+Was there a signal to go up? Yes there was. We just looked at it.
+
+267
+00:24:15,279 --> 00:24:19,079
+Just now it just said - hey, it can go up, there's still upward momentum. So it went up.
+
+268
+00:24:19,079 --> 00:24:23,740
+Eventually it drops. Once it drops, it starts saying can't go up anymore.
+
+269
+00:24:23,740 --> 00:24:27,059
+It will repeat the pattern around here. Can't do it.
+
+270
+00:24:27,579 --> 00:24:29,779
+But it forms again until it says it can.
+
+271
+00:24:29,779 --> 00:24:35,660
+And let's see if it can form again here. It drops down, down, down...
+
+272
+00:24:36,059 --> 00:24:36,400
+There.
+
+273
+00:24:40,599 --> 00:24:47,420
+We count this one and this one. This one - not that one.
+
+274
+00:24:47,900 --> 00:24:52,099
+See this one? It already exceeded. Its open and close are here.
+
+275
+00:24:52,099 --> 00:24:58,299
+Its body is smaller than this one. So it has less strength...
+
+276
+00:24:58,299 --> 00:25:04,359
+To push through to here. And it gets trapped back down like this. See?
+
+277
+00:25:04,359 --> 00:25:08,019
+It has its signals telling us continuously like this. This is reading for...
+
+278
+00:25:10,460 --> 00:25:16,059
+Reversals. Like this - let's look at its shape. If it's a Pattern, you'll see...
+
+279
+00:25:16,819 --> 00:25:21,680
+It has characteristics kind of cutting out like this.
+
+280
+00:25:23,279 --> 00:25:26,839
+If you draw it, what does it look like? It's like Head and Shoulders.
+
+281
+00:25:27,339 --> 00:25:30,980
+See? And we've studied this already.
+
+282
+00:25:32,440 --> 00:25:37,160
+When dropping here, there has to be a candlestick pattern or balance scale pattern...
+
+283
+00:25:37,160 --> 00:25:41,440
+That says Reaction has downward force, strong enough to push down. Which pattern?
+
+284
+00:25:42,359 --> 00:25:45,960
+This pattern, right? Where it will bounce back up. At this point.
+
+285
+00:25:47,359 --> 00:25:52,059
+And the red is more than the green side. This one is quite a lot.
+
+286
+00:25:52,059 --> 00:25:57,240
+Eventually it takes price down with this much force. And just like we read earlier...
+
+287
+00:25:57,240 --> 00:26:02,559
+It continues on and on, long, until it breaks and changes trend direction like this.
+
+288
+00:26:02,559 --> 00:26:10,619
+This one is about Sideway. So about that much should be enough to understand first.
+
+289
+00:26:11,039 --> 00:26:17,779
+As for this part - if we look at when it was trending up, we drew earlier that it was support, right?
+
+290
+00:26:18,160 --> 00:26:25,339
+What pattern do we see? Like this. See? It has characteristics of Double Bottom.
+
+291
+00:26:25,779 --> 00:26:35,740
+The first Bottom point - first point - force wasn't enough to push through. Had to come make a second force with more strength.
+
+292
+00:26:35,740 --> 00:26:40,160
+Just barely pushes through. It hints like this. The balance scale hints like this.
+
+293
+00:26:40,160 --> 00:26:45,380
+You sit and read it like this. Same here. This point - not enough force to push down.
+
+294
+00:26:45,619 --> 00:26:50,500
+This point - not enough force to push down. But the last one has the most force. So it pushes down.
+
+295
+00:26:50,500 --> 00:26:53,240
+It's like this. Because we read them together.
+
+296
+00:26:53,240 --> 00:26:56,079
+This one we read just the candlesticks, the balance scale pattern only.
+
+297
+00:26:56,079 --> 00:26:59,220
+The Action and Reaction pattern. If you try reading with Momentum...
+
+298
+00:26:59,220 --> 00:27:03,099
+And theory, and principles from Season 2 combined...
+
+299
+00:27:03,099 --> 00:27:20,480
+Even clearer - you'll see the chart picture even more clearly.
+
+300
+00:27:20,960 --> 00:27:23,839
+Your entry points - you'll get them already. Forgot to talk about entry points.
+
+301
+00:27:24,380 --> 00:27:26,140
+When you enter, you just let it flow continuously...
+
+302
+00:27:26,140 --> 00:27:29,640
+Until you find... until you find...
+
+303
+00:27:31,640 --> 00:27:34,380
+What I said will drop hard.
+
+304
+00:27:34,380 --> 00:27:36,700
+Let's say you buy, right? You buy. Here you buy.
+
+305
+00:27:36,700 --> 00:27:39,400
+You just let it flow continuously. Either way, weigh it.
+
+306
+00:27:39,400 --> 00:27:43,279
+Until you find the point it tells you - the other side becomes a balance scale that says...
+
+307
+00:27:43,279 --> 00:27:46,799
+Will drop hard. Then you exit. Exit slowly.
+
+308
+00:27:47,680 --> 00:27:51,079
+Stop Loss would be here. Take Profit or Exit...
+
+309
+00:27:51,079 --> 00:27:55,259
+Is about here. If you Buy - if you Sell, you Sell...
+
+310
+00:27:55,259 --> 00:27:59,740
+But here. We let it flow continuously until you find the point it says...
+
+311
+00:28:00,000 --> 00:28:02,980
+Won't drop anymore. There's opposite force going up.
+
+312
+00:28:03,539 --> 00:28:07,400
+Then exit. That's it - just let it flow easily like this. That's all.
+
+313
+00:28:07,799 --> 00:28:11,119
+We look at 3 candles, right?
+
+314
+00:28:11,720 --> 00:28:15,420
+Some people don't understand. Let's say...
+
+315
+00:28:15,420 --> 00:28:19,599
+You'll Buy. Buy - now we have to...
+
+316
+00:28:19,599 --> 00:28:22,240
+Wait for all 3, right?
+
+317
+00:28:23,279 --> 00:28:27,359
+Have to wait for 3. So if we Buy, we'll buy - the 4th candle, this zone.
+
+318
+00:28:28,059 --> 00:28:35,119
+This whole area where we can buy - let price run up until meeting a new pattern we mentioned...
+
+319
+00:28:35,119 --> 00:28:41,759
+That might not be trustworthy anymore, better to exit. Same thing. If you'll Sell going down...
+
+320
+00:28:42,599 --> 00:28:47,599
+Which candle? This pattern, right? Right here.
+
+321
+00:28:50,259 --> 00:28:54,380
+Count this one. Not dropping hard yet. Comes back up, this zone.
+
+322
+00:28:54,380 --> 00:28:59,700
+Drops hard - if counting this one. After this candle - half the zone of this whole candle...
+
+323
+00:28:59,700 --> 00:29:04,559
+You can sell anywhere in this range. This area.
+
+324
+00:29:05,019 --> 00:29:09,920
+This area approximately. I count from half of this candle.
+
+325
+00:29:09,920 --> 00:29:14,859
+This red candle here. Because price retraces up, swings up within the red candle zone...
+
+326
+00:29:15,759 --> 00:29:18,799
+All of it - can sell to let it flow down. Same here.
+
+327
+00:29:19,220 --> 00:29:23,259
+Would be around this green candle, right? This green doesn't push through.
+
+328
+00:29:23,259 --> 00:29:29,539
+And we count this green candle - half of it - to catch.
+
+329
+00:29:30,099 --> 00:29:34,099
+The upper half, to be sure.
+
+330
+00:29:37,980 --> 00:29:40,319
+Price in this zone - you buy going up.
+
+331
+00:29:40,700 --> 00:29:43,619
+Let it go until meeting the one that reverses back. That's it.
+
+332
+00:29:44,759 --> 00:29:47,099
+That's it. The order entry method is very simple.
+
+333
+00:29:47,099 --> 00:29:51,880
+If using the balance scale principle, or Action Reaction...
+
+334
+00:29:51,880 --> 00:29:56,519
+Just look at this - did you find the reversal reflection yet?
+
+335
+00:29:57,279 --> 00:30:00,460
+Let it flow continuously. However it goes, doesn't matter.
+
+336
+00:30:02,079 --> 00:30:05,599
+Until it meets one with equal force - that says Reaction looks strong already.
+
+337
+00:30:05,900 --> 00:30:10,799
+Exit. Entry - you enter, and it just flows continuously like this.
+
+338
+00:30:11,119 --> 00:30:15,500
+You apply or combine this with understanding from Season 1...
+
+339
+00:30:16,400 --> 00:30:26,500
+Those who studied the bonus already - that's another part.
+
+340
+00:30:26,960 --> 00:30:30,039
+About Sideway or consolidation.

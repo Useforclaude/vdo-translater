@@ -1,0 +1,162 @@
+================================================================================
+SS1.5 EP-05 - PASS 1 CONTEXT SUMMARY (FINAL EPISODE!)
+================================================================================
+Created: 2025-10-18
+Method: Two-Pass Translation (Mandatory)
+Purpose: Full document understanding BEFORE translation begins
+
+================================================================================
+TOPIC: STOCK MARKET APPLICATION - APPLE CHART ANALYSIS
+================================================================================
+
+Main Teaching Focus:
+- Demonstrating Action/Reaction works with stocks (not just Forex)
+- Apple stock chart analysis
+- Comparing three-peak patterns (why one breaks up, one breaks down)
+- Market application across different instruments
+
+Context: This is the FINAL episode showing that the same techniques
+apply to stocks, crypto (Bitcoin), and all markets.
+
+================================================================================
+TEACHING TONE
+================================================================================
+
+Conversational Level: MODERATE (less casual than EP-04)
+- นะ: 82x (moderate, down from 255x in EP-04!)
+- ครับ: 51x (moderate, down from 166x in EP-04!)
+- เลย: 38x (moderate)
+- เนี้ย: 4x (minimal)
+- แหละ: 3x (minimal)
+- ซะ: 1x (minimal)
+
+Teaching Style:
+- Demonstrative ("Let's look at...", "See?")
+- Comparative analysis (comparing two similar chart patterns)
+- Patient explanation with visual references ("ตรงนี้", "อันนี้")
+- Wrapping up the series with practical examples
+
+================================================================================
+KEY FOREX/TRADING TERMS (Keep in English)
+================================================================================
+
+Technical Terms:
+- Action (10x) - upward price movement
+- Reaction (14x) - downward price movement
+- swing (สวิง, 8x) - swing points
+- High (ไฮ) - peak
+- Low (โล) - trough
+- Triple top (สามยอด) - three-peak pattern
+- Support (แนวรับ) - support level
+- Resistance (แนวต้าน) - resistance level
+- Breakout (หลุด, เบรก) - price breaks through level
+- Rally (rally) - strong upward move
+- Momentum (โมเมนตัม) - price momentum
+
+Market Terms:
+- หุ้น → stocks (4x)
+- Apple → Apple stock (1x)
+- Bitcoin/Crypto → Bitcoin/cryptocurrency
+- Candlestick (แท่งเทียน) - candlestick chart
+
+Pattern Terms:
+- Three peaks (สามยอด) - triple top pattern
+- Quasi-cycle (quasi-cycle) - cycle wave
+- Higher High, Lower Low (HIGH-LOW) - trend structure
+- Sideways (Sideways) - consolidation
+
+================================================================================
+METAPHORS & COLLOQUIALISMS
+================================================================================
+
+Natural Speech Patterns:
+- "เดี๋ยวมาดู" → "Let's take a look"
+- "มันก็ใช้ได้" → "it works the same way"
+- "เห็นไหม" / "เห็นมั้ย" → "see?" / "you see?"
+- "ตรงนี้" → "here" / "at this point"
+- "อันนี้" / "ตัวนี้" → "this one"
+- "สูสี" → "evenly matched" / "neck and neck"
+- "ชนะ" (win) → "breaks through" / "overcomes"
+- "วิ่งขึ้น/ลง" (run up/down) → "moves up/down" / "runs up/down"
+
+Force/Power Metaphors:
+- "กำลังมันเยอะ" → "has strong force" / "strong momentum"
+- "แรงเยอะ" → "strong force"
+- "พอไหม/ไม่พอ" → "enough/not enough force"
+- "ตบลง" → "slams down" / "drops hard"
+
+Visual References:
+- "ตรงนี้" (this point) - appears frequently, referring to chart points
+- "อันนี้กับอันนี้" → "this one versus this one"
+- "ดูตรงนี้" → "look at this point"
+
+================================================================================
+DOCUMENT STRUCTURE
+================================================================================
+
+Segment Range | Content Focus
+--------------|--------------------------------------------------
+1-50          | Intro: Apple stock chart setup, three-peak comparison
+51-100        | First three-peak pattern analysis (breaks up)
+101-150       | Second three-peak pattern analysis (breaks down)
+151-180       | Bitcoin example, demonstrating universality
+181-210       | Conclusion: Techniques work across all markets
+
+Teaching Flow:
+1. Introduction: Show two similar patterns with different outcomes
+2. Pattern 1 Analysis: Why this three-peak broke upward
+3. Pattern 2 Analysis: Why this three-peak broke downward
+4. Cross-market validation: Bitcoin, stocks, forex all work
+5. Summary: Mastering these secrets gives trading edge
+
+================================================================================
+TRANSLATION RULES (MUST FOLLOW)
+================================================================================
+
+1. **Remove ALL Thai particles** (นะ, ครับ, เลย, เนี้ย, แหละ, ซะ)
+2. **Keep technical terms in English** (Action, Reaction, swing, High, Low)
+3. **Natural human tone** (Rule #13) - conversational, not robotic
+4. **Preserve timestamps exactly** - critical for SRT generation
+5. **Context-aware idiom translation** - never literal
+6. **Visual references natural** - "here", "at this point", not "at this"
+7. **Demonstrative language** - "Let's look", "See?", "Watch this"
+
+================================================================================
+SPECIAL CHARACTERISTICS OF THIS EPISODE
+================================================================================
+
+1. **Final Episode** - Wraps up the series with practical examples
+2. **Cross-Market Focus** - Shows techniques work on stocks, crypto, forex
+3. **Comparative Teaching** - Two similar patterns, different outcomes
+4. **Visual-Heavy** - Many chart references ("ตรงนี้" appears constantly)
+5. **Moderate Particle Count** - Less casual than EP-04, more professional tone
+6. **Shorter Duration** - ~18 minutes (vs. 43 minutes for EP-04 Part 2)
+7. **Conclusion Tone** - Summarizing learned concepts, encouraging practice
+
+================================================================================
+TRANSLATION STRATEGY
+================================================================================
+
+Pass 2 Approach:
+- Translate segments 1-210 with full context awareness
+- Maintain visual reference clarity ("here" vs. "this point")
+- Keep comparative language natural ("this one went up, this one went down")
+- Preserve teaching enthusiasm for series conclusion
+- Ensure technical term consistency with previous episodes
+
+Expected Challenges:
+- Many visual references ("ตรงนี้", "อันนี้") - need natural English flow
+- Comparative analysis - keep clear which pattern is being discussed
+- Technical accuracy - Action/Reaction force comparisons
+
+Expected Duration of Pass 2: ~60-90 minutes (210 segments)
+
+================================================================================
+READY FOR PASS 2: CONTEXT-AWARE TRANSLATION
+================================================================================
+
+All context loaded. Dictionary terms identified. Ready to translate!
+
+Next: Translate segments 1-210 using this context summary.
+Then: Generate SRT file.
+Finally: Update checkpoint to mark project 100% COMPLETE!

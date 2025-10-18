@@ -1,0 +1,751 @@
+1
+00:00:00,000 --> 00:00:06,240
+Alright, Episode 2! We already know we're comparing this to a balance scale, right? So how many patterns does a balance scale have?
+
+2
+00:00:06,759 --> 00:00:29,980
+When I say "patterns," I don't mean what it looks like - I mean the different ways this balance scale can measure forces. What kind of readings can we get?
+
+3
+00:00:29,980 --> 00:00:34,939
+Basically, one side starts having more weight than the other.
+
+4
+00:00:35,719 --> 00:00:37,380
+And then we get a second scenario like this.
+
+5
+00:00:37,380 --> 00:00:38,359
+What's this side?
+
+6
+00:00:38,840 --> 00:00:39,799
+Which side is this?
+
+7
+00:00:40,439 --> 00:00:45,659
+Action and Reaction - what is this side?
+
+8
+00:00:45,659 --> 00:00:50,899
+Action is stronger - the Action force is greater than the Reaction force.
+
+9
+00:00:51,979 --> 00:00:54,119
+This one's balanced. Pattern one - already covered.
+
+10
+00:00:54,799 --> 00:01:03,840
+Pattern two and pattern three. Pattern three is basically - yeah - Action and Reaction, what's this side?
+
+11
+00:01:03,840 --> 00:01:08,459
+Reaction has the stronger force. Now I'm talking about just one direction here.
+
+12
+00:01:08,459 --> 00:01:16,260
+Like a downtrend - coming down, down, down, and then you see this pattern - a group of candlesticks forming.
+
+13
+00:01:16,799 --> 00:01:22,340
+Like this. And then it goes up like this - reverses. If it was an uptrend...
+
+14
+00:01:22,340 --> 00:01:26,799
+Uptrend reversing to downtrend - just flip it to the opposite. But right now...
+
+15
+00:01:26,799 --> 00:01:30,700
+Everyone getting this? Doesn't matter what direction - this side that acts first...
+
+16
+00:01:30,700 --> 00:01:46,239
+We call it Action. When it bounces back, that's the Reaction.
+
+17
+00:01:46,239 --> 00:01:50,799
+So Action on this side - the action comes out. These candlesticks are selling pressure.
+
+18
+00:01:50,799 --> 00:01:56,200
+Pushing down, down, down continuously. Then it hits and反s back like this.
+
+19
+00:01:56,200 --> 00:02:00,099
+From a Pin Bar pattern like this, the Reaction forms.
+
+20
+00:02:00,099 --> 00:02:16,219
+Whether it's big or small, we'll need to examine that. For now, we're learning the theory first.
+
+21
+00:02:16,219 --> 00:02:20,199
+We've got Action and Reaction on two sides like this - kind of like this. If I draw it simpler for you...
+
+22
+00:02:20,199 --> 00:02:23,819
+It'll look something like this. But is this complete yet?
+
+23
+00:02:23,819 --> 00:02:28,259
+Not yet, folks. Let's see what else we need.
+
+24
+00:02:28,259 --> 00:02:31,939
+What we're looking for - first thing is, we need to identify Action and Reaction.
+
+25
+00:02:32,840 --> 00:02:37,599
+Second, it has to have TWO sides. So this is the candlestick pattern...
+
+26
+00:02:37,599 --> 00:02:40,379
+That we're after. Since we need it, we gotta count it, right?
+
+27
+00:02:40,379 --> 00:02:43,120
+It needs specific components - one, there has to be a candlestick here.
+
+28
+00:02:43,120 --> 00:02:47,099
+The middle candlestick - that's the axis of our balance scale.
+
+29
+00:02:48,000 --> 00:02:54,159
+Right? We need the axis - the central pivot point.
+
+30
+00:02:54,699 --> 00:02:59,599
+And we need arms on both sides, right? Otherwise we can't measure the forces or weights.
+
+31
+00:03:00,099 --> 00:03:04,240
+So we need candlesticks like this. Bottom line - we need at least three candlesticks total.
+
+32
+00:03:04,240 --> 00:03:10,340
+But what if it looks like this instead? Does it work? Not yet.
+
+33
+00:03:11,020 --> 00:03:14,780
+We still need the axis. Earlier we had an axis like this.
+
+34
+00:03:15,680 --> 00:03:18,960
+Dividing two sides. This side we already know - left side from now on is Action.
+
+35
+00:03:19,479 --> 00:03:24,659
+Right side is Reaction. And we need candlesticks - we need arms on both sides.
+
+36
+00:03:24,659 --> 00:03:28,360
+So we need candlesticks on either side of the center one.
+
+37
+00:03:30,439 --> 00:03:35,479
+Two sides - one, two, three. But that's not enough. We just learned that sometimes it flows.
+
+38
+00:03:36,099 --> 00:03:38,740
+Hits this pattern and flows - it doesn't form on this side.
+
+39
+00:03:39,000 --> 00:03:42,400
+When it flows like that, we're missing the fourth element.
+
+40
+00:03:43,800 --> 00:03:48,960
+What's the fourth element? Right here - what needs to happen is in this zone.
+
+41
+00:03:49,259 --> 00:03:55,419
+Support and resistance. Yeah, we've got the scale, we've got two arms.
+
+42
+00:03:56,080 --> 00:04:00,319
+And it's happening in this area - right in this zone.
+
+43
+00:04:00,319 --> 00:04:01,699
+This is what's occurring.
+
+44
+00:04:02,719 --> 00:04:08,659
+And we're gonna count - yeah, I could call it "five" if you want.
+
+45
+00:04:08,659 --> 00:04:11,199
+These are things to memorize. I'm calling them "things to remember."
+
+46
+00:04:11,800 --> 00:04:14,979
+You need to understand them and memorize them. Better than just calling them "rules." So rule five is...
+
+47
+00:04:15,819 --> 00:04:19,399
+We're gonna count price on the axis candlestick. Let's talk about the axis first.
+
+48
+00:04:19,660 --> 00:04:24,639
+The axis - yeah - no matter what it looks like, whatever the shape...
+
+49
+00:04:29,360 --> 00:04:37,480
+The one that's in the middle and occurs at resistance - we count the LOWEST point.
+
+50
+00:04:43,800 --> 00:04:49,000
+This is a key rule. Count the lowest point - that means INCLUDING the wick.
+
+51
+00:04:50,139 --> 00:04:52,819
+Right now there's no wick showing. Or maybe there is one - doesn't matter.
+
+52
+00:04:53,060 --> 00:04:55,160
+If there's a wick like this, we count this as the lowest point.
+
+53
+00:04:55,620 --> 00:04:57,699
+This wick here - take the lowest point first.
+
+54
+00:04:57,699 --> 00:04:59,360
+You might ask, "Why are we counting this?"
+
+55
+00:04:59,800 --> 00:05:02,620
+It's not counting like one, two, three, four, five - I mean, what do we call it?
+
+56
+00:05:02,620 --> 00:05:08,759
+It's an important reference point we need to keep track of.
+
+57
+00:05:08,939 --> 00:05:10,639
+How we're gonna use it? Let's look.
+
+58
+00:05:10,939 --> 00:05:14,699
+We keep this point first. This one here - we include the wick, remember?
+
+59
+00:05:14,699 --> 00:05:19,459
+Just for the axis candlestick. Next rule, or next point...
+
+60
+00:05:19,800 --> 00:05:25,500
+The next point is about the arms.
+
+61
+00:05:26,160 --> 00:05:31,079
+Got it? We have the axis, and we need the arms of the scale.
+
+62
+00:05:32,639 --> 00:05:37,040
+For the axis - right here - we count the LOWEST price point of that candlestick.
+
+63
+00:05:37,040 --> 00:05:44,199
+That specific one, including the wick. But for the arms - the arms on the Action and Reaction sides...
+
+64
+00:05:44,759 --> 00:05:48,600
+We count ONLY the candlestick body. Even if it has a wick...
+
+65
+00:05:50,040 --> 00:05:57,480
+Count ONLY the body. Just the body, alright?
+
+66
+00:05:57,879 --> 00:06:04,019
+No matter what it looks like, same rule - just the body only.
+
+67
+00:06:05,839 --> 00:06:10,699
+Only the body. Even if the wick is this long or whatever.
+
+68
+00:06:10,699 --> 00:06:14,660
+Don't count it. Body only - just the body.
+
+69
+00:06:16,079 --> 00:06:19,339
+So how many rules do we have now? These are things we need to remember.
+
+70
+00:06:19,339 --> 00:06:22,560
+Hold on, there's more. Not done yet.
+
+71
+00:06:24,560 --> 00:06:28,540
+We're also gonna use this criterion too - because of this...
+
+72
+00:06:29,000 --> 00:06:32,699
+I'm not just teaching Forex here. This can be used in ANY market.
+
+73
+00:06:33,339 --> 00:06:39,379
+Whether it's Forex, stocks, gold, oil - whatever.
+
+74
+00:06:39,379 --> 00:06:42,740
+So I need to explain it inclusively like this.
+
+75
+00:06:42,740 --> 00:06:46,240
+Because sometimes people might get confused, like "The chart would never look like that!"
+
+76
+00:06:46,579 --> 00:06:50,439
+Some markets that aren't currency or Forex - it can happen.
+
+77
+00:06:50,439 --> 00:06:53,439
+The chart can move however it wants.
+
+78
+00:06:53,639 --> 00:07:00,519
+But in Forex, when it opens and closes, it connects perfectly. But other markets might have gaps and all that stuff.
+
+79
+00:07:01,160 --> 00:07:08,459
+So the next criterion is - the body of the arms, on both sides. The arms - the bodies...
+
+80
+00:07:09,740 --> 00:07:17,060
+Find the 50% mark. 50% - half of that body. Don't count the wick - I already said, don't count wicks.
+
+81
+00:07:17,060 --> 00:07:21,660
+Take half. Half - no matter how small or big it is.
+
+82
+00:07:21,660 --> 00:07:23,459
+Take half. You might ask, "What do we do with this half?"
+
+83
+00:07:24,879 --> 00:07:29,180
+Compare that half to the axis. The axis candlestick.
+
+84
+00:07:29,180 --> 00:07:47,040
+How do we compare? Take this one - it's specific to the axis, gotta separate them out.
+
+85
+00:07:47,040 --> 00:07:51,680
+Even if the top part is really long, we don't count it. Count this part.
+
+86
+00:07:51,680 --> 00:07:56,339
+Count the body separately. And this body extends out to both sides.
+
+87
+00:07:59,100 --> 00:08:03,839
+Like an axis like this. And then the arms extend straight out like this.
+
+88
+00:08:05,000 --> 00:08:10,220
+All along these arm lines - all the candlesticks along these arm lines...
+
+89
+00:08:10,500 --> 00:08:13,180
+That we're counting as arms of the balance scale...
+
+90
+00:08:14,199 --> 00:08:17,300
+They must exceed 50%.
+
+91
+00:08:18,500 --> 00:08:20,800
+Must be more than half of the body.
+
+92
+00:08:21,160 --> 00:08:29,079
+This is what we'll use to consider and analyze things.
+
+93
+00:08:29,079 --> 00:08:33,320
+Like for example, this one - it looks like this.
+
+94
+00:08:35,559 --> 00:08:38,679
+Where's the halfway point of this one?
+
+95
+00:08:39,679 --> 00:08:42,720
+Half is still right here. See how it's lower than this point?
+
+96
+00:08:42,720 --> 00:08:47,320
+Lower, yeah. So this candlestick we WON'T consider.
+
+97
+00:08:48,039 --> 00:08:52,840
+I'm using the word "consider" here. This one works. This one works.
+
+98
+00:08:52,840 --> 00:08:57,860
+But this one? Half is here - lower than this. This one doesn't count.
+
+99
+00:08:58,580 --> 00:09:02,580
+Getting it? Can you visualize? Both sides - both arms.
+
+100
+00:09:03,159 --> 00:09:08,080
+Action and Reaction - take the ones exceeding half. Count body only, not wicks.
+
+101
+00:09:08,460 --> 00:09:12,419
+Body only - we use just that for analysis.
+
+102
+00:09:12,799 --> 00:09:15,000
+Let me summarize again in a bit. What do we have so far?
+
+103
+00:09:17,200 --> 00:09:23,480
+So Action and Reaction - we'll get a gain roughly like that.
+
+104
+00:09:24,120 --> 00:09:29,539
+Okay, let's count them up. How does it work?
+
+105
+00:09:34,100 --> 00:09:43,840
+First thing - what do we have? We have the axis, right? One, two, three - we have arms.
+
+106
+00:09:43,840 --> 00:09:52,340
+Three things so far. Then we add - support and resistance - that's four. Count the low point, include wick - that's five.
+
+107
+00:09:53,059 --> 00:09:53,460
+Five - count the low, include wick - five.
+
+108
+00:09:54,759 --> 00:10:04,259
+Yeah, and take the halfway point - that's six. Count body only.
+
+109
+00:10:04,259 --> 00:10:10,340
+The arms - the arms of the candlesticks - wait, the arms of the balance scale that are candlesticks - count body only.
+
+110
+00:10:10,860 --> 00:10:16,879
+That's seven. Seven now. Now take the price of this - the axis.
+
+111
+00:10:16,879 --> 00:10:20,259
+This is the axis. The axis price at the top - not the wick.
+
+112
+00:10:23,840 --> 00:10:31,659
+This is the measurement criterion - eight. Eight components you need to remember. Gotta remember or understand them.
+
+113
+00:10:33,279 --> 00:10:43,100
+One, two, three, four, five, six, seven, eight - about that many. Put them together, it'll look something like this.
+
+114
+00:10:43,679 --> 00:10:52,259
+Combined, we still count only the body. This one doesn't count. This one passes. Because this one doesn't reach half.
+
+115
+00:10:52,259 --> 00:10:55,960
+Half stops around here. See? It's lower - doesn't count.
+
+116
+00:10:55,960 --> 00:11:03,139
+The ones that don't count mean the power of that candlestick, whether on the Action or Reaction side...
+
+117
+00:11:03,139 --> 00:11:08,120
+Remember which side is which? Action, Reaction, Reaction, Reaction.
+
+118
+00:11:08,120 --> 00:11:12,120
+It's already absorbed by the axis. It's lower, doesn't stick out.
+
+119
+00:11:12,759 --> 00:11:15,419
+Means the axis absorbed it. If this is the selling side, right?
+
+120
+00:11:15,419 --> 00:11:19,220
+Price came down more than half like this. The price that came down...
+
+121
+00:11:19,220 --> 00:11:36,159
+It's already absorbed inside here. And then it bounces back up.
+
+122
+00:11:36,159 --> 00:11:39,000
+The price - it's still absorbed coming out. What do we call it?
+
+123
+00:11:39,860 --> 00:11:45,080
+Yeah, it won't all come out. Like this one doesn't count. But if it sticks out...
+
+124
+00:11:45,399 --> 00:11:48,080
+Breaks through and comes out already - yeah, like this - it counts.
+
+125
+00:11:48,080 --> 00:11:51,740
+Kind of like a magnet field, you know? Count the lowest price point and all that.
+
+126
+00:11:51,740 --> 00:11:57,240
+Eight things. Remember them all? Eight things. Alright, now back to this.
+
+127
+00:11:57,659 --> 00:12:02,440
+So besides remembering those 8 things, we're gonna go back once more to this diagram.
+
+128
+00:12:02,440 --> 00:12:04,620
+There are 3 patterns. See it yet?
+
+129
+00:12:06,200 --> 00:12:09,340
+Wait, wait - let me erase first.
+
+130
+00:12:15,559 --> 00:12:20,580
+Like this - what I'm about to explain.
+
+131
+00:12:21,139 --> 00:12:28,360
+Like this. If we see this pattern, it means price is running down and up.
+
+132
+00:12:28,360 --> 00:12:31,480
+Going up, right? So yeah, it goes up.
+
+133
+00:12:33,000 --> 00:12:36,539
+But it won't go up strongly. I'm saying "not going up strongly."
+
+134
+00:12:36,539 --> 00:12:44,820
+That means the Action side has more force than the Reaction side.
+
+135
+00:12:46,259 --> 00:12:47,960
+You ask, "More like this?" Well, it doesn't exceed it.
+
+136
+00:12:47,960 --> 00:12:50,440
+It can't overcome it.
+
+137
+00:12:52,879 --> 00:12:56,320
+This side is selling pressure - pushing down continuously.
+
+138
+00:12:56,820 --> 00:12:59,320
+Hits this point and goes up - the price goes up as Reaction.
+
+139
+00:12:59,320 --> 00:13:02,919
+But the next one that should confirm the force of the center axis...
+
+140
+00:13:02,919 --> 00:13:05,840
+Turns back, can't beat this side.
+
+141
+00:13:05,840 --> 00:13:08,220
+That means the force is weaker.
+
+142
+00:13:08,220 --> 00:13:11,080
+So this Reaction side loses.
+
+143
+00:13:11,860 --> 00:13:16,179
+When it loses, it doesn't have enough force to go far up.
+
+144
+00:13:17,480 --> 00:13:23,399
+So it'll only go up a little. As for this one - it's relatively...
+
+145
+00:13:23,399 --> 00:13:27,679
+Balanced - goes up too. Honestly, we can say it goes up stronger.
+
+146
+00:13:27,679 --> 00:13:31,759
+Than this one. And this one definitely goes up the strongest.
+
+147
+00:13:32,659 --> 00:13:38,179
+More than this and more than this. Because the Reaction side WINS.
+
+148
+00:13:39,460 --> 00:13:48,259
+Yeah, Action hits support/resistance - bounces back up higher than before.
+
+149
+00:13:48,539 --> 00:13:52,340
+Wins like this. There might be other candlesticks here - we don't care.
+
+150
+00:13:52,340 --> 00:13:56,440
+We just want the candlesticks in the set we need, that's all.
+
+151
+00:13:56,440 --> 00:14:00,899
+We want the balance scale to measure the power. Got it?
+
+152
+00:14:00,899 --> 00:14:04,500
+If we use this, ultimately it becomes these 3 patterns.
+
+153
+00:14:05,240 --> 00:14:07,860
+Weak force - this is weak force.
+
+154
+00:14:09,820 --> 00:14:15,080
+Evenly matched - balanced - relatively evenly matched. And finally wins - force is much stronger.
+
+155
+00:14:15,080 --> 00:14:16,980
+Reaction side - force is much stronger.
+
+156
+00:14:18,379 --> 00:14:22,759
+Simple balance scale - there are only 3 patterns. That's it - equal.
+
+157
+00:14:26,519 --> 00:14:28,220
+Action side is stronger.
+
+158
+00:14:31,320 --> 00:14:38,399
+Reaction side force is much stronger, heavier. That's all there is - nothing more than this.
+
+159
+00:14:39,220 --> 00:14:43,039
+Now you ask, "How do we start using this?" Once we know this, how do we apply it, right?
+
+160
+00:14:44,620 --> 00:14:45,620
+Let's look at that.
+
+161
+00:14:52,080 --> 00:14:53,899
+When using it - use it like this.
+
+162
+00:14:57,080 --> 00:15:02,980
+Say we look at this diagram. This one, alright? We're trading and we see price running like this.
+
+163
+00:15:05,240 --> 00:15:10,580
+Action, got it? Action, Reaction going up.
+
+164
+00:15:19,460 --> 00:15:23,240
+We're gonna buy. If you learned Momentum from Season 1...
+
+165
+00:15:23,240 --> 00:15:23,659
+You would...
+
+166
+00:15:23,980 --> 00:15:28,639
+Some people already got to buy inside the candlestick wick - got a good price.
+
+167
+00:15:28,639 --> 00:15:35,200
+But this one here - this section is what we call the SAFEST entry point.
+
+168
+00:15:35,200 --> 00:15:39,039
+You might have to wait. Instead of getting in right here, you might have to wait - wait for this candlestick.
+
+169
+00:15:39,419 --> 00:15:42,899
+We wait for all 3 to complete first - there's the center axis, there's the arm, there's the arm.
+
+170
+00:15:43,639 --> 00:15:47,519
+When it confirms it's gonna continue - wait, not continue - it's gonna reverse like this.
+
+171
+00:15:47,519 --> 00:15:52,679
+We can enter on the next one. Enter on the fourth candlestick, and we open...
+
+172
+00:15:52,679 --> 00:15:56,700
+The price to continue. But it's kind of... see?
+
+173
+00:15:56,700 --> 00:16:00,480
+When it confirms, it won't - it won't - yeah, it won't.
+
+174
+00:16:02,440 --> 00:16:09,259
+So when we enter, let it run until it hits support/resistance and sees another set on the opposite side.
+
+175
+00:16:09,259 --> 00:16:17,419
+Like Action-Reaction again. That's it. Place Stop Loss below the low price here. This is how we use it.
+
+176
+00:16:19,019 --> 00:16:24,519
+I'll explain the theory first - then we'll go into real charts and you'll understand better.
+
+177
+00:16:30,480 --> 00:16:36,700
+Or if there's a lot here - same amount or more than here - it gets broken and fails - price might not continue.
+
+178
+00:16:36,700 --> 00:16:46,320
+It becomes a reversal period coming down like this too. Because remember, when price runs, it has to run like this - remember?
+
+179
+00:16:46,320 --> 00:16:55,000
+And this - there'll be sideways when patterns haven't formed yet. Can't tell at all if this is sideways or not.
+
+180
+00:16:55,460 --> 00:17:03,620
+Why? It could become a reversal point like this already. But if it's sideways, it continues to this one.
+
+181
+00:17:04,359 --> 00:17:10,119
+Then hits the real peak, and changes direction to downtrend - continues down.
+
+182
+00:17:10,420 --> 00:17:13,759
+The chart talks like this. And here - it comes to this new side.
+
+183
+00:17:13,759 --> 00:17:19,599
+It's measuring the cycle of this, cycling on and on, cycling continuously.
+
+184
+00:17:19,599 --> 00:17:22,940
+So look at this point - it's the same thing.
+
+185
+00:17:22,940 --> 00:17:40,099
+Yeah, this spot doesn't have enough force. It becomes sideways right here.
+
+186
+00:17:41,000 --> 00:17:43,200
+Now we're getting into practical application.
+
+187
+00:17:44,039 --> 00:17:47,500
+Let's check out the next episode. We'll get into practical use - how to actually apply it.
+
+188
+00:17:48,359 --> 00:17:52,920
+We've covered all the theory now. Next step is practical application.

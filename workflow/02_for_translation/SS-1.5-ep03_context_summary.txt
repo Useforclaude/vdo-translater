@@ -1,0 +1,119 @@
+CONTEXT SUMMARY - SS1.5 EP-03
+==============================
+Created: 2025-10-18
+
+TOPIC:
+======
+Price Cycles and Action/Reaction in Trend Context
+- Integration of Action/Reaction with Dow Theory (Higher High/Higher Low)
+- Price cycle structure (1 Cycle = uptrend → downtrend or vice versa)
+- How Action/Reaction patterns appear at different points in price cycles
+- Advanced application: predicting price direction using Season 2 knowledge
+
+TEACHING TONE:
+==============
+- Casual conversational (same as EP-01 & EP-02)
+- Building on previous knowledge from Season 1 & 2
+- Encouraging students to visualize cycles and patterns
+- Uses "ครับ" frequently (remove in translation)
+- More conceptual/theoretical (real chart examples in next episode)
+
+MAIN CONCEPTS:
+==============
+1. **Price Cycles (1 Cycle):**
+   - Uptrend → Downtrend (or vice versa) = 1 complete cycle
+   - Higher High (HH), Higher Low (HL) pattern in uptrends
+   - Lower Low (LL), Lower High (LH) pattern in downtrends
+   - Cycle completion = when pattern breaks
+
+2. **Dow Theory Integration:**
+   - Uptrend structure: HL → HH → HL → HH (continues)
+   - Downtrend structure: LH → LL → LH → LL (continues)
+   - Trend break: No new HH (uptrend fails) or no new LL (downtrend fails)
+   - Reversal signals: First LL/LH after uptrend structure breaks
+
+3. **Action/Reaction in Cycles:**
+   - Action = initial price movement hitting support/resistance
+   - Reaction = bounce/reversal from that zone
+   - Patterns occur at key cycle points (tops, bottoms, reversal zones)
+   - Integration with Season 1 (Dow Theory) + Season 2 (Advanced patterns)
+
+4. **8 Components Review:**
+   - Revisits the 8 measurement rules from EP-02
+   - How to identify valid patterns at different cycle stages
+   - Emphasis on complete pattern formation before trading
+
+KEY FOREX TERMS:
+================
+- ราคา → price (23x)
+- เทรนด์/แนวโน้ม → trend (6x)
+- แท่งเทียน → candlestick (5x)
+- แนวต้าน → resistance (4x)
+- แนวรับ → support (2x)
+- โมเมนตัม → momentum (1x)
+- Higher High/Higher Low → HH/HL (keep English)
+- Lower Low/Lower High → LL/LH (keep English)
+- Uptrend/Downtrend → uptrend/downtrend
+- Cycle → cycle
+- Action/Reaction → Action/Reaction (keep English)
+
+THAI PARTICLES TO REMOVE:
+==========================
+- นะ (66x) - softening particle
+- ครับ (42x) - polite male particle
+- เลย (20x) - emphasis
+- แหละ (7x) - emphasis
+- เนี้ย (2x) - informal emphasis
+
+DOW THEORY TERMS:
+=================
+- Higher High (จุดสูงที่สูงขึ้น) → HH
+- Higher Low (จุดต่ำที่สูงขึ้น) → HL
+- Lower High (จุดสูงที่ต่ำลง) → LH
+- Lower Low (จุดต่ำที่ต่ำลง) → LL
+- Uptrend (ขาขึ้น) → uptrend
+- Downtrend (ขาลง) → downtrend
+- 1 Cycle (1 วงจร) → 1 cycle
+
+TEACHING STRUCTURE:
+===================
+Intro: Recap Action/Reaction, expand details
+Part 1: Price cycle concept (1 cycle = up+down or down+up)
+Part 2: Dow Theory structure in cycles (HH/HL → LL/LH)
+Part 3: Where Action/Reaction patterns appear in cycles
+Part 4: Integration of all concepts (Season 1 + 2 + Action/Reaction)
+Outro: Review 8 components, next episode shows real charts
+
+TRANSLATION STYLE NOTES:
+========================
+- Maintain casual teaching tone (Rule #13)
+- Keep Dow Theory terms in English (HH, HL, LL, LH)
+- Keep Action/Reaction in English (technical terms)
+- Use natural flow for cycle explanations
+- Remove all Thai particles
+- Translate "วงจร" as "cycle" consistently
+- "1 Cycle" should stay as "1 cycle" (not "one cycle")
+
+SPECIAL CHALLENGES:
+===================
+1. Dow Theory terminology must be consistent with Season 1
+2. Cycle concept needs clear explanation
+3. HH/HL/LL/LH abbreviations must be preserved
+4. Integration of multiple concepts (Dow + Action/Reaction)
+5. References to "Season 1" and "Season 2" need context
+
+CONTEXT FOR TRANSLATORS:
+========================
+This episode SYNTHESIZES multiple concepts:
+- Season 1: Dow Theory basics (HH/HL/LL/LH)
+- Season 2: Advanced patterns (referenced but not detailed)
+- SS1.5 EP-01&02: Action/Reaction balance scale patterns
+
+The instructor is showing HOW these concepts work TOGETHER in price cycles.
+Real chart examples come in the next episode - this is still theory/framework.
+
+Key insight: Students who learned Season 2 can predict price direction
+automatically by combining these concepts. This episode builds that integration.
+
+Duration: ~19.3 minutes (233 segments)
+Complexity: Medium-high (conceptual integration of multiple frameworks)

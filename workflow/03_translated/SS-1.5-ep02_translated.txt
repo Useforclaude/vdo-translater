@@ -1,0 +1,575 @@
+=== SS1.5 EP-02 ENGLISH TRANSLATION ===
+Context: Balance Scale Patterns - Action vs Reaction Part 2
+Tone: Casual teaching, natural human conversation
+Source: SS-1.5-ep02_transcript.json (188 segments)
+
+[Segment 1] 0.000s → 6.240s
+Alright, Episode 2! We already know we're comparing this to a balance scale, right? So how many patterns does a balance scale have?
+
+[Segment 2] 6.760s → 29.980s
+When I say "patterns," I don't mean what it looks like - I mean the different ways this balance scale can measure forces. What kind of readings can we get?
+
+[Segment 3] 29.980s → 34.940s
+Basically, one side starts having more weight than the other.
+
+[Segment 4] 35.720s → 37.380s
+And then we get a second scenario like this.
+
+[Segment 5] 37.380s → 38.360s
+What's this side?
+
+[Segment 6] 38.840s → 39.800s
+Which side is this?
+
+[Segment 7] 40.440s → 45.660s
+Action and Reaction - what is this side?
+
+[Segment 8] 45.660s → 50.900s
+Action is stronger - the Action force is greater than the Reaction force.
+
+[Segment 9] 51.980s → 54.120s
+This one's balanced. Pattern one - already covered.
+
+[Segment 10] 54.800s → 63.840s
+Pattern two and pattern three. Pattern three is basically - yeah - Action and Reaction, what's this side?
+
+[Segment 11] 63.840s → 68.460s
+Reaction has the stronger force. Now I'm talking about just one direction here.
+
+[Segment 12] 68.460s → 76.260s
+Like a downtrend - coming down, down, down, and then you see this pattern - a group of candlesticks forming.
+
+[Segment 13] 76.800s → 82.340s
+Like this. And then it goes up like this - reverses. If it was an uptrend...
+
+[Segment 14] 82.340s → 86.800s
+Uptrend reversing to downtrend - just flip it to the opposite. But right now...
+
+[Segment 15] 86.800s → 90.700s
+Everyone getting this? Doesn't matter what direction - this side that acts first...
+
+[Segment 16] 90.700s → 106.240s
+We call it Action. When it bounces back, that's the Reaction.
+
+[Segment 17] 106.240s → 110.800s
+So Action on this side - the action comes out. These candlesticks are selling pressure.
+
+[Segment 18] 110.800s → 116.200s
+Pushing down, down, down continuously. Then it hits and反s back like this.
+
+[Segment 19] 116.200s → 120.100s
+From a Pin Bar pattern like this, the Reaction forms.
+
+[Segment 20] 120.100s → 136.220s
+Whether it's big or small, we'll need to examine that. For now, we're learning the theory first.
+
+[Segment 21] 136.220s → 140.200s
+We've got Action and Reaction on two sides like this - kind of like this. If I draw it simpler for you...
+
+[Segment 22] 140.200s → 143.820s
+It'll look something like this. But is this complete yet?
+
+[Segment 23] 143.820s → 148.260s
+Not yet, folks. Let's see what else we need.
+
+[Segment 24] 148.260s → 151.940s
+What we're looking for - first thing is, we need to identify Action and Reaction.
+
+[Segment 25] 152.840s → 157.600s
+Second, it has to have TWO sides. So this is the candlestick pattern...
+
+[Segment 26] 157.600s → 160.380s
+That we're after. Since we need it, we gotta count it, right?
+
+[Segment 27] 160.380s → 163.120s
+It needs specific components - one, there has to be a candlestick here.
+
+[Segment 28] 163.120s → 167.100s
+The middle candlestick - that's the axis of our balance scale.
+
+[Segment 29] 168.000s → 174.160s
+Right? We need the axis - the central pivot point.
+
+[Segment 30] 174.700s → 179.600s
+And we need arms on both sides, right? Otherwise we can't measure the forces or weights.
+
+[Segment 31] 180.100s → 184.240s
+So we need candlesticks like this. Bottom line - we need at least three candlesticks total.
+
+[Segment 32] 184.240s → 190.340s
+But what if it looks like this instead? Does it work? Not yet.
+
+[Segment 33] 191.020s → 194.780s
+We still need the axis. Earlier we had an axis like this.
+
+[Segment 34] 195.680s → 198.960s
+Dividing two sides. This side we already know - left side from now on is Action.
+
+[Segment 35] 199.480s → 204.660s
+Right side is Reaction. And we need candlesticks - we need arms on both sides.
+
+[Segment 36] 204.660s → 208.360s
+So we need candlesticks on either side of the center one.
+
+[Segment 37] 210.440s → 215.480s
+Two sides - one, two, three. But that's not enough. We just learned that sometimes it flows.
+
+[Segment 38] 216.100s → 218.740s
+Hits this pattern and flows - it doesn't form on this side.
+
+[Segment 39] 219.000s → 222.400s
+When it flows like that, we're missing the fourth element.
+
+[Segment 40] 223.800s → 228.960s
+What's the fourth element? Right here - what needs to happen is in this zone.
+
+[Segment 41] 229.260s → 235.420s
+Support and resistance. Yeah, we've got the scale, we've got two arms.
+
+[Segment 42] 236.080s → 240.320s
+And it's happening in this area - right in this zone.
+
+[Segment 43] 240.320s → 241.700s
+This is what's occurring.
+
+[Segment 44] 242.720s → 248.660s
+And we're gonna count - yeah, I could call it "five" if you want.
+
+[Segment 45] 248.660s → 251.200s
+These are things to memorize. I'm calling them "things to remember."
+
+[Segment 46] 251.800s → 254.980s
+You need to understand them and memorize them. Better than just calling them "rules." So rule five is...
+
+[Segment 47] 255.820s → 259.400s
+We're gonna count price on the axis candlestick. Let's talk about the axis first.
+
+[Segment 48] 259.660s → 264.640s
+The axis - yeah - no matter what it looks like, whatever the shape...
+
+[Segment 49] 269.360s → 277.480s
+The one that's in the middle and occurs at resistance - we count the LOWEST point.
+
+[Segment 50] 283.800s → 289.000s
+This is a key rule. Count the lowest point - that means INCLUDING the wick.
+
+[Segment 51] 290.140s → 292.820s
+Right now there's no wick showing. Or maybe there is one - doesn't matter.
+
+[Segment 52] 293.060s → 295.160s
+If there's a wick like this, we count this as the lowest point.
+
+[Segment 53] 295.620s → 297.700s
+This wick here - take the lowest point first.
+
+[Segment 54] 297.700s → 299.360s
+You might ask, "Why are we counting this?"
+
+[Segment 55] 299.800s → 302.620s
+It's not counting like one, two, three, four, five - I mean, what do we call it?
+
+[Segment 56] 302.620s → 308.760s
+It's an important reference point we need to keep track of.
+
+[Segment 57] 308.940s → 310.640s
+How we're gonna use it? Let's look.
+
+[Segment 58] 310.940s → 314.700s
+We keep this point first. This one here - we include the wick, remember?
+
+[Segment 59] 314.700s → 319.460s
+Just for the axis candlestick. Next rule, or next point...
+
+[Segment 60] 319.800s → 325.500s
+The next point is about the arms.
+
+[Segment 61] 326.160s → 331.080s
+Got it? We have the axis, and we need the arms of the scale.
+
+[Segment 62] 332.640s → 337.040s
+For the axis - right here - we count the LOWEST price point of that candlestick.
+
+[Segment 63] 337.040s → 344.200s
+That specific one, including the wick. But for the arms - the arms on the Action and Reaction sides...
+
+[Segment 64] 344.760s → 348.600s
+We count ONLY the candlestick body. Even if it has a wick...
+
+[Segment 65] 350.040s → 357.480s
+Count ONLY the body. Just the body, alright?
+
+[Segment 66] 357.880s → 364.020s
+No matter what it looks like, same rule - just the body only.
+
+[Segment 67] 365.840s → 370.700s
+Only the body. Even if the wick is this long or whatever.
+
+[Segment 68] 370.700s → 374.660s
+Don't count it. Body only - just the body.
+
+[Segment 69] 376.080s → 379.340s
+So how many rules do we have now? These are things we need to remember.
+
+[Segment 70] 379.340s → 382.560s
+Hold on, there's more. Not done yet.
+
+[Segment 71] 384.560s → 388.540s
+We're also gonna use this criterion too - because of this...
+
+[Segment 72] 389.000s → 392.700s
+I'm not just teaching Forex here. This can be used in ANY market.
+
+[Segment 73] 393.340s → 399.380s
+Whether it's Forex, stocks, gold, oil - whatever.
+
+[Segment 74] 399.380s → 402.740s
+So I need to explain it inclusively like this.
+
+[Segment 75] 402.740s → 406.240s
+Because sometimes people might get confused, like "The chart would never look like that!"
+
+[Segment 76] 406.580s → 410.440s
+Some markets that aren't currency or Forex - it can happen.
+
+[Segment 77] 410.440s → 413.440s
+The chart can move however it wants.
+
+[Segment 78] 413.640s → 420.520s
+But in Forex, when it opens and closes, it connects perfectly. But other markets might have gaps and all that stuff.
+
+[Segment 79] 421.160s → 428.460s
+So the next criterion is - the body of the arms, on both sides. The arms - the bodies...
+
+[Segment 80] 429.740s → 437.060s
+Find the 50% mark. 50% - half of that body. Don't count the wick - I already said, don't count wicks.
+
+[Segment 81] 437.060s → 441.660s
+Take half. Half - no matter how small or big it is.
+
+[Segment 82] 441.660s → 443.460s
+Take half. You might ask, "What do we do with this half?"
+
+[Segment 83] 444.880s → 449.180s
+Compare that half to the axis. The axis candlestick.
+
+[Segment 84] 449.180s → 467.040s
+How do we compare? Take this one - it's specific to the axis, gotta separate them out.
+
+[Segment 85] 467.040s → 471.680s
+Even if the top part is really long, we don't count it. Count this part.
+
+[Segment 86] 471.680s → 476.340s
+Count the body separately. And this body extends out to both sides.
+
+[Segment 87] 479.100s → 483.840s
+Like an axis like this. And then the arms extend straight out like this.
+
+[Segment 88] 485.000s → 490.220s
+All along these arm lines - all the candlesticks along these arm lines...
+
+[Segment 89] 490.500s → 493.180s
+That we're counting as arms of the balance scale...
+
+[Segment 90] 494.200s → 497.300s
+They must exceed 50%.
+
+[Segment 91] 498.500s → 500.800s
+Must be more than half of the body.
+
+[Segment 92] 501.160s → 509.080s
+This is what we'll use to consider and analyze things.
+
+[Segment 93] 509.080s → 513.320s
+Like for example, this one - it looks like this.
+
+[Segment 94] 515.560s → 518.680s
+Where's the halfway point of this one?
+
+[Segment 95] 519.680s → 522.720s
+Half is still right here. See how it's lower than this point?
+
+[Segment 96] 522.720s → 527.320s
+Lower, yeah. So this candlestick we WON'T consider.
+
+[Segment 97] 528.040s → 532.840s
+I'm using the word "consider" here. This one works. This one works.
+
+[Segment 98] 532.840s → 537.860s
+But this one? Half is here - lower than this. This one doesn't count.
+
+[Segment 99] 538.580s → 542.580s
+Getting it? Can you visualize? Both sides - both arms.
+
+[Segment 100] 543.160s → 548.080s
+Action and Reaction - take the ones exceeding half. Count body only, not wicks.
+
+[Segment 101] 548.460s → 552.420s
+Body only - we use just that for analysis.
+
+[Segment 102] 552.800s → 555.000s
+Let me summarize again in a bit. What do we have so far?
+
+[Segment 103] 557.200s → 563.480s
+So Action and Reaction - we'll get a gain roughly like that.
+
+[Segment 104] 564.120s → 569.540s
+Okay, let's count them up. How does it work?
+
+[Segment 105] 574.100s → 583.840s
+First thing - what do we have? We have the axis, right? One, two, three - we have arms.
+
+[Segment 106] 583.840s → 592.340s
+Three things so far. Then we add - support and resistance - that's four. Count the low point, include wick - that's five.
+
+[Segment 107] 593.060s → 593.460s
+Five - count the low, include wick - five.
+
+[Segment 108] 594.760s → 604.260s
+Yeah, and take the halfway point - that's six. Count body only.
+
+[Segment 109] 604.260s → 610.340s
+The arms - the arms of the candlesticks - wait, the arms of the balance scale that are candlesticks - count body only.
+
+[Segment 110] 610.860s → 616.880s
+That's seven. Seven now. Now take the price of this - the axis.
+
+[Segment 111] 616.880s → 620.260s
+This is the axis. The axis price at the top - not the wick.
+
+[Segment 112] 623.840s → 631.660s
+This is the measurement criterion - eight. Eight components you need to remember. Gotta remember or understand them.
+
+[Segment 113] 633.280s → 643.100s
+One, two, three, four, five, six, seven, eight - about that many. Put them together, it'll look something like this.
+
+[Segment 114] 643.680s → 652.260s
+Combined, we still count only the body. This one doesn't count. This one passes. Because this one doesn't reach half.
+
+[Segment 115] 652.260s → 655.960s
+Half stops around here. See? It's lower - doesn't count.
+
+[Segment 116] 655.960s → 663.140s
+The ones that don't count mean the power of that candlestick, whether on the Action or Reaction side...
+
+[Segment 117] 663.140s → 668.120s
+Remember which side is which? Action, Reaction, Reaction, Reaction.
+
+[Segment 118] 668.120s → 672.120s
+It's already absorbed by the axis. It's lower, doesn't stick out.
+
+[Segment 119] 672.760s → 675.420s
+Means the axis absorbed it. If this is the selling side, right?
+
+[Segment 120] 675.420s → 679.220s
+Price came down more than half like this. The price that came down...
+
+[Segment 121] 679.220s → 696.160s
+It's already absorbed inside here. And then it bounces back up.
+
+[Segment 122] 696.160s → 699.000s
+The price - it's still absorbed coming out. What do we call it?
+
+[Segment 123] 699.860s → 705.080s
+Yeah, it won't all come out. Like this one doesn't count. But if it sticks out...
+
+[Segment 124] 705.400s → 708.080s
+Breaks through and comes out already - yeah, like this - it counts.
+
+[Segment 125] 708.080s → 711.740s
+Kind of like a magnet field, you know? Count the lowest price point and all that.
+
+[Segment 126] 711.740s → 717.240s
+Eight things. Remember them all? Eight things. Alright, now back to this.
+
+[Segment 127] 717.660s → 722.440s
+So besides remembering those 8 things, we're gonna go back once more to this diagram.
+
+[Segment 128] 722.440s → 724.620s
+There are 3 patterns. See it yet?
+
+[Segment 129] 726.200s → 729.340s
+Wait, wait - let me erase first.
+
+[Segment 130] 735.560s → 740.580s
+Like this - what I'm about to explain.
+
+[Segment 131] 741.140s → 748.360s
+Like this. If we see this pattern, it means price is running down and up.
+
+[Segment 132] 748.360s → 751.480s
+Going up, right? So yeah, it goes up.
+
+[Segment 133] 753.000s → 756.540s
+But it won't go up strongly. I'm saying "not going up strongly."
+
+[Segment 134] 756.540s → 764.820s
+That means the Action side has more force than the Reaction side.
+
+[Segment 135] 766.260s → 767.960s
+You ask, "More like this?" Well, it doesn't exceed it.
+
+[Segment 136] 767.960s → 770.440s
+It can't overcome it.
+
+[Segment 137] 772.880s → 776.320s
+This side is selling pressure - pushing down continuously.
+
+[Segment 138] 776.820s → 779.320s
+Hits this point and goes up - the price goes up as Reaction.
+
+[Segment 139] 779.320s → 782.920s
+But the next one that should confirm the force of the center axis...
+
+[Segment 140] 782.920s → 785.840s
+Turns back, can't beat this side.
+
+[Segment 141] 785.840s → 788.220s
+That means the force is weaker.
+
+[Segment 142] 788.220s → 791.080s
+So this Reaction side loses.
+
+[Segment 143] 791.860s → 796.180s
+When it loses, it doesn't have enough force to go far up.
+
+[Segment 144] 797.480s → 803.400s
+So it'll only go up a little. As for this one - it's relatively...
+
+[Segment 145] 803.400s → 807.680s
+Balanced - goes up too. Honestly, we can say it goes up stronger.
+
+[Segment 146] 807.680s → 811.760s
+Than this one. And this one definitely goes up the strongest.
+
+[Segment 147] 812.660s → 818.180s
+More than this and more than this. Because the Reaction side WINS.
+
+[Segment 148] 819.460s → 828.260s
+Yeah, Action hits support/resistance - bounces back up higher than before.
+
+[Segment 149] 828.540s → 832.340s
+Wins like this. There might be other candlesticks here - we don't care.
+
+[Segment 150] 832.340s → 836.440s
+We just want the candlesticks in the set we need, that's all.
+
+[Segment 151] 836.440s → 840.900s
+We want the balance scale to measure the power. Got it?
+
+[Segment 152] 840.900s → 844.500s
+If we use this, ultimately it becomes these 3 patterns.
+
+[Segment 153] 845.240s → 847.860s
+Weak force - this is weak force.
+
+[Segment 154] 849.820s → 855.080s
+Evenly matched - balanced - relatively evenly matched. And finally wins - force is much stronger.
+
+[Segment 155] 855.080s → 856.980s
+Reaction side - force is much stronger.
+
+[Segment 156] 858.380s → 862.760s
+Simple balance scale - there are only 3 patterns. That's it - equal.
+
+[Segment 157] 866.520s → 868.220s
+Action side is stronger.
+
+[Segment 158] 871.320s → 878.400s
+Reaction side force is much stronger, heavier. That's all there is - nothing more than this.
+
+[Segment 159] 879.220s → 883.040s
+Now you ask, "How do we start using this?" Once we know this, how do we apply it, right?
+
+[Segment 160] 884.620s → 885.620s
+Let's look at that.
+
+[Segment 161] 892.080s → 893.900s
+When using it - use it like this.
+
+[Segment 162] 897.080s → 902.980s
+Say we look at this diagram. This one, alright? We're trading and we see price running like this.
+
+[Segment 163] 905.240s → 910.580s
+Action, got it? Action, Reaction going up.
+
+[Segment 164] 919.460s → 923.240s
+We're gonna buy. If you learned Momentum from Season 1...
+
+[Segment 165] 923.240s → 923.660s
+You would...
+
+[Segment 166] 923.980s → 928.640s
+Some people already got to buy inside the candlestick wick - got a good price.
+
+[Segment 167] 928.640s → 935.200s
+But this one here - this section is what we call the SAFEST entry point.
+
+[Segment 168] 935.200s → 939.040s
+You might have to wait. Instead of getting in right here, you might have to wait - wait for this candlestick.
+
+[Segment 169] 939.420s → 942.900s
+We wait for all 3 to complete first - there's the center axis, there's the arm, there's the arm.
+
+[Segment 170] 943.640s → 947.520s
+When it confirms it's gonna continue - wait, not continue - it's gonna reverse like this.
+
+[Segment 171] 947.520s → 952.680s
+We can enter on the next one. Enter on the fourth candlestick, and we open...
+
+[Segment 172] 952.680s → 956.700s
+The price to continue. But it's kind of... see?
+
+[Segment 173] 956.700s → 960.480s
+When it confirms, it won't - it won't - yeah, it won't.
+
+[Segment 174] 962.440s → 969.260s
+So when we enter, let it run until it hits support/resistance and sees another set on the opposite side.
+
+[Segment 175] 969.260s → 977.420s
+Like Action-Reaction again. That's it. Place Stop Loss below the low price here. This is how we use it.
+
+[Segment 176] 979.020s → 984.520s
+I'll explain the theory first - then we'll go into real charts and you'll understand better.
+
+[Segment 177] 990.480s → 996.700s
+Or if there's a lot here - same amount or more than here - it gets broken and fails - price might not continue.
+
+[Segment 178] 996.700s → 1006.320s
+It becomes a reversal period coming down like this too. Because remember, when price runs, it has to run like this - remember?
+
+[Segment 179] 1006.320s → 1015.000s
+And this - there'll be sideways when patterns haven't formed yet. Can't tell at all if this is sideways or not.
+
+[Segment 180] 1015.460s → 1023.620s
+Why? It could become a reversal point like this already. But if it's sideways, it continues to this one.
+
+[Segment 181] 1024.360s → 1030.120s
+Then hits the real peak, and changes direction to downtrend - continues down.
+
+[Segment 182] 1030.420s → 1033.760s
+The chart talks like this. And here - it comes to this new side.
+
+[Segment 183] 1033.760s → 1039.600s
+It's measuring the cycle of this, cycling on and on, cycling continuously.
+
+[Segment 184] 1039.600s → 1042.940s
+So look at this point - it's the same thing.
+
+[Segment 185] 1042.940s → 1060.100s
+Yeah, this spot doesn't have enough force. It becomes sideways right here.
+
+[Segment 186] 1061.000s → 1063.200s
+Now we're getting into practical application.
+
+[Segment 187] 1064.040s → 1067.500s
+Let's check out the next episode. We'll get into practical use - how to actually apply it.
+
+[Segment 188] 1068.360s → 1072.920s
+We've covered all the theory now. Next step is practical application.
+
+---
+✅ TRANSLATION COMPLETE
+Progress: 188/188 segments (100%)
+Duration: ~17.9 minutes
+Status: COMPLETED - Natural human tone applied throughout
+Translated: 2025-10-18

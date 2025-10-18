@@ -1,0 +1,555 @@
+1
+00:00:00,000 --> 00:00:01,720
+Alright, let's jump into Reversal Candlestick - this is a special episode, folks.
+
+2
+00:00:02,640 --> 00:00:05,620
+Yeah, this one's gonna be focused on reversal candlesticks.
+
+3
+00:00:06,419 --> 00:00:10,660
+Now, those of you who've been following from the beginning know what's up.
+
+4
+00:00:10,939 --> 00:00:13,960
+If you're new here, let me fill you in a bit.
+
+5
+00:00:14,099 --> 00:00:17,059
+Basically, this whole series came from one simple question.
+
+6
+00:00:17,059 --> 00:00:21,239
+Students were asking, "What's the difference between Season 1 and Season 2?"
+
+7
+00:00:21,379 --> 00:00:22,879
+What are we actually learning here?
+
+8
+00:00:23,719 --> 00:00:26,539
+So I thought, alright, let me break it down for you guys.
+
+9
+00:00:26,719 --> 00:00:30,620
+Season 1, right? That was all about the basics.
+
+10
+00:00:30,780 --> 00:00:33,060
+What we call Foundation, the fundamentals.
+
+11
+00:00:34,340 --> 00:00:37,159
+Look, there are tons of different indicators out there.
+
+12
+00:00:37,659 --> 00:00:40,799
+Some folks swear by RSI, others love MACD.
+
+13
+00:00:41,520 --> 00:00:42,200
+You know what I mean?
+
+14
+00:00:42,479 --> 00:00:47,020
+So many different tools, and yeah, people use all kinds of stuff.
+
+15
+00:00:47,619 --> 00:00:49,280
+Everyone's got their own preferred tools.
+
+16
+00:00:49,740 --> 00:00:53,500
+Now, in this course - and I gotta be clear about this.
+
+17
+00:00:54,179 --> 00:00:57,119
+I'm not telling you this is the ONLY way to trade.
+
+18
+00:00:57,619 --> 00:01:00,460
+What I'm teaching you is Price Action.
+
+19
+00:01:01,200 --> 00:01:02,939
+That's our approach, Price Action.
+
+20
+00:01:03,799 --> 00:01:08,260
+Price Action means we're reading and analyzing just the price movement itself.
+
+21
+00:01:08,260 --> 00:01:12,400
+Basically looking at candlestick charts and understanding what they're telling us.
+
+22
+00:01:12,500 --> 00:01:16,060
+And here's the thing - Season 1 had two main parts.
+
+23
+00:01:16,060 --> 00:01:18,659
+First part was Dow Theory.
+
+24
+00:01:18,980 --> 00:01:21,359
+Now Dow Theory's got six principles.
+
+25
+00:01:21,599 --> 00:01:23,680
+Actually, some people say there are more.
+
+26
+00:01:23,680 --> 00:01:27,599
+And yeah, I might've covered a bit extra beyond the main six.
+
+27
+00:01:28,599 --> 00:01:30,260
+But anyway, there were six core principles.
+
+28
+00:01:30,439 --> 00:01:32,780
+You gotta understand those, right?
+
+29
+00:01:33,579 --> 00:01:34,879
+And after Dow Theory?
+
+30
+00:01:35,200 --> 00:01:36,739
+We dove into candlesticks.
+
+31
+00:01:36,739 --> 00:01:42,019
+And look, when it comes to candlesticks, there are SO many different types and patterns.
+
+32
+00:01:42,319 --> 00:01:43,640
+I mean, seriously, tons of them.
+
+33
+00:01:43,640 --> 00:01:48,959
+You could spend forever trying to memorize every single candlestick pattern out there.
+
+34
+00:01:49,359 --> 00:01:53,420
+But honestly? I'm not gonna make you memorize all that stuff.
+
+35
+00:01:53,560 --> 00:01:55,560
+We're gonna keep it simple and practical.
+
+36
+00:01:55,739 --> 00:02:01,040
+I'll just show you - "Hey, when you see THIS pattern, here's what it means."
+
+37
+00:02:01,299 --> 00:02:05,780
+Basically teaching you what each pattern is telling us, what it's saying about the market.
+
+38
+00:02:07,019 --> 00:02:11,860
+And it's not just about recognizing patterns - we need to understand WHY they work.
+
+39
+00:02:11,860 --> 00:02:14,080
+Get the logic behind it, you know?
+
+40
+00:02:14,080 --> 00:02:19,360
+That way you're not just seeing random shapes - you actually GET what's happening in the market.
+
+41
+00:03:25,719 --> 00:03:27,259
+So what does "complementary" mean here?
+
+42
+00:03:27,520 --> 00:03:32,960
+Alright, let me explain - sometimes you'll see charts that look different, various patterns, right?
+
+43
+00:03:33,159 --> 00:03:35,439
+You might see this pattern, or you might not see that one.
+
+44
+00:03:35,900 --> 00:03:40,939
+But here's the thing - if you spot these together, whether it's from Season 1 OR Season 2.
+
+45
+00:03:40,939 --> 00:03:45,520
+The more clues you stack up, the stronger your conviction becomes.
+
+46
+00:03:45,520 --> 00:03:50,719
+It really reinforces your forecast - makes it way more likely to play out.
+
+47
+00:03:50,719 --> 00:03:54,419
+Yeah, it's gonna follow through just like you predicted.
+
+48
+00:03:55,180 --> 00:03:58,259
+So now, what are we gonna talk about in this one?
+
+49
+00:03:59,199 --> 00:04:01,039
+Action and Reaction - that's today's topic.
+
+50
+00:04:01,599 --> 00:04:03,939
+I know some of you are wondering, "What's Action and Reaction?"
+
+51
+00:04:05,400 --> 00:04:07,379
+Think of it like forces, you know? Action force.
+
+52
+00:04:07,580 --> 00:04:08,939
+Action and Reaction forces.
+
+53
+00:04:09,300 --> 00:04:14,360
+Reaction is basically the force that pushes back in the opposite direction.
+
+54
+00:04:14,659 --> 00:04:17,480
+Imagine a ping pong ball, or a soccer ball - whatever works for you.
+
+55
+00:04:17,759 --> 00:04:21,120
+You kick it, throw it - it hits the ground.
+
+56
+00:04:22,079 --> 00:04:24,759
+That impact force? That's what we call the Action.
+
+57
+00:04:24,759 --> 00:04:28,180
+The ground responds by pushing force back.
+
+58
+00:04:28,500 --> 00:04:33,639
+That's what makes the ball bounce back up like that.
+
+59
+00:04:34,420 --> 00:04:35,000
+Makes sense?
+
+60
+00:04:35,000 --> 00:04:40,360
+So the ball comes down, and right here is the impact point.
+
+61
+00:04:40,360 --> 00:04:42,759
+And it bounces right back.
+
+62
+00:04:44,139 --> 00:04:46,079
+That's the easiest way to explain it.
+
+63
+00:04:46,079 --> 00:04:48,500
+Or you could just call it resistance force.
+
+64
+00:04:48,839 --> 00:04:50,180
+Imagine if this was a wall.
+
+65
+00:04:50,180 --> 00:04:50,540
+Yeah.
+
+66
+00:04:51,819 --> 00:05:00,680
+A car crashes into it - BOOM! Right? The force of the car coming from this side, all that energy coming this way, and then...
+
+67
+00:05:00,680 --> 00:05:05,199
+What happens to the front of the car? It gets crushed, wrecked. There's a反force coming back.
+
+68
+00:05:05,199 --> 00:05:08,560
+It's not just one-way force - it doesn't just pass through or anything like that.
+
+69
+00:05:08,560 --> 00:05:13,100
+It's not like the car stays perfectly fine, crashes through the wall and keeps going untouched.
+
+70
+00:05:13,100 --> 00:05:17,079
+No way! The car gets damaged, right? That's the reaction force at work.
+
+71
+00:05:17,079 --> 00:05:20,680
+Same thing happens with candlesticks, folks.
+
+72
+00:05:20,680 --> 00:05:23,360
+Exactly the same principle with price movement.
+
+73
+00:05:23,360 --> 00:05:28,300
+So the Action is basically the price running in this direction.
+
+74
+00:05:29,399 --> 00:05:31,600
+But normally with candlesticks...
+
+75
+00:05:31,600 --> 00:05:34,160
+From Season 1, we were looking for THIS pattern.
+
+76
+00:05:34,480 --> 00:05:39,160
+But you can't always find it, right? That's why we have what's called...
+
+77
+00:05:39,860 --> 00:05:43,100
+Combined candlesticks. Could be multiple candles - two, three, four, who knows.
+
+78
+00:05:43,100 --> 00:05:47,180
+But when you add and subtract all the movement together.
+
+79
+00:05:47,180 --> 00:05:50,959
+Boom! It forms a candlestick pattern.
+
+80
+00:05:50,959 --> 00:05:54,800
+Like this, which I already explained back in Season 1.
+
+81
+00:05:54,800 --> 00:06:00,639
+It represents the反force pushing back - that's one type of pattern.
+
+82
+00:06:00,639 --> 00:06:03,560
+Price was running down this way, and when you combine all those candlesticks together...
+
+83
+00:06:03,560 --> 00:06:06,660
+You get this formation - buying pressure bouncing back up.
+
+84
+00:06:06,660 --> 00:06:08,839
+If it's coming from a downtrend, right? Coming from downward movement.
+
+85
+00:06:12,399 --> 00:06:17,639
+When it's coming down - boom, boom, boom - we see candlesticks forming in a cluster.
+
+86
+00:06:17,639 --> 00:06:19,360
+They bunch up together, not appearing cleanly like this all at once.
+
+87
+00:06:20,439 --> 00:06:22,019
+But when you combine them, you get this formation.
+
+88
+00:06:22,639 --> 00:06:24,180
+That wick, right? What it's showing us...
+
+89
+00:06:24,180 --> 00:06:26,600
+That's the Reaction happening.
+
+90
+00:06:26,600 --> 00:06:29,319
+Bouncing back from that Action side.
+
+91
+00:06:30,000 --> 00:06:32,399
+Trying to push price back in the other direction.
+
+92
+00:06:32,399 --> 00:06:33,720
+The opposite side.
+
+93
+00:06:34,319 --> 00:06:35,879
+But it doesn't always work out that way.
+
+94
+00:06:35,879 --> 00:06:38,519
+Sometimes we see a clean pattern like this before candlesticks even combine.
+
+95
+00:06:38,819 --> 00:06:40,319
+And we think, "Oh yeah, it's gonna go this way."
+
+96
+00:06:40,759 --> 00:06:41,519
+But no way!
+
+97
+00:06:41,519 --> 00:06:43,680
+It comes down.
+
+98
+00:06:43,680 --> 00:06:45,399
+Gets to this point.
+
+99
+00:06:45,920 --> 00:06:46,920
+And keeps going down.
+
+100
+00:06:46,920 --> 00:06:49,439
+Because all the elements aren't there yet.
+
+101
+00:06:49,439 --> 00:06:50,959
+I already covered this back in Season 1.
+
+102
+00:06:50,959 --> 00:06:56,360
+What elements make this pattern work best?
+
+103
+00:06:57,060 --> 00:07:03,759
+Don't forget - each candlestick we learned in Season 1 is like a character, showing different character types.
+
+104
+00:07:04,420 --> 00:07:11,519
+What makes a character perform their best? Or what they call having the clearest action? That's the SCENE.
+
+105
+00:07:11,980 --> 00:07:16,019
+What's a scene? Where should it occur? If you don't remember, go back and review our lessons.
+
+106
+00:07:17,720 --> 00:07:22,040
+Let's move on. So here's how it works, folks.
+
+107
+00:07:22,040 --> 00:07:27,399
+Action and Reaction - let's say this left side here is the Action.
+
+108
+00:07:27,839 --> 00:07:34,339
+This side is Action, and then Reaction comes down - there's a反force pushing back.
+
+109
+00:07:34,839 --> 00:07:40,579
+I'm talking about the downtrend side because it's easier to see. On the flip side, we have the uptrend.
+
+110
+00:07:40,579 --> 00:07:46,600
+Price moves up, then reverses back down - same concept.
+
+111
+00:07:47,019 --> 00:07:52,439
+But when talking about this side, price looks like it's moving up like this, and this side becomes the Reaction.
+
+112
+00:07:54,779 --> 00:07:57,899
+Let me give you a simple visual - think of a balance scale.
+
+113
+00:07:58,480 --> 00:08:05,120
+A balance scale with arms on both sides like this.
+
+114
+00:08:07,920 --> 00:08:10,019
+Simply put, it's measuring forces.
+
+115
+00:08:10,579 --> 00:08:13,579
+The force on this side has to be selling pressure.
+
+116
+00:08:16,399 --> 00:08:19,079
+While this side has to be buying pressure pushing back.
+
+117
+00:08:19,860 --> 00:08:22,240
+But talking about selling pressure and buying pressure gets confusing.
+
+118
+00:08:22,819 --> 00:08:26,040
+Right now, if we discuss this, you might get confused - wanna know why?
+
+119
+00:08:26,279 --> 00:08:31,800
+Because over here, it's a downtrend - selling pressure is the Action.
+
+120
+00:08:31,800 --> 00:08:36,340
+Buying pressure pushing back is the Reaction - it's reversed because we're on the upper side.
+
+121
+00:08:37,159 --> 00:08:40,740
+Yeah, price runs up, hits resistance - boom! Reverses.
+
+122
+00:08:42,039 --> 00:08:46,679
+Earlier on this side, it was selling pressure - we still call it that.
+
+123
+00:08:46,679 --> 00:08:49,440
+Buying pressure becomes the opposite, because it's on this side.
+
+124
+00:08:49,440 --> 00:08:52,179
+It becomes buying pressure - we call it buying pressure.
+
+125
+00:08:52,940 --> 00:08:57,139
+And selling pressure becomes the other side. Confusing, right? Going back and forth gets messy.
+
+126
+00:08:57,139 --> 00:08:59,759
+So from now on, I'm just gonna use TWO words.
+
+127
+00:08:59,759 --> 00:09:01,399
+That's Action and Reaction.
+
+128
+00:09:01,399 --> 00:09:04,620
+And they stay on the same side consistently.
+
+129
+00:09:05,820 --> 00:09:07,100
+Doesn't matter if it's top or bottom.
+
+130
+00:09:10,720 --> 00:09:11,940
+Going up? That's Action.
+
+131
+00:09:13,200 --> 00:09:14,279
+This one's the Reaction.
+
+132
+00:09:15,220 --> 00:09:16,639
+This side coming down? That's Action.
+
+133
+00:09:16,639 --> 00:09:17,700
+Going up is Reaction.
+
+134
+00:09:17,700 --> 00:09:20,320
+It just becomes left side versus right side, that's all.
+
+135
+00:09:20,320 --> 00:09:20,899
+Alright?
+
+136
+00:09:20,899 --> 00:09:27,460
+This side - the left - is ALL Action. This side - the right - is ALL Reaction.
+
+137
+00:09:27,460 --> 00:09:32,299
+Keep it simple. It's gonna look like this - this is the pattern we're looking for.
+
+138
+00:09:32,299 --> 00:09:49,879
+Back in Season 1, we might've only needed this much. But now we want MORE confirmation.
+
+139
+00:09:49,860 --> 00:09:49,879
+Stay tuned for the next episode.

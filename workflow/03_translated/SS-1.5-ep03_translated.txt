@@ -1,0 +1,710 @@
+=== SS1.5 EP-03 ENGLISH TRANSLATION ===
+Context: Price Cycles and Action/Reaction in Trend Context
+Tone: Casual teaching, natural human conversation
+Source: SS-1.5-ep03_transcript.json (233 segments)
+
+[Segment 1] 2.140s → 8.360s
+Let's continue with this episode. Action and Reaction are our main focus in this section.
+
+[Segment 2] 8.360s → 17.020s
+Now, you guys get the overall picture, right? But we're gonna expand on it - there are more details to cover.
+
+[Segment 3] 17.020s → 23.900s
+So far we've just understood that there's Action, and Reaction on this side. This one absorbs the energy.
+
+[Segment 4] 24.700s → 29.280s
+It gets absorbed and released. Candlesticks and various momentum converge at this point.
+
+[Segment 5] 29.500s → 34.580s
+Reaching a strong, important support level and key zone. Then there's a反force pushing back.
+
+[Segment 6] 35.220s → 41.800s
+That becomes the Reaction - causing the direction that was moving to reverse.
+
+[Segment 7] 42.800s → 50.220s
+Now there's more detail than this. Let's look at this diagram. See this? In reality, in the price cycle...
+
+[Segment 8] 50.220s → 55.720s
+Everything references Dow Theory. The biggest theory. I'll tell you straight - when you learn what comes next, Dow is the foundation.
+
+[Segment 9] 56.380s → 64.600s
+If you see a chart like this - say you don't see this half yet - or people who learned Season 2, they can predict ahead automatically what direction price will go next.
+
+[Segment 10] 64.600s → 72.640s
+Totally automatic. Super easy - just glance at it. But this one's gonna fill in the gaps for those who already learned Season 2.
+
+[Segment 11] 73.180s → 81.360s
+Let's look at the price cycle - it looks like this. This is called 1 cycle - going up until down, or down until up, then back up again.
+
+[Segment 12] 82.140s → 94.680s
+Basically an uptrend - going up continuously until it can't go higher. Like hitting a wall. What happens? It starts from Low - what's this? High.
+
+[Segment 13] 96.700s → 102.220s
+You lift the Low, right? So it becomes Higher Low, Higher High, Higher Low.
+
+[Segment 14] 104.240s → 115.280s
+Higher High, Higher Low - but then it doesn't make a new High. See? No more Higher High. Instead it starts making Lower Low and Lower High.
+
+[Segment 15] 116.300s → 130.080s
+Another Lower Low, another Lower High. And so on - the cycle looks like this. Uptrend then downtrend. Uptrend, downtrend. Now in these, what else is there? Hold on.
+
+[Segment 16] 133.680s → 138.340s
+We've already learned this. Let's get to what we don't know yet - this one.
+
+[Segment 17] 139.340s → 152.360s
+These are candlesticks - we know there are 3 patterns. It's measuring the power of both sides - Action and Reaction.
+
+[Segment 18] 157.980s → 160.440s
+So what does it consist of? What's it made of?
+
+[Segment 19] 160.840s → 162.620s
+Normally when price goes up, right?
+
+[Segment 20] 162.640s → 165.860s
+It doesn't just go up like this straight. Does it? While going up, it has to have ups...
+
+[Segment 21] 165.860s → 170.620s
+And pullbacks, ups and pullbacks, ups and pullbacks - like this.
+
+[Segment 22] 170.940s → 174.000s
+During the pullbacks, it might just pullback normally and continue up.
+
+[Segment 23] 174.000s → 192.620s
+Or during this pullback zone, it could go sideways.
+
+[Segment 24] 193.460s → 198.480s
+At this point what forms? If it's a workshop rain pattern, it becomes a double top.
+
+[Segment 25] 198.480s → 203.760s
+Right? Hits the top, comes down. Comes down and bounces.
+
+[Segment 26] 204.240s → 208.860s
+During the downtrend, we say it comes down and bounces up - bounces to continue down.
+
+[Segment 27] 209.220s → 213.960s
+Consolidating. Consolidating like this. Consolidates then breaks through, continues down.
+
+[Segment 28] 214.340s → 219.360s
+Bounces, can't continue down - hits strong support.
+
+[Segment 29] 219.900s → 232.060s
+Reverses back up. And cycles like this continuously. The price cycle looks like this. Let me erase a bit. Yeah, this works.
+
+[Segment 30] 232.060s → 239.160s
+Now these candlesticks - Action, Reaction, or Passion candlesticks - combine 3 candles. One, two, three - there are 3 patterns. See?
+
+[Segment 31] 239.520s → 243.040s
+Each pattern appears in different locations.
+
+[Segment 32] 243.040s → 246.380s
+Like this - let me review first what we call them.
+
+[Segment 33] 246.380s → 250.640s
+What do we call them, right? Better if I change colors.
+
+[Segment 34] 254.260s → 258.500s
+Blue then. Yeah, this one's normal, see?
+
+[Segment 35] 258.500s → 262.160s
+Balanced means they're roughly equal. Because Action equals Reaction.
+
+[Segment 36] 262.160s → 265.780s
+See how the forces are evenly matched? Look at the body on this one.
+
+[Segment 37] 265.780s → 267.960s
+Remember we look at the body? This one.
+
+[Segment 38] 268.960s → 271.480s
+What's happening with this one? Action and Reaction.
+
+[Segment 39] 272.300s → 275.680s
+Action is stronger - this one. Reaction is weaker. See?
+
+[Segment 40] 275.680s → 279.020s
+Reaction can't fight - can't beat Action.
+
+[Segment 41] 279.020s → 281.420s
+It's lower. It can't beat it.
+
+[Segment 42] 281.420s → 286.720s
+Can't beat Action - this candlestick. So it comes out looking like this.
+
+[Segment 43] 286.720s → 290.400s
+As for another pattern - Action is weaker, or Action...
+
+[Segment 44] 290.400s → 296.140s
+Wait, Reaction is stronger. Yeah, see how it comes out like this? With all the components...
+
+[Segment 45] 296.140s → 310.240s
+Complete. It exceeds half of the body.
+
+[Segment 46] 310.240s → 314.920s
+When it goes up, it'll gradually rise like this if it's this pattern.
+
+[Segment 47] 314.920s → 319.440s
+The balanced one. If it's this one though - it goes up without strength.
+
+[Segment 48] 319.440s → 323.600s
+Not much power going up like this. See? It's weak.
+
+[Segment 49] 323.600s → 329.320s
+Reaction normally responds to the opposite side. Price comes down, bounces up just a tiny bit like this.
+
+[Segment 50] 329.320s → 332.880s
+Shows it has little power. "Little" means...
+
+[Segment 51] 334.020s → 345.040s
+It might not pass the previous High. The previous High - the direction won't pass the previous High.
+
+[Segment 52] 345.040s → 348.200s
+The most recent High. I'm using "most recent High."
+
+[Segment 53] 348.600s → 359.300s
+But if it exceeds - it looks like this.
+
+[Segment 54] 359.300s → 365.200s
+It's strong. There's a chance the price bouncing back as Reaction...
+
+[Segment 55] 366.540s → 372.500s
+Can beat the previous one. See? Yeah, goes up like this.
+
+[Segment 56] 373.200s → 378.640s
+So the chart pattern or formation that should appear at different points...
+
+[Segment 57] 378.640s → 382.500s
+This one is where? Right here. Goes up, consolidates.
+
+[Segment 58] 382.500s → 385.120s
+Yeah, it doesn't have much strength, so it can't continue yet.
+
+[Segment 59] 385.120s → 390.060s
+Just consolidates. After that, goes up again. Yeah, goes up again, then meets the other side.
+
+[Segment 60] 390.060s → 393.300s
+Don't forget it has to be on both sides - not just one side.
+
+[Segment 61] 393.300s → 396.760s
+On this side. Yeah, this side comes down, causing a pullback upward.
+
+[Segment 62] 396.780s → 399.940s
+This has to beat the original High. Here it forms a new High.
+
+[Segment 63] 400.740s → 405.680s
+Following Dow Theory, right? This is a High.
+
+[Segment 64] 405.980s → 416.540s
+It has to make Higher Highs continuously. So this one has to be characterized by strong upward movement - the power has to be strong. See how strong it is?
+
+[Segment 65] 417.500s → 422.500s
+It beats this candlestick. So it pushes price up to make a new High.
+
+[Segment 66] 422.500s → 428.420s
+Finally, when it goes up, it hits strong resistance.
+
+[Segment 67] 429.800s → 435.240s
+Comes down and won't go back up. Now it hits this one - see?
+
+[Segment 68] 435.240s → 439.840s
+What happens? Which side wins? Action, Reaction wins.
+
+[Segment 69] 439.840s → 443.540s
+So it makes a Low that's lower than the previous Low. See?
+
+[Segment 70] 443.540s → 447.960s
+Becomes a Lower Low from the previous Low here.
+
+[Segment 71] 448.580s → 452.300s
+Beats the previous Low going down because it's strong. Yeah, then continues down.
+
+[Segment 72] 452.300s → 456.680s
+Here there's hesitation - goes sideways. Consolidating.
+
+[Segment 73] 456.680s → 462.000s
+But we can say it's a price consolidation period. Then comes down again. Yeah, bounces up.
+
+[Segment 74] 462.800s → 467.760s
+Hits this set - see? What happens? Action, Reaction - stronger force.
+
+[Segment 75] 468.060s → 472.920s
+Can break through. Makes a new Low. Gets a Lower Low.
+
+[Segment 76] 474.140s → 476.600s
+Consolidates here, then goes back up.
+
+[Segment 77] 477.080s → 479.940s
+The price cycle looks like this.
+
+[Segment 78] 480.340s → 484.140s
+We use this to see if there's strong or weak power to beat...
+
+[Segment 79] 484.820s → 486.060s
+The previous High or previous Low.
+
+[Segment 80] 487.500s → 491.060s
+Using the word "beat" - I mean if it's like this...
+
+[Segment 81] 491.060s → 495.540s
+It won't pass the most recent High if it's trying to go up.
+
+[Segment 82] 495.920s → 505.580s
+If it's on this side, might only go up this much. Down - both this one and this one.
+
+[Segment 83] 505.900s → 510.640s
+But if it's this one, there's a chance it'll beat the previous High.
+
+[Segment 84] 511.240s → 514.240s
+If we say starting from here, it has to beat this High. Not this High.
+
+[Segment 85] 514.560s → 519.400s
+Using "most recent High" - it'll beat that. But if it's this High and starts from here...
+
+[Segment 86] 519.820s → 522.800s
+There's a chance it'll beat it and make a new High.
+
+[Segment 87] 522.800s → 525.420s
+After going up doesn't mean it'll keep going up forever.
+
+[Segment 88] 526.380s → 528.380s
+It might pull back then continue.
+
+[Segment 89] 528.380s → 531.520s
+Or drop down completely.
+
+[Segment 90] 531.880s → 535.760s
+But definitely has more power or more chance than normal.
+
+[Segment 91] 535.760s → 537.260s
+Let's use "more than normal."
+
+[Segment 92] 537.260s → 539.380s
+That it'll beat the most recent High.
+
+[Segment 93] 539.840s → 542.880s
+Or the most recent Low if it's a downtrend.
+
+[Segment 94] 543.640s → 546.200s
+For the one that has strong power like this.
+
+[Segment 95] 547.560s → 548.340s
+Goes up like this.
+
+[Segment 96] 548.760s → 551.980s
+Getting it? I'll explain in more detail.
+
+[Segment 97] 552.240s → 553.620s
+Because it doesn't end here.
+
+[Segment 98] 553.960s → 556.300s
+There are other patterns too.
+
+[Segment 99] 556.300s → 557.420s
+To help understand.
+
+[Segment 100] 563.300s → 566.160s
+Fresh page. It'll look like this.
+
+[Segment 101] 566.520s → 568.600s
+Now we already know when price goes up...
+
+[Segment 102] 568.800s → 573.460s
+This one's just called a normal pullback.
+
+[Segment 103] 574.660s → 578.680s
+But normally price has zigzags - zigzag pattern all the way through.
+
+[Segment 104] 579.160s → 581.760s
+Kind of odd-shaped like this.
+
+[Segment 105] 581.760s → 583.160s
+Could gradually go up again.
+
+[Segment 106] 585.400s → 587.880s
+Or even go up like this, then come down.
+
+[Segment 107] 588.760s → 592.580s
+And here - a candlestick set like this.
+
+[Segment 108] 592.980s → 595.840s
+Where the power isn't enough to beat this High - might only go up this much.
+
+[Segment 109] 596.540s → 599.580s
+Then down again. Then comes to form a new one here.
+
+[Segment 110] 600.400s → 603.620s
+A stronger candlestick pattern. Then breaks the High.
+
+[Segment 111] 603.940s → 607.360s
+Could be in two sections like this. Let me expand on this.
+
+[Segment 112] 607.360s → 611.860s
+Because what patterns are there? Actually there are many, many.
+
+[Segment 113] 612.900s → 620.160s
+Yeah, first one is sideways. What kind of sideways? Yeah, price comes up like this.
+
+[Segment 114] 623.220s → 624.360s
+Yeah, then continues.
+
+[Segment 115] 627.740s → 632.060s
+It has to be - yeah - triangle formation like this.
+
+[Segment 116] 632.660s → 636.140s
+See? Now where do the candlesticks sit?
+
+[Segment 117] 636.800s → 641.680s
+Like this, see? Yeah, price comes up, hits this point.
+
+[Segment 118] 642.380s → 645.480s
+Yeah, let me make it straight. Here, yeah.
+
+[Segment 119] 652.620s → 657.560s
+Like this, see? Yeah, this goes down right? It already broke.
+
+[Segment 120] 657.560s → 662.560s
+Here there are candlesticks with strong power coming in. Making price go up like this.
+
+[Segment 121] 662.880s → 666.760s
+Boom! Then it hits this one. They can cancel each other out. It breaks if it's strong enough.
+
+[Segment 122] 666.760s → 672.100s
+Price drops down. Drops down and hits this one. Bounces back up - but you see?
+
+[Segment 123] 672.100s → 677.520s
+What kind is it? Strong power? Medium. So can it beat this High?
+
+[Segment 124] 677.520s → 683.600s
+Nope. So it's lower. Then hits this one. Here doesn't have enough power.
+
+[Segment 125] 683.600s → 696.740s
+Light, weak force. So it can't make a new Low.
+
+[Segment 126] 696.740s → 699.760s
+See? Until finally it hits this one.
+
+[Segment 127] 700.940s → 705.180s
+Action and Reaction. Action this much, Reaction stronger.
+
+[Segment 128] 705.560s → 709.840s
+So it breaks upward. Makes this price shoot up.
+
+[Segment 129] 709.840s → 712.840s
+Breaks through the range and continues following the original trend.
+
+[Segment 130] 712.840s → 715.400s
+That's how it works. Based on understanding.
+
+[Segment 131] 716.400s → 719.180s
+When applying it. But another type is what?
+
+[Segment 132] 719.660s → 724.200s
+Could be sideways like - um - what kind?
+
+[Segment 133] 725.080s → 730.660s
+Yeah, separate first. Yeah, price comes up, sideways in a range.
+
+[Segment 134] 732.600s → 737.100s
+Continues. Yeah, earlier was a triangle right?
+
+[Segment 135] 737.100s → 740.520s
+This one's a box. Price comes up.
+
+[Segment 136] 740.520s → 744.340s
+Rectangle pattern like this. Running in a box.
+
+[Segment 137] 745.120s → 748.020s
+Same thing. Yeah, price comes...
+
+[Segment 138] 748.500s → 751.280s
+When it's running in a box, means there's nothing...
+
+[Segment 139] 752.160s → 753.420s
+Clear in either direction.
+
+[Segment 140] 754.100s → 761.480s
+Not enough power until it hits one that has enough power like this.
+
+[Segment 141] 762.780s → 768.060s
+Simply put - when comparing, this one has more power than this one.
+
+[Segment 142] 771.440s → 775.780s
+So when these two could never pass resistance...
+
+[Segment 143] 777.140s → 784.520s
+But when this one arrives - Action, Reaction says it has power - so it pushes price through upward.
+
+[Segment 144] 785.260s → 790.720s
+Remember? It has to happen at the same time. And it has to happen at new times.
+
+[Segment 145] 790.720s → 794.820s
+Has to encounter this type.
+
+[Segment 146] 797.660s → 803.580s
+This is the continuation pattern. We're talking about uptrends where price continues like this.
+
+[Segment 147] 805.020s → 817.180s
+Where this part might just be a simple pullback, or price complexity right here - consolidating as sideways, in a box. Whatever box pattern it is.
+
+[Segment 148] 819.400s → 826.960s
+Getting it? Now what other patterns are there? This is continuation - both up and down. When it goes down it's the same thing.
+
+[Segment 149] 830.720s → 834.720s
+You apply the same principles. Exactly the same.
+
+[Segment 150] 835.520s → 839.320s
+So I'm just talking about one side first - the upside. The other side just reverse the thinking.
+
+[Segment 151] 839.320s → 844.300s
+Now another one - this continues right? Another one is it DOESN'T continue.
+
+[Segment 152] 845.900s → 850.260s
+Boom! Goes down.
+
+[Segment 153] 855.880s → 862.880s
+It can't continue. Hits strong resistance.
+
+[Segment 154] 863.720s → 870.600s
+What should happen? It tries but doesn't have enough power.
+
+[Segment 155] 873.860s → 879.920s
+Doesn't form this one even once. But the top side comes back with more power.
+
+[Segment 156] 880.860s → 883.460s
+This one isn't enough. Can't push it down.
+
+[Segment 157] 884.520s → 887.900s
+Finally the last one pushes down. A candlestick forms.
+
+[Segment 158] 888.120s → 895.840s
+Candlestick set - Action, Reaction - with strong Reaction power compared to the previous one.
+
+[Segment 159] 896.460s → 903.720s
+Take the previous one. So this is the old Low - it can make a Lower Low or new Low.
+
+[Segment 160] 903.720s → 909.140s
+The power's stronger. It's a failure to continue. Because there's what we call a reversal.
+
+[Segment 161] 911.600s → 918.220s
+Besides this, what else? There's resistance - same as before, like this.
+
+[Segment 162] 918.220s → 925.920s
+And what we're familiar with - double top.
+
+[Segment 163] 928.820s → 933.120s
+So price looks the same. First one, Reaction is weak.
+
+[Segment 164] 933.120s → 939.700s
+Second one, Reaction is stronger. And to break through like this, really strong...
+
+[Segment 165] 939.700s → 950.900s
+Sometimes it balances. Let's go look. Could have way more power.
+
+[Segment 166] 950.900s → 953.040s
+Like this. Just breaks straight down.
+
+[Segment 167] 954.960s → 955.780s
+Getting it?
+
+[Segment 168] 956.100s → 958.720s
+It'll be like this. No matter which pattern - all the same.
+
+[Segment 169] 959.800s → 961.060s
+Could be like this.
+
+[Segment 170] 965.280s → 971.480s
+What's this? Head and Shoulders, see? Exactly the same.
+
+[Segment 171] 976.040s → 979.240s
+It's simple - it'll be right here, this set.
+
+[Segment 172] 980.100s → 982.000s
+This set makes it fail - right here.
+
+[Segment 173] 984.160s → 990.360s
+Something like this. This one doesn't have power - didn't meet this one, ended up here instead.
+
+[Segment 174] 990.920s → 995.140s
+It doesn't have it. It's a different one. After this one, only goes up this much.
+
+[Segment 175] 995.320s → 999.460s
+Can't beat the previous High, the earlier High. But this one can beat the previous Low.
+
+[Segment 176] 999.460s → 1002.720s
+So price drops - adjusts downward like this. Reverses like this.
+
+[Segment 177] 1002.720s → 1005.220s
+This is how to apply it.
+
+[Segment 178] 1006.400s → 1008.700s
+So how many patterns do you know now?
+
+[Segment 179] 1009.060s → 1011.720s
+Whether it's at the top - a Top, right?
+
+[Segment 180] 1012.460s → 1014.100s
+Bottom's the same.
+
+[Segment 181] 1015.160s → 1016.740s
+What else? Head and Shoulders.
+
+[Segment 182] 1016.740s → 1019.680s
+Or Inverted Head and Shoulders.
+
+[Segment 183] 1020.620s → 1024.520s
+Including triangles.
+
+[Segment 184] 1025.360s → 1026.200s
+Like this.
+
+[Segment 185] 1026.200s → 1029.180s
+Or flags, or whatever.
+
+[Segment 186] 1031.420s → 1032.880s
+It all follows these rules.
+
+[Segment 187] 1032.880s → 1035.740s
+You need to observe the characteristics of the candlesticks forming.
+
+[Segment 188] 1036.280s → 1038.320s
+Including reading combined with other things.
+
+[Segment 189] 1038.320s → 1040.460s
+That we learned from Season 1 and Season 2.
+
+[Segment 190] 1040.460s → 1042.120s
+Whether it's about Momentum.
+
+[Segment 191] 1043.300s → 1044.100s
+All of that.
+
+[Segment 192] 1044.440s → 1046.480s
+The story - what story does it tell?
+
+[Segment 193] 1046.480s → 1047.740s
+What clues does it leave?
+
+[Segment 194] 1048.000s → 1050.320s
+Sometimes we don't find other clues.
+
+[Segment 195] 1050.320s → 1052.240s
+Or maybe Momentum is unclear - can't read it.
+
+[Segment 196] 1052.240s → 1054.600s
+But are there signals showing us like this?
+
+[Segment 197] 1054.600s → 1056.920s
+This is what we use to read additionally.
+
+[Segment 198] 1056.920s → 1057.840s
+Decode more.
+
+[Segment 199] 1057.840s → 1060.040s
+Not memorizing it has to be like this to go down.
+
+[Segment 200] 1060.040s → 1062.880s
+Understanding WHY it goes down.
+
+[Segment 201] 1062.880s → 1064.900s
+Because Reaction only has this much.
+
+[Segment 202] 1065.600s → 1067.380s
+But when Action wins...
+
+[Segment 203] 1067.380s → 1069.740s
+It closes lower than this one.
+
+[Segment 204] 1070.420s → 1072.280s
+So there's downward pressure.
+
+[Segment 205] 1072.280s → 1073.520s
+If it's an uptrend...
+
+[Segment 206] 1073.520s → 1075.140s
+The side that's about to reverse down.
+
+[Segment 207] 1075.140s → 1078.320s
+Until it can beat the previous Low.
+
+[Segment 208] 1078.320s → 1080.460s
+Then forms a new Low.
+
+[Segment 209] 1080.460s → 1082.260s
+Opposite for uptrends.
+
+[Segment 210] 1082.640s → 1083.920s
+It has power.
+
+[Segment 211] 1083.920s → 1085.840s
+Enough power to beat...
+
+[Segment 212] 1086.500s → 1087.440s
+The previous High.
+
+[Segment 213] 1087.440s → 1088.020s
+Right here.
+
+[Segment 214] 1088.940s → 1090.180s
+Goes up to make a new High.
+
+[Segment 215] 1091.520s → 1093.500s
+Same thing, see? Higher than here.
+
+[Segment 216] 1093.940s → 1094.680s
+This is Reaction.
+
+[Segment 217] 1099.740s → 1100.420s
+Better if we compare to real charts.
+
+[Segment 218] 1100.420s → 1102.720s
+We'll understand even better.
+
+[Segment 219] 1103.200s → 1103.600s
+Alright?
+
+[Segment 220] 1105.460s → 1106.800s
+About this much you should get it.
+
+[Segment 221] 1106.800s → 1108.540s
+These are the patterns.
+
+[Segment 222] 1108.540s → 1110.040s
+When using them, we don't memorize...
+
+[Segment 223] 1110.040s → 1111.980s
+Or understand it as...
+
+[Segment 224] 1111.980s → 1114.660s
+Look at whether it's strong force...
+
+[Segment 225] 1114.660s → 1116.280s
+Medium or weak.
+
+[Segment 226] 1116.280s → 1118.600s
+Look at the Reaction side.
+
+[Segment 227] 1119.460s → 1121.080s
+Because we want to know Reaction.
+
+[Segment 228] 1121.080s → 1123.740s
+And Action is part of it too.
+
+[Segment 229] 1124.940s → 1129.700s
+In various patterns - which will already be at different points.
+
+[Segment 230] 1132.440s → 1139.980s
+Whether it reverses a lot, reverses a little - it's all there. We consider everything.
+
+[Segment 231] 1142.720s → 1147.460s
+Remember all its components. What does it need?
+
+[Segment 232] 1148.780s → 1154.180s
+Like this - one, two, three, four, five - how many rules? Various criteria. Can't remember? Go back and listen.
+
+[Segment 233] 1155.160s → 1160.100s
+About that much. Next episode we'll look at real chart examples.
+
+---
+✅ TRANSLATION COMPLETE
+Progress: 233/233 segments (100%)
+Duration: ~19.3 minutes
+Status: COMPLETED - Natural human tone applied throughout
+Translated: 2025-10-18

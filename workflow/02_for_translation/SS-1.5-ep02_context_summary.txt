@@ -1,0 +1,105 @@
+CONTEXT SUMMARY - SS1.5 EP-02
+==============================
+Created: 2025-10-18
+
+TOPIC:
+======
+Balance Scale Patterns (Action vs Reaction - Part 2)
+- Continuation from EP-01's Action/Reaction concept
+- Deep dive into balance scale (ตาช่าง) measurement patterns
+- Teaching how to identify and measure the three balance patterns
+- Theory-focused episode (practical application comes in next episode)
+
+TEACHING TONE:
+==============
+- Casual conversational style (same as EP-01)
+- Teacher explaining complex concepts with simple analogies
+- Uses "ครับ" frequently (remove in translation)
+- Step-by-step technical instruction
+- Encouraging students to visualize and understand
+
+MAIN CONCEPTS:
+==============
+1. **Three Balance Scale Patterns:**
+   - Pattern 1: Action > Reaction (price continues direction)
+   - Pattern 2: Action = Reaction (balanced, uncertain)
+   - Pattern 3: Action < Reaction (reversal likely)
+
+2. **Measurement Rules (5 Key Points):**
+   - Rule 1: Occurs at resistance/support zones (แนวต้าน/แนวรับ)
+   - Rule 2: Axis candlestick (ตัวแกน) - count lowest/highest point INCLUDING wicks
+   - Rule 3: Arm candlesticks (แขน) - must exceed 50% of Body (NOT including wicks)
+   - Rule 4: Compare forces on both sides
+   - Rule 5: Determine which side dominates
+
+3. **Technical Details:**
+   - Candlestick body vs wick distinction
+   - Axis vs arm identification
+   - 50% body rule for valid arm candlesticks
+   - Support/resistance zone context
+
+KEY FOREX TERMS:
+================
+- แท่งเทียน → candlestick (9x)
+- ราคา → price (14x)
+- แนวต้าน → resistance (5x)
+- แนวรับ → support (2x)
+- ตัวเทียน/Body → candlestick body
+- ไส้เทียน → wick
+- Action → Action (keep in English)
+- Reaction → Reaction (keep in English)
+
+THAI PARTICLES TO REMOVE:
+==========================
+- นะ (69x) - softening particle
+- ครับ (55x) - polite male particle
+- เลย (10x) - emphasis
+- แหละ (10x) - emphasis
+- เนี้ย (5x) - informal emphasis
+
+METAPHORS/ANALOGIES:
+====================
+- Balance scale (ตาช่าง) - main teaching metaphor throughout
+- Two arms measuring forces
+- Weight on each side determining direction
+- Simple physics analogy for market forces
+
+TEACHING STRUCTURE:
+===================
+Intro: Episode 2, balance scale patterns introduction
+Part 1: Three pattern types explained (Action >, =, < Reaction)
+Part 2: Five measurement rules detailed
+Part 3: 50% body rule demonstration with examples
+Part 4: Distinguishing valid vs invalid candlesticks
+Outro: Theory complete, practical application next episode
+
+TRANSLATION STYLE NOTES:
+========================
+- Maintain casual teaching tone (Rule #13: Natural human conversation)
+- Use "folks", "alright", "right?", "look" for natural flow
+- Remove all Thai particles
+- Keep Action/Reaction in English (technical terms)
+- Translate analogies naturally (balance scale, weights, arms)
+- Preserve teaching enthusiasm and step-by-step explanations
+
+SPECIAL CHALLENGES:
+===================
+1. Technical vocabulary: Body vs wick, axis vs arms
+2. Measurement rules need clear explanation in English
+3. "50% of body" rule must be precise
+4. Balance scale metaphor must be consistent
+5. Action/Reaction sides must be clearly distinguished
+
+CONTEXT FOR TRANSLATORS:
+========================
+This is a theory episode explaining HOW to measure patterns, not showing
+real chart examples yet. The instructor is building foundation knowledge.
+Next episode will show practical application on actual charts.
+
+The balance scale metaphor is CRITICAL - it helps students visualize:
+- Left side = Action (initial force)
+- Right side = Reaction (response force)
+- Which side is heavier determines price direction
+
+Duration: ~18 minutes (188 segments)
+Complexity: Medium-high (technical instruction with rules/measurements)

@@ -1,0 +1,1040 @@
+SS1.5 EP-04 PART 1 - ENGLISH TRANSLATION
+==========================================
+Source: SS1.5-ep-04-part-1_transcript.json
+Segments: 340 total
+Duration: ~30.5 minutes (1830 seconds)
+Topic: Real Chart Examples - Action/Reaction Balance Scale Application
+Translation Method: Two-Pass (Context-aware, Natural Human Tone)
+Translated: 2025-10-18
+
+---
+
+[Segment 0] 1.880s → 11.040s
+Let's look at some chart examples now. We've studied the theory.
+
+[Segment 1] 11.040s → 23.760s
+Starting with something simple first - support and resistance like this.
+
+[Segment 2] 24.180s → 31.760s
+Price reverses like this, and there will be candlesticks.
+
+[Segment 3] 34.100s → 38.740s
+Occurring at this point and this point - there are 3 types, remember?
+
+[Segment 4] 38.740s → 50.580s
+The balance scale - Action and Reaction.
+
+[Segment 5] 51.700s → 56.800s
+There are 3 patterns - balanced, or heavier on one side or the other.
+
+[Segment 6] 56.800s → 60.900s
+Let's see how this plays out when applied to real charts.
+
+[Segment 7] 61.220s → 66.920s
+Let's look at the important support and resistance points first.
+
+[Segment 8] 68.780s → 78.680s
+Let me scroll and look. This point here is important support.
+
+[Segment 9] 78.980s → 79.380s
+Right here.
+
+[Segment 10] 79.880s → 81.760s
+Zoom in to look. Right here.
+
+[Segment 11] 84.500s → 86.000s
+We'll see price bouncing back.
+
+[Segment 12] 90.280s → 91.620s
+Just like the theory taught.
+
+[Segment 13] 92.020s → 96.980s
+See how here it moves down like this, right?
+
+[Segment 14] 97.580s → 101.720s
+But this section drops normally, and then there's a part where it becomes...
+
+[Segment 15] 102.800s → 104.940s
+The high part sticking out - what's that called? Sideways.
+
+[Segment 16] 106.580s → 109.140s
+It's like this, right?
+
+[Segment 17] 109.440s → 115.200s
+Comes down like this, and here is the consolidation zone - Sideway, see?
+
+[Segment 18] 115.200s → 120.600s
+Moving Sideway like this. We'll come back to look at this part later.
+
+[Segment 19] 121.120s → 126.220s
+Let's look at other examples first. Alright, now we'll see that here...
+
+[Segment 20] 126.220s → 139.360s
+This candle first - it swings down and then comes back up.
+
+[Segment 21] 139.360s → 144.100s
+Looking at the Action side - the side that pushed down - and Reaction going up.
+
+[Segment 22] 144.420s → 151.340s
+We have Action which is this candle, but we have no Reaction at all. See?
+
+[Segment 23] 151.340s → 157.460s
+Coming back, there's no candle that exceeds this axis candle going up.
+
+[Segment 24] 157.460s → 163.700s
+The axis is marked here - this is the axis. There's nothing, which means price...
+
+[Segment 25] 163.700s → 167.040s
+In the direction of price movement, there's no candle that made...
+
+[Segment 26] 167.040s → 170.120s
+A higher high anymore. So price obviously has to...
+
+[Segment 27] 170.120s → 174.520s
+Go down, that's it. No matter what, it has to drop.
+
+[Segment 28] 178.200s → 181.260s
+Now when it drops, let's see if it does the same thing here.
+
+[Segment 29] 181.840s → 186.520s
+See? Here it becomes... ah, I'm going to change the marker.
+
+[Segment 30] 186.520s → 190.160s
+Coming up to here, this becomes the highest point.
+
+[Segment 31] 190.620s → 193.400s
+And this one here, at the end of this candle...
+
+[Segment 32] 193.660s → 198.200s
+This point becomes the new axis instead. See? This is the axis candle.
+
+[Segment 33] 199.300s → 205.060s
+The tip - this tip here - is at the highest price of this one.
+
+[Segment 34] 205.060s → 207.100s
+Mark this candle first because you can see it, see? Right here.
+
+[Segment 35] 207.100s → 215.080s
+Zoom in. Which one? Right here, see?
+
+[Segment 36] 215.080s → 220.100s
+The tip is here. This becomes the axis because this is the highest swing point.
+
+[Segment 37] 220.440s → 225.180s
+Now we find Action and Reaction. This line - I'll make the line...
+
+[Segment 38] 225.400s → 228.440s
+Change color a bit. Because if I don't change it, the lines will look the same.
+
+[Segment 39] 228.440s → 233.900s
+So it's here, and looking at this side - the green side coming up...
+
+[Segment 40] 234.120s → 237.500s
+Action is the green side - is there a candle that exceeds and wins? Not this one.
+
+[Segment 41] 237.500s → 243.600s
+Already there. We need opposite colors - they have to be different colors.
+
+[Segment 42] 243.960s → 250.560s
+But the axis can be any color. This one here - found it.
+
+[Segment 43] 250.560s → 257.580s
+Draw a line at the tip here. See how this one compares to that one?
+
+[Segment 44] 257.580s → 260.980s
+This one wins. See? It dropped lower, which means...
+
+[Segment 45] 261.580s → 270.920s
+Action - look - Action has more power than Reaction, so it will drop...
+
+[Segment 46] 270.920s → 274.560s
+Lower than this low for sure. So price just plunges down like this.
+
+[Segment 47] 274.560s → 281.240s
+Breaking down, see how it just keeps going? This one tries to go up but has no strength.
+
+[Segment 48] 281.240s → 284.700s
+See? Can't rally back higher than this one.
+
+[Segment 49] 285.760s → 294.320s
+Not enough power to reach this zone. But the downside force says it has more power, so it just takes price down.
+
+[Segment 50] 295.320s → 304.040s
+Price drops down to this point. Can it come back up and beat this one? Let's look again.
+
+[Segment 51] 305.400s → 311.700s
+This is the lowest, right? Draw down to here - the lowest tip. This is the axis, correct?
+
+[Segment 52] 314.160s → 321.100s
+And find its price at the tip where it bounced up - the highest one here. Mark it.
+
+[Segment 53] 322.600s → 330.900s
+So let's continue looking - the Action side is this one, the opposite side...
+
+[Segment 54] 332.080s → 333.160s
+Comes up about this much.
+
+[Segment 55] 333.400s → 333.600s
+Right.
+
+[Segment 56] 334.480s → 343.520s
+Look at this - see how it exceeds half? Comparing them, they're evenly matched, so it can't beat this High going back up.
+
+[Segment 57] 343.520s → 350.240s
+These forces trying to push back up can't make it. Just gets up about this much.
+
+[Segment 58] 350.240s → 354.780s
+From Season 1, if you read Momentum, you'll already see this is the mother candle.
+
+[Segment 59] 356.580s → 360.300s
+Can't come in to attack or kill the mother candle here.
+
+[Segment 60] 360.620s → 362.580s
+So this army wins. This is the main force.
+
+[Segment 61] 362.580s → 364.500s
+These are small forces, decoy forces, medium forces.
+
+[Segment 62] 364.500s → 365.860s
+Still can't make it in the end.
+
+[Segment 63] 365.860s → 367.940s
+Gets beaten back every time anyway.
+
+[Segment 64] 367.940s → 369.920s
+This is if you're reading momentum.
+
+[Segment 65] 369.920s → 373.120s
+If you're reading purely reversal candlestick patterns...
+
+[Segment 66] 373.120s → 375.480s
+Just follow this method.
+
+[Segment 67] 375.780s → 379.260s
+You can call it Action Reaction or the balance scale candlestick pattern.
+
+[Segment 68] 379.860s → 382.660s
+You get this characteristic. We've seen it can't win.
+
+[Segment 69] 383.080s → 385.640s
+Comes up to here, then let's move and look...
+
+[Segment 70] 385.640s → 390.560s
+Does it have downward momentum to continue? The red - you'll see the red is higher.
+
+[Segment 71] 391.160s → 392.540s
+I'll mark at the red candle.
+
+[Segment 72] 393.240s → 401.600s
+Here. Once I mark the red candle, it's at the price that came down to the red body - not the wick.
+
+[Segment 73] 401.600s → 408.840s
+And look at Action versus Reaction - moving this - make this line thinner.
+
+[Segment 74] 408.840s → 415.340s
+And make it a tip line. Who has a tip? Use a tip instead.
+
+[Segment 75] 415.340s → 420.480s
+Like this - this is the axis. Find the Action and Reaction buying - where is it?
+
+[Segment 76] 422.200s → 425.240s
+The one exceeding on this side - this one doesn't count because it's absorbed...
+
+[Segment 77] 425.240s → 428.180s
+Combined power with this one - it doesn't exceed.
+
+[Segment 78] 428.180s → 433.020s
+This one exceeds, right? Count this one. Once we count it, draw a line.
+
+[Segment 79] 436.060s → 439.120s
+Like this here. See how this red candle wins?
+
+[Segment 80] 439.120s → 444.480s
+Which means Action force is higher, so it can break through this low going down.
+
+[Segment 81] 444.480s → 447.820s
+It can break lower, so it does. Now if you're trading and you see this...
+
+[Segment 82] 448.520s → 454.240s
+Instead of waiting to buy, waiting to find the buy point for a reversal, you can just follow the steps.
+
+[Segment 83] 454.240s → 460.000s
+Following the steps means - let's say you saw it from which point...
+
+[Segment 84] 460.000s → 464.600s
+At this point you're not sure if it will come back up, but once you see the signal here...
+
+[Segment 85] 465.220s → 469.420s
+You can sell going down. And where do you place stop loss? Right here.
+
+[Segment 86] 470.160s → 474.360s
+It flows down. Comes back up here - add more sells if you want, stop loss stays here.
+
+[Segment 87] 476.200s → 480.380s
+Sell - it keeps selling down. Price keeps dropping because we know it will drop.
+
+[Segment 88] 480.380s → 486.980s
+Because we measured the force we saw from this pattern. So it drops...
+
+[Segment 89] 486.980s → 494.160s
+Down to here, down to here, then we look again. Which one becomes the new axis?
+
+[Segment 90] 494.160s → 498.180s
+The lowest one is this one. See?
+
+[Segment 91] 498.180s → 503.300s
+Find both prices - where's the tip here? This one. Check Action versus Reaction again.
+
+[Segment 92] 503.300s → 509.680s
+Coming across to the edge. See how Action - that's right...
+
+[Segment 93] 509.680s → 514.620s
+Price dropping down like this - this one here. Is there any Reaction going up?
+
+[Segment 94] 514.620s → 517.580s
+Not a single winning candle here. So...
+
+[Segment 95] 518.420s → 523.120s
+Price has no way to fight back and go up. No way to reverse higher.
+
+[Segment 96] 523.120s → 526.560s
+It has to continue down. So it gradually seeps down further like this.
+
+[Segment 97] 526.560s → 530.600s
+Until reaching this point again - it's a swing point. We're tracking swings continuously like this.
+
+[Segment 98] 531.720s → 535.620s
+This swing has no upward momentum. See? It has Action but...
+
+[Segment 99] 535.620s → 539.760s
+The Reaction force - meaning the bounce back or counter-reaction reflecting back...
+
+[Segment 100] 539.760s → 542.300s
+Has no power. Can't reflect back out.
+
+[Segment 101] 542.480s → 546.480s
+So it must follow the same direction - the Trend, following its Trend.
+
+[Segment 102] 546.800s → 549.900s
+Which is downtrend. Because what does it make?
+
+[Segment 103] 552.080s → 562.680s
+High, Low, Lower High, Lower Low, Lower High, Lower Low, Lower High, Lower Low.
+
+[Segment 104] 563.200s → 566.380s
+In one direction - becoming a staircase stepping down continuously.
+
+[Segment 105] 566.380s → 569.480s
+Until meeting this one. This one stands out.
+
+[Segment 106] 570.380s → 574.240s
+Gets a new axis as this one. And is it at an important zone?
+
+[Segment 107] 574.820s → 582.480s
+This is important support here because it connects with a previous point.
+
+[Segment 108] 582.940s → 584.800s
+Bounces up from there - worth watching.
+
+[Segment 109] 585.700s → 591.740s
+So - is it important support? Let's use it, consider it.
+
+[Segment 110] 591.740s → 599.980s
+Coming down - marking the lowest point here. At...
+
+[Segment 111] 599.980s → 604.500s
+Its tip here. And looking left and right - this one exceeds by a full candle.
+
+[Segment 112] 604.500s → 608.260s
+Half of it is here. So this one exceeds - mark it first.
+
+[Segment 113] 609.860s → 614.880s
+Like this. And this side - does this candle count? This one. See - it exceeds...
+
+[Segment 114] 615.260s → 619.900s
+Half should be about here, but this doesn't reach. Which means its force...
+
+[Segment 115] 619.900s → 623.200s
+These two are basically the same. They're absorbing each other's energy.
+
+[Segment 116] 623.200s → 628.020s
+So we have to count this one. Count this one. There's a line - where'd the line go?
+
+[Segment 117] 628.880s → 639.580s
+Three lines. Get another one. See? This one can beat that one.
+
+[Segment 118] 639.580s → 644.560s
+This one. Comparing this to that one - this is higher. Close is higher.
+
+[Segment 119] 645.040s → 651.860s
+The candle is higher. So in a Reaction scenario, it has more power.
+
+[Segment 120] 652.500s → 656.740s
+It's starting already - this one has more power compared to that one. See?
+
+[Segment 121] 657.980s → 663.380s
+Stronger than this one. Stronger than the previous one that had no Reaction side at all.
+
+[Segment 122] 663.380s → 667.320s
+Which means this has higher power. So the High around this area...
+
+[Segment 123] 667.500s → 673.240s
+Will be hit. Has a chance to be hit. So price can go above it.
+
+[Segment 124] 673.500s → 675.680s
+Yeah. So price will run and rise up.
+
+[Segment 125] 675.680s → 683.160s
+Gradually going up, and eventually comes above it for real. And consolidates. See? Consolidates then makes a new swing.
+
+[Segment 126] 683.840s → 691.700s
+Look again. Check this new point - will price continue or will it drop like this? Here, clear this first.
+
+[Segment 127] 701.720s → 712.100s
+So which one becomes the axis? Going down - swinging, following this. Use this one as the axis.
+
+[Segment 128] 715.160s → 721.220s
+Following here, see? Balance scale. Get the balance scale shape? Go to the tip, body only.
+
+[Segment 129] 725.060s → 730.240s
+At the red. This is Action, this is Reaction. See how Reaction wins? See?
+
+[Segment 130] 730.240s → 733.820s
+So price continues up. The High is here already.
+
+[Segment 131] 736.580s → 740.160s
+High is here. See? The connection zone like this.
+
+[Segment 132] 742.020s → 745.920s
+Price rallies from here upward, running up.
+
+[Segment 133] 746.600s → 751.000s
+Because here the Reaction force is higher - this is...
+
+[Segment 134] 751.460s → 758.080s
+Action and Reaction. This one pushes through up, until beating this High.
+
+[Segment 135] 761.000s → 767.080s
+Can it continue? Already beat the High. I said it can reach the High.
+
+[Segment 136] 767.580s → 772.740s
+As for whether it consolidates after reaching the High - like this point where it beat the High then consolidated and continued...
+
+[Segment 137] 772.740s → 776.800s
+Or consolidates then reverses - either is possible. We have to consider.
+
+[Segment 138] 777.680s → 782.820s
+What price is hinting to us - this one, the highest is here.
+
+[Segment 139] 782.820s → 790.300s
+Draw up to here, see? The highest point is here - this red candle is the axis candle.
+
+[Segment 140] 790.300s → 794.220s
+See the axis candle? Look left and right the same way - looking to the left...
+
+[Segment 141] 795.000s → 801.340s
+This candle no, no, no - this candle, see? Coming up, mark at this candle.
+
+[Segment 142] 801.900s → 811.840s
+And looking at the right side - this is Action. Now we find the Reaction side. See? Reaction dropped, coming down this much.
+
+[Segment 143] 812.320s → 820.620s
+Strong? Very strong. Came up very strong. This one said it can go up, and it did go up already. Did its job here.
+
+[Segment 144] 821.000s → 825.680s
+But coming down, comparing forces with this one - looking at power, it's much higher than this.
+
+[Segment 145] 825.680s → 830.300s
+So it pushes and slaps price down quite hard like this.
+
+[Segment 146] 830.560s → 834.180s
+It might not just pullback and continue - it drops hard like this.
+
+[Segment 147] 835.120s → 838.780s
+Drops hard, drops long and easy, almost breaks through support.
+
+[Segment 148] 839.020s → 842.500s
+Broke already - yeah broke already, actually broke down. Because this one has way more strength.
+
+[Segment 149] 843.740s → 847.160s
+Comparing both sides' power - between this one going up and this one going down...
+
+[Segment 150] 847.160s → 849.880s
+This one has more power. See?
+
+[Segment 151] 851.720s → 854.540s
+Geography is sensitive here - they win by just a little, see?
+
+[Segment 152] 854.780s → 856.860s
+Win by just a little between this green and this red.
+
+[Segment 153] 858.000s → 864.260s
+But this balance scale - this red versus this green - wins by a lot.
+
+[Segment 154] 864.260s → 868.760s
+So this one's downward force is much stronger. Takes it down like this.
+
+[Segment 155] 869.340s → 873.060s
+Once it takes it down like this, we continue watching. Clear these markers first.
+
+[Segment 156] 879.580s → 883.740s
+It becomes this point. We draw across - there. Like this.
+
+[Segment 157] 883.740s → 888.200s
+This one becomes the new balance scale, new axis balance scale.
+
+[Segment 158] 891.680s → 897.560s
+Mark around this area. See anything? Looking back at this side - can use this one.
+
+[Segment 159] 897.560s → 902.060s
+This is the Action side. And Reaction? Does it exceed half?
+
+[Segment 160] 902.060s → 907.400s
+This one exceeds half, but loses to this one. See?
+
+[Segment 161] 907.400s → 913.720s
+This pattern loses to this one. So it can't beat this High.
+
+[Segment 162] 913.720s → 927.000s
+And it keeps dropping, dropping, dropping...
+
+[Segment 163] 927.980s → 933.220s
+Gets this candle - this one. Red here - not this red.
+
+[Segment 164] 933.220s → 936.700s
+This red. Small red - small because it already gave away half. Already gave away...
+
+[Segment 165] 936.700s → 940.520s
+Half already. But where's the green? Green gets here. Does it have strength? Yes.
+
+[Segment 166] 940.520s → 956.980s
+Stronger. See? So it will make a higher high.
+
+[Segment 167] 956.980s → 964.360s
+Talking about reversal points - reversal points look like this.
+
+[Segment 168] 964.360s → 967.740s
+Reversal point like this, see? Violent - going up fine then slaps down.
+
+[Segment 169] 968.420s → 972.540s
+Ends in Sideway like this, then we'll talk later. This one - downtrend coming down long.
+
+[Segment 170] 973.020s → 978.460s
+Meets this point, it reverses upward. Reverse in terms of becoming an uptrend going up.
+
+[Segment 171] 979.380s → 984.020s
+See the subtraction? All gone. Now it's an uptrend.
+
+[Segment 172] 984.020s → 987.600s
+Coming up, coming up long. Starting from here.
+
+[Segment 173] 987.600s → 990.820s
+Coming up like this, then it flips back, right? Flips back to being like this.
+
+[Segment 174] 991.200s → 996.860s
+Same thing. We look at it the same way. We find...
+
+[Segment 175] 996.860s → 1001.860s
+Following this - it will have... from the lowest point inside...
+
+[Segment 176] 1004.880s → 1008.900s
+If counting, this one might be the one that broke through the swing.
+
+[Segment 177] 1008.900s → 1010.480s
+But we don't use it. It's not a swing point.
+
+[Segment 178] 1010.480s → 1013.660s
+It's not the characteristic of down then up.
+
+[Segment 179] 1014.020s → 1018.440s
+It's just one of the candlestick formations along the way, this one.
+
+[Segment 180] 1021.020s → 1025.700s
+Actually it might be this one. Use this one - we look at both sides.
+
+[Segment 181] 1026.980s → 1036.580s
+Comparing them. What we get is the red candle - gets this whole side.
+
+[Segment 182] 1036.960s → 1040.780s
+Red is this one. Green is this one. See how they can't compete?
+
+[Segment 183] 1041.420s → 1046.140s
+This is High-derm - it can't Hi-derm through immediately.
+
+[Segment 184] 1046.680s → 1051.540s
+See how it reaches then pullbacks down to consolidate here?
+
+[Segment 185] 1051.540s → 1057.640s
+So the axis would be here. Price continues going up.
+
+[Segment 186] 1058.660s → 1063.760s
+The Action side - red - versus Reaction side - green - doesn't exceed.
+
+[Segment 187] 1063.760s → 1068.340s
+Half of it is at the midpoint. This one is at the midpoint, half.
+
+[Segment 188] 1068.340s → 1071.960s
+Maybe doesn't quite reach, so doesn't count. We count this one. See? It can continue.
+
+[Segment 189] 1071.960s → 1074.260s
+So it can make a higher high than this High.
+
+[Segment 190] 1074.260s → 1076.040s
+Which means price will continue running.
+
+[Segment 191] 1076.040s → 1078.880s
+Now we start seeing Trend because it's starting to become Low...
+
+[Segment 192] 1081.240s → 1084.740s
+High-Low and got High-High going up already. See?
+
+[Segment 193] 1084.740s → 1088.100s
+Going up, going up long.
+
+[Segment 194] 1089.940s → 1092.400s
+Actually, we can compare many things. Measuring force...
+
+[Segment 195] 1092.400s → 1096.700s
+Here is less, here is more. Measuring force here compared to...
+
+[Segment 196] 1096.700s → 1099.620s
+Here - more. Because, see how it ran...
+
+[Segment 197] 1100.500s → 1115.620s
+Further. This is one part - there's a clue, a hint.
+
+[Segment 198] 1115.620s → 1118.460s
+Sitting and reading candle tiers like this can be tiring.
+
+[Segment 199] 1118.460s → 1120.240s
+You find this period is very important anyway.
+
+[Segment 200] 1120.240s → 1122.080s
+This one - let's be careful with this.
+
+[Segment 201] 1122.320s → 1125.940s
+For those who studied Season 2 already - you can see the future here.
+
+[Segment 202] 1125.940s → 1129.680s
+From this point to here, you already know where price will go next, approximately.
+
+[Segment 203] 1129.680s → 1131.500s
+Very clearly.
+
+[Segment 204] 1132.240s → 1133.120s
+Very clearly.
+
+[Segment 205] 1135.400s → 1137.120s
+Price runs up to here.
+
+[Segment 206] 1137.120s → 1142.840s
+And we move on, move on, move on - it becomes this point.
+
+[Segment 207] 1143.260s → 1149.940s
+See? Here. Comparing them. It dropped momentarily, but actually this one...
+
+[Segment 208] 1149.940s → 1154.140s
+Looks more like this one. But remember, whatever technique...
+
+[Segment 209] 1154.140s → 1165.560s
+We've talked about - on the day they learned up to...
+
+[Segment 210] 1165.560s → 1169.180s
+Higher Low. When it reaches this point, we don't know yet. It might continue dropping.
+
+[Segment 211] 1169.180s → 1172.400s
+We might be looking at the chart. Let's say we don't know yet. We see this shape...
+
+[Segment 212] 1172.780s → 1176.000s
+Hey, will it slap down to here? It has a chance.
+
+[Segment 213] 1176.420s → 1179.260s
+But it doesn't slap - it comes down here then bounces back up like this.
+
+[Segment 214] 1179.260s → 1183.800s
+We have to reconsider. Reconsider.
+
+[Segment 215] 1184.420s → 1187.420s
+After reconsidering, it still doesn't look strong. Here it can only go up a little.
+
+[Segment 216] 1187.420s → 1193.420s
+Compared to here it went up a lot. See here? Do you see the Action and Reaction here?
+
+[Segment 217] 1194.060s → 1200.240s
+Coming down to here already. This green candle works. This red wins. Action wins, Reaction is small.
+
+[Segment 218] 1200.240s → 1204.580s
+So it shouldn't go far. But it might... it might break through. It shouldn't break though.
+
+[Segment 219] 1204.580s → 1208.320s
+But it does break. What shouldn't happen, but does happen...
+
+[Segment 220] 1208.320s → 1212.020s
+What will happen next is - it will get pushed back down harder than before.
+
+[Segment 221] 1212.340s → 1215.900s
+Like this. It doesn't just consolidate and continue.
+
+[Segment 222] 1215.900s → 1225.720s
+It comes up, breaks this High - true. Breaks it - true. But eventually price gets pushed back down lower than before. See?
+
+[Segment 223] 1226.120s → 1231.120s
+It shouldn't have made it, but it did. So it will be pushed back down harder than before anyway.
+
+[Segment 224] 1232.920s → 1237.820s
+From the signals we read. This will slap hard because we'll see signals here already.
+
+[Segment 225] 1237.820s → 1243.980s
+The axis. Balance scale on the other side - it slaps down on this side. Looking at this side...
+
+[Segment 226] 1244.620s → 1249.200s
+It would be moved here, right? This is it. This side - is there anything?
+
+[Segment 227] 1252.120s → 1258.520s
+Nothing at all. So price can't. It's hard to push through...
+
+[Segment 228] 1262.740s → 1266.860s
+Through this zone easily. And it doesn't go through at all. See?
+
+[Segment 229] 1266.860s → 1271.400s
+Goes up then down, down, down. Goes up then down. But gradually lifting up.
+
+[Segment 230] 1271.800s → 1279.740s
+We gradually measure its force continuously. This point. Coming to this point.
+
+[Segment 231] 1279.740s → 1283.820s
+Thinking red versus green - lower. Red is lower. The red one...
+
+[Segment 232] 1291.280s → 1294.380s
+This one exceeds toward the direction. Count this one. Don't count that one. Count this.
+
+[Segment 233] 1295.000s → 1299.100s
+And look at the green. This one doesn't count - they're absorbing each other. Same group.
+
+[Segment 234] 1299.100s → 1300.860s
+This one breaks out quite a bit.
+
+[Segment 235] 1300.860s → 1303.860s
+From previously small, becoming big like this.
+
+[Segment 236] 1303.860s → 1321.100s
+So the chance to continue running until breaking through here, making a new High...
+
+[Segment 237] 1321.100s → 1323.760s
+It still goes up. Once it goes up...
+
+[Segment 238] 1325.300s → 1327.480s
+Then we look at the next point again.
+
+[Segment 239] 1328.340s → 1330.820s
+This is an uptrend candle - this one is the center.
+
+[Segment 240] 1332.960s → 1334.460s
+Right here. Mark at this point.
+
+[Segment 241] 1335.300s → 1336.540s
+So this side - what do we count?
+
+[Segment 242] 1336.540s → 1339.940s
+Count this one, right? Green is Action, and red is Reaction.
+
+[Segment 243] 1340.360s → 1341.000s
+It's small.
+
+[Segment 244] 1342.120s → 1345.580s
+It's small. So it might drop a bit then continue.
+
+[Segment 245] 1345.920s → 1346.080s
+Coming...
+
+[Segment 246] 1346.940s → 1362.920s
+So it drops down but can't go lower than the previous low because Reaction is small. This side has small Reaction, so it pullbacks down but can't go lower than the previous low. It becomes this low - it doesn't go lower. Comes down about this much. Still lifting - the low keeps lifting up like this.
+
+[Segment 247] 1363.520s → 1365.320s
+Higher Low, Higher Low, Higher Low.
+
+[Segment 248] 1367.020s → 1369.220s
+But what we'll see next is...
+
+[Segment 249] 1369.220s → 1370.860s
+From this point onward...
+
+[Segment 250] 1371.120s → 1373.800s
+The uptrend from here on...
+
+[Segment 251] 1373.800s → 1377.080s
+It's stuck - no Reaction force anymore.
+
+[Segment 252] 1377.080s → 1380.700s
+Coming down like this - no more Reaction.
+
+[Segment 253] 1381.080s → 1383.620s
+Becomes having Action but Reaction side, see?
+
+[Segment 254] 1383.620s → 1385.140s
+No green candle exceeding this one.
+
+[Segment 255] 1385.140s → 1388.380s
+Going up - just one tiny bit. Nothing.
+
+[Segment 256] 1388.800s → 1392.300s
+It won't be like when it was coming up during this period - wherever you touch...
+
+[Segment 257] 1392.300s → 1397.640s
+There's still green. Even if it had little power - Reaction small means returns are small, or can't push through...
+
+[Segment 258] 1397.640s → 1401.040s
+Then has to come down to form again. It will have its patterns continuously.
+
+[Segment 259] 1401.040s → 1406.020s
+Like this side, like this pattern, see? This red one - it's very similar to this.
+
+[Segment 260] 1406.020s → 1410.320s
+See this red? Is there a green mark? No. So it doesn't push through.
+
+[Segment 261] 1410.600s → 1431.020s
+Actually this one might be indicating that the trend is about to end.
+
+[Segment 262] 1431.020s → 1436.760s
+It's forcing it. Forcing already. Same here - looks like it should've ended here.
+
+[Segment 263] 1438.620s → 1444.060s
+From Season 2 perspective, you'll already see it should've ended here. Should've dropped from here.
+
+[Segment 264] 1444.260s → 1449.760s
+If we read the chart, it should start dropping. But it's forcing, it goes up.
+
+[Segment 265] 1452.420s → 1455.280s
+Was there a signal to go up? Yes there was. We just looked at it.
+
+[Segment 266] 1455.280s → 1459.080s
+Just now it just said - hey, it can go up, there's still upward momentum. So it went up.
+
+[Segment 267] 1459.080s → 1463.740s
+Eventually it drops. Once it drops, it starts saying can't go up anymore.
+
+[Segment 268] 1463.740s → 1467.060s
+It will repeat the pattern around here. Can't do it.
+
+[Segment 269] 1467.580s → 1469.780s
+But it forms again until it says it can.
+
+[Segment 270] 1469.780s → 1475.660s
+And let's see if it can form again here. It drops down, down, down...
+
+[Segment 271] 1476.060s → 1476.400s
+There.
+
+[Segment 272] 1480.600s → 1487.420s
+We count this one and this one. This one - not that one.
+
+[Segment 273] 1487.900s → 1492.100s
+See this one? It already exceeded. Its open and close are here.
+
+[Segment 274] 1492.100s → 1498.300s
+Its body is smaller than this one. So it has less strength...
+
+[Segment 275] 1498.300s → 1504.360s
+To push through to here. And it gets trapped back down like this. See?
+
+[Segment 276] 1504.360s → 1508.020s
+It has its signals telling us continuously like this. This is reading for...
+
+[Segment 277] 1510.460s → 1516.060s
+Reversals. Like this - let's look at its shape. If it's a Pattern, you'll see...
+
+[Segment 278] 1516.820s → 1521.680s
+It has characteristics kind of cutting out like this.
+
+[Segment 279] 1523.280s → 1526.840s
+If you draw it, what does it look like? It's like Head and Shoulders.
+
+[Segment 280] 1527.340s → 1530.980s
+See? And we've studied this already.
+
+[Segment 281] 1532.440s → 1537.160s
+When dropping here, there has to be a candlestick pattern or balance scale pattern...
+
+[Segment 282] 1537.160s → 1541.440s
+That says Reaction has downward force, strong enough to push down. Which pattern?
+
+[Segment 283] 1542.360s → 1545.960s
+This pattern, right? Where it will bounce back up. At this point.
+
+[Segment 284] 1547.360s → 1552.060s
+And the red is more than the green side. This one is quite a lot.
+
+[Segment 285] 1552.060s → 1557.240s
+Eventually it takes price down with this much force. And just like we read earlier...
+
+[Segment 286] 1557.240s → 1562.560s
+It continues on and on, long, until it breaks and changes trend direction like this.
+
+[Segment 287] 1562.560s → 1570.620s
+This one is about Sideway. So about that much should be enough to understand first.
+
+[Segment 288] 1571.040s → 1577.780s
+As for this part - if we look at when it was trending up, we drew earlier that it was support, right?
+
+[Segment 289] 1578.160s → 1585.340s
+What pattern do we see? Like this. See? It has characteristics of Double Bottom.
+
+[Segment 290] 1585.780s → 1595.740s
+The first Bottom point - first point - force wasn't enough to push through. Had to come make a second force with more strength.
+
+[Segment 291] 1595.740s → 1600.160s
+Just barely pushes through. It hints like this. The balance scale hints like this.
+
+[Segment 292] 1600.160s → 1605.380s
+You sit and read it like this. Same here. This point - not enough force to push down.
+
+[Segment 293] 1605.620s → 1610.500s
+This point - not enough force to push down. But the last one has the most force. So it pushes down.
+
+[Segment 294] 1610.500s → 1613.240s
+It's like this. Because we read them together.
+
+[Segment 295] 1613.240s → 1616.080s
+This one we read just the candlesticks, the balance scale pattern only.
+
+[Segment 296] 1616.080s → 1619.220s
+The Action and Reaction pattern. If you try reading with Momentum...
+
+[Segment 297] 1619.220s → 1623.100s
+And theory, and principles from Season 2 combined...
+
+[Segment 298] 1623.100s → 1640.480s
+Even clearer - you'll see the chart picture even more clearly.
+
+[Segment 299] 1640.960s → 1643.840s
+Your entry points - you'll get them already. Forgot to talk about entry points.
+
+[Segment 300] 1644.380s → 1646.140s
+When you enter, you just let it flow continuously...
+
+[Segment 301] 1646.140s → 1649.640s
+Until you find... until you find...
+
+[Segment 302] 1651.640s → 1654.380s
+What I said will drop hard.
+
+[Segment 303] 1654.380s → 1656.700s
+Let's say you buy, right? You buy. Here you buy.
+
+[Segment 304] 1656.700s → 1659.400s
+You just let it flow continuously. Either way, weigh it.
+
+[Segment 305] 1659.400s → 1663.280s
+Until you find the point it tells you - the other side becomes a balance scale that says...
+
+[Segment 306] 1663.280s → 1666.800s
+Will drop hard. Then you exit. Exit slowly.
+
+[Segment 307] 1667.680s → 1671.080s
+Stop Loss would be here. Take Profit or Exit...
+
+[Segment 308] 1671.080s → 1675.260s
+Is about here. If you Buy - if you Sell, you Sell...
+
+[Segment 309] 1675.260s → 1679.740s
+But here. We let it flow continuously until you find the point it says...
+
+[Segment 310] 1680.000s → 1682.980s
+Won't drop anymore. There's opposite force going up.
+
+[Segment 311] 1683.540s → 1687.400s
+Then exit. That's it - just let it flow easily like this. That's all.
+
+[Segment 312] 1687.800s → 1691.120s
+We look at 3 candles, right?
+
+[Segment 313] 1691.720s → 1695.420s
+Some people don't understand. Let's say...
+
+[Segment 314] 1695.420s → 1699.600s
+You'll Buy. Buy - now we have to...
+
+[Segment 315] 1699.600s → 1702.240s
+Wait for all 3, right?
+
+[Segment 316] 1703.280s → 1707.360s
+Have to wait for 3. So if we Buy, we'll buy - the 4th candle, this zone.
+
+[Segment 317] 1708.060s → 1715.120s
+This whole area where we can buy - let price run up until meeting a new pattern we mentioned...
+
+[Segment 318] 1715.120s → 1721.760s
+That might not be trustworthy anymore, better to exit. Same thing. If you'll Sell going down...
+
+[Segment 319] 1722.600s → 1727.600s
+Which candle? This pattern, right? Right here.
+
+[Segment 320] 1730.260s → 1734.380s
+Count this one. Not dropping hard yet. Comes back up, this zone.
+
+[Segment 321] 1734.380s → 1739.700s
+Drops hard - if counting this one. After this candle - half the zone of this whole candle...
+
+[Segment 322] 1739.700s → 1744.560s
+You can sell anywhere in this range. This area.
+
+[Segment 323] 1745.020s → 1749.920s
+This area approximately. I count from half of this candle.
+
+[Segment 324] 1749.920s → 1754.860s
+This red candle here. Because price retraces up, swings up within the red candle zone...
+
+[Segment 325] 1755.760s → 1758.800s
+All of it - can sell to let it flow down. Same here.
+
+[Segment 326] 1759.220s → 1763.260s
+Would be around this green candle, right? This green doesn't push through.
+
+[Segment 327] 1763.260s → 1769.540s
+And we count this green candle - half of it - to catch.
+
+[Segment 328] 1770.100s → 1774.100s
+The upper half, to be sure.
+
+[Segment 329] 1777.980s → 1780.320s
+Price in this zone - you buy going up.
+
+[Segment 330] 1780.700s → 1783.620s
+Let it go until meeting the one that reverses back. That's it.
+
+[Segment 331] 1784.760s → 1787.100s
+That's it. The order entry method is very simple.
+
+[Segment 332] 1787.100s → 1791.880s
+If using the balance scale principle, or Action Reaction...
+
+[Segment 333] 1791.880s → 1796.520s
+Just look at this - did you find the reversal reflection yet?
+
+[Segment 334] 1797.280s → 1800.460s
+Let it flow continuously. However it goes, doesn't matter.
+
+[Segment 335] 1802.080s → 1805.600s
+Until it meets one with equal force - that says Reaction looks strong already.
+
+[Segment 336] 1805.900s → 1810.800s
+Exit. Entry - you enter, and it just flows continuously like this.
+
+[Segment 337] 1811.120s → 1815.500s
+You apply or combine this with understanding from Season 1...
+
+[Segment 338] 1816.400s → 1826.500s
+Those who studied the bonus already - that's another part.
+
+[Segment 339] 1826.960s → 1830.040s
+About Sideway or consolidation.
+
+---
+
+✅ TRANSLATION COMPLETE
+Progress: 340/340 segments (100%)
+Duration: ~30.5 minutes (1830 seconds)
+Status: COMPLETED - Natural human tone applied throughout
+Translated: 2025-10-18
+Topic: Real Chart Examples - Action/Reaction Balance Scale Application on Live Charts
+

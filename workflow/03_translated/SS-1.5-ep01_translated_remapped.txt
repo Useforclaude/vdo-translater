@@ -1,0 +1,422 @@
+=== SS1.5 EP-01 ENGLISH TRANSLATION (Re-mapped) ===
+Context: Reversal Candlestick Special Episode - Action vs Reaction concept
+Tone: Casual teaching, natural human conversation
+Source: SS-1.5-ep01_transcript.json (139 segments)
+Re-mapped from: SS-1.5-ep01_translated.txt.backup-20251018-172909
+
+[Segment 1] 2.240s → 20.720s
+Alright, let's jump into Reversal Candlestick - this is a special episode, folks.
+
+[Segment 2] 20.720s → 27.260s
+Yeah, this one's gonna be focused on reversal candlesticks.
+
+[Segment 3] 27.680s → 41.760s
+Now, those of you who've been following from the beginning know what's up.
+
+[Segment 4] 42.380s → 45.520s
+If you're new here, let me fill you in a bit.
+
+[Segment 5] 45.520s → 49.720s
+Basically, this whole series came from one simple question.
+
+[Segment 6] 49.960s → 54.260s
+Students were asking, "What's the difference between Season 1 and Season 2?"
+
+[Segment 7] 54.260s → 57.000s
+What are we actually learning here?
+
+[Segment 8] 57.000s → 60.420s
+So I thought, alright, let me break it down for you guys.
+
+[Segment 9] 60.420s → 63.500s
+Season 1, right? That was all about the basics.
+
+[Segment 10] 64.800s → 66.940s
+What we call Foundation, the fundamentals.
+
+[Segment 11] 67.300s → 70.600s
+Look, there are tons of different indicators out there.
+
+[Segment 12] 73.500s → 75.560s
+Some folks swear by RSI, others love MACD.
+
+[Segment 13] 76.000s → 78.740s
+You know what I mean?
+
+[Segment 14] 79.280s → 80.840s
+So many different tools, and yeah, people use all kinds of stuff.
+
+[Segment 15] 81.740s → 84.260s
+Everyone's got their own preferred tools.
+
+[Segment 16] 84.260s → 89.240s
+Now, in this course - and I gotta be clear about this.
+
+[Segment 17] 89.240s → 93.780s
+I'm not telling you this is the ONLY way to trade.
+
+[Segment 18] 94.040s → 97.800s
+What I'm teaching you is Price Action.
+
+[Segment 19] 101.680s → 105.200s
+That's our approach, Price Action.
+
+[Segment 20] 107.020s → 111.600s
+Price Action means we're reading and analyzing just the price movement itself.
+
+[Segment 21] 111.820s → 115.300s
+Basically looking at candlestick charts and understanding what they're telling us.
+
+[Segment 22] 115.300s → 121.940s
+And here's the thing - Season 1 had two main parts.
+
+[Segment 23] 121.940s → 124.920s
+First part was Dow Theory.
+
+[Segment 24] 124.920s → 129.140s
+Now Dow Theory's got six principles.
+
+[Segment 25] 129.140s → 131.500s
+Actually, some people say there are more.
+
+[Segment 26] 131.500s → 134.340s
+And yeah, I might've covered a bit extra beyond the main six.
+
+[Segment 27] 134.340s → 138.060s
+But anyway, there were six core principles.
+
+[Segment 28] 138.420s → 141.520s
+You gotta understand those, right?
+
+[Segment 29] 141.520s → 145.820s
+And after Dow Theory?
+
+[Segment 30] 145.820s → 148.360s
+We dove into candlesticks.
+
+[Segment 31] 148.900s → 154.040s
+And look, when it comes to candlesticks, there are SO many different types and patterns.
+
+[Segment 32] 154.040s → 161.220s
+I mean, seriously, tons of them.
+
+[Segment 33] 161.220s → 165.520s
+You could spend forever trying to memorize every single candlestick pattern out there.
+
+[Segment 34] 166.180s → 178.000s
+But honestly? I'm not gonna make you memorize all that stuff.
+
+[Segment 35] 178.540s → 183.120s
+We're gonna keep it simple and practical.
+
+[Segment 36] 183.900s → 188.620s
+I'll just show you - "Hey, when you see THIS pattern, here's what it means."
+
+[Segment 37] 188.900s → 193.440s
+Basically teaching you what each pattern is telling us, what it's saying about the market.
+
+[Segment 38] 193.660s → 196.920s
+And it's not just about recognizing patterns - we need to understand WHY they work.
+
+[Segment 39] 197.220s → 200.460s
+Get the logic behind it, you know?
+
+[Segment 40] 200.700s → 205.220s
+That way you're not just seeing random shapes - you actually GET what's happening in the market.
+
+[Segment 41] 205.720s → 207.260s
+So what does "complementary" mean here?
+
+[Segment 42] 207.520s → 212.960s
+Alright, let me explain - sometimes you'll see charts that look different, various patterns, right?
+
+[Segment 43] 213.160s → 215.440s
+You might see this pattern, or you might not see that one.
+
+[Segment 44] 215.900s → 220.940s
+But here's the thing - if you spot these together, whether it's from Season 1 OR Season 2.
+
+[Segment 45] 220.940s → 225.520s
+The more clues you stack up, the stronger your conviction becomes.
+
+[Segment 46] 225.520s → 230.720s
+It really reinforces your forecast - makes it way more likely to play out.
+
+[Segment 47] 230.720s → 234.420s
+Yeah, it's gonna follow through just like you predicted.
+
+[Segment 48] 235.180s → 238.260s
+So now, what are we gonna talk about in this one?
+
+[Segment 49] 239.200s → 241.040s
+Action and Reaction - that's today's topic.
+
+[Segment 50] 241.600s → 243.940s
+I know some of you are wondering, "What's Action and Reaction?"
+
+[Segment 51] 245.400s → 247.380s
+Think of it like forces, you know? Action force.
+
+[Segment 52] 247.580s → 248.940s
+Action and Reaction forces.
+
+[Segment 53] 249.300s → 254.360s
+Reaction is basically the force that pushes back in the opposite direction.
+
+[Segment 54] 254.660s → 257.480s
+Imagine a ping pong ball, or a soccer ball - whatever works for you.
+
+[Segment 55] 257.760s → 261.120s
+You kick it, throw it - it hits the ground.
+
+[Segment 56] 262.080s → 264.760s
+That impact force? That's what we call the Action.
+
+[Segment 57] 264.760s → 268.180s
+The ground responds by pushing force back.
+
+[Segment 58] 268.500s → 273.640s
+That's what makes the ball bounce back up like that.
+
+[Segment 59] 274.420s → 275.000s
+Makes sense?
+
+[Segment 60] 275.000s → 280.360s
+So the ball comes down, and right here is the impact point.
+
+[Segment 61] 280.360s → 282.760s
+And it bounces right back.
+
+[Segment 62] 284.140s → 286.080s
+That's the easiest way to explain it.
+
+[Segment 63] 286.080s → 288.500s
+Or you could just call it resistance force.
+
+[Segment 64] 288.840s → 290.180s
+Imagine if this was a wall.
+
+[Segment 65] 290.180s → 290.540s
+Yeah.
+
+[Segment 66] 291.820s → 300.680s
+A car crashes into it - BOOM! Right? The force of the car coming from this side, all that energy coming this way, and then...
+
+[Segment 67] 300.680s → 305.200s
+What happens to the front of the car? It gets crushed, wrecked. There's a反force coming back.
+
+[Segment 68] 305.200s → 308.560s
+It's not just one-way force - it doesn't just pass through or anything like that.
+
+[Segment 69] 308.560s → 313.100s
+It's not like the car stays perfectly fine, crashes through the wall and keeps going untouched.
+
+[Segment 70] 313.100s → 317.080s
+No way! The car gets damaged, right? That's the reaction force at work.
+
+[Segment 71] 317.080s → 320.680s
+Same thing happens with candlesticks, folks.
+
+[Segment 72] 320.680s → 323.360s
+Exactly the same principle with price movement.
+
+[Segment 73] 323.360s → 328.300s
+So the Action is basically the price running in this direction.
+
+[Segment 74] 329.400s → 331.600s
+But normally with candlesticks...
+
+[Segment 75] 331.600s → 334.160s
+From Season 1, we were looking for THIS pattern.
+
+[Segment 76] 334.480s → 339.160s
+But you can't always find it, right? That's why we have what's called...
+
+[Segment 77] 339.860s → 343.100s
+Combined candlesticks. Could be multiple candles - two, three, four, who knows.
+
+[Segment 78] 343.100s → 347.180s
+But when you add and subtract all the movement together.
+
+[Segment 79] 347.180s → 350.960s
+Boom! It forms a candlestick pattern.
+
+[Segment 80] 350.960s → 354.800s
+Like this, which I already explained back in Season 1.
+
+[Segment 81] 354.800s → 360.640s
+It represents the反force pushing back - that's one type of pattern.
+
+[Segment 82] 360.640s → 363.560s
+Price was running down this way, and when you combine all those candlesticks together...
+
+[Segment 83] 363.560s → 366.660s
+You get this formation - buying pressure bouncing back up.
+
+[Segment 84] 366.660s → 368.840s
+If it's coming from a downtrend, right? Coming from downward movement.
+
+[Segment 85] 372.400s → 377.640s
+When it's coming down - boom, boom, boom - we see candlesticks forming in a cluster.
+
+[Segment 86] 377.640s → 379.360s
+They bunch up together, not appearing cleanly like this all at once.
+
+[Segment 87] 380.440s → 382.020s
+But when you combine them, you get this formation.
+
+[Segment 88] 382.640s → 384.180s
+That wick, right? What it's showing us...
+
+[Segment 89] 384.180s → 386.600s
+That's the Reaction happening.
+
+[Segment 90] 386.600s → 389.320s
+Bouncing back from that Action side.
+
+[Segment 91] 390.000s → 392.400s
+Trying to push price back in the other direction.
+
+[Segment 92] 392.400s → 393.720s
+The opposite side.
+
+[Segment 93] 394.320s → 395.880s
+But it doesn't always work out that way.
+
+[Segment 94] 395.880s → 398.520s
+Sometimes we see a clean pattern like this before candlesticks even combine.
+
+[Segment 95] 398.820s → 400.320s
+And we think, "Oh yeah, it's gonna go this way."
+
+[Segment 96] 400.760s → 401.520s
+But no way!
+
+[Segment 97] 401.520s → 403.680s
+It comes down.
+
+[Segment 98] 403.680s → 405.400s
+Gets to this point.
+
+[Segment 99] 405.920s → 406.920s
+And keeps going down.
+
+[Segment 100] 406.920s → 409.440s
+Because all the elements aren't there yet.
+
+[Segment 101] 409.440s → 410.960s
+I already covered this back in Season 1.
+
+[Segment 102] 410.960s → 416.360s
+What elements make this pattern work best?
+
+[Segment 103] 417.060s → 423.760s
+Don't forget - each candlestick we learned in Season 1 is like a character, showing different character types.
+
+[Segment 104] 424.420s → 431.520s
+What makes a character perform their best? Or what they call having the clearest action? That's the SCENE.
+
+[Segment 105] 431.980s → 436.020s
+What's a scene? Where should it occur? If you don't remember, go back and review our lessons.
+
+[Segment 106] 437.720s → 442.040s
+Let's move on. So here's how it works, folks.
+
+[Segment 107] 442.040s → 447.400s
+Action and Reaction - let's say this left side here is the Action.
+
+[Segment 108] 447.840s → 454.340s
+This side is Action, and then Reaction comes down - there's a反force pushing back.
+
+[Segment 109] 454.840s → 460.580s
+I'm talking about the downtrend side because it's easier to see. On the flip side, we have the uptrend.
+
+[Segment 110] 460.580s → 466.600s
+Price moves up, then reverses back down - same concept.
+
+[Segment 111] 467.020s → 472.440s
+But when talking about this side, price looks like it's moving up like this, and this side becomes the Reaction.
+
+[Segment 112] 474.780s → 477.900s
+Let me give you a simple visual - think of a balance scale.
+
+[Segment 113] 478.480s → 485.120s
+A balance scale with arms on both sides like this.
+
+[Segment 114] 487.920s → 490.020s
+Simply put, it's measuring forces.
+
+[Segment 115] 490.580s → 493.580s
+The force on this side has to be selling pressure.
+
+[Segment 116] 496.400s → 499.080s
+While this side has to be buying pressure pushing back.
+
+[Segment 117] 499.860s → 502.240s
+But talking about selling pressure and buying pressure gets confusing.
+
+[Segment 118] 502.820s → 506.040s
+Right now, if we discuss this, you might get confused - wanna know why?
+
+[Segment 119] 506.280s → 511.800s
+Because over here, it's a downtrend - selling pressure is the Action.
+
+[Segment 120] 511.800s → 516.340s
+Buying pressure pushing back is the Reaction - it's reversed because we're on the upper side.
+
+[Segment 121] 517.160s → 520.740s
+Yeah, price runs up, hits resistance - boom! Reverses.
+
+[Segment 122] 522.040s → 526.680s
+Earlier on this side, it was selling pressure - we still call it that.
+
+[Segment 123] 526.680s → 529.440s
+Buying pressure becomes the opposite, because it's on this side.
+
+[Segment 124] 529.440s → 532.180s
+It becomes buying pressure - we call it buying pressure.
+
+[Segment 125] 532.940s → 537.140s
+And selling pressure becomes the other side. Confusing, right? Going back and forth gets messy.
+
+[Segment 126] 537.140s → 539.760s
+So from now on, I'm just gonna use TWO words.
+
+[Segment 127] 539.760s → 541.400s
+That's Action and Reaction.
+
+[Segment 128] 541.400s → 544.620s
+And they stay on the same side consistently.
+
+[Segment 129] 545.820s → 547.100s
+Doesn't matter if it's top or bottom.
+
+[Segment 130] 550.720s → 551.940s
+Going up? That's Action.
+
+[Segment 131] 553.200s → 554.280s
+This one's the Reaction.
+
+[Segment 132] 555.220s → 556.640s
+This side coming down? That's Action.
+
+[Segment 133] 556.640s → 557.700s
+Going up is Reaction.
+
+[Segment 134] 557.700s → 560.320s
+It just becomes left side versus right side, that's all.
+
+[Segment 135] 560.320s → 560.900s
+Alright?
+
+[Segment 136] 560.900s → 567.460s
+This side - the left - is ALL Action. This side - the right - is ALL Reaction.
+
+[Segment 137] 567.460s → 572.300s
+Keep it simple. It's gonna look like this - this is the pattern we're looking for.
+
+[Segment 138] 572.300s → 589.880s
+Back in Season 1, we might've only needed this much. But now we want MORE confirmation.
+
+[Segment 139] 589.860s → 589.880s
+Stay tuned for the next episode.
